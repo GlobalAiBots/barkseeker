@@ -1,22 +1,22 @@
 const items = [
   {
-    name: "Trailer Guide-Ons",
-    desc: "Makes solo launching easy. Guide your boat onto the trailer every time, even in wind and current.",
+    name: "Collapsible Water Bowl",
+    desc: "Portable and lightweight. Keep your pup hydrated at the park without lugging a heavy bowl.",
     link: "#",
   },
   {
-    name: "Dock Bumpers",
-    desc: "Protect your boat at the courtesy dock. Essential for busy ramps where boats raft up.",
+    name: "Poop Bag Dispenser",
+    desc: "Clips to your leash so you always have bags ready. Be a responsible park visitor.",
     link: "#",
   },
   {
-    name: "Waterproof Phone Case",
-    desc: "Keep your phone dry while checking GPS coordinates at the ramp. Touchscreen-compatible.",
+    name: "Dog Tennis Ball Launcher",
+    desc: "Throw farther with less effort. Perfect for wearing out high-energy dogs at the park.",
     link: "#",
   },
   {
-    name: "Boat Ramp Mat",
-    desc: "Prevent slipping on wet concrete ramps. Non-slip surface for your truck tires and your feet.",
+    name: "Portable Dog Water Bottle",
+    desc: "Built-in drinking trough so your dog can drink on the go. Great for parks without water stations.",
     link: "#",
   },
 ];
@@ -34,7 +34,7 @@ export default function GearRecommendation() {
               href={item.link}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-2 text-xs font-semibold text-sunset hover:text-sunset-dark transition"
+              className="inline-block mt-2 text-xs font-semibold text-bark hover:text-bark-dark transition"
             >
               View on Amazon &rarr;
             </a>

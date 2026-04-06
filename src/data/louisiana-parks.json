@@ -1,0 +1,201 @@
+[
+  {
+    "place_id": "osm_4696336446",
+    "name": "Camellia Bark Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2459577,
+    "longitude": -89.7765449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Camellia Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_12712366204",
+    "name": "barking lot",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5428423,
+    "longitude": -89.663442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "barking lot"
+    }
+  },
+  {
+    "place_id": "osm_484722801",
+    "name": "Central Bark at Keg and Barrel Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.321335,
+    "longitude": -89.2971151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "See Spot Run Dog Park",
+      "leisure": "dog_park",
+      "name": "Central Bark at Keg and Barrel Park",
+      "website": "https://www.facebook.com/runwithspot/"
+    }
+  },
+  {
+    "place_id": "osm_647001976",
+    "name": "Small Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.3447235,
+    "longitude": -89.4010994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Fields of Barktopia"
+    }
+  },
+  {
+    "place_id": "osm_663572071",
+    "name": "City of Petal Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.3287306,
+    "longitude": -89.2622603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "City of Petal Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1413447014",
+    "name": "Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3222521,
+    "longitude": -89.3428293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413447813",
+    "name": "Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.8746832,
+    "longitude": -89.7552925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413447869",
+    "name": "Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.7841362,
+    "longitude": -89.057244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413449422",
+    "name": "Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.8475341,
+    "longitude": -89.4988864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413450317",
+    "name": "Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4192433,
+    "longitude": -89.1909045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  }
+]

@@ -1,0 +1,1799 @@
+[
+  {
+    "place_id": "osm_4966121892",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.0347024,
+    "longitude": -97.9137317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9032650506",
+    "name": "Ronald O. Thomas Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.4131346,
+    "longitude": -94.6927989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Ronald O. Thomas Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10001519373",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1295496,
+    "longitude": -100.8471915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10735534842",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.7670406,
+    "longitude": -101.8041634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11463733522",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2995083,
+    "longitude": -94.7186528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12177471340",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.0637578,
+    "longitude": -97.3377459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12177471341",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.0641482,
+    "longitude": -97.3371665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13339076887",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.7237025,
+    "longitude": -97.3217258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Love's"
+    }
+  },
+  {
+    "place_id": "osm_111878986",
+    "name": "Stoll Memorial Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9150935,
+    "longitude": -94.7315639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Stoll Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_133570997",
+    "name": "Large Dogs",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1808369,
+    "longitude": -96.5466076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dogs"
+    }
+  },
+  {
+    "place_id": "osm_195460637",
+    "name": "Hills Pet Nutrition Bark Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.0528849,
+    "longitude": -95.7272454,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hills Pet Nutrition Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_246044042",
+    "name": "Happy Tails Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.9153676,
+    "longitude": -95.4085066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_253124582",
+    "name": "Off Leash Dog Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.8382254,
+    "longitude": -94.7581601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_312362327",
+    "name": "Stretch Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2550289,
+    "longitude": -96.579285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stretch Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_369323842",
+    "name": "Riverfront Park Off Leash Dog Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.997929,
+    "longitude": -95.2377889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Riverfront Park Off Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_376786110",
+    "name": "CiCo Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2020766,
+    "longitude": -96.6204659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "CiCo Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_431695192",
+    "name": "Dog Run & Play Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.8799185,
+    "longitude": -94.6685029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run & Play Park"
+    }
+  },
+  {
+    "place_id": "osm_446444121",
+    "name": "Platte Landing Park Small Dog Off Leash Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1825266,
+    "longitude": -94.6952279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "maxweight": "40",
+      "name": "Platte Landing Park Small Dog Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_479225531",
+    "name": "Corby Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.7856213,
+    "longitude": -94.8310513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Footprint Approximate",
+      "leisure": "dog_park",
+      "name": "Corby Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479627800",
+    "name": "Great Bend Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.3714667,
+    "longitude": -98.7983529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Great Bend Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_540434440",
+    "name": "K9 & Me Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.0618624,
+    "longitude": -94.8877686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "K9 & Me Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_550141094",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.3621079,
+    "longitude": -101.0546023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_552691379",
+    "name": "Bremyer Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.3578806,
+    "longitude": -97.6307556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "McPherson",
+      "addr:housenumber": "1000",
+      "addr:postcode": "67460",
+      "addr:state": "KS",
+      "addr:street": "S Centennial Drive",
+      "leisure": "dog_park",
+      "name": "Bremyer Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_554099479",
+    "name": "Waggin' Tails Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2875349,
+    "longitude": -94.8958315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Waggin' Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_556384329",
+    "name": "Leawoof Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9333821,
+    "longitude": -94.611534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leawoof Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_574638627",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9544985,
+    "longitude": -94.7267073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_620480001",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2386204,
+    "longitude": -94.6533902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_635134723",
+    "name": "WaterCrest Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9750593,
+    "longitude": -94.7772121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "WaterCrest Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_678345631",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.0453153,
+    "longitude": -94.8249545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_699095435",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6867623,
+    "longitude": -97.188467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_710565408",
+    "name": "Hays Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.8814347,
+    "longitude": -99.3574517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hays Dog Park",
+      "website": "https://www.visithays.com/Facilities/Facility/Details/Dog-Park-172"
+    }
+  },
+  {
+    "place_id": "osm_720658410",
+    "name": "Scentral Bark",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.520818,
+    "longitude": -98.7880968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Scentral Bark"
+    }
+  },
+  {
+    "place_id": "osm_735389401",
+    "name": "Bark Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.6237761,
+    "longitude": -95.2764345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "City of Ottawa"
+    }
+  },
+  {
+    "place_id": "osm_746823993",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.7070241,
+    "longitude": -96.9732322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_791485231",
+    "name": "Buck Fund Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.4275996,
+    "longitude": -96.2188906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Buck Fund Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_815794137",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.8547735,
+    "longitude": -95.5084829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_817370998",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.905895,
+    "longitude": -95.7996696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_817594951",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9731999,
+    "longitude": -95.3188467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_824815675",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.8997783,
+    "longitude": -94.7814859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_840702434",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2097627,
+    "longitude": -94.6588575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Klamm Road Apartment Homes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_844065749",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2502298,
+    "longitude": -94.6461774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_845504383",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.2205826,
+    "longitude": -94.6036591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_848098507",
+    "name": "Claremont Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6660933,
+    "longitude": -97.2289537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Claremont Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_882192575",
+    "name": "Melvin Murry Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.7625769,
+    "longitude": -94.8431627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Melvin Murry Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_888715096",
+    "name": "Stonepost at Lakeside Apartment Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.8782434,
+    "longitude": -94.7441604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stonepost at Lakeside Apartment Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_972729640",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9225844,
+    "longitude": -95.2563534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_972753824",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9274362,
+    "longitude": -95.2664074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_992404290",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.524321,
+    "longitude": -97.2476171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_992404291",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.5239929,
+    "longitude": -97.2472465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1003718033",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.7471529,
+    "longitude": -100.0236028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1004458407",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.3396563,
+    "longitude": -95.2467266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1006876965",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.3597944,
+    "longitude": -94.9423482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1041257226",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.80486,
+    "longitude": -94.9113747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1051907297",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.3920299,
+    "longitude": -94.8679431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1060002717",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9735714,
+    "longitude": -95.2914751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1085940241",
+    "name": "Prairie Dogs Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.3267503,
+    "longitude": -101.7268682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Prairie Dogs Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1105636003",
+    "name": "Cedarbrooke Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6656703,
+    "longitude": -97.2384133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cedarbrooke Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1168569198",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6688793,
+    "longitude": -97.2201371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1183567713",
+    "name": "Scott City Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.4747301,
+    "longitude": -100.9078179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Scott City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1186828438",
+    "name": "Garden City Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.9610098,
+    "longitude": -100.8463319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Garden City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1204536449",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.3506212,
+    "longitude": -94.9227306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208662886",
+    "name": "Shawnee Mission Park Off-Leash Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9792686,
+    "longitude": -94.8039764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Shawnee Mission Park Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1219615459",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.2280061,
+    "longitude": -96.9726986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1238469790",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9453589,
+    "longitude": -95.2750688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1238502573",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9364463,
+    "longitude": -95.2650503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1271378306",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9869654,
+    "longitude": -95.6012244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1277946512",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9722391,
+    "longitude": -94.7854444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284676184",
+    "name": "Saint John's Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1140977,
+    "longitude": -94.6182745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Saint John's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1296428775",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.2659846,
+    "longitude": -97.4013163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1315636820",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9979423,
+    "longitude": -95.2306722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1328149090",
+    "name": "Paola Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.5840552,
+    "longitude": -94.8472894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Paola Dog Park",
+      "operator": "City of Paola",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1331527347",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.976969,
+    "longitude": -95.7039881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1337852870",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.8285734,
+    "longitude": -97.6225915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1346774536",
+    "name": "E. H. Young Riverfront Park Off-Leash Dog Park Small Dog Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1645978,
+    "longitude": -94.6166593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "maxweight": "30",
+      "name": "E. H. Young Riverfront Park Off-Leash Dog Park Small Dog Area",
+      "operator": "City of Riverside",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1346985805",
+    "name": "Kill Creek Streamway  Off Leash Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9585265,
+    "longitude": -94.9735615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Kill Creek Streamway  Off Leash Area",
+      "operator": "Johnson County Park and Recreation District",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1382820180",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6883193,
+    "longitude": -97.1196913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1389318090",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.5733665,
+    "longitude": -95.265909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "check_date": "2025-05-24",
+      "dog": "designated",
+      "leisure": "dog_park",
+      "operator": "Love's Travel Stop",
+      "source": "survey"
+    }
+  },
+  {
+    "place_id": "osm_1394544716",
+    "name": "Small Dog Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.8368562,
+    "longitude": -94.760269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small Dog Area",
+      "operator": "Johnson County Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://jcprd.com/Facilities/Facility/Details/Heritage-Park-22"
+    }
+  },
+  {
+    "place_id": "osm_1396056125",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6959178,
+    "longitude": -96.9872238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "City of Augusta",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1408441332",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9654516,
+    "longitude": -94.7125336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436851",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.7217447,
+    "longitude": -94.7869602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437379",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9340178,
+    "longitude": -97.2588217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413612742",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1272309,
+    "longitude": -94.8395344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1414080178",
+    "name": "Black Squirrel Bark Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.8355445,
+    "longitude": -96.6475794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Black Squirrel Bark Park",
+      "operator": "Landoll",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1414466748",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.7119127,
+    "longitude": -97.1243244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1417468176",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.974401,
+    "longitude": -94.7708215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427958130",
+    "name": "Shawnee Lake Off-Leash Dog Area",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9952583,
+    "longitude": -95.6352902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Shawnee Lake Off-Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1451551091",
+    "name": "Welborn Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 39.1345152,
+    "longitude": -94.7090836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Welborn Dog Park",
+      "website": "https://www.facebook.com/share/1DdB5NWNJn/?mibextid=wwXIfr"
+    }
+  },
+  {
+    "place_id": "osm_1456556075",
+    "name": "Country Acres Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6959521,
+    "longitude": -97.4285951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Wichita",
+      "addr:housenumber": "750",
+      "addr:postcode": "67212",
+      "addr:state": "KS",
+      "addr:street": "North Country Acres Avenue",
+      "leisure": "dog_park",
+      "name": "Country Acres Dog Park",
+      "source": "esri_USDOT_Kansas",
+      "website": "https://www.wichita.gov/Facilities/Facility/Details/Country-Acres-Dog-Park-276"
+    }
+  },
+  {
+    "place_id": "osm_5465734",
+    "name": "Mutt Run",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 38.9309484,
+    "longitude": -95.3212718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Mutt Run",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19619019",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6586016,
+    "longitude": -97.2884924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19770125",
+    "name": "Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.7418124,
+    "longitude": -97.302763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19818291",
+    "name": "Arson Canine Ashley's Memorial Dog Park",
+    "formatted_address": ", Kansas, USA",
+    "latitude": 37.6274997,
+    "longitude": -97.3109491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Arson Canine Ashley's Memorial Dog Park",
+      "operator": "City of Wichita",
+      "type": "multipolygon",
+      "website": "https://www.wichita.gov/Facilities/Facility/Details/Chapin-Ashley-Dog-Park-8"
+    }
+  }
+]

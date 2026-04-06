@@ -1,0 +1,2299 @@
+[
+  {
+    "place_id": "osm_10128540692",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1724853,
+    "longitude": -76.9887315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11374577916",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3729582,
+    "longitude": -76.6779036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "convert to area once imagery becomes available",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12041729075",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0333864,
+    "longitude": -75.6036822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12048293833",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4588511,
+    "longitude": -75.8063869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13184680583",
+    "name": "Goddard Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8108553,
+    "longitude": -75.8260892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "West Grove",
+      "addr:housenumber": "568",
+      "addr:postcode": "19390",
+      "addr:state": "PA",
+      "addr:street": "Wickerton Road",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Goddard Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_297647034",
+    "name": "Bernard Dog Run",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4697835,
+    "longitude": -79.9682409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "maxweight:dog": "25 lb",
+      "name": "Bernard Dog Run",
+      "website": "https://friendsoftheriverfront.org/"
+    }
+  },
+  {
+    "place_id": "osm_338712743",
+    "name": "Off Leash Exercise Area",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4320426,
+    "longitude": -79.9062186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Off Leash Exercise Area",
+      "source": "bing;survey;mapbox aerial",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_367361734",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.432198,
+    "longitude": -79.9771991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "bing;survey"
+    }
+  },
+  {
+    "place_id": "osm_399573538",
+    "name": "Penn Hills Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4560477,
+    "longitude": -79.8160948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Penn Hills",
+      "addr:housenumber": "754",
+      "addr:postcode": "15235",
+      "addr:state": "PA",
+      "addr:street": "Jefferson Road",
+      "leisure": "dog_park",
+      "name": "Penn Hills Dog Park",
+      "operator": "Municipality of Penn Hills",
+      "operator:type": "public",
+      "website": "pennhills.org"
+    }
+  },
+  {
+    "place_id": "osm_430874923",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4037608,
+    "longitude": -75.9634837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_443232324",
+    "name": "Happy Tails Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2746103,
+    "longitude": -76.807356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_459908457",
+    "name": "Northside Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7648237,
+    "longitude": -77.5741201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Northside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_461417407",
+    "name": "Beneful Dream Dog Park at Buchanan Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0445269,
+    "longitude": -76.3211036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Beneful Dream Dog Park at Buchanan Park"
+    }
+  },
+  {
+    "place_id": "osm_468710293",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0380509,
+    "longitude": -76.2312686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_479343555",
+    "name": "Jade's Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.8726488,
+    "longitude": -79.9289881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jade's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479528431",
+    "name": "The Docks Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4862521,
+    "longitude": -79.8768142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Docks Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_480477323",
+    "name": "Hartwood Acres Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.569135,
+    "longitude": -79.9212619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hartwood Acres Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_495727659",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0287507,
+    "longitude": -76.7060688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_495727660",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0271466,
+    "longitude": -76.7052667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_507335447",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5206743,
+    "longitude": -79.8145017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544279410",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2519247,
+    "longitude": -75.6576688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_549381001",
+    "name": "Dallastown Community Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8994916,
+    "longitude": -76.6504855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Part of Dallastown Community Park",
+      "leisure": "dog_park",
+      "name": "Dallastown Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_553398434",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9901443,
+    "longitude": -75.6152272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_557045129",
+    "name": "Export Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4531047,
+    "longitude": -79.6203018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Export Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_561086957",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0640007,
+    "longitude": -79.3650604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_582070354",
+    "name": "Carlisle Area Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2227898,
+    "longitude": -77.180755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carlisle Area Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_596902823",
+    "name": "Off Leash Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3405188,
+    "longitude": -79.7911528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1.5",
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_628946517",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1717774,
+    "longitude": -79.7694025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_631885264",
+    "name": "Franklin Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3203855,
+    "longitude": -79.4866385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Franklin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_647471592",
+    "name": "The Dog Penn",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4550674,
+    "longitude": -79.9778209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Pittsburgh",
+      "addr:housenumber": "2614",
+      "addr:postcode": "15222",
+      "addr:state": "PA",
+      "addr:street": "Penn Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "The Dog Penn",
+      "website": "https://thedogpenn.com/"
+    }
+  },
+  {
+    "place_id": "osm_648879478",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8496969,
+    "longitude": -75.7096668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_654796636",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9142389,
+    "longitude": -77.5761362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_664180218",
+    "name": "Downtown Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4455031,
+    "longitude": -79.9986825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Downtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_671408485",
+    "name": "Doggie Dugout – Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1716873,
+    "longitude": -76.9174754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Doggie Dugout – Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_686663742",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7596644,
+    "longitude": -76.9634236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_693394407",
+    "name": "Bow Wow WOW!!! Bark Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2842036,
+    "longitude": -76.8124568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bow Wow WOW!!! Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_737984555",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3064124,
+    "longitude": -79.9929315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_763286973",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2635356,
+    "longitude": -76.9199194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_802341077",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.417251,
+    "longitude": -79.737835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_828476730",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4834475,
+    "longitude": -79.911479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_920225233",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3255609,
+    "longitude": -75.9372836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_941560381",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3087221,
+    "longitude": -76.8761582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "High Pointe Overlook Apartments"
+    }
+  },
+  {
+    "place_id": "osm_972324785",
+    "name": "Dog Park Mount Joy",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1178339,
+    "longitude": -76.4721013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Dog Park Mount Joy",
+      "website": "http://www.dogparkmountjoy.com/"
+    }
+  },
+  {
+    "place_id": "osm_994079436",
+    "name": "Tails on the Trail dog park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8908993,
+    "longitude": -79.7206685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Uniontown",
+      "addr:postcode": "15401",
+      "addr:state": "PA",
+      "addr:street": "Barton Row",
+      "leisure": "dog_park",
+      "name": "Tails on the Trail dog park",
+      "operator": "South Union Township",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1033378025",
+    "name": "Springford Terrace Bark Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2996486,
+    "longitude": -76.771312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Springford Terrace Bark Park",
+      "website": "https://www.theterracesatspringford.com/amenities"
+    }
+  },
+  {
+    "place_id": "osm_1033579128",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4894398,
+    "longitude": -79.9049042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1033647906",
+    "name": "K-9 Training Ground",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3061744,
+    "longitude": -75.8543868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "K-9 Training Ground",
+      "operator": "Police",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1052680101",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3616911,
+    "longitude": -79.6544798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1076639183",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0443418,
+    "longitude": -78.5164477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1091280877",
+    "name": "Overlook Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0846791,
+    "longitude": -76.3182453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "description": "Separate areas for large and small dogs.",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Overlook Dog Park",
+      "operator": "Manheim Township",
+      "operator:type": "government",
+      "website": "https://manheimtownship.org/1233/Overlook-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_1103900643",
+    "name": "Hempfield Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3502924,
+    "longitude": -79.5608453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hempfield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1123245445",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9574915,
+    "longitude": -75.6152937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Audubon Manor Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1125753254",
+    "name": "Upper Allen Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1747177,
+    "longitude": -76.9911984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Upper Allen Dog Park",
+      "website": "https://uatwp.org/parks/ua-dog-park-at-daybreak/"
+    }
+  },
+  {
+    "place_id": "osm_1144190378",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9206113,
+    "longitude": -77.2371779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192417573",
+    "name": "Boyce Dog Park 2",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4739215,
+    "longitude": -79.7350124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Boyce Dog Park 2"
+    }
+  },
+  {
+    "place_id": "osm_1224932214",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9190556,
+    "longitude": -76.6354985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1246198156",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3421507,
+    "longitude": -76.7155241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1250406290",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9256257,
+    "longitude": -76.693727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1268701331",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2675486,
+    "longitude": -76.8750843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Harrisburg",
+      "addr:housenumber": "147",
+      "addr:postcode": "17101",
+      "addr:state": "PA",
+      "addr:street": "North Cameron Street",
+      "leisure": "dog_park",
+      "operator": "Greenlin Pet Resorts",
+      "operator:type": "private",
+      "website": "https://www.greenlinpetresorts.com/greenlin-harrisburg-location/"
+    }
+  },
+  {
+    "place_id": "osm_1269045628",
+    "name": "Hamilton Street Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2744089,
+    "longitude": -76.8916204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Hamilton Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1270879244",
+    "name": "Bark Park at Pennsbury Township Municipal Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8712259,
+    "longitude": -75.6278765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chadds Ford",
+      "addr:housenumber": "702",
+      "addr:postcode": "19317",
+      "addr:state": "PA",
+      "addr:street": "Baltimore Pike",
+      "leisure": "dog_park",
+      "name": "Bark Park at Pennsbury Township Municipal Park",
+      "operator": "Pennsbury Township",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1270879812",
+    "name": "Barkingfield Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8428493,
+    "longitude": -75.6762913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Kennett Square",
+      "addr:housenumber": "557",
+      "addr:postcode": "19348",
+      "addr:state": "PA",
+      "addr:street": "Bayard Road",
+      "leisure": "dog_park",
+      "name": "Barkingfield Park"
+    }
+  },
+  {
+    "place_id": "osm_1281247065",
+    "name": "Gettysburg Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8225836,
+    "longitude": -77.2404044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Gettysburg",
+      "addr:housenumber": "701-845",
+      "addr:postcode": "17325",
+      "addr:state": "PA",
+      "addr:street": "Long Lane",
+      "leisure": "dog_park",
+      "name": "Gettysburg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1282366057",
+    "name": "Ebensburg Community Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4819896,
+    "longitude": -78.7163389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Ebensburg Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1284726010",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4290536,
+    "longitude": -79.8784696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1288920002",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3114913,
+    "longitude": -76.927233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1296120140",
+    "name": "Cindy's Memorial Bark Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3325267,
+    "longitude": -79.8726082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cindy's Memorial Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1298596978",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4251692,
+    "longitude": -79.8582464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "Forest Hills Park",
+      "operator:type": "public",
+      "website": "https://foresthillspa.gov/dog-park/#:~:text=The%20Dog%20Park%20is%20a,during%20a%20ribbon%20cutting%20ceremony.",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1299864661",
+    "name": "Ephrata Unleashed Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1772772,
+    "longitude": -76.1939186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ephrata Unleashed Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1329137222",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4701927,
+    "longitude": -79.9659238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1360414604",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9998669,
+    "longitude": -75.7452892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Preserves at Milltown residents only",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1413437256",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4503772,
+    "longitude": -76.5150758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438703",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7009381,
+    "longitude": -77.7341222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1420760226",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2389323,
+    "longitude": -76.1429579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1469848779",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4395416,
+    "longitude": -79.9976733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "location": "roof"
+    }
+  },
+  {
+    "place_id": "osm_7395563183",
+    "name": "Settlers Cabin Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4235379,
+    "longitude": -80.155847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Settlers Cabin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_348056538",
+    "name": "Bigbee Field",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4278413,
+    "longitude": -80.0011972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bigbee Field",
+      "source": "http://apps.pittsburghpa.gov/citiparks/2004_parks_and_recreation_facilities.pdf",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_374719021",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.6185831,
+    "longitude": -80.0234401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_374719853",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.6085595,
+    "longitude": -80.0169877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_407514365",
+    "name": "Small Dogs Only",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.7137562,
+    "longitude": -80.1090004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dogs Only"
+    }
+  },
+  {
+    "place_id": "osm_583521085",
+    "name": "Bark Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4182559,
+    "longitude": -80.0382132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_486635424",
+    "name": "Paws Place",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2460385,
+    "longitude": -80.4851757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Paws Place"
+    }
+  },
+  {
+    "place_id": "osm_538105529",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.31346,
+    "longitude": -80.0040606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_542750617",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4522006,
+    "longitude": -80.0068053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_552007873",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4522857,
+    "longitude": -80.0108873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_561594973",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5061175,
+    "longitude": -80.0416635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_578517669",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3030366,
+    "longitude": -80.1681763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_581276117",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.7212208,
+    "longitude": -80.1398624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_583837979",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4143216,
+    "longitude": -80.0330202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_585790162",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2190855,
+    "longitude": -80.2443907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_587030889",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.402494,
+    "longitude": -80.0742393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_782208426",
+    "name": "Bradys Run Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.7237605,
+    "longitude": -80.370243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bradys Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_800504931",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3950935,
+    "longitude": -80.0454017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "minweight": "30 lbs"
+    }
+  },
+  {
+    "place_id": "osm_818936447",
+    "name": "Larry R. Fabrizi Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1296139,
+    "longitude": -80.0188778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Erie",
+      "addr:housenumber": "2600",
+      "addr:postcode": "16510",
+      "addr:state": "PA",
+      "addr:street": "East 26th Street",
+      "leisure": "dog_park",
+      "name": "Larry R. Fabrizi Dog Park",
+      "operator": "City of Erie",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_824640254",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1027306,
+    "longitude": -80.0417695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_852970298",
+    "name": "Bingo Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0334934,
+    "longitude": -80.2526163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Fairview",
+      "addr:postcode": "16415",
+      "addr:state": "PA",
+      "leisure": "dog_park",
+      "name": "Bingo Dog Park",
+      "operator": "Bingo's Barkery & Pampered Pups Salon",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_863794120",
+    "name": "Horstman & Son's Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0795756,
+    "longitude": -80.1599805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Erie",
+      "addr:postcode": "16506",
+      "addr:state": "PA",
+      "leisure": "dog_park",
+      "name": "Horstman & Son's Dog Park",
+      "operator": "Horstman & Son's Country Store",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_916848984",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3944416,
+    "longitude": -80.1347574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_919958734",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3377727,
+    "longitude": -80.0554276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_996637761",
+    "name": "Olympia Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4318772,
+    "longitude": -80.018358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Olympia Dog Park",
+      "operator": "City of Pittsburgh",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1018803863",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0284235,
+    "longitude": -80.1772155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Fairview",
+      "addr:postcode": "16415",
+      "addr:state": "PA",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1023940468",
+    "name": "Hillcrest Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2336828,
+    "longitude": -80.4619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Hillcrest Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1032080081",
+    "name": "The Indoor Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.6972286,
+    "longitude": -80.1310988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Indoor Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1036352326",
+    "name": "Hawthorne Village Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4448038,
+    "longitude": -80.2079293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Hawthorne Village Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Hawthorne Community",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1098378820",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.6467346,
+    "longitude": -80.2971862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1104843895",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4670673,
+    "longitude": -80.2662057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1159718110",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3628191,
+    "longitude": -80.017625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1179588375",
+    "name": "Bark Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3261384,
+    "longitude": -80.1151907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bridgeville",
+      "addr:housenumber": "310",
+      "addr:postcode": "15017",
+      "addr:state": "PA",
+      "addr:street": "Recreation Road",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "website": "https://southfayettepa.com/Facilities/Facility/Details/Bark-Park-OffLeash-Dog-Park-and-Nature-T-17"
+    }
+  },
+  {
+    "place_id": "osm_1352399668",
+    "name": "Willowood Village Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0804358,
+    "longitude": -80.1291137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Willowood Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1389338518",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4975184,
+    "longitude": -80.0402522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436627",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.0365633,
+    "longitude": -80.1272828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park",
+      "opening_hours": "24/7",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1419723897",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3415429,
+    "longitude": -80.0503102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429304027",
+    "name": "The Hammocks Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0732689,
+    "longitude": -80.1237521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Erie",
+      "addr:postcode": "16506",
+      "addr:state": "PA",
+      "addr:street": "Hammocks Drive",
+      "leisure": "dog_park",
+      "name": "The Hammocks Dog Park",
+      "operator": "Riedman",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1429318133",
+    "name": "Laurel Springs Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0804174,
+    "longitude": -80.1024214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Erie",
+      "addr:postcode": "16509",
+      "addr:state": "PA",
+      "addr:street": "West Street",
+      "leisure": "dog_park",
+      "name": "Laurel Springs Dog Park",
+      "operator": "Riedman",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1434155070",
+    "name": "Dog Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3934159,
+    "longitude": -80.1028034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

@@ -1,0 +1,3859 @@
+[
+  {
+    "place_id": "osm_3717400955",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.110148,
+    "longitude": -95.0744537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4339112619",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.5593304,
+    "longitude": -92.5977175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5648994475",
+    "name": "Pet Exercise Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.8094644,
+    "longitude": -92.5809735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "place_id": "osm_6294691976",
+    "name": "River Falls Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8332179,
+    "longitude": -92.6457761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "River Falls Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6345525575",
+    "name": "Spooner Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.8337668,
+    "longitude": -91.8801922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spooner Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6773295455",
+    "name": "Small/Frail Dog Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7159254,
+    "longitude": -93.4746623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Small/Frail Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_7630682812",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.6697141,
+    "longitude": -93.2845733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "dog run",
+      "leisure": "dog_park",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "place_id": "osm_10984606394",
+    "name": "Crow Hassan Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2073271,
+    "longitude": -93.6214972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Rogers",
+      "addr:housenumber": "27100",
+      "addr:postcode": "55374",
+      "addr:state": "MN",
+      "addr:street": "Territorial Road",
+      "leisure": "dog_park",
+      "name": "Crow Hassan Dog Park",
+      "operator": "Three Rivers Park District",
+      "operator:type": "government",
+      "website": "https://www.threeriversparks.org/location/crow-hassan-dog-leash-area"
+    }
+  },
+  {
+    "place_id": "osm_11203119806",
+    "name": "Woodview Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9922063,
+    "longitude": -93.1203194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Woodview Off-Leash Dog Park",
+      "operator": "City of Roseville",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_12634271859",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.2604778,
+    "longitude": -94.3184288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_12697248711",
+    "name": "La Crescent Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.8263075,
+    "longitude": -91.3011717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "La Crescent Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_12982956119",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1389653,
+    "longitude": -93.3183593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13143587197",
+    "name": "Saint Bark",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9756894,
+    "longitude": -93.1681876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "1145",
+      "addr:street": "Snelling Avenue",
+      "leisure": "dog_park",
+      "name": "Saint Bark",
+      "opening_hours": "Mo-Fr 15:00-20:00; Sa 10:00-20:00; Su 10:00-18:00",
+      "phone": "+1 651-808-3773",
+      "start_date": "2025-09-20",
+      "website": "https://saintbarkmn.com/"
+    }
+  },
+  {
+    "place_id": "osm_13234483645",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9508936,
+    "longitude": -93.0945315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13393784494",
+    "name": "Kellogg Mall Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9453463,
+    "longitude": -93.0892748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kellogg Mall Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_13594341119",
+    "name": "La Pointe Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.7794544,
+    "longitude": -90.7835539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "Need to resurvey to confirm exact location within the park; I already forgot the exact placement from yesterday",
+      "leisure": "dog_park",
+      "name": "La Pointe Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_61852717",
+    "name": "Airport Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.892469,
+    "longitude": -93.2362991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Airport Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_61910686",
+    "name": "Lake of the Isles Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9510913,
+    "longitude": -93.309272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "2845",
+      "addr:postcode": "55405",
+      "addr:state": "MN",
+      "addr:street": "West Lake of the Isles Parkway",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lake of the Isles Off-Leash Dog Park",
+      "opening_hours": "06:00-24:00",
+      "operator": "Minneapolis Park and Recreation Board",
+      "operator:type": "government",
+      "small_dog": "separate",
+      "source": "http://www.minneapolisparks.org/default.asp?PageID=4&parkid=388",
+      "website": "https://www.minneapolisparks.org/parks-destinations/dog-parks/lake_of_the_isles_off-leash_dog_park/"
+    }
+  },
+  {
+    "place_id": "osm_114551824",
+    "name": "Victory Prairie Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0407071,
+    "longitude": -93.3144257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:housenumber": "4701",
+      "addr:street": "North Russell Avenue",
+      "leisure": "dog_park",
+      "name": "Victory Prairie Off-Leash Dog Park",
+      "note": "Less than half of the designated area is actually an 'off leash' dog park: https://www.minneapolisparks.org/wp-content/uploads/2021/02/dog_parks_map_victory_prairie.pdf",
+      "operator": "Minneapolis Park and Recreation Board",
+      "operator:type": "public",
+      "website": "https://www.minneapolisparks.org/parks-destinations/dog-parks/victory_prairie_off-leash_dog_park/"
+    }
+  },
+  {
+    "place_id": "osm_125235811",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.9145556,
+    "longitude": -96.7954289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_126010862",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9810258,
+    "longitude": -93.2461544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_136024687",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.9128795,
+    "longitude": -97.0221191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_154130172",
+    "name": "Minnehaha Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9037165,
+    "longitude": -93.1949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "5399",
+      "addr:postcode": "55417",
+      "addr:state": "MN",
+      "addr:street": "South Minnehaha Park Drive",
+      "leisure": "dog_park",
+      "name": "Minnehaha Off-Leash Dog Park",
+      "operator": "Minneapolis Park and Recreation Board",
+      "operator:type": "public",
+      "website": "https://www.minneapolisparks.org/parks__destinations/dog_parks/minnehaha_off-leash_dog_park/"
+    }
+  },
+  {
+    "place_id": "osm_167713882",
+    "name": "Bryant Lake Dog Off-leash Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8860775,
+    "longitude": -93.4329646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Eden Prairie",
+      "addr:housenumber": "6402",
+      "addr:postcode": "55344",
+      "addr:state": "MN",
+      "addr:street": "Rowland Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bryant Lake Dog Off-leash Area",
+      "opening_hours": "05:00-22:00;PH open",
+      "operator": "Three Revers Park District",
+      "operator:type": "government",
+      "panoramax": "e16dc708-e366-4ef4-9487-aa0d4b73dca1",
+      "small_dog": "separate",
+      "website": "https://www.threeriversparks.org/location/bryant-lake-dog-leash-area",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_167713885",
+    "name": "Small Frail Dog Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8864449,
+    "longitude": -93.4323097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Small Frail Dog Area",
+      "opening_hours": "05:00-22:00;PH open",
+      "panoramax": "e16dc708-e366-4ef4-9487-aa0d4b73dca1",
+      "small_dog": "separate",
+      "website": "https://www.threeriversparks.org/location/bryant-lake-dog-leash-area",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_188447306",
+    "name": "High Bridge Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9362316,
+    "longitude": -93.1056385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "High Bridge Dog Park",
+      "operator": "City of Saint Paul Parks and Recreation",
+      "source": "local_knowledge;image",
+      "website": "https://www.stpaul.gov/facilities/high-bridge-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_234897580",
+    "name": "Lyndale Farmstead Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9324771,
+    "longitude": -93.2927917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "3845",
+      "addr:postcode": "55409",
+      "addr:street": "King's Highway",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lyndale Farmstead Off-Leash Dog Park",
+      "source": "http://www.minneapolisparks.org/default.asp?PageID=4&parkid=509",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_235781798",
+    "name": "Dog Exercise Area (Leashed)",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.1699811,
+    "longitude": -93.2649763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Exercise Area (Leashed)",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_238523781",
+    "name": "Spencer Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.5112081,
+    "longitude": -96.7149372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Spencer Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_244108822",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8678247,
+    "longitude": -96.8604198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_244128221",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9128163,
+    "longitude": -97.102354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_295712487",
+    "name": "Gateway Play Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9708478,
+    "longitude": -93.2697107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "off-leash dog park",
+      "entrance": "main",
+      "leisure": "dog_park",
+      "name": "Gateway Play Area",
+      "operator": "Dog Grounds Urban Off-Leash Dog Parks",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_310502448",
+    "name": "St. Anthony Parkway Off-Leash Recreation Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0242424,
+    "longitude": -93.2556469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "St. Anthony Parkway Off-Leash Recreation Area",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_314738409",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8688616,
+    "longitude": -96.7816845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "leashed",
+      "dog:large": "yes",
+      "dog:small": "no",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_341824578",
+    "name": "Dakota Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9557649,
+    "longitude": -93.358412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dakota Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_347948724",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.971896,
+    "longitude": -93.2841035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "Dog Grounds Urban Off-Leash Dog Parks",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_359861500",
+    "name": "Ladysmith Leash-Free Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.4537451,
+    "longitude": -91.0990082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ladysmith Leash-Free Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_370268809",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.3016263,
+    "longitude": -90.8231066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_379206650",
+    "name": "Buster Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.3448732,
+    "longitude": -94.2089471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Buster Dog Park",
+      "operator": "City of Brainerd"
+    }
+  },
+  {
+    "place_id": "osm_422556239",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8301306,
+    "longitude": -96.8719442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_444830107",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7762017,
+    "longitude": -93.2667945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_461242045",
+    "name": "Eau Claire Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7700027,
+    "longitude": -91.4207761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eau Claire Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_461330954",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.47123,
+    "longitude": -91.7331864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469498873",
+    "name": "Bunker Hills Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2093778,
+    "longitude": -93.2948064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Fence enclosed dog park with a large and small area enclosures with gates.  Paved path loop in large area",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Bunker Hills Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_470077947",
+    "name": "Observation Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.7796704,
+    "longitude": -92.1123823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Observation Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_470847548",
+    "name": "Loyalty Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.4432364,
+    "longitude": -95.7855325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Marshall",
+      "addr:housenumber": "111",
+      "addr:postcode": "56258",
+      "addr:state": "MN",
+      "addr:street": "South A Street",
+      "leisure": "dog_park",
+      "name": "Loyalty Dog Park",
+      "operator": "Marshall Parks Department"
+    }
+  },
+  {
+    "place_id": "osm_478373879",
+    "name": "Locke County Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0964925,
+    "longitude": -93.2535802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Locke County Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_478881927",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.4515786,
+    "longitude": -93.1694413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_480933817",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.939071,
+    "longitude": -93.349112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_484142351",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8006453,
+    "longitude": -93.5887138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "surface": "ground"
+    }
+  },
+  {
+    "place_id": "osm_484563169",
+    "name": "RiverWest Dog Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9812633,
+    "longitude": -93.261612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "For RiverWest residents only.",
+      "leisure": "dog_park",
+      "name": "RiverWest Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_504288835",
+    "name": "River Road Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.0891569,
+    "longitude": -92.4768795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "River Road Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_507397978",
+    "name": "Stillwater Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0583502,
+    "longitude": -92.8327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Off-Leash Dog Park",
+      "leisure": "dog_park",
+      "name": "Stillwater Dog Park",
+      "website": "http://www.stillwatermndogpark.com"
+    }
+  },
+  {
+    "place_id": "osm_521101364",
+    "name": "Otter Lake Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1148763,
+    "longitude": -93.0390527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Otter Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_543994616",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.3790736,
+    "longitude": -94.7032781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_547527533",
+    "name": "Hudson Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.979205,
+    "longitude": -92.7189019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hudson Dog Park",
+      "opening_hours": "dawn-dusk",
+      "start_date": "2017-11-12",
+      "website": "https://www.ci.hudson.wi.us/index.aspx?NID=554"
+    }
+  },
+  {
+    "place_id": "osm_550726156",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2430613,
+    "longitude": -93.6770128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_552650530",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.4437645,
+    "longitude": -92.9423161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_554108223",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7247201,
+    "longitude": -93.3476531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_556490923",
+    "name": "Nicollet Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9422239,
+    "longitude": -93.2782892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Informal Dog Park",
+      "fixme": "from imagery, this just looks like green space--is this actually authorized for use by dogs?",
+      "leisure": "dog_park",
+      "name": "Nicollet Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_561128992",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7366842,
+    "longitude": -93.2004802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_569622841",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.8678027,
+    "longitude": -97.0427217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_569707066",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.4079491,
+    "longitude": -97.0579632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_580194092",
+    "name": "Eveleth Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.4729151,
+    "longitude": -92.5342751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eveleth Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_584487696",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.3215956,
+    "longitude": -93.9486332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_596662559",
+    "name": "Ritter Farm Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.668379,
+    "longitude": -93.2954945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ritter Farm Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_599488943",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8910414,
+    "longitude": -96.7422821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_609391337",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.8231469,
+    "longitude": -91.2291384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_611659152",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1376353,
+    "longitude": -93.2366574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_624291254",
+    "name": "Egan Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0600735,
+    "longitude": -93.4966735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Egan Park"
+    }
+  },
+  {
+    "place_id": "osm_629893068",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.7118968,
+    "longitude": -91.9466203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_651180754",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8581554,
+    "longitude": -93.2252685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_656352954",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.8817207,
+    "longitude": -95.3531095,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_686143522",
+    "name": "Thresher Fields Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8368494,
+    "longitude": -93.1243082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Thresher Fields Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_686143523",
+    "name": "Thresher Fields Off-Leash Small Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8378017,
+    "longitude": -93.124649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Thresher Fields Off-Leash Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_688904572",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7774817,
+    "longitude": -93.3513133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_691514384",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.773984,
+    "longitude": -96.6218744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_691697596",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.8037518,
+    "longitude": -91.2579282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_691697950",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.9035107,
+    "longitude": -91.2422031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_701972099",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.5701429,
+    "longitude": -94.1617965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_708615062",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.6041326,
+    "longitude": -95.5657973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_721760169",
+    "name": "Happy Tails Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9156451,
+    "longitude": -91.3737213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_745179035",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.0646057,
+    "longitude": -92.5339953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_763960990",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1302319,
+    "longitude": -93.3643959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_771645583",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9116671,
+    "longitude": -93.0500909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_775431054",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8476922,
+    "longitude": -93.4432405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_782439705",
+    "name": "Rice Creek North Regional Trail Off Leash Dog Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1169663,
+    "longitude": -93.1658298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rice Creek North Regional Trail Off Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_787318862",
+    "name": "Wag Farms Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8113518,
+    "longitude": -92.9337004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wag Farms Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_797719030",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1219416,
+    "longitude": -92.5689502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_828546580",
+    "name": "Bassett Creek Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0139965,
+    "longitude": -93.3526658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Crystal",
+      "addr:housenumber": "6001",
+      "addr:postcode": "55422",
+      "addr:state": "MN",
+      "addr:street": "32nd Avenue North",
+      "leisure": "dog_park",
+      "name": "Bassett Creek Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "City of Crystal",
+      "operator:type": "public",
+      "website": "https://parksrecreation.hosted.civiclive.com/recreation/parks_and_trails/dog_park"
+    }
+  },
+  {
+    "place_id": "osm_847810533",
+    "name": "Battle Creek Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9370857,
+    "longitude": -93.0023431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Battle Creek Off-Leash Dog Park is a Ramsey County Off Leash Dog Park in Maplewood, Minnesota. It is a 35 acre area that is fully fenced in. The dog park has miles of wooded trails, two small ponds and one larger swimming pond that is fenced off, three en",
+      "leisure": "dog_park",
+      "name": "Battle Creek Dog Park",
+      "website": "http://www.battlecreekdogpark.dog/"
+    }
+  },
+  {
+    "place_id": "osm_863652160",
+    "name": "Flying Cloud Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8737469,
+    "longitude": -93.4143366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Eden Prairie",
+      "addr:housenumber": "7171",
+      "addr:postcode": "55344",
+      "addr:state": "MN",
+      "addr:street": "Flying Cloud Drive",
+      "leisure": "dog_park",
+      "name": "Flying Cloud Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_872004496",
+    "name": "Winona Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.0772709,
+    "longitude": -91.6840566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Winona Dog Park",
+      "operator": "City of Winona",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_881184161",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8834321,
+    "longitude": -92.9296775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_889009819",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.913319,
+    "longitude": -92.9685151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_905588663",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8329358,
+    "longitude": -96.791104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "dog": "yes",
+      "dog:large": "no",
+      "dog:small": "yes",
+      "leisure": "dog_park",
+      "operator": "City of Moorhead",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_907182961",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0576908,
+    "longitude": -93.6387461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_932938221",
+    "name": "Large Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8158639,
+    "longitude": -95.8316779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Large Dog Park",
+      "operator": "City of Detroit Lakes",
+      "operator:type": "government",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_954775310",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9250873,
+    "longitude": -92.9810988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_957619261",
+    "name": "Elm Creek Dog Off-Leash Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.167569,
+    "longitude": -93.4194473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Champlin",
+      "addr:housenumber": "11750",
+      "addr:postcode": "55316",
+      "addr:state": "MN",
+      "addr:street": "Zachary Lane North",
+      "leisure": "dog_park",
+      "name": "Elm Creek Dog Off-Leash Area",
+      "operator": "Three Rivers Park District",
+      "operator:type": "government",
+      "website": "https://www.threeriversparks.org/location/elm-creek-dog-leash-area"
+    }
+  },
+  {
+    "place_id": "osm_957626379",
+    "name": "White Sands Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.300025,
+    "longitude": -93.2921807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Faribault",
+      "addr:housenumber": "900",
+      "addr:state": "MN",
+      "addr:street": "Lyndale Avenue North",
+      "leisure": "dog_park",
+      "name": "White Sands Dog Park",
+      "operator": "Faribault Parks & Recreation",
+      "website": "https://ci.faribault.mn.us/Facilities/Facility/Details/White-Sands-Dog-Park-1"
+    }
+  },
+  {
+    "place_id": "osm_958984908",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9434359,
+    "longitude": -92.8986925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_969854546",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.4040264,
+    "longitude": -93.9960699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_991806742",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9337771,
+    "longitude": -93.41821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_998928908",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8173889,
+    "longitude": -93.2042943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1007540625",
+    "name": "Staring Lake Park Off-Leash Dog Exercise Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8319159,
+    "longitude": -93.4472889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "yes",
+      "dog": "yes",
+      "internet_access": "no",
+      "leisure": "dog_park",
+      "name": "Staring Lake Park Off-Leash Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_1008777953",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.5042284,
+    "longitude": -94.1607815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1014199906",
+    "name": "Brew Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.008404,
+    "longitude": -93.462718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Plymouth",
+      "addr:housenumber": "2605",
+      "addr:postcode": "55447",
+      "addr:state": "Minnesota",
+      "addr:street": "Fernbrook Ln N",
+      "addr:unit": "Ste J",
+      "leisure": "dog_park",
+      "name": "Brew Park",
+      "source": "microsoft/BuildingFootprints",
+      "website": "https://www.brewparkplymouth.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3599692256935847641"
+    }
+  },
+  {
+    "place_id": "osm_1025728919",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8770836,
+    "longitude": -93.1659482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1032086435",
+    "name": "Kiwanis Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.2002762,
+    "longitude": -94.0189606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Mankato",
+      "addr:housenumber": "2301",
+      "addr:postcode": "56001",
+      "addr:street": "US-169",
+      "leisure": "dog_park",
+      "name": "Kiwanis Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1081182668",
+    "name": "Brookside Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.6641553,
+    "longitude": -93.3737411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Albert Lea",
+      "addr:postcode": "56007",
+      "addr:state": "MN",
+      "addr:street": "West Richway Drive",
+      "description": "Divided large and small off-leash park with access to Brookside walking trail.",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Brookside Dog Park",
+      "note": "Park is open daily from dawn until dusk.",
+      "operator": "City of Albert Lea",
+      "operator:type": "government",
+      "website": "https://cityofalbertlea.org/community-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1085903082",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0843276,
+    "longitude": -93.0541762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1099708850",
+    "name": "Jean Duluth Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.8735511,
+    "longitude": -92.057408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jean Duluth Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1105022310",
+    "name": "Cleary Lake Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.6761039,
+    "longitude": -93.3916912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Prior Lake",
+      "addr:housenumber": "6246",
+      "addr:postcode": "55372",
+      "addr:state": "MN",
+      "addr:street": "190th Street East",
+      "leisure": "dog_park",
+      "name": "Cleary Lake Dog Park",
+      "phone": "+1-763-694-7777",
+      "website": "https://www.threeriversparks.org/location/cleary-lake-dog-leash-area"
+    }
+  },
+  {
+    "place_id": "osm_1108829940",
+    "name": "Lilydale Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9154476,
+    "longitude": -93.1292653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "St Paul",
+      "addr:housenumber": "1700",
+      "addr:postcode": "55118",
+      "addr:state": "MN",
+      "addr:street": "Lilydale Road",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Lilydale Off-Leash Dog Park",
+      "operator": "Saint Paul Parks and Recreation",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1124289688",
+    "name": "Amery Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2968777,
+    "longitude": -92.3513092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "fence_type": "chain_link",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "name": "Amery Dog Park",
+      "operator": "City of Amery",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1135509076",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.1841947,
+    "longitude": -93.5452109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1176352398",
+    "name": "Auggie Land",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.332909,
+    "longitude": -91.6524878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chetek",
+      "addr:country": "US",
+      "addr:housenumber": "871",
+      "addr:postcode": "54728",
+      "addr:state": "WI",
+      "addr:street": "24 1/2 Street",
+      "bench": "separate",
+      "contact:facebook": "https://www.facebook.com/profile.php?id=100066689911199",
+      "contact:phone": "+1-602-653-6521",
+      "dog": "yes",
+      "drinking_water": "yes",
+      "leisure": "dog_park",
+      "name": "Auggie Land",
+      "opening_hours": "May-Nov: Mo-Su,PH dawn-dusk \"weather-dependent\"",
+      "picnic_table": "separate",
+      "seasonal": "yes",
+      "shelter": "separate",
+      "toilets": "separate"
+    }
+  },
+  {
+    "place_id": "osm_1180776125",
+    "name": "Schilling Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.430414,
+    "longitude": -93.1975276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Schilling Park",
+      "operator": "City of Dundas",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1182606975",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9476728,
+    "longitude": -92.7321084,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192737708",
+    "name": "River's Edge Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.8183607,
+    "longitude": -96.7090693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Dell Rapids",
+      "addr:housenumber": "501",
+      "addr:postcode": "57022",
+      "addr:state": "SD",
+      "addr:street": "Zero Street",
+      "leisure": "dog_park",
+      "name": "River's Edge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1197273762",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9515212,
+    "longitude": -93.2903815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1198468334",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9770137,
+    "longitude": -93.2494195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "1111",
+      "addr:postcode": "55415",
+      "addr:state": "MN",
+      "addr:street": "West River Parkway",
+      "leisure": "dog_park",
+      "operator": "Eleven on the River",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1199679312",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9775272,
+    "longitude": -93.3492482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1199966119",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9984251,
+    "longitude": -93.1978227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1202670656",
+    "name": "Franklin Terrace Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9644589,
+    "longitude": -93.2275875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "925",
+      "addr:postcode": "55406",
+      "addr:state": "MN",
+      "addr:street": "Franklin Terrace",
+      "leisure": "dog_park",
+      "name": "Franklin Terrace Off-Leash Dog Park",
+      "operator": "Minneapolis Parks and Recreation Board",
+      "operator:type": "public",
+      "website": "https://www.minneapolisparks.org/parks-destinations/dog-parks/franklin_terrace_off-leash_dog_park/"
+    }
+  },
+  {
+    "place_id": "osm_1204060861",
+    "name": "Menomonie Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8809459,
+    "longitude": -91.9399088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Menomonie",
+      "addr:postcode": "54751",
+      "addr:state": "WI",
+      "addr:street": "Brick Yard Road",
+      "leisure": "dog_park",
+      "name": "Menomonie Dog Park",
+      "operator": "City Of Menomonie"
+    }
+  },
+  {
+    "place_id": "osm_1204701584",
+    "name": "Pequot Lakes Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.593082,
+    "longitude": -94.3141331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Pequot Lakes",
+      "addr:postcode": "56472",
+      "addr:state": "MN",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Pequot Lakes Dog Park",
+      "operator": "City of Pequot Lakes",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1207813838",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9567481,
+    "longitude": -93.3730478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1215897360",
+    "name": "Lake Sarah Dog Off-leash Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0739676,
+    "longitude": -93.713049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lake Sarah Dog Off-leash Area"
+    }
+  },
+  {
+    "place_id": "osm_1218317191",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.459993,
+    "longitude": -93.8995808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1220686921",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0181664,
+    "longitude": -93.3332872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "opening_hours": "06:00-22:00"
+    }
+  },
+  {
+    "place_id": "osm_1229133153",
+    "name": "North Loop Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9881711,
+    "longitude": -93.2793497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "790",
+      "addr:postcode": "55401",
+      "addr:state": "MN",
+      "addr:street": "North 3rd Street",
+      "leisure": "dog_park",
+      "name": "North Loop Dog Park",
+      "operator": "Dog Grounds Urban Off-Leash Dog Parks",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_1232323526",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9859874,
+    "longitude": -93.2377386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1265019403",
+    "name": "Elmo's Pup Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0092746,
+    "longitude": -92.9208422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Lake Elmo",
+      "addr:housenumber": "4259",
+      "addr:postcode": "55042",
+      "addr:state": "MN",
+      "addr:street": "Jamaca Ave N",
+      "leisure": "dog_park",
+      "name": "Elmo's Pup Park"
+    }
+  },
+  {
+    "place_id": "osm_1267757428",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2460133,
+    "longitude": -93.4327457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1274283124",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9634064,
+    "longitude": -93.1993159,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "\"Designated Pet Area for C&E Living\"",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281137427",
+    "name": "Dakota Woods Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7094049,
+    "longitude": -93.0533324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dakota Woods Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1283013097",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.5665832,
+    "longitude": -95.6510184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1288921695",
+    "name": "Kirby Dog Park at Fort Sod",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.5457273,
+    "longitude": -96.7243306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Sioux Falls",
+      "addr:housenumber": "201",
+      "addr:postcode": "57104",
+      "addr:state": "SD",
+      "addr:street": "South 2nd Avenue",
+      "leisure": "dog_park",
+      "name": "Kirby Dog Park at Fort Sod"
+    }
+  },
+  {
+    "place_id": "osm_1297578639",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8392456,
+    "longitude": -92.9541747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1298707010",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8384977,
+    "longitude": -92.9508804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1299542119",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.837564,
+    "longitude": -92.9597177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1306964668",
+    "name": "Lake Minnewashta Off-Leash Dog Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8854298,
+    "longitude": -93.5843367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lake Minnewashta Off-Leash Dog Area",
+      "website": "https://www.carvercountymn.gov/departments/public-works/parks-recreation/parks-trails/lake-minnewashta-regional-park/off-leash-dog-area"
+    }
+  },
+  {
+    "place_id": "osm_1313338123",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.122119,
+    "longitude": -93.1211928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Converted by the city into an ice hockey rink during the winter.",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "sport": "ice_hockey",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1317730037",
+    "name": "Unleashed Hounds & Hops",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9800181,
+    "longitude": -93.2860479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Minneapolis",
+      "addr:housenumber": "200",
+      "addr:postcode": "55405",
+      "addr:state": "MN",
+      "addr:street": "East Lyndale Avenue North",
+      "leisure": "dog_park",
+      "name": "Unleashed Hounds & Hops",
+      "website": "https://unleashedhoundsandhops.com/"
+    }
+  },
+  {
+    "place_id": "osm_1317987638",
+    "name": "Shadow Hills Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0378032,
+    "longitude": -93.4016884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Shadow Hills Dog Park",
+      "operator": "Shadow Hills Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1327354852",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9096123,
+    "longitude": -93.354038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1328610546",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9098008,
+    "longitude": -93.3496923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336517020",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8563759,
+    "longitude": -93.0190377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336517021",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8587775,
+    "longitude": -93.0193374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1359390112",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.3118606,
+    "longitude": -95.6180931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1363154211",
+    "name": "Higgins Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.2746043,
+    "longitude": -96.061773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Higgins Dog Park",
+      "size": "large"
+    }
+  },
+  {
+    "place_id": "osm_1363647939",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9501856,
+    "longitude": -93.3195482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "lit": "yes",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_1364127644",
+    "name": "Bark Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.6553634,
+    "longitude": -92.2878305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1366615248",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.3083969,
+    "longitude": -94.4515547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1367378744",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.5710256,
+    "longitude": -95.8819111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1374851171",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.0048199,
+    "longitude": -96.3095741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1376175343",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.9277248,
+    "longitude": -90.4627696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1376215470",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.3787899,
+    "longitude": -94.7020017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1376558098",
+    "name": "Small/ Elderly Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0527252,
+    "longitude": -93.78442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small/ Elderly Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1376558099",
+    "name": "Large Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0538845,
+    "longitude": -93.7823502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1413424000",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.5124333,
+    "longitude": -94.2863839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413424056",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2498453,
+    "longitude": -93.0222588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413424097",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9076177,
+    "longitude": -91.8562415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1416670091",
+    "name": "Superior Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.7047696,
+    "longitude": -92.1234381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Superior",
+      "addr:housenumber": "598–2500",
+      "addr:postcode": "54880",
+      "addr:state": "WI",
+      "addr:street": "N 29th St",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Superior Dog Park",
+      "website": "https://www.superiorwi.gov/839/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_1418196087",
+    "name": "Brookdale Off Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0929304,
+    "longitude": -93.3333479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Brooklyn Park",
+      "addr:housenumber": "7650",
+      "addr:postcode": "55443",
+      "addr:state": "MN",
+      "addr:street": "June Avenue North",
+      "leisure": "dog_park",
+      "name": "Brookdale Off Leash Dog Park",
+      "operator": "City of Brooklyn Park",
+      "operator:type": "government",
+      "website": "https://www.brooklynpark.org/parks/dog-parks-2/"
+    }
+  },
+  {
+    "place_id": "osm_1418424745",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.292944,
+    "longitude": -96.5125655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1425594373",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.0297408,
+    "longitude": -92.4736587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427770150",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0656953,
+    "longitude": -93.0578054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431167992",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 47.4547044,
+    "longitude": -94.8516262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fenced",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1435557097",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0788833,
+    "longitude": -93.0855463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1442434820",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 43.7402954,
+    "longitude": -92.1352252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Karst Brewing",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1448276222",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.3053439,
+    "longitude": -93.6007507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "minweight:dog": "30 lbs"
+    }
+  },
+  {
+    "place_id": "osm_1456082991",
+    "name": "St. Croix Falls Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.4149232,
+    "longitude": -92.6253263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "St. Croix Falls Dog Park",
+      "operator": "City of Saint Croix Falls",
+      "website": "https://www.cityofstcroixfalls.com/parks"
+    }
+  },
+  {
+    "place_id": "osm_1458798174",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7488324,
+    "longitude": -93.3673787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1467057511",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.7160569,
+    "longitude": -93.1710505,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1467196917",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.2257633,
+    "longitude": -96.6352127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1484147312",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.3118193,
+    "longitude": -97.0468653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1485020454",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 46.2532722,
+    "longitude": -96.6067827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1494680381",
+    "name": "Susan E. Lurton Nature and Off-Leash Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.991661,
+    "longitude": -93.6122699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Susan E. Lurton Nature and Off-Leash Dog Park",
+      "operator": "City of Orono"
+    }
+  },
+  {
+    "place_id": "osm_1495700830",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.1042321,
+    "longitude": -93.2408873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6273755",
+    "name": "Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.8036389,
+    "longitude": -93.3629428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_9053664",
+    "name": "Meeker Island Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9529965,
+    "longitude": -93.2044393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Saint Paul",
+      "addr:housenumber": "486",
+      "addr:postcode": "55104",
+      "addr:state": "MN",
+      "addr:street": "Mississippi River Boulevard North",
+      "description": "The Meeker Island Dog Park is located adjacent to Meeker Island Historic Lock and Dam site, the site of the first and northernmost lock and dam on the Mississippi. The site is located just west of the intersection of Eustis Street and N Mississippi River",
+      "leisure": "dog_park",
+      "name": "Meeker Island Dog Park",
+      "type": "multipolygon",
+      "website": "https://www.stpaul.gov/facilities/meeker-island-dog-park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_11072438",
+    "name": "Dog Off-Leash Area",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 45.0818524,
+    "longitude": -93.4654032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Off-Leash Area",
+      "operator": "Three Rivers Parks",
+      "operator:type": "government",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_15017793",
+    "name": "Lower Landing Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.947638,
+    "longitude": -93.0808133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lower Landing Dog Park",
+      "operator": "Saint Paul Parks and Recreation",
+      "operator:type": "government",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_17344460",
+    "name": "Uŋči Makȟa Dog Park",
+    "formatted_address": ", Minnesota, USA",
+    "latitude": 44.9124111,
+    "longitude": -93.1930685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Uŋči Makȟa Dog Park",
+      "operator": "City of Saint Paul",
+      "operator:type": "public",
+      "type": "multipolygon",
+      "website": "https://www.stpaul.gov/departments/parks-and-recreation/parks/leash-dog-parks"
+    }
+  }
+]

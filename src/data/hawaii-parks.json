@@ -1,0 +1,292 @@
+[
+  {
+    "place_id": "osm_4168465134",
+    "name": "Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3121299,
+    "longitude": -157.8080848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12237484703",
+    "name": "Island Palms Community Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.4895184,
+    "longitude": -158.0787008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Island Palms Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_446832401",
+    "name": "Diamond Head Bark Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.2671753,
+    "longitude": -157.7988279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Diamond Head Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_446834317",
+    "name": "Ala Wai Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.2834571,
+    "longitude": -157.8260125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Ala Wai Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468579201",
+    "name": "Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3457298,
+    "longitude": -157.9206959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_531341847",
+    "name": "Hawai’i Kai Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.2840851,
+    "longitude": -157.7148537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hawai’i Kai Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_823355711",
+    "name": "Mililani Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.4691656,
+    "longitude": -158.0050563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Mililani",
+      "addr:housenumber": "95-1069",
+      "addr:postcode": "96789",
+      "addr:state": "HI",
+      "addr:street": "Ukuwai Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Mililani Dog Park",
+      "phone": "+1 808 675 6030"
+    }
+  },
+  {
+    "place_id": "osm_1121961802",
+    "name": "Hoalauna Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3311759,
+    "longitude": -158.0173332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hoalauna Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1347479302",
+    "name": "Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 19.8258173,
+    "longitude": -155.9964222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1384193903",
+    "name": "Bark and Ride",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3624066,
+    "longitude": -158.0481859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "East Kapolei",
+      "addr:housenumber": "91-3575",
+      "addr:postcode": "96706",
+      "addr:state": "HI",
+      "addr:street": "Kauluakoko Street",
+      "leisure": "dog_park",
+      "name": "Bark and Ride",
+      "operator": "Kohina at Hoopili"
+    }
+  },
+  {
+    "place_id": "osm_1408923600",
+    "name": "Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3377863,
+    "longitude": -157.9504384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1414511998",
+    "name": "Maryknoll Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3003183,
+    "longitude": -157.8318604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Honolulu",
+      "addr:housenumber": "1704",
+      "addr:postcode": "96822",
+      "addr:state": "HI",
+      "addr:street": "Clark Street St",
+      "leisure": "dog_park",
+      "name": "Maryknoll Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1476404204",
+    "name": "Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3699688,
+    "longitude": -157.9564097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1494117788",
+    "name": "Dog Park",
+    "formatted_address": ", Hawaii, USA",
+    "latitude": 21.3536739,
+    "longitude": -157.9347535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  }
+]

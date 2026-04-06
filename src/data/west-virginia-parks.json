@@ -1,0 +1,22 @@
+[
+  {
+    "place_id": "osm_1485854614",
+    "name": "Bark Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.6520634,
+    "longitude": -79.998647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "Domain at Town Center"
+    }
+  }
+]

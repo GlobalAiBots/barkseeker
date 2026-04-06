@@ -1,0 +1,1208 @@
+[
+  {
+    "place_id": "osm_6417098308",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8064939,
+    "longitude": -79.8291128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8792673036",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5871559,
+    "longitude": -80.3581871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11833664155",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6080164,
+    "longitude": -78.9739287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13702578005",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9107698,
+    "longitude": -79.8998098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Aventon Noelle",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_123121679",
+    "name": "Hampton Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8025948,
+    "longitude": -79.9549269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Charleston",
+      "addr:housenumber": "129",
+      "addr:postcode": "29403",
+      "addr:state": "SC",
+      "addr:street": "Grove Street",
+      "designation": "Fenced Dog Park",
+      "leisure": "dog_park",
+      "name": "Hampton Dog Park",
+      "operator": "City of Charleston",
+      "operator:type": "government",
+      "phone": "+1-843-724-7327"
+    }
+  },
+  {
+    "place_id": "osm_161447047",
+    "name": "Ackerman Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7894805,
+    "longitude": -79.9899411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ackerman Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_217439465",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6610144,
+    "longitude": -79.9314615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_226024751",
+    "name": "James Island County Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7332442,
+    "longitude": -79.9885417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "James Island County Dog Park",
+      "source": "bing",
+      "website": "https://www.ccprc.com/index.aspx?NID=1513"
+    }
+  },
+  {
+    "place_id": "osm_440946458",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9739525,
+    "longitude": -79.9812838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_610210908",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7374026,
+    "longitude": -78.9009671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_642052102",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7983931,
+    "longitude": -80.02423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_655438216",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8017969,
+    "longitude": -80.0446166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_676438181",
+    "name": "Mixson Avenue Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8835025,
+    "longitude": -79.9933628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mixson Avenue Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_683272939",
+    "name": "Bill Wingard GSHS Dog Walking Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7183487,
+    "longitude": -78.9009909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bill Wingard GSHS Dog Walking Park"
+    }
+  },
+  {
+    "place_id": "osm_702301167",
+    "name": "Isle Of Palms Recreational Center Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7957927,
+    "longitude": -79.7758888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Isle Of Palms Recreational Center Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_833733516",
+    "name": "Pet Area",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6964557,
+    "longitude": -78.9144458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Area"
+    }
+  },
+  {
+    "place_id": "osm_1100622747",
+    "name": "Bluewater Appartments Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8027519,
+    "longitude": -80.0980352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bluewater Appartments Dog Park",
+      "operator": "Bluewater Appartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_934900764",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1227961,
+    "longitude": -80.1117087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_935033882",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1203568,
+    "longitude": -80.0973101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_940441810",
+    "name": "Small Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8337284,
+    "longitude": -80.094009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_940446336",
+    "name": "South Adgers Wharf Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7750952,
+    "longitude": -79.9262671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Charleston",
+      "addr:housenumber": "41",
+      "addr:postcode": "29401",
+      "addr:state": "SC",
+      "addr:street": "South Adgers Wharf",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "South Adgers Wharf Dog Park",
+      "operator": "City of Charleston",
+      "operator:type": "government",
+      "operator:wikidata": "Q47716",
+      "website": "https://www.charleston-sc.gov/2797/City-Dog-Parks"
+    }
+  },
+  {
+    "place_id": "osm_940449353",
+    "name": "Carolina Bay Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8064696,
+    "longitude": -80.080365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carolina Bay Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_941457368",
+    "name": "Grand Oaks Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8313167,
+    "longitude": -80.0873022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grand Oaks Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_941465061",
+    "name": "Bolton's Landing Appartments Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8143975,
+    "longitude": -80.0966484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bolton's Landing Appartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_943895176",
+    "name": "Governor's Park Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8635183,
+    "longitude": -79.901096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Governor's Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_943900269",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8038145,
+    "longitude": -80.077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_945131284",
+    "name": "Palmetto Islands County Small Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8611792,
+    "longitude": -79.8319178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Palmetto Islands County Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1072022567",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0431964,
+    "longitude": -80.1451958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1072030694",
+    "name": "Brighton Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0605739,
+    "longitude": -80.1439588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Brighton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1072037198",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0540378,
+    "longitude": -80.1050591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1079159175",
+    "name": "Riverland Woods Pet Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7171933,
+    "longitude": -79.9695651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Charleston",
+      "addr:postcode": "29412",
+      "addr:state": "SC",
+      "addr:street": "River Haven Circle",
+      "leisure": "dog_park",
+      "name": "Riverland Woods Pet Park",
+      "operator": "Riverland Woods Apartments",
+      "operator:type": "business",
+      "website": "https://www.riverlandwoods.com/amenities",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1101528351",
+    "name": "Small Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9575666,
+    "longitude": -80.1990055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1101528352",
+    "name": "Large Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9570103,
+    "longitude": -80.1987312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1152852052",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9452468,
+    "longitude": -80.2655216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1293977747",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.02358,
+    "longitude": -80.0346456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1308899477",
+    "name": "Peggy’s Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9179969,
+    "longitude": -79.876411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Peggy’s Park"
+    }
+  },
+  {
+    "place_id": "osm_1320019353",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9130129,
+    "longitude": -79.8256946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349032251",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1011194,
+    "longitude": -80.039368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349513489",
+    "name": "Broken Leash Dog Bar",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9697941,
+    "longitude": -80.0469365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "North Charleston",
+      "addr:housenumber": "8811",
+      "addr:state": "South Carolina",
+      "addr:street": "Old University Blvd",
+      "leisure": "dog_park",
+      "name": "Broken Leash Dog Bar",
+      "website": "https://thebrokenleash.com/"
+    }
+  },
+  {
+    "place_id": "osm_1392192986",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8013458,
+    "longitude": -79.8996335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1410144190",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8849218,
+    "longitude": -79.9234736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1418515194",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8538739,
+    "longitude": -79.9204858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419246705",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.891042,
+    "longitude": -79.9337724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419478109",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.918935,
+    "longitude": -79.8786304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Charleston",
+      "addr:postcode": "29492",
+      "addr:state": "SC",
+      "addr:street": "Martins Point Drive",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419744990",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9208462,
+    "longitude": -79.8674344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1420454862",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.880042,
+    "longitude": -80.0611545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1434385240",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9292057,
+    "longitude": -80.0933941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1434425837",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9296685,
+    "longitude": -80.0775299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1443076879",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9322183,
+    "longitude": -79.8369751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1447157507",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8872497,
+    "longitude": -79.9751026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1448486687",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8645369,
+    "longitude": -79.9058993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Central Island Square Apartments",
+      "operator:type": "public",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_1449433200",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9345786,
+    "longitude": -80.0042299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1464056156",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7878673,
+    "longitude": -79.8498216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1467180553",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8021808,
+    "longitude": -79.8922813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "K9 Resorts"
+    }
+  },
+  {
+    "place_id": "osm_1469614809",
+    "name": "GoDog - Nexton",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0483698,
+    "longitude": -80.1454444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "GoDog - Nexton",
+      "website": "https://godog.co/pages/locations/summerville"
+    }
+  },
+  {
+    "place_id": "osm_1470158277",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8172119,
+    "longitude": -79.8613658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1482716532",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7515958,
+    "longitude": -78.8736891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483604236",
+    "name": "Small Bark Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0687304,
+    "longitude": -80.1626179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "description": "dog park area for smaller dogs",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small Bark Dog Park",
+      "surface": "woodchips"
+    }
+  },
+  {
+    "place_id": "osm_1485494161",
+    "name": "Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8003311,
+    "longitude": -79.9446042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1486375193",
+    "name": "Habersham Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4277382,
+    "longitude": -80.7812971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "name": "Habersham Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1488445404",
+    "name": "Talison Row Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8556236,
+    "longitude": -79.9252382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Daniel Island",
+      "addr:housenumber": "500",
+      "addr:postcode": "29492",
+      "addr:state": "SC",
+      "addr:street": "Talison Avenue",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Talison Row Dog Park",
+      "operator": "Talison Row",
+      "operator:type": "private",
+      "surface": "dirt",
+      "website": "https://www.irtliving.com/Apartments-In/Charleston-SC/Talison-Row"
+    }
+  }
+]

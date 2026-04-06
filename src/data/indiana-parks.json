@@ -1,0 +1,3114 @@
+[
+  {
+    "place_id": "osm_704223350",
+    "name": "Tell City Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 37.9574482,
+    "longitude": -86.7601702,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tell City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1089808968",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 37.979226,
+    "longitude": -85.6948515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1262933343",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 37.8137508,
+    "longitude": -85.9880199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377194823",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 37.9949575,
+    "longitude": -87.3513816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_3434726811",
+    "name": "The Barklands - Beckley Creek Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.220785,
+    "longitude": -85.4774372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Louisville",
+      "addr:housenumber": "1330",
+      "addr:postcode": "40245",
+      "addr:state": "KY",
+      "addr:street": "Beckley Creek Parkway",
+      "leisure": "dog_park",
+      "name": "The Barklands - Beckley Creek Park"
+    }
+  },
+  {
+    "place_id": "osm_4629702107",
+    "name": "Old School Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7797243,
+    "longitude": -86.1476336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Old School Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6878835869",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.0126443,
+    "longitude": -87.2774524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7278331509",
+    "name": "Love’s Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6165929,
+    "longitude": -86.4792367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Love’s Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10197541379",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.2736666,
+    "longitude": -86.5080608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12026370662",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4449454,
+    "longitude": -86.1401462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12169271419",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6202181,
+    "longitude": -87.2709236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12372233901",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.8119975,
+    "longitude": -86.3826544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13408022757",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.4444362,
+    "longitude": -87.113394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_158080298",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7583894,
+    "longitude": -85.965518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_204624942",
+    "name": "Lawrenceburg Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.0956121,
+    "longitude": -84.8542971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lawrenceburg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_258553845",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.3254201,
+    "longitude": -85.5616345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_258553847",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.3244023,
+    "longitude": -85.571931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_295947121",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9984458,
+    "longitude": -86.0428906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_296555731",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9701872,
+    "longitude": -86.1431923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_306463368",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4316057,
+    "longitude": -86.8982984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_320901566",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.8250465,
+    "longitude": -85.8000562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Local knowledge"
+    }
+  },
+  {
+    "place_id": "osm_329958865",
+    "name": "PG&J's Dog Park Bar",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.242968,
+    "longitude": -85.7269709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Louisville",
+      "addr:housenumber": "800",
+      "addr:postcode": "40204",
+      "addr:state": "KY",
+      "addr:street": "Baxter Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "lojic:bgnum": "227915",
+      "name": "PG&J's Dog Park Bar",
+      "operator": "PG&J's Dog Park Bar",
+      "operator:type": "private",
+      "website": "https://www.pgjdogbar.com/"
+    }
+  },
+  {
+    "place_id": "osm_374676717",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6487193,
+    "longitude": -86.2671168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_381055762",
+    "name": "Starbarks Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1295927,
+    "longitude": -86.500176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Starbarks Park"
+    }
+  },
+  {
+    "place_id": "osm_413628673",
+    "name": "Jasper Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.4028086,
+    "longitude": -86.9274244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jasper Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_443753858",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9173675,
+    "longitude": -86.0756844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_446731255",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7242897,
+    "longitude": -85.9307986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_453069955",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9972275,
+    "longitude": -86.1277512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_467632635",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.8614796,
+    "longitude": -84.8733959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_469237750",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.2216819,
+    "longitude": -85.1752062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469583942",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.3546744,
+    "longitude": -86.2994015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469803309",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.3018253,
+    "longitude": -85.7323124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_470415896",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.2917333,
+    "longitude": -85.2192131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_476990235",
+    "name": "Emerson Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.1988446,
+    "longitude": -85.39632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Muncie",
+      "addr:housenumber": "900",
+      "addr:postcode": "47303",
+      "addr:state": "IN",
+      "addr:street": "W Ashland Ave",
+      "description": "Separate areas for small and large dogs",
+      "leisure": "dog_park",
+      "name": "Emerson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479616052",
+    "name": "Mehlig Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4823036,
+    "longitude": -86.1530008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mehlig Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479631939",
+    "name": "Mohr Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4643906,
+    "longitude": -86.1024553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mohr Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_499547725",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9554966,
+    "longitude": -86.1302845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544021252",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9115651,
+    "longitude": -85.3742054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_547097682",
+    "name": "Shamrock Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4081642,
+    "longitude": -86.9031189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shamrock Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_547304376",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.7121787,
+    "longitude": -86.1892988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_547791562",
+    "name": "Dawg Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.7920156,
+    "longitude": -85.8245135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dawg Park"
+    }
+  },
+  {
+    "place_id": "osm_552239764",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6317014,
+    "longitude": -84.9886721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_552240740",
+    "name": "Broad Ripple Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.86913,
+    "longitude": -86.1320411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Broad Ripple Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_556396478",
+    "name": "Canine Crossroads Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.9654142,
+    "longitude": -85.868589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Canine Crossroads Dog Park",
+      "website": "https://www.facebook.com/pages/Canine-Crossroads-Dog-Park/391316974412409"
+    }
+  },
+  {
+    "place_id": "osm_559248222",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1471986,
+    "longitude": -86.530166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_583512114",
+    "name": "Wright Street Bark Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.7526422,
+    "longitude": -86.3427559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Logansport",
+      "addr:housenumber": "1900",
+      "addr:postcode": "46947",
+      "addr:state": "IN",
+      "addr:street": "Wright Street",
+      "description": "Located at Muehlhausen Park. Opened in May 2024.",
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "name": "Wright Street Bark Park",
+      "source": "survey;local knowledge;aerial imagery;streetlevel imagery"
+    }
+  },
+  {
+    "place_id": "osm_584417774",
+    "name": "large dogs",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6725512,
+    "longitude": -86.122853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "large dogs"
+    }
+  },
+  {
+    "place_id": "osm_584417776",
+    "name": "small dogs",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6720285,
+    "longitude": -86.1233625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "small dogs"
+    }
+  },
+  {
+    "place_id": "osm_587969881",
+    "name": "Greencastle Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6391447,
+    "longitude": -86.8043579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Greencastle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_589356917",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.0131799,
+    "longitude": -86.1819163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "metal",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_590240111",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1956137,
+    "longitude": -85.9310446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_615996752",
+    "name": "Cicero Township Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.2917845,
+    "longitude": -86.0507298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog Park sponsored by the Cicero Township Fire Department. So far park has a small dog area and a large dog area, waste receptacles and 4 benches. Park is evolving so in time hopefully more amenities will be available for the dog owner & dog alike.",
+      "leisure": "dog_park",
+      "name": "Cicero Township Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_616772352",
+    "name": "Camp Canine",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.1128734,
+    "longitude": -85.1176622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Fort Wayne",
+      "addr:housenumber": "1502",
+      "addr:postcode": "46805",
+      "addr:state": "IN",
+      "addr:street": "North Harry Baals Drive",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Camp Canine",
+      "name:es": "Campamento Canino",
+      "website": "https://www.fortwayneparks.org/facilities/dog-parks.html"
+    }
+  },
+  {
+    "place_id": "osm_620378133",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6391479,
+    "longitude": -86.145503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_620401817",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.5920021,
+    "longitude": -86.1267854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_624287104",
+    "name": "Nappanee Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.4534969,
+    "longitude": -85.982843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Nappanee Dog Park",
+      "website": "https://www.nappanee.org/government/departments/parks-and-recreation/parks/nappanee-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_633568828",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6205548,
+    "longitude": -86.0578625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_633706717",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.5900035,
+    "longitude": -86.0765872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_669627862",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2123303,
+    "longitude": -85.7638015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_674561881",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.3830269,
+    "longitude": -86.8609352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_710768638",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.259147,
+    "longitude": -84.8084193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_711079387",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.0373077,
+    "longitude": -86.0315452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_716019408",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1430225,
+    "longitude": -86.6051913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_739675465",
+    "name": "No-Leash Dog Exercise Area",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5555186,
+    "longitude": -86.7318866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "No-Leash Dog Exercise Area",
+      "operator": "Luhr County Park"
+    }
+  },
+  {
+    "place_id": "osm_744515007",
+    "name": "Sawyer Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2899592,
+    "longitude": -85.5537502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Sawyer Dog Park",
+      "operator": "Louisville Dog Run Association; Kentucky Department of Parks",
+      "start_date": "2004",
+      "website": "https://louisvilledogs.org/"
+    }
+  },
+  {
+    "place_id": "osm_749609270",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.483718,
+    "longitude": -86.1320409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_765237324",
+    "name": "Greencroft Goshen Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5630687,
+    "longitude": -85.8097782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Greencroft Goshen Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_768850977",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.4769912,
+    "longitude": -87.3532539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_781962638",
+    "name": "Pawster Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.0387061,
+    "longitude": -85.16338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pawster Park",
+      "name:es": "Parque Pawster",
+      "operator": "Fort Wayne Parks and Recreation"
+    }
+  },
+  {
+    "place_id": "osm_827515999",
+    "name": "Vectren Bark Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.4628762,
+    "longitude": -87.4184719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Vectren Bark Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_827797445",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.1674366,
+    "longitude": -85.5597572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_832663398",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.465389,
+    "longitude": -86.1228262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_832921548",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.3322389,
+    "longitude": -85.5614737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_863590255",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.1025304,
+    "longitude": -85.1903013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Fort Wayne",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_880435721",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4660961,
+    "longitude": -86.9256056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_882994706",
+    "name": "Small Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1426379,
+    "longitude": -86.5349219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_892083015",
+    "name": "Happy Hollow Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4368872,
+    "longitude": -86.8998496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Happy Hollow Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_902042721",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.5319642,
+    "longitude": -85.7497376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_912553371",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7171071,
+    "longitude": -86.0982069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_916317354",
+    "name": "Ferguson Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.2096853,
+    "longitude": -86.5313821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Bloomington",
+      "addr:housenumber": "4300",
+      "addr:postcode": "47404",
+      "addr:state": "IN",
+      "addr:street": "North Stone Mill Road",
+      "leisure": "dog_park",
+      "name": "Ferguson Dog Park",
+      "operator": "Bloomington Parks & Recreation",
+      "operator:type": "public",
+      "website": "https://bloomington.in.gov/parks/parks/ferguson-dog-park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_916325198",
+    "name": "Dapper Dog Pet Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.4270887,
+    "longitude": -87.3604802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Terre Haute",
+      "addr:housenumber": "3592",
+      "addr:postcode": "47802",
+      "addr:state": "IN",
+      "addr:street": "East Davis Drive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Dapper Dog Pet Park",
+      "operator": "Dapper Dog Pet Grooming and Boarding",
+      "operator:type": "business",
+      "website": "https://www.dapperdogpetgrooming.com/"
+    }
+  },
+  {
+    "place_id": "osm_938183877",
+    "name": "Kolodziej Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.3960884,
+    "longitude": -87.2088883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Kolodziej Dog Park",
+      "opening_hours": "06:00-dusk",
+      "operator": "Lakes of the Four Seasons",
+      "phone": "+1 219 988 2581"
+    }
+  },
+  {
+    "place_id": "osm_947067793",
+    "name": "UV Bark Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.4761291,
+    "longitude": -87.4074754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "UV is short for University Village",
+      "leisure": "dog_park",
+      "name": "UV Bark Park",
+      "strapline": "Make some new friends here!"
+    }
+  },
+  {
+    "place_id": "osm_956603794",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6678675,
+    "longitude": -86.3806569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_968483562",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.452791,
+    "longitude": -86.9292489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_998882881",
+    "name": "Cochran Hill Dog Run",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2439864,
+    "longitude": -85.6953918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Cochran Hill Dog Run",
+      "operator": "Louisville Dog Run Association",
+      "website": "http://louisvilledogs.netfirms.com/"
+    }
+  },
+  {
+    "place_id": "osm_1008239547",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4255264,
+    "longitude": -84.9694759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1031035264",
+    "name": "Sprocket Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5855616,
+    "longitude": -85.8270323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sprocket Dog Park",
+      "operator": "Goshen Parks & Recreation Department"
+    }
+  },
+  {
+    "place_id": "osm_1047542350",
+    "name": "Walker Farms dog park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9756588,
+    "longitude": -86.3489731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Walker Farms dog park"
+    }
+  },
+  {
+    "place_id": "osm_1051875908",
+    "name": "Overture Flats Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.420698,
+    "longitude": -86.817694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "landuse": "turf",
+      "leisure": "dog_park",
+      "name": "Overture Flats Dog Park",
+      "operator": "Overture Flats Apartment Homes",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1065379228",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7808015,
+    "longitude": -86.1433078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1088208931",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.1317897,
+    "longitude": -85.0664501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1100634950",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9696951,
+    "longitude": -86.1157414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1102236106",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.7949646,
+    "longitude": -86.781592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1103902445",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9826575,
+    "longitude": -86.1310722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1106232604",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.3141681,
+    "longitude": -85.2098498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1111064139",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6688325,
+    "longitude": -86.8494285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Creek Ridge County Park"
+    }
+  },
+  {
+    "place_id": "osm_1111931976",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6650132,
+    "longitude": -85.8894363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1121734165",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.1131308,
+    "longitude": -85.0359119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1132269244",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5395063,
+    "longitude": -86.2923459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1157453241",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9662119,
+    "longitude": -86.1156079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1163077325",
+    "name": "Cumberland Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4678577,
+    "longitude": -86.9164002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cumberland Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1163077326",
+    "name": "Cumberland Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4679315,
+    "longitude": -86.9176046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cumberland Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1167160275",
+    "name": "Chesterfield Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.1157519,
+    "longitude": -85.5934415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chesterfield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1180209090",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6853684,
+    "longitude": -86.2457614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1190511677",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.1877853,
+    "longitude": -85.0880871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1194654678",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6329857,
+    "longitude": -86.1283921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1194748361",
+    "name": "Paw Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7611203,
+    "longitude": -86.425519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Avon",
+      "addr:housenumber": "115",
+      "addr:postcode": "46123",
+      "addr:state": "IN",
+      "addr:street": "S. County Road 575 E.",
+      "leisure": "dog_park",
+      "name": "Paw Park",
+      "operator": "Washington Township",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1196395470",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5510757,
+    "longitude": -86.9152998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209432464",
+    "name": "Tree City Bark Park (Large Dog)",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.3378127,
+    "longitude": -85.4653201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Tree City Bark Park (Large Dog)"
+    }
+  },
+  {
+    "place_id": "osm_1210427810",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7644983,
+    "longitude": -86.1463978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Metazoa Brewing Company",
+      "operator:type": "private",
+      "phone": "+1 317-522-0251",
+      "website": "https://www.metazoabrewing.com/"
+    }
+  },
+  {
+    "place_id": "osm_1214354900",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6974215,
+    "longitude": -86.4219251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1214394864",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7043242,
+    "longitude": -86.4010942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216657969",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1736712,
+    "longitude": -86.4908954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1219633124",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1706623,
+    "longitude": -86.4914232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1242842791",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5837501,
+    "longitude": -86.7351185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "LaPorte Commons"
+    }
+  },
+  {
+    "place_id": "osm_1252918343",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9517241,
+    "longitude": -86.3496829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1255001969",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.6909213,
+    "longitude": -86.2346958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1255479660",
+    "name": "Smock Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.6378723,
+    "longitude": -86.100905,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Smock Dog Park",
+      "operator": "IndyParks",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1259589825",
+    "name": "Barklands",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2206941,
+    "longitude": -85.4776299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barklands"
+    }
+  },
+  {
+    "place_id": "osm_1260463640",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.2801994,
+    "longitude": -85.8268662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1280436723",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.4481107,
+    "longitude": -86.9440091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1288963614",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2967821,
+    "longitude": -86.9478092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1329699328",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2865469,
+    "longitude": -85.5808088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1332741531",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.8515262,
+    "longitude": -86.3759688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1333601232",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.3008432,
+    "longitude": -85.5620371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1337254576",
+    "name": "Perry Ferrini Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.45286,
+    "longitude": -87.3974842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Schererville",
+      "addr:postcode": "46375",
+      "addr:state": "IN",
+      "addr:street": "West 91st Avenue",
+      "leisure": "dog_park",
+      "name": "Perry Ferrini Dog Park",
+      "website": "https://www.schererville.org/town-government/parks-and-recreation/perry-ferrini-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1349641687",
+    "name": "Crown Brewing",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.4158419,
+    "longitude": -87.3635569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Crown Point",
+      "addr:housenumber": "211",
+      "addr:postcode": "46307",
+      "addr:state": "IN",
+      "addr:street": "South East Street",
+      "leisure": "dog_park",
+      "name": "Crown Brewing"
+    }
+  },
+  {
+    "place_id": "osm_1351647895",
+    "name": "Crate Escapes Dog Park + Bar",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.0564744,
+    "longitude": -86.1421067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Westfield",
+      "addr:housenumber": "18595",
+      "addr:postcode": "46074",
+      "addr:state": "IN",
+      "addr:street": "Carousel Ln",
+      "leisure": "dog_park",
+      "name": "Crate Escapes Dog Park + Bar"
+    }
+  },
+  {
+    "place_id": "osm_1360928603",
+    "name": "Large Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7076438,
+    "longitude": -86.4087219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1360928605",
+    "name": "Small Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7074485,
+    "longitude": -86.4084759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1369698023",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.1558842,
+    "longitude": -84.8542784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1382552266",
+    "name": "The Dog Park at Immanuel",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7526096,
+    "longitude": -86.15135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Indianapolis",
+      "addr:housenumber": "382",
+      "addr:postcode": "46225",
+      "addr:state": "IN",
+      "addr:street": "Prospect Street",
+      "leisure": "dog_park",
+      "name": "The Dog Park at Immanuel"
+    }
+  },
+  {
+    "place_id": "osm_1385571769",
+    "name": "Dog Henge",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.784779,
+    "longitude": -86.1376088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Henge"
+    }
+  },
+  {
+    "place_id": "osm_1413431975",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.5622025,
+    "longitude": -87.3563669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435751",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.3625147,
+    "longitude": -86.3491042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435966",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.1438281,
+    "longitude": -87.2602553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437201",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.5538502,
+    "longitude": -85.5483707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437339",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.2763291,
+    "longitude": -86.1294463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438192",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.9796973,
+    "longitude": -86.3966932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438270",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.877602,
+    "longitude": -86.4732152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438373",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.8712223,
+    "longitude": -84.9324685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438521",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.842911,
+    "longitude": -85.5571052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438968",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.4507201,
+    "longitude": -85.6262195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439425",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.3472484,
+    "longitude": -87.3906683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439632",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.4894222,
+    "longitude": -85.7698077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439902",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2442536,
+    "longitude": -86.3578135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Leavenworth",
+      "addr:housenumber": "6582",
+      "addr:postcode": "47137",
+      "addr:state": "IN",
+      "addr:street": "South State Road 66",
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440000",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.1515848,
+    "longitude": -85.0705411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1423334076",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.3181328,
+    "longitude": -85.7178255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Thompson Square Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1452669311",
+    "name": "New Albany Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2662828,
+    "longitude": -85.8465801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "New Albany",
+      "addr:housenumber": "1935",
+      "addr:postcode": "47150",
+      "addr:state": "IN",
+      "addr:street": "Budd Road",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "New Albany Dog Park",
+      "start_date": "2016-10-01",
+      "website": "https://newalbanydogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1458085068",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.885147,
+    "longitude": -85.4861101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1465213487",
+    "name": "Pet Run",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 39.7317735,
+    "longitude": -86.3310145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Pet Run",
+      "note": "Resident Use Only",
+      "operator": "Double Creek Flats",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1467172749",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 41.4832029,
+    "longitude": -87.0142747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park",
+      "operator": "The Lakes Of Valparaiso"
+    }
+  },
+  {
+    "place_id": "osm_1481141651",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 40.0002478,
+    "longitude": -85.7656726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1481205340",
+    "name": "Dog Park",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2268054,
+    "longitude": -85.537163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1484678405",
+    "name": "Champions Dog Run",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.273596,
+    "longitude": -85.7025464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Champions Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_11256074",
+    "name": "Old Louisville Dog Run",
+    "formatted_address": ", Indiana, USA",
+    "latitude": 38.2331519,
+    "longitude": -85.7529101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Old Louisville Dog Run",
+      "type": "multipolygon",
+      "website": "http://louisvilledogs.netfirms.com/index.html"
+    }
+  }
+]

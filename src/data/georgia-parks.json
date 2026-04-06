@@ -1,0 +1,4911 @@
+[
+  {
+    "place_id": "osm_4872511535",
+    "name": "3",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0256098,
+    "longitude": -83.3836065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "3"
+    }
+  },
+  {
+    "place_id": "osm_5052414333",
+    "name": "Spike's Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.1910978,
+    "longitude": -83.7493087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Spike's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6198473020",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.1756764,
+    "longitude": -81.4042988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8522509225",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.2279205,
+    "longitude": -83.4992587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8849698614",
+    "name": "Pendleton King Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4612444,
+    "longitude": -82.0136073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pendleton King Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_8912173988",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9320533,
+    "longitude": -84.302351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10067723119",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.2322477,
+    "longitude": -81.7645502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10084992591",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.96651,
+    "longitude": -84.3818449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "opening_hours": "Mo-Su closed \"gate closed dusk to dawn\"",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_10184489299",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4538446,
+    "longitude": -84.1549061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10925322397",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9557179,
+    "longitude": -82.2416764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11294843584",
+    "name": "Rockbridge Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.783271,
+    "longitude": -84.2446589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rockbridge Dog Park",
+      "operator": "Dekalb County",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_12012553433",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0003794,
+    "longitude": -84.1442395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12372734070",
+    "name": "Thomas Farm Preserve Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.868083,
+    "longitude": -83.4021801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Thomas Farm Preserve Dog Park",
+      "operator": "City of Watkinsville",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_12480952808",
+    "name": "Drafty Dane",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9502766,
+    "longitude": -84.5249504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Marietta",
+      "addr:housenumber": "942",
+      "addr:postcode": "30060",
+      "addr:state": "GA",
+      "addr:street": "Roswell Street",
+      "leisure": "dog_park",
+      "name": "Drafty Dane"
+    }
+  },
+  {
+    "place_id": "osm_12536814395",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9337645,
+    "longitude": -82.3137332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12563405761",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.940216,
+    "longitude": -82.2248441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12582204043",
+    "name": "Avalon Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0715486,
+    "longitude": -84.2790629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Avalon Dog Park",
+      "operator": "Avalon",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_34803710",
+    "name": "Fetch Park Alpharetta",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0578245,
+    "longitude": -84.3033827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "LandPro08:DE3": "UNDEVELOPED",
+      "LandPro08:LC_NAME": "FOREST",
+      "LandPro08:LU_NAME": "FOREST",
+      "LandPro08:reviewed": "no",
+      "addr:city": "Alpharetta",
+      "addr:housenumber": "11440",
+      "addr:postcode": "30009",
+      "addr:state": "GA",
+      "addr:street": "Maxwell Road North",
+      "leisure": "dog_park",
+      "name": "Fetch Park Alpharetta",
+      "source": "LandPro08",
+      "website": "https://fetchpark.com/locations/alpharetta"
+    }
+  },
+  {
+    "place_id": "osm_51284093",
+    "name": "Skiptown - Atlanta",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7591331,
+    "longitude": -84.3321696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "DeKalb:id": "100455",
+      "leisure": "dog_park",
+      "name": "Skiptown - Atlanta"
+    }
+  },
+  {
+    "place_id": "osm_83563531",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7990821,
+    "longitude": -82.2810363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_100759163",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8954332,
+    "longitude": -84.0574031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_143165125",
+    "name": "NOMA Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0279738,
+    "longitude": -81.0432321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "NOMA Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_152034868",
+    "name": "Large Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.859081,
+    "longitude": -82.2274139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Large Dog Park",
+      "operator": "Greenville County",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_161565852",
+    "name": "Rail Tail Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.940136,
+    "longitude": -81.9076247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "area": "yes",
+      "leisure": "dog_park",
+      "name": "Rail Tail Dog Park",
+      "operator": "Spartanburg County Foundation",
+      "website": "https://www.cityofspartanburg.org/227/Rail-Tail-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_182396488",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7884297,
+    "longitude": -84.3714652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "description": "Park for small dogs",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_182396490",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7873277,
+    "longitude": -84.3712165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "description": "Park for all dogs",
+      "leisure": "dog_park",
+      "source": "bing_imagery"
+    }
+  },
+  {
+    "place_id": "osm_257323599",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1626278,
+    "longitude": -80.9671137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_271119579",
+    "name": "Oakhurst Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7602518,
+    "longitude": -84.3099832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Oakhurst Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_272031390",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.406851,
+    "longitude": -82.1706209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_305305375",
+    "name": "Conestee Large Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7815977,
+    "longitude": -82.3513062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Greenville",
+      "addr:housenumber": "840",
+      "addr:postcode": "29607",
+      "addr:state": "SC",
+      "addr:street": "Mauldin Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Conestee Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_311489893",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8212475,
+    "longitude": -82.32962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_331331267",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7996465,
+    "longitude": -84.3874462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Dewberry Capital"
+    }
+  },
+  {
+    "place_id": "osm_333672889",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9635706,
+    "longitude": -84.5533776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_352412086",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8741289,
+    "longitude": -84.4861816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_371054736",
+    "name": "Daffin Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.0433649,
+    "longitude": -81.078188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Daffin Dog Park",
+      "website": "https://www.facebook.com/pages/Daffin-Dog-Park/248285151928402"
+    }
+  },
+  {
+    "place_id": "osm_393261491",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0976312,
+    "longitude": -84.0958757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_393490596",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1053442,
+    "longitude": -84.2668906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_401507860",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.6325553,
+    "longitude": -84.1804317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_435205957",
+    "name": "Diamond Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.4635769,
+    "longitude": -84.2646404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Diamond Dog Park",
+      "surface": "grass",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_465105602",
+    "name": "Stillwater at Grandview Cove Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7216749,
+    "longitude": -82.2595443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stillwater at Grandview Cove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468565690",
+    "name": "Wiggley Field Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9252672,
+    "longitude": -83.3100523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wiggley Field Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468844435",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7720055,
+    "longitude": -84.2840504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_479770402",
+    "name": "Town of Lexington Paw Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9791759,
+    "longitude": -81.2598516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Town of Lexington Paw Park"
+    }
+  },
+  {
+    "place_id": "osm_480889378",
+    "name": "Union County Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8706449,
+    "longitude": -83.979765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Union County Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_480948500",
+    "name": "Loring Heights Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.798001,
+    "longitude": -84.3966329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Loring Heights Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_483247147",
+    "name": "Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9244816,
+    "longitude": -84.3544127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "Parc at Perimeter"
+    }
+  },
+  {
+    "place_id": "osm_491503051",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9968985,
+    "longitude": -83.9251694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_492908156",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9260657,
+    "longitude": -83.3837235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Memorial Park"
+    }
+  },
+  {
+    "place_id": "osm_493811627",
+    "name": "Pawtriots Large Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1179299,
+    "longitude": -84.5887718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Pawtriots Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_501056435",
+    "name": "Drayton Mills Lofts dog park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9718832,
+    "longitude": -81.9107361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Drayton Mills Lofts dog park"
+    }
+  },
+  {
+    "place_id": "osm_7925366",
+    "name": "Frank Boone Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.033401,
+    "longitude": -84.6334423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Frank Boone Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_507429536",
+    "name": "Goodale Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4570016,
+    "longitude": -82.202765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Goodale Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_543431054",
+    "name": "Evans Towne Center Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5419415,
+    "longitude": -82.1295872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Evans Towne Center Dog Park",
+      "opening_hours": "24/7",
+      "small_dog": "separate"
+    }
+  },
+  {
+    "place_id": "osm_544134823",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8103725,
+    "longitude": -84.3014608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544553057",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5492744,
+    "longitude": -84.2368937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_545330532",
+    "name": "Newtown Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.020776,
+    "longitude": -84.2660949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Newtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_545592073",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.2849698,
+    "longitude": -81.5030273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_545592148",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.2862613,
+    "longitude": -81.5004719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_545933365",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.6177309,
+    "longitude": -84.3657138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_547531072",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9205925,
+    "longitude": -80.8389555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_555352416",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8901009,
+    "longitude": -84.5329479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "Burger park"
+    }
+  },
+  {
+    "place_id": "osm_555569475",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8691205,
+    "longitude": -84.5312792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "description": "off-leash dog park",
+      "leisure": "dog_park",
+      "opening_hours": "\"Sunrise to Sunset\"",
+      "operator": "Lake Court Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_556134161",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.09698,
+    "longitude": -84.5299534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "opening_hours": "06:00-23:00",
+      "operator": "Woofstock Park"
+    }
+  },
+  {
+    "place_id": "osm_556134162",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.097504,
+    "longitude": -84.5298132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "opening_hours": "06:00-23:00",
+      "operator": "Woofstock Park"
+    }
+  },
+  {
+    "place_id": "osm_557783444",
+    "name": "Axis Midtown Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7762595,
+    "longitude": -84.3825535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "Dog park for Axis Midtown",
+      "leisure": "dog_park",
+      "name": "Axis Midtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_571429051",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9067874,
+    "longitude": -82.0274092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_574644851",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.952103,
+    "longitude": -80.9782177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_587552069",
+    "name": "Lake Carolina Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1864133,
+    "longitude": -80.887403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lake Carolina Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_596728880",
+    "name": "Large Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7416903,
+    "longitude": -82.2501889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "minweight:dog": "35 lbs",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_597485175",
+    "name": "McDaniel Meadows Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.4635325,
+    "longitude": -84.2697267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "McDaniel Meadows Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_603920740",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0860756,
+    "longitude": -84.4890763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_640944965",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8919621,
+    "longitude": -84.4728529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_647086522",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8764172,
+    "longitude": -84.4717185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_655262901",
+    "name": "The Pier Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.6484914,
+    "longitude": -82.8589492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Pier Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_656299663",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9311682,
+    "longitude": -84.5221507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "no",
+      "leisure": "dog_park",
+      "note:access": "Park closed for rebuilding"
+    }
+  },
+  {
+    "place_id": "osm_667018708",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9961209,
+    "longitude": -81.0090253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_674186951",
+    "name": "Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8810029,
+    "longitude": -83.4825481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_676590144",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0717651,
+    "longitude": -84.3025702,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_697038284",
+    "name": "Hartsfield-Jackson Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.6402085,
+    "longitude": -84.4467804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Hartsfield-Jackson Dog Park",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_700730389",
+    "name": "Fowler Park Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1463592,
+    "longitude": -84.2098867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fowler Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_702546160",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4104243,
+    "longitude": -82.1298341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_721773305",
+    "name": "Walden Glen Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5260271,
+    "longitude": -82.1407683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Walden Glen Dog Park",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_737362868",
+    "name": "Fetch Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7519921,
+    "longitude": -84.3708033,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Atlanta",
+      "addr:housenumber": "520",
+      "addr:postcode": "30312",
+      "addr:street": "Daniel Street Southeast",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fetch Park",
+      "surface": "artificial_turf",
+      "website": "https://www.fetchparkatl.com"
+    }
+  },
+  {
+    "place_id": "osm_738380633",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0925291,
+    "longitude": -84.5212745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_740777180",
+    "name": "South Bend Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7001538,
+    "longitude": -84.3890995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "South Bend Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_742697065",
+    "name": "Ormewood Dog Yard",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7309375,
+    "longitude": -84.3529581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ormewood Dog Yard"
+    }
+  },
+  {
+    "place_id": "osm_742982469",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7530247,
+    "longitude": -84.3664289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_766498049",
+    "name": "Keowee Key Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8090335,
+    "longitude": -82.9113318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Keowee Key Dog Park",
+      "operator": "Keowee Key"
+    }
+  },
+  {
+    "place_id": "osm_801455427",
+    "name": "Renaissance Park Large Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7683007,
+    "longitude": -84.3810041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Renaissance Park Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_803512861",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9066597,
+    "longitude": -84.4804912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Westminster Square",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_806195527",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9713653,
+    "longitude": -84.1203563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_808862641",
+    "name": "Cisco's Dog Park At Bryant Commons Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.8378688,
+    "longitude": -81.5923105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Hinesville",
+      "addr:postcode": "31313",
+      "addr:state": "GA",
+      "leisure": "dog_park",
+      "name": "Cisco's Dog Park At Bryant Commons Park"
+    }
+  },
+  {
+    "place_id": "osm_816917147",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7469686,
+    "longitude": -84.3400367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_818870447",
+    "name": "Kirkwood Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7556552,
+    "longitude": -84.3311987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Kirkwood Dog Park",
+      "start_date": "2019-11-15"
+    }
+  },
+  {
+    "place_id": "osm_824923679",
+    "name": "Freedom Barkway",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7606203,
+    "longitude": -84.3705039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Atlanta",
+      "addr:housenumber": "523",
+      "addr:postcode": "30312",
+      "addr:state": "GA",
+      "addr:street": "Highland Avenue Northeast",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Freedom Barkway",
+      "website": "https://freedombarkway.com/"
+    }
+  },
+  {
+    "place_id": "osm_834702734",
+    "name": "Arcadia Station dog park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9558595,
+    "longitude": -81.991158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Arcadia Station dog park"
+    }
+  },
+  {
+    "place_id": "osm_840361179",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8383324,
+    "longitude": -84.581105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_845519202",
+    "name": "North Augusta Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4890994,
+    "longitude": -81.9703479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "North Augusta",
+      "addr:postcode": "29841",
+      "addr:state": "SC",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "North Augusta Bark Park",
+      "website": "https://www.northaugustasc.gov/Home/Components/FacilityDirectory/FacilityDirectory/40/1458"
+    }
+  },
+  {
+    "place_id": "osm_846942464",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5827832,
+    "longitude": -82.1316011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_859512392",
+    "name": "Independence Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.8353185,
+    "longitude": -81.6503051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Independence Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1426869947",
+    "name": "Ballpark Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.893096,
+    "longitude": -84.4702268,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Ballpark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_872796882",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.8500383,
+    "longitude": -81.5786063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_874474443",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9623392,
+    "longitude": -80.8967122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_875724731",
+    "name": "Peachtree City Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.3824773,
+    "longitude": -84.5662094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Peachtree City",
+      "addr:housenumber": "193",
+      "addr:postcode": "30269",
+      "addr:state": "GA",
+      "addr:street": "McIntosh Trail",
+      "leisure": "dog_park",
+      "name": "Peachtree City Dog Park",
+      "operator": "Peachtree City"
+    }
+  },
+  {
+    "place_id": "osm_884243970",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.872061,
+    "longitude": -82.3512998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_884897815",
+    "name": "Atlantic Station Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7903339,
+    "longitude": -84.3990289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Atlantic Station Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_904727870",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.0689563,
+    "longitude": -81.0863514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes"
+    }
+  },
+  {
+    "place_id": "osm_908458029",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.0747321,
+    "longitude": -81.2666999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_914538476",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8618087,
+    "longitude": -84.3155567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_955814721",
+    "name": "Small Dogs Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.038675,
+    "longitude": -84.0233215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dogs Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_955816523",
+    "name": "Large Dogs Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0386288,
+    "longitude": -84.0222762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dogs Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_964728105",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9633985,
+    "longitude": -81.9442528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_966804676",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4095851,
+    "longitude": -84.6035955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_968531619",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0219078,
+    "longitude": -81.0295538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "City of Columbia",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1000350668",
+    "name": "Milgen Village Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.5271214,
+    "longitude": -84.8854235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Milgen Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_984738268",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8936025,
+    "longitude": -84.2044027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Capella Apartment Homes",
+      "operator:type": "business",
+      "source": "local knowledge;aerial imagery"
+    }
+  },
+  {
+    "place_id": "osm_1016022962",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9977205,
+    "longitude": -82.2824844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1017738508",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9623528,
+    "longitude": -81.8937085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1026557803",
+    "name": "Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9870805,
+    "longitude": -84.2757884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "Small Dogs Only",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "Avana Woods",
+      "operator:type": "private",
+      "wikimedia_commons": "Category:Avana Woods Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1056771103",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8101298,
+    "longitude": -84.4180188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1067179891",
+    "name": "Roswell Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.001135,
+    "longitude": -84.2958951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Roswell Dog Park",
+      "operator": "City of Roswell",
+      "operator:type": "government",
+      "wikimedia_commons": "Category:East_Roswell_Park"
+    }
+  },
+  {
+    "place_id": "osm_1071094694",
+    "name": "Tyger Run Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8744255,
+    "longitude": -82.102855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tyger Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1076398254",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.915078,
+    "longitude": -84.0037072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Alexander Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1082146091",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9500497,
+    "longitude": -84.5482414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1084905495",
+    "name": "Cherokee Pond Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0055653,
+    "longitude": -81.2316478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cherokee Pond Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1086083981",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9385031,
+    "longitude": -82.0229007,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1086104133",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8458614,
+    "longitude": -82.0798343,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1091689660",
+    "name": "The Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9491909,
+    "longitude": -82.1244463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1098420052",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.2768621,
+    "longitude": -80.9701701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1098952565",
+    "name": "Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.1355341,
+    "longitude": -81.5810129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1098970990",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.1453265,
+    "longitude": -81.5796778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1099469112",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.1467247,
+    "longitude": -81.477916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1105903715",
+    "name": "TBA Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.5067921,
+    "longitude": -82.6469807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Anderson",
+      "addr:housenumber": "415",
+      "addr:postcode": "29621",
+      "addr:state": "SC",
+      "addr:street": "North Fant Street",
+      "leisure": "dog_park",
+      "name": "TBA Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1113165853",
+    "name": "Midland Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.2910708,
+    "longitude": -83.8250036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Midland Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1115170556",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5649753,
+    "longitude": -82.0784819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1125700509",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7347604,
+    "longitude": -82.2849013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1125700510",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7378036,
+    "longitude": -82.2818903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1133021856",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9356702,
+    "longitude": -82.2462789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1133036165",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8457954,
+    "longitude": -82.3541383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1154904799",
+    "name": "Coal Mountain Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.2693619,
+    "longitude": -84.0838207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Cumming",
+      "addr:housenumber": "4060",
+      "addr:postcode": "30028",
+      "addr:state": "GA",
+      "addr:street": "County Way",
+      "facebook": "https://www.facebook.com/groups/113956707273856/",
+      "leisure": "dog_park",
+      "name": "Coal Mountain Dog Park",
+      "opening_hours": "Mo-Su 06:00-21:30",
+      "operator": "Forsyth County, Georgia",
+      "operator:type": "public",
+      "website": "https://parks.forsythco.com/Parks-Facilities/Dog-Parks"
+    }
+  },
+  {
+    "place_id": "osm_1158457108",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4034994,
+    "longitude": -81.4208381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1158570827",
+    "name": "Large Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9311432,
+    "longitude": -82.2170414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Large Dog Park",
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1158786272",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.967191,
+    "longitude": -81.9133081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1161545927",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9282671,
+    "longitude": -82.2444114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1164757170",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.0255765,
+    "longitude": -81.2465999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1170387323",
+    "name": "Fetch Park Buckhead",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8378681,
+    "longitude": -84.3773752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Atlanta",
+      "addr:housenumber": "309",
+      "addr:postcode": "30305",
+      "addr:state": "GA",
+      "addr:street": "Buckhead Avenue Northeast",
+      "leisure": "dog_park",
+      "name": "Fetch Park Buckhead",
+      "operator": "Fetch Park",
+      "operator:type": "private",
+      "surface": "artificial_turf",
+      "website": "https://fetchpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1178208398",
+    "name": "The Unleashed Dog Bar and Salon",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8385712,
+    "longitude": -82.3344723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Unleashed Dog Bar and Salon"
+    }
+  },
+  {
+    "place_id": "osm_1178694708",
+    "name": "Henderson Park Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8682612,
+    "longitude": -84.2285431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Henderson Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1178697702",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8865493,
+    "longitude": -84.2441572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1180790175",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8217643,
+    "longitude": -84.235796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "lit": "no",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1182729759",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.5195447,
+    "longitude": -84.1118561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1182793518",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.6037956,
+    "longitude": -83.6827332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1184314098",
+    "name": "Addison dog park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.911788,
+    "longitude": -82.0039566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Addison dog park"
+    }
+  },
+  {
+    "place_id": "osm_1188203617",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9522579,
+    "longitude": -81.9321791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192736931",
+    "name": "Sweat Mountain Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0565462,
+    "longitude": -84.4735807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "area": "yes",
+      "leisure": "dog_park",
+      "name": "Sweat Mountain Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1193198870",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9425127,
+    "longitude": -82.2456832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1193244891",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8644902,
+    "longitude": -84.2960341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1193244909",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8713977,
+    "longitude": -84.2958958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1193246182",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.87005,
+    "longitude": -84.2601156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1196689451",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9500893,
+    "longitude": -82.231519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "VCA Blue Ridge Animal Hospital",
+      "operator:type": "business",
+      "website": "https://vcahospitals.com/blue-ridge"
+    }
+  },
+  {
+    "place_id": "osm_1201818894",
+    "name": "Fetch Park @ The Works",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8043829,
+    "longitude": -84.4279346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fetch Park @ The Works"
+    }
+  },
+  {
+    "place_id": "osm_1206285028",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9351043,
+    "longitude": -82.2709784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208957566",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.2132272,
+    "longitude": -84.1476165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209893795",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.996231,
+    "longitude": -81.1158901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Oakwood Commons HOA",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1210752518",
+    "name": "Lucy’s Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9676721,
+    "longitude": -82.2819953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "charge": "$12",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Lucy’s Dog Park",
+      "website": "https://www.sniffspot.com/listings/greer-sc/lucy-s-private-dog-park-in-greer-51087"
+    }
+  },
+  {
+    "place_id": "osm_1213640016",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.7937719,
+    "longitude": -82.3157971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1214553762",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9126128,
+    "longitude": -82.2527707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Branchwood"
+    }
+  },
+  {
+    "place_id": "osm_1214590592",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8730925,
+    "longitude": -82.2003892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1217252125",
+    "name": "Mohawk Lake Dogpark",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.9926801,
+    "longitude": -81.1687569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Savannah",
+      "addr:housenumber": "1134",
+      "addr:postcode": "31419",
+      "addr:state": "GA",
+      "addr:street": "Mohawk Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Mohawk Lake Dogpark"
+    }
+  },
+  {
+    "place_id": "osm_1217906963",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.8837667,
+    "longitude": -81.2548331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1218053056",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0114487,
+    "longitude": -80.9178306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1221542789",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1810886,
+    "longitude": -82.3761708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1221825810",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8921055,
+    "longitude": -84.4964207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1223896228",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1292427,
+    "longitude": -84.1167837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1226256087",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.3046324,
+    "longitude": -84.2340051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1227239709",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9040788,
+    "longitude": -81.9067653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1242967719",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9535942,
+    "longitude": -83.9871988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1243214554",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9996015,
+    "longitude": -81.0718251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1244256285",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.2603664,
+    "longitude": -84.0683779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1252925528",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4884455,
+    "longitude": -82.0868019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1255035507",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4698218,
+    "longitude": -84.5961032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1262717723",
+    "name": "Smith & porter Apartments Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7495107,
+    "longitude": -84.3990388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Smith & porter Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1271953388",
+    "name": "Edgewood Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8653595,
+    "longitude": -82.2940517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "contact:facebook": "https://www.facebook.com/meadowwood107",
+      "leisure": "dog_park",
+      "name": "Edgewood Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1281329885",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8791804,
+    "longitude": -84.5202149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284252624",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8906726,
+    "longitude": -84.291127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "Blue Ridge / Toccoa River KOA Holiday",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1284921968",
+    "name": "Peachtree Walk Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7844194,
+    "longitude": -84.3858634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Peachtree Walk Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1287691145",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9178401,
+    "longitude": -83.3929665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Glenwood"
+    }
+  },
+  {
+    "place_id": "osm_1288788123",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5213922,
+    "longitude": -82.015544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1297720589",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9462435,
+    "longitude": -81.9930872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1299344423",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8592428,
+    "longitude": -82.0333874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1303687490",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8763845,
+    "longitude": -82.2433221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1305119179",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7823884,
+    "longitude": -84.3836545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1305344249",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.3797765,
+    "longitude": -84.7561975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319708926",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1088825,
+    "longitude": -84.0375316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319800472",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.5510005,
+    "longitude": -83.658241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1320395796",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.2207131,
+    "longitude": -82.3488039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1325483908",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9690609,
+    "longitude": -81.9305949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1328284654",
+    "name": "Off Leash Dog Club",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0718217,
+    "longitude": -84.2953202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Alpharetta",
+      "addr:housenumber": "142",
+      "addr:postcode": "30009",
+      "addr:state": "GA",
+      "addr:street": "South Main Street",
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Club",
+      "website": "https://www.oldogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1332558633",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.6724887,
+    "longitude": -84.0092513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1340181437",
+    "name": "Townhouse Atlanta Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7656852,
+    "longitude": -84.3839212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Townhouse Atlanta Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1344583955",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9328446,
+    "longitude": -83.334999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "The Pointe Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1346050895",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0591782,
+    "longitude": -84.2314061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1356275315",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.2902261,
+    "longitude": -81.0152871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1364860653",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8868558,
+    "longitude": -82.2994286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1370733131",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.697748,
+    "longitude": -82.8048651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1371018722",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5045378,
+    "longitude": -82.1461119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1375159281",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7771463,
+    "longitude": -84.270409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1376787666",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.6845517,
+    "longitude": -84.4504671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1378686221",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9215799,
+    "longitude": -82.2076224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1381837678",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9326657,
+    "longitude": -83.4624754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1384780738",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4652242,
+    "longitude": -84.5074597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Trilith",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1391204466",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.927894,
+    "longitude": -83.343302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Parkside Cottages"
+    }
+  },
+  {
+    "place_id": "osm_1394579067",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.1344362,
+    "longitude": -83.9125109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1395889803",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7415174,
+    "longitude": -84.4344349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1411264650",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9827619,
+    "longitude": -81.8709313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1411557481",
+    "name": "Pitner Road Small Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0168555,
+    "longitude": -84.7251349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Pitner Road Small Dog Park",
+      "operator": "Pitner Road Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1412536844",
+    "name": "The Bark Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.5469845,
+    "longitude": -84.0219137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Bark Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1413173031",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.6423365,
+    "longitude": -84.0465906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413422000",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.9759762,
+    "longitude": -83.7585941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444276",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.5046913,
+    "longitude": -82.9619947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444633",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.2957206,
+    "longitude": -81.5437074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413446094",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.5619756,
+    "longitude": -83.4968516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413446884",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.7177694,
+    "longitude": -83.7338449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413447754",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.184196,
+    "longitude": -81.455268,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413448085",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.9613186,
+    "longitude": -81.3318139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413448239",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.5811177,
+    "longitude": -84.1060391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413449217",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.4158335,
+    "longitude": -83.5036635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413449529",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 31.1384078,
+    "longitude": -81.571995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1418239215",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.9393317,
+    "longitude": -82.0726243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426302347",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8653654,
+    "longitude": -82.3350122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1433420303",
+    "name": "Amli Arts Center Private Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7892334,
+    "longitude": -84.3886529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Amli Arts Center Private Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1442697038",
+    "name": "Caney Creek Preserve Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.0994355,
+    "longitude": -84.1865678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Cumming",
+      "addr:housenumber": "2755",
+      "addr:postcode": "30041",
+      "addr:state": "GA",
+      "addr:street": "Caney Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Caney Creek Preserve Dog Park",
+      "operator": "Forsyth County",
+      "operator:type": "public",
+      "website": "https://parks.forsythco.com/Parks/Caney-Creek-Preserve"
+    }
+  },
+  {
+    "place_id": "osm_1445770338",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.0087093,
+    "longitude": -81.1049077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1449291095",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.1489841,
+    "longitude": -81.2414481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1449493006",
+    "name": "Montgomery Park HOA Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.960847,
+    "longitude": -84.5467149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "202",
+      "addr:street": "Avery Street Northeast",
+      "building": "detached",
+      "leisure": "dog_park",
+      "name": "Montgomery Park HOA Dog Park",
+      "operator": "Montgomery Park Homeowners Association",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "place_id": "osm_1453732167",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9313601,
+    "longitude": -83.3402705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Woodsong Village"
+    }
+  },
+  {
+    "place_id": "osm_1457009699",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8961938,
+    "longitude": -84.2267184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1457642063",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8802344,
+    "longitude": -84.4986241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1459082804",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.7671805,
+    "longitude": -84.3642627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1459150163",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.6153184,
+    "longitude": -83.6749696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1462920728",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 32.5495534,
+    "longitude": -83.6985291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1465980325",
+    "name": "Station 75 Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.3867608,
+    "longitude": -84.1487304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Locust Grove",
+      "addr:housenumber": "1301",
+      "addr:postcode": "30248",
+      "addr:state": "Georgia",
+      "addr:street": "Academic Parkway",
+      "leisure": "dog_park",
+      "name": "Station 75 Dog Park",
+      "operator": "Station 75 Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1466210414",
+    "name": "Eagle's Brooke Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.38763,
+    "longitude": -84.1451674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Eagle's Brooke Dog Park",
+      "operator": "Eagle's Brooke Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1467731876",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9599554,
+    "longitude": -84.502389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1.5",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1472501026",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.4088702,
+    "longitude": -84.6755898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Pet Paradise Peachtree City",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1473219893",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.9547466,
+    "longitude": -84.499493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1487330484",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.8930255,
+    "longitude": -81.9064408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_14974791",
+    "name": "Grace Street Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 34.212078,
+    "longitude": -82.1693258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Grace Street Dog Park",
+      "operator": "City of Greenwood, South Carolina",
+      "operator:type": "public",
+      "type": "multipolygon",
+      "website": "https://www.gwdparks.org/dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_18723730",
+    "name": "Dog Park",
+    "formatted_address": ", Georgia, USA",
+    "latitude": 33.8528607,
+    "longitude": -84.1150859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

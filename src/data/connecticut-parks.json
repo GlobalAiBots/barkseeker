@@ -1,0 +1,1294 @@
+[
+  {
+    "place_id": "osm_2656635888",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5116254,
+    "longitude": -72.7370755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_2912033963",
+    "name": "Courtland Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0598064,
+    "longitude": -73.512555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Courtland Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_5260315803",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2474543,
+    "longitude": -73.0091103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5314220819",
+    "name": "B.A.R.K Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6728854,
+    "longitude": -72.966977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "B.A.R.K Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_7673624032",
+    "name": "Bailey's Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3049229,
+    "longitude": -72.5259983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bailey's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10853542109",
+    "name": "Manchester Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.760069,
+    "longitude": -72.5150582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Manchester",
+      "addr:housenumber": "155",
+      "addr:postcode": "06040",
+      "addr:state": "CT",
+      "addr:street": "Spring Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Manchester Dog Park",
+      "website": "https://www.manchesternh.gov/Departments/Parks-and-Recreation/Parks-Trails-and-Facilities/Recreation-Facilities/Manchester-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_11427241912",
+    "name": "Madison Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2739444,
+    "longitude": -72.5494761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Madison Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_151873457",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.898574,
+    "longitude": -72.7012147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_329607869",
+    "name": "Eisenhower Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.255334,
+    "longitude": -73.05809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Milford",
+      "addr:housenumber": "975",
+      "addr:postcode": "06460",
+      "addr:state": "CT",
+      "addr:street": "West River Street",
+      "alt_name": "Milford Dog Park",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Eisenhower Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_367516808",
+    "name": "Newtown Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4087014,
+    "longitude": -73.2844412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Newtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_377146051",
+    "name": "Paw Meadow Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8756186,
+    "longitude": -72.7984368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paw Meadow Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_435405975",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6999633,
+    "longitude": -72.7069681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_436880623",
+    "name": "Southbury Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5028848,
+    "longitude": -73.2186841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southbury Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_458975226",
+    "name": "Southington Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6048388,
+    "longitude": -72.8813484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Southington Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_464813660",
+    "name": "Naugatuck Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4853672,
+    "longitude": -73.0798275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "meadow",
+      "leisure": "dog_park",
+      "name": "Naugatuck Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_466201269",
+    "name": "Shelton Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3104923,
+    "longitude": -73.1197489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Shelton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468516982",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3739676,
+    "longitude": -72.0402548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "meadow",
+      "leisure": "dog_park",
+      "natural": "grass"
+    }
+  },
+  {
+    "place_id": "osm_477375786",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0792713,
+    "longitude": -72.5260782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_489864234",
+    "name": "Wethersfield Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6896952,
+    "longitude": -72.6677945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Located within Mill Woods Park, the dog park is a place where well-behaved dogs can run off-leash safely, under the watchful eyes of their owners. The dog park has a separate area for small or timid dogs.",
+      "leisure": "dog_park",
+      "name": "Wethersfield Dog Park",
+      "website": "http://wethersfieldct.com/content/398/422/5195.aspx",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_492646604",
+    "name": "East Windsor Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9095706,
+    "longitude": -72.5372223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "East Windsor Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_504918063",
+    "name": "Wallingford Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4582676,
+    "longitude": -72.834757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wallingford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_548140385",
+    "name": "Captain Bruce Ladd Memorial Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3821068,
+    "longitude": -71.8014984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Captain Bruce Ladd Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_549231039",
+    "name": "Bristol Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.695338,
+    "longitude": -72.9628475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bristol Dog Park",
+      "note": "City Parcel ID: 22836. Owned by City of Bristol",
+      "operator": "City of Bristol",
+      "source": "survey"
+    }
+  },
+  {
+    "place_id": "osm_552167824",
+    "name": "South Windsor Bark Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8419001,
+    "longitude": -72.5453502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "South Windsor Bark Park",
+      "website": "https://southwindsor.recdesk.com/Community/Facility/Detail?facilityId=93"
+    }
+  },
+  {
+    "place_id": "osm_556829383",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8181342,
+    "longitude": -72.7258614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_562091185",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9478661,
+    "longitude": -72.7974446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_621511580",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3562376,
+    "longitude": -72.922962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_629129363",
+    "name": "Mechanic Street Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3187747,
+    "longitude": -72.9068784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Mechanic Street Dog Park",
+      "surface": "pebblestone",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_691985863",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7535295,
+    "longitude": -72.5987089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_718847271",
+    "name": "Cromwell Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6130319,
+    "longitude": -72.6932806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cromwell Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_766144043",
+    "name": "Hamden Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3536407,
+    "longitude": -72.9051079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Hamden Dog Park",
+      "website": "http://hamdenrdog.org/"
+    }
+  },
+  {
+    "place_id": "osm_771166281",
+    "name": "Saint Ronan Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3240421,
+    "longitude": -72.919302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "name": "Saint Ronan Dog Park",
+      "opening_hours": "Mo-Fr 06:30-20:00; Sa-Su 08:00-21:00",
+      "operator": "Yale Divinity School",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_793297491",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2187447,
+    "longitude": -73.2365195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_796976811",
+    "name": "Agawam Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0900481,
+    "longitude": -72.6445583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Agawam Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_797261711",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3888679,
+    "longitude": -73.5191951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_859809524",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7096997,
+    "longitude": -72.6123101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Town of Glastonbury",
+      "operator:type": "government",
+      "operator:wikidata": "Q753943"
+    }
+  },
+  {
+    "place_id": "osm_864866203",
+    "name": "Bark Park Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.280362,
+    "longitude": -73.4888208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_870867533",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6358986,
+    "longitude": -72.2946451,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_886806430",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3144029,
+    "longitude": -72.6773292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_988925068",
+    "name": "Putnam Lions Memorial Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9055455,
+    "longitude": -71.9044869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Putnam Lions Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_993073697",
+    "name": "Mitchell D. Phaiah Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7809783,
+    "longitude": -71.8985601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Killingly",
+      "addr:housenumber": "78",
+      "addr:postcode": "06239",
+      "addr:state": "CT",
+      "addr:street": "Quinebaug Drive",
+      "leisure": "dog_park",
+      "name": "Mitchell D. Phaiah Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_995541216",
+    "name": "Rowayton Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0646599,
+    "longitude": -73.4373927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rowayton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1052170923",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.042538,
+    "longitude": -73.5405155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1058420689",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3224626,
+    "longitude": -72.9565385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1065367617",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3421046,
+    "longitude": -72.3995376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1077989957",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5312955,
+    "longitude": -72.0910181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Norwich",
+      "addr:postcode": "06360",
+      "addr:state": "CT",
+      "addr:street": "Asylum Street",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1086840118",
+    "name": "Union Street Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3035291,
+    "longitude": -72.922251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Union Street Dog Park",
+      "operator": "Friends of Wooster Square Parks",
+      "start_date": "2012",
+      "website": "https://unionstreetdogpark.weebly.com/"
+    }
+  },
+  {
+    "place_id": "osm_1095770565",
+    "name": "Colchester Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5961978,
+    "longitude": -72.3327912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Colchester Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1097417162",
+    "name": "Rocky Hill Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6601594,
+    "longitude": -72.6482307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Rocky Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1165977869",
+    "name": "West Hartford Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7358486,
+    "longitude": -72.7356336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West Hartford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1192681289",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3079887,
+    "longitude": -73.6947046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1204743459",
+    "name": "Veterans Memorial Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2701063,
+    "longitude": -72.9800857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "West Haven",
+      "addr:housenumber": "91",
+      "addr:postcode": "06516",
+      "addr:state": "CT",
+      "addr:street": "Bull Hill Lane",
+      "leisure": "dog_park",
+      "name": "Veterans Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1206736042",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9897183,
+    "longitude": -72.6493548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209159648",
+    "name": "East Haddam Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5103524,
+    "longitude": -72.4064238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "East Haddam Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1247012375",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1515741,
+    "longitude": -73.4273318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1286607777",
+    "name": "Webster Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0533303,
+    "longitude": -71.8614126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Webster Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1313400640",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0421281,
+    "longitude": -73.5402777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1359188429",
+    "name": "Spencer's Run Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1213049,
+    "longitude": -73.4940639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spencer's Run Dog Park",
+      "operator": "Town of New Canaan",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1374962696",
+    "name": "Meriden Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5657951,
+    "longitude": -72.7867596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Meriden Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1381010072",
+    "name": "Short Beach Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.259036,
+    "longitude": -72.8381457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Short Beach Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1413431571",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9259806,
+    "longitude": -72.2600538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1424765281",
+    "name": "Oyster Shell Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1059682,
+    "longitude": -73.4149415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Oyster Shell Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1453489768",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3441262,
+    "longitude": -72.0091147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Town of Groton Animal Control",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1474915771",
+    "name": "Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5132041,
+    "longitude": -72.0999648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_18052900",
+    "name": "Fort Hale Dog Park",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2680297,
+    "longitude": -72.8999744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Hale Dog Park",
+      "type": "multipolygon"
+    }
+  }
+]

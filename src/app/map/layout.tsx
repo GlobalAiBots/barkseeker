@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "US Boat Ramp Map — Find Launch Sites in All 50 States | RampSeeker",
-  description: "Interactive map of 29,000+ boat ramps across 46 states. Browse by state to find boat launch sites with GPS coordinates, amenities, and directions.",
+  title: "US Dog Park Map — Find Parks in 35 States | BarkSeeker",
+  description: "Interactive map of 4,700+ dog parks across 35 states. Browse by state to find dog parks with GPS coordinates, amenities, and off-leash info.",
   openGraph: {
-    title: "US Boat Ramp Map — RampSeeker",
-    description: "29,000+ boat ramps across 46 states. Find your launch.",
-    url: "https://rampseeker.com/map",
-    siteName: "RampSeeker",
+    title: "US Dog Park Map — BarkSeeker",
+    description: "4,700+ dog parks across 35 states. Find your park.",
+    url: "https://barkseeker.com/map",
+    siteName: "BarkSeeker",
   },
-  twitter: { card: "summary", title: "US Boat Ramp Map | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/map" },
+  twitter: { card: "summary", title: "US Dog Park Map | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/map" },
 };
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {

@@ -1,0 +1,7263 @@
+[
+  {
+    "place_id": "osm_3366945961",
+    "name": "Rocky Top Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3901145,
+    "longitude": -74.5914852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rocky Top Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_3923798085",
+    "name": "Bugsy’s Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7767959,
+    "longitude": -73.9280804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bugsy’s Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_551175116",
+    "name": "Church Square Park Dog Playpen",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7421893,
+    "longitude": -74.0329511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Church Square Park Dog Playpen"
+    }
+  },
+  {
+    "place_id": "osm_4501525471",
+    "name": "Brooklyn Bridge Park - Pier 6 - Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6927371,
+    "longitude": -74.0000345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Brooklyn",
+      "addr:housenumber": "360",
+      "addr:postcode": "11201",
+      "addr:state": "NY",
+      "addr:street": "Furman Street",
+      "leisure": "dog_park",
+      "name": "Brooklyn Bridge Park - Pier 6 - Dog Run",
+      "website": "https://www.brooklynbridgepark.org/places/dog-runs-1"
+    }
+  },
+  {
+    "place_id": "osm_4655953235",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.4398539,
+    "longitude": -74.5050611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5539341011",
+    "name": "The Madison Dog Resort & Spa",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9130436,
+    "longitude": -74.2400383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Wayne",
+      "addr:housenumber": "15",
+      "addr:postcode": "07470",
+      "addr:state": "NJ",
+      "addr:street": "Corporate Drive",
+      "leisure": "dog_park",
+      "name": "The Madison Dog Resort & Spa"
+    }
+  },
+  {
+    "place_id": "osm_5924962467",
+    "name": "Westvale Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9917833,
+    "longitude": -74.020426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Westvale Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6093091158",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7430007,
+    "longitude": -74.1639383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6812776981",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7719369,
+    "longitude": -74.0122651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6929263886",
+    "name": "Dog Run 105",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.802422,
+    "longitude": -73.9714596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run 105",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_7771253020",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.758072,
+    "longitude": -73.9522277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7773235438",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.2096395,
+    "longitude": -74.9796031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9278440588",
+    "name": "Waretown Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.7954708,
+    "longitude": -74.209398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Waretowm",
+      "addr:housenumber": "182",
+      "addr:postcode": "08758",
+      "addr:state": "NJ",
+      "addr:street": "Wells Mills Road",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Waretown Dog Park",
+      "operator": "Ocean Township Recreation Department",
+      "operator:type": "government",
+      "website": "https://twpoceannj.gov/"
+    }
+  },
+  {
+    "place_id": "osm_9974487665",
+    "name": "Off Leash K9 Training Northern New Jersey",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.1339523,
+    "longitude": -74.2987331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Ringwood",
+      "addr:housenumber": "1165",
+      "addr:postcode": "07456",
+      "addr:state": "NJ",
+      "addr:street": "Greenwood Lake Turnpike",
+      "contact:email": "jacqueline@offleashk9training.com",
+      "contact:facebook": "OffLeashK9TrainingNJ",
+      "contact:instagram": "offleashk9trainingnj",
+      "contact:phone": "+1-201-503-5959",
+      "contact:website": "https://www.northernnjdogtrainers.com",
+      "contact:youtube": "https://www.youtube.com/c/OffLeashK9TrainingNJ",
+      "leisure": "dog_park",
+      "name": "Off Leash K9 Training Northern New Jersey",
+      "opening_hours": "Mo-Sa 09:00-17:00; Su off",
+      "operator": "Jacqueline Zinetti",
+      "start_date": "2012"
+    }
+  },
+  {
+    "place_id": "osm_10251064201",
+    "name": "Main Street Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7040161,
+    "longitude": -73.9887016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Main Street Dog Run",
+      "operator": "Brooklyn Bridge Park",
+      "operator:type": "public",
+      "website": "https://brooklynbridgepark.org/places-to-see/dog-runs/dog-run-john-street/"
+    }
+  },
+  {
+    "place_id": "osm_10647829939",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8250157,
+    "longitude": -73.91316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10830635036",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0020988,
+    "longitude": -75.2688967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10853535488",
+    "name": "Liberty Park II",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2580043,
+    "longitude": -74.0781435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Tinton Falls",
+      "addr:housenumber": "1420",
+      "addr:postcode": "07712",
+      "addr:state": "NJ",
+      "addr:street": "West Park Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Liberty Park II",
+      "website": "https://www.tintonfalls.com/resident/parks"
+    }
+  },
+  {
+    "place_id": "osm_11228136477",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9288435,
+    "longitude": -75.1494814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11482861155",
+    "name": "Freedom Barks Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8930198,
+    "longitude": -74.8328591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Freedom Barks Dog Park",
+      "note": "This dog park is unfenced and includes many of the surrounding fields and the fenced dog parks nearby.",
+      "website": "https://www.freedombarks.com/"
+    }
+  },
+  {
+    "place_id": "osm_11513414145",
+    "name": "Cottage Place Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8443623,
+    "longitude": -74.1127499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Cottage Place Park"
+    }
+  },
+  {
+    "place_id": "osm_11874585473",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6396557,
+    "longitude": -74.0749697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11976150629",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8411434,
+    "longitude": -73.945148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12117494901",
+    "name": "Malibu Beach: Longport Dog Beach",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.3069923,
+    "longitude": -74.5575502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Malibu Beach: Longport Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_12368190213",
+    "name": "Watsessing Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7860786,
+    "longitude": -74.2016127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "78",
+      "addr:street": "Locust Avenue",
+      "leisure": "dog_park",
+      "name": "Watsessing Dog Park",
+      "opening_hours": "Mo-Su sunrise-22:00",
+      "website": "https://essexcountyparks.org/parks/watsessing-park/programs",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_12453612763",
+    "name": "Large Dogs",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0631393,
+    "longitude": -74.7411304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dogs"
+    }
+  },
+  {
+    "place_id": "osm_13208322260",
+    "name": "Dogtopia of Valley Forge",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1253473,
+    "longitude": -75.402214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Eagleville",
+      "addr:housenumber": "2550",
+      "addr:postcode": "19403",
+      "addr:state": "PA",
+      "addr:street": "Boulevard of the Generals",
+      "description": "Dogtopia of Valley Forge is the ultimate destination for dog daycare, boarding, and spa services in Eagleville. Our fully supervised, open-play environment gives your pup a safe and fun space to exercise, socialize, and thrive.",
+      "email": "valleyforge@dogtopia.com",
+      "image": "https://yt3.googleusercontent.com/h9fYez0U6-sA0nXbmWb2tNF-ZnRRDyO3TFxkcHUCrV4l6mEnDtrVV0lc5zNqp5vxLs8c9WxUJw=s160-c-k-c0x00ffffff-no-rj",
+      "leisure": "dog_park",
+      "mobile": "+1 610-492-6328",
+      "name": "Dogtopia of Valley Forge",
+      "website": "https://www.dogtopia.com/valley-forge/"
+    }
+  },
+  {
+    "place_id": "osm_13332587343",
+    "name": "Highline Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.95658,
+    "longitude": -75.1847963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Philadelphia",
+      "addr:housenumber": "3025",
+      "addr:postcode": "19104",
+      "addr:state": "PA",
+      "addr:street": "John F. Kennedy Boulevard",
+      "leisure": "dog_park",
+      "name": "Highline Dog Park",
+      "operator": "Brandywine Realty Trust",
+      "operator:type": "private",
+      "website": "https://philadelphia.uli.org/highline-park-at-schuylkill-yards/"
+    }
+  },
+  {
+    "place_id": "osm_13336237626",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8844611,
+    "longitude": -73.9834506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_32866746",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7198134,
+    "longitude": -73.9531997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_39513389",
+    "name": "Hillside Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7014274,
+    "longitude": -73.9942579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Hillside Park",
+      "gnis:feature_id": "2391822",
+      "leisure": "dog_park",
+      "name": "Hillside Dog Park",
+      "note": "dog park",
+      "nycparks:ref": "B223G",
+      "opening_hours": "Mo-Su 06:00-01:00",
+      "operator": "New York City Department of Parks & Recreation",
+      "operator:type": "public",
+      "website": "https://www.nycgovparks.org/parks/hillside-park/",
+      "wikidata": "Q49501708"
+    }
+  },
+  {
+    "place_id": "osm_106646043",
+    "name": "South Mountain Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7393698,
+    "longitude": -74.2903386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Maplewood",
+      "addr:postcode": "07040",
+      "addr:state": "NJ",
+      "addr:street": "Bear Lane",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "South Mountain Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_116139687",
+    "name": "45th Street Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.2392386,
+    "longitude": -74.626191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "45th Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_143927988",
+    "name": "Dog park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7458729,
+    "longitude": -73.9084582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog park"
+    }
+  },
+  {
+    "place_id": "osm_183525285",
+    "name": "Donaldson Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4915408,
+    "longitude": -74.4206772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Donaldson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_192855284",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.746887,
+    "longitude": -73.9482292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_207853510",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0216702,
+    "longitude": -74.0286682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_210837699",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0823124,
+    "longitude": -75.1491912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_220361321",
+    "name": "Chester Avenue Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9448882,
+    "longitude": -75.2145771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Chester Avenue Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_224022467",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.802909,
+    "longitude": -73.9431621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_227960091",
+    "name": "Monocacy Park Off-Leash Recreation Area",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6397377,
+    "longitude": -75.3819196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bethlehem",
+      "addr:housenumber": "259",
+      "addr:postcode": "18017",
+      "addr:state": "PA",
+      "addr:street": "Illick's Mill Road",
+      "leisure": "dog_park",
+      "name": "Monocacy Park Off-Leash Recreation Area",
+      "operator": "City of Bethlehem",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_237523061",
+    "name": "Tompkins Square Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7264897,
+    "longitude": -73.9811727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tompkins Square Dog Run",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_237845866",
+    "name": "Triborough Bridge Playground C Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7739508,
+    "longitude": -73.9222261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Triborough Bridge Playground C Dog Run",
+      "website": "https://www.nycgovparks.org/parks/triborough-bridge-playground-c"
+    }
+  },
+  {
+    "place_id": "osm_239936684",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7438434,
+    "longitude": -73.9534024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_244980064",
+    "name": "Leroy Street Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7303611,
+    "longitude": -74.0109385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:postcode": "10014",
+      "addr:state": "NY",
+      "addr:street": "Leroy Street",
+      "leisure": "dog_park",
+      "name": "Leroy Street Dog Run",
+      "website": "https://hudsonriverpark.org/activities/leroy-street-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_244981405",
+    "name": "Tribeca Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7215434,
+    "longitude": -74.0123483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tribeca Dog Park",
+      "website": "https://hudsonriverpark.org/explore-the-park/activities/tribeca-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_247838631",
+    "name": "The Fi Office",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7286148,
+    "longitude": -73.9919936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "419",
+      "addr:postcode": "10003",
+      "addr:street": "Lafayette Street",
+      "height": "35.5",
+      "leisure": "dog_park",
+      "name": "The Fi Office",
+      "nycdoitt:bin": "1008773"
+    }
+  },
+  {
+    "place_id": "osm_252227357",
+    "name": "West 72nd Street Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.781204,
+    "longitude": -73.9865987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "West 72nd Street Dog Run",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:short": "NYC Parks",
+      "operator:type": "government",
+      "operator:wikidata": "Q1894232",
+      "website": "https://www.nycgovparks.org/parks/riverside-park/facilities/dogareas",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_255593919",
+    "name": "St. Nick's Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8181449,
+    "longitude": -73.9485567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "St. Nick's Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_255672316",
+    "name": "Bull Moose Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7821428,
+    "longitude": -73.9738145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Bull Moose Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_257030875",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2006107,
+    "longitude": -75.0611375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_257039589",
+    "name": "Leash Free Area",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9707413,
+    "longitude": -75.4779975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leash Free Area"
+    }
+  },
+  {
+    "place_id": "osm_257723260",
+    "name": "DiMattina Playground Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6797282,
+    "longitude": -74.0029296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "DiMattina Playground Dog Run",
+      "opening_hours": "06:00-01:00",
+      "website": "https://www.nycgovparks.org/parks/dimattina-playground/facilities/dogareas"
+    }
+  },
+  {
+    "place_id": "osm_261620714",
+    "name": "Pequannock Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.980193,
+    "longitude": -74.313046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pequannock Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_262289525",
+    "name": "Wayne Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9696748,
+    "longitude": -74.2704442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wayne Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_725435395",
+    "name": "2nd & Hudson Street Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7381436,
+    "longitude": -74.0293664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "2nd & Hudson Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_271280201",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.703779,
+    "longitude": -73.9231341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_277439423",
+    "name": "Horsham Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2036334,
+    "longitude": -75.1807584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Horsham Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_278474847",
+    "name": "Reynolds Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1302303,
+    "longitude": -75.4821599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Reynolds Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_278474848",
+    "name": "Reynolds Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1296304,
+    "longitude": -75.4828882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Reynolds Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_281090893",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8466322,
+    "longitude": -73.9421924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_286621130",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3459056,
+    "longitude": -74.5599538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_297995657",
+    "name": "Jemmy's Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.742379,
+    "longitude": -73.9885755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Jemmy's Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_305636272",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6043522,
+    "longitude": -74.2521222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_308989079",
+    "name": "Small Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7739394,
+    "longitude": -73.9438624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Run",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_315404577",
+    "name": "Fishbridge Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7091907,
+    "longitude": -74.0015206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:housenumber": "338",
+      "addr:postcode": "10038",
+      "addr:state": "NY",
+      "addr:street": "Pearl Street",
+      "garden:type": "community",
+      "gnis:feature_id": "2500764",
+      "leisure": "dog_park",
+      "name": "Fishbridge Park Dog Run",
+      "recycling:compost": "yes",
+      "start_date": "1991",
+      "wikidata": "Q49489542"
+    }
+  },
+  {
+    "place_id": "osm_319356223",
+    "name": "Mount Olive Township Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8618735,
+    "longitude": -74.7240926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Mount Olive Township Dog Park",
+      "operator": "Mt Olive TWP",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_320374645",
+    "name": "Leash Free Dog Run Area",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.506273,
+    "longitude": -75.0433455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Frenchtown",
+      "addr:housenumber": "178",
+      "addr:postcode": "08825",
+      "addr:state": "NJ",
+      "addr:street": "Horseshoe Bend Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Leash Free Dog Run Area"
+    }
+  },
+  {
+    "place_id": "osm_323919392",
+    "name": "Palmer Doggie Depot",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9761976,
+    "longitude": -75.1330882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Palmer Doggie Depot"
+    }
+  },
+  {
+    "place_id": "osm_336863051",
+    "name": "Washington Square Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7306583,
+    "longitude": -73.9984529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Washington Square Park Dog Run",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:short": "NYC Parks",
+      "operator:type": "government",
+      "operator:wikidata": "Q1894232",
+      "surface": "ground",
+      "website": "https://www.nycgovparks.org/parks/washington-square-park/facilities/dogareas",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_337324535",
+    "name": "Union Square Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7355863,
+    "longitude": -73.9909656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Union Square Dog Run",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.nycgovparks.org/parks/union-square-park/facilities/dogareas",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_338078874",
+    "name": "Parks Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.704368,
+    "longitude": -74.0058102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Parks Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_350349473",
+    "name": "Polk Valley Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5656755,
+    "longitude": -75.3316699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Polk Valley Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_354426534",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7106931,
+    "longitude": -74.0695262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_367316289",
+    "name": "Conshohocken Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0697549,
+    "longitude": -75.3009383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Conshohocken Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_374849577",
+    "name": "Dog Beach",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6625431,
+    "longitude": -73.9718868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_382453227",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7433358,
+    "longitude": -73.9602285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_398246021",
+    "name": "Brookdale Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8330152,
+    "longitude": -74.1926448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Brookdale Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_401682125",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.302393,
+    "longitude": -74.6018506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_414024015",
+    "name": "Pier 84 Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.763491,
+    "longitude": -74.0004121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Pier 84 Dog Park",
+      "website": "https://hudsonriverpark.org/activities/pier-84-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_429087060",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9930888,
+    "longitude": -74.287974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "Borough of Pompton Lakes",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_442082424",
+    "name": "Morrisville Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2054969,
+    "longitude": -74.7699216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Morrisville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_450283316",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.751607,
+    "longitude": -74.0233571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_453373027",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5813495,
+    "longitude": -73.9701074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "barrier": "fence",
+      "check_date": "2025-02-10",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "opening_hours": "24/7",
+      "small_dog": "shared",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_455012745",
+    "name": "Connolly Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8622742,
+    "longitude": -74.9489106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Connolly Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_457009791",
+    "name": "Columbus Square Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.932799,
+    "longitude": -75.1642102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Columbus Square Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_461719836",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9738927,
+    "longitude": -74.9917846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_466206458",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1674766,
+    "longitude": -74.8051001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_466707164",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.207572,
+    "longitude": -74.9204933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_468508226",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9286538,
+    "longitude": -74.0469703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1186816615",
+    "name": "Echo Lake Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6772072,
+    "longitude": -74.3411058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Echo Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469284387",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2763042,
+    "longitude": -74.8421852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469558966",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7515392,
+    "longitude": -74.0386208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469789522",
+    "name": "North Brunswick Community Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.440539,
+    "longitude": -74.4844563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "internet_access": "no",
+      "leisure": "dog_park",
+      "name": "North Brunswick Community Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_470756510",
+    "name": "Large Breed Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.949034,
+    "longitude": -75.1823836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Breed Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_471506557",
+    "name": "John DeCando Riverview Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9246747,
+    "longitude": -74.166424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "comment": "Dedicated November 2017, named for longtime Paterson animal control officer",
+      "leisure": "dog_park",
+      "name": "John DeCando Riverview Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479807237",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8155072,
+    "longitude": -74.1353077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_486685358",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7822765,
+    "longitude": -74.0275216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_494280403",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3999779,
+    "longitude": -74.4399582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_495486272",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7473409,
+    "longitude": -73.9216646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_512377165",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2045366,
+    "longitude": -74.6783802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_517777332",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7233022,
+    "longitude": -73.9435548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:short": "NYC Parks",
+      "operator:type": "government",
+      "operator:wikidata": "Q1894232"
+    }
+  },
+  {
+    "place_id": "osm_538396184",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6898775,
+    "longitude": -73.947817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_542271842",
+    "name": "Dog Bark Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1711859,
+    "longitude": -74.1839856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_544842375",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8331362,
+    "longitude": -74.4962635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_545748963",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5035125,
+    "longitude": -74.8974214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_546649320",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0318555,
+    "longitude": -74.6354184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_551168949",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9628606,
+    "longitude": -75.1581368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_555581765",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7286342,
+    "longitude": -74.0314523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_559229389",
+    "name": "Raritan Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5711362,
+    "longitude": -74.6386435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Raritan Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_560369697",
+    "name": "Viaduct Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7547119,
+    "longitude": -74.034665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Viaduct Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_562079686",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6822406,
+    "longitude": -75.1948078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_563719345",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.182419,
+    "longitude": -74.8564441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_573758059",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7877863,
+    "longitude": -74.0032211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_577906687",
+    "name": "Morningside Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8043794,
+    "longitude": -73.9591485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Morningside Dog Run",
+      "waste": "dog_excrement"
+    }
+  },
+  {
+    "place_id": "osm_584778393",
+    "name": "Bok Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9250663,
+    "longitude": -75.1607797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bok Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_586371655",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9135713,
+    "longitude": -75.0797937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_591647688",
+    "name": "Hugh More Bark",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6692412,
+    "longitude": -75.2355753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Hugh More Bark"
+    }
+  },
+  {
+    "place_id": "osm_610834989",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5069461,
+    "longitude": -74.5698695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_614971103",
+    "name": "Willowtown Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6923654,
+    "longitude": -73.9990782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Willowtown Dog Run",
+      "website": "https://www.willowtown.org/dog-run"
+    }
+  },
+  {
+    "place_id": "osm_615990049",
+    "name": "K9 Nanni Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7798638,
+    "longitude": -74.1260195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "K9 Nanni Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_617103543",
+    "name": "Luna Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5784391,
+    "longitude": -73.9766574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "check_date": "2025-02-03",
+      "check_date:opening_hours": "2021-10-04",
+      "leisure": "dog_park",
+      "name": "Luna Park Dog Run",
+      "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 09:00-21:00",
+      "small_dog": "shared",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_617506891",
+    "name": "Chelsea Waterside Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7487033,
+    "longitude": -74.007474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chelsea Waterside Dog Park",
+      "website": "https://www.hudsonriverpark.org/explore-the-park/activities/chelsea-waterside-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_617720124",
+    "name": "Mondaug Bark Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1429523,
+    "longitude": -75.1819164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mondaug Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_618104043",
+    "name": "W. Leroy Lewis Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0817578,
+    "longitude": -75.0223705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "East Stroudsburg",
+      "addr:housenumber": "108",
+      "addr:postcode": "18302",
+      "addr:state": "PA",
+      "addr:street": "Leroys Lane",
+      "leisure": "dog_park",
+      "name": "W. Leroy Lewis Dog Park",
+      "operator": "Middle Smithfield Twp."
+    }
+  },
+  {
+    "place_id": "osm_619304634",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8164917,
+    "longitude": -74.4856727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_625961028",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.77758,
+    "longitude": -74.0134748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_626959749",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.4615833,
+    "longitude": -74.4993524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_641069196",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6610328,
+    "longitude": -73.9880649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_656798407",
+    "name": "Seger Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9434433,
+    "longitude": -75.1594299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Seger Dog Park",
+      "website": "https://segerdogpark.org",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_656886452",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7370079,
+    "longitude": -74.0666979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "surface": "gravel"
+    }
+  },
+  {
+    "place_id": "osm_657669180",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1140682,
+    "longitude": -75.0779677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "colour": "black",
+      "dog": "designated",
+      "fence_type": "chain_link",
+      "height": "1.09",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_669611463",
+    "name": "Whitpain Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1476294,
+    "longitude": -75.2925544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "blue bell",
+      "addr:housenumber": "1610 Arch Street Road, Blue Bell, PA 19422",
+      "addr:postcode": "19422",
+      "addr:state": "pa",
+      "addr:street": "arch street road",
+      "leisure": "dog_park",
+      "name": "Whitpain Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_673703760",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6729028,
+    "longitude": -73.985835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_675669421",
+    "name": "Kennedy Dells Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.169548,
+    "longitude": -73.993592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Fenced dog park with wood chips on the ground. Park benches inside and nearby. ",
+      "leisure": "dog_park",
+      "name": "Kennedy Dells Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_679023157",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5214187,
+    "longitude": -74.4997043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_680460185",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7382402,
+    "longitude": -74.0471475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_683267856",
+    "name": "Madison at Barktowne",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9927125,
+    "longitude": -75.1688396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Madison at Barktowne"
+    }
+  },
+  {
+    "place_id": "osm_683460865",
+    "name": "Peter Detmold Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7537307,
+    "longitude": -73.9635697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Peter Detmold Park Dog Run",
+      "operator": "City of New York Parks"
+    }
+  },
+  {
+    "place_id": "osm_690615849",
+    "name": "Small Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7277735,
+    "longitude": -74.0446965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_690615850",
+    "name": "Large Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7274396,
+    "longitude": -74.044706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Large Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_693940435",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8018182,
+    "longitude": -74.1888356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landcover": "grass",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_699103529",
+    "name": "Wild Duck Pond Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9737707,
+    "longitude": -74.0937065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wild Duck Pond Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_699141354",
+    "name": "Doylestown Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2698788,
+    "longitude": -75.1381847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Doylestown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_699297434",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4560226,
+    "longitude": -74.6559634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_702695225",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.74799,
+    "longitude": -73.9554047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_703235072",
+    "name": "Bow Wow Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.961679,
+    "longitude": -75.0431285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bow Wow Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_706527895",
+    "name": "Green St Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9649598,
+    "longitude": -75.1683973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Green St Dog Park",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "place_id": "osm_712312094",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.333857,
+    "longitude": -74.4355847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_714776545",
+    "name": "Kensington Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6490762,
+    "longitude": -73.9713293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "dog": "yes",
+      "email": "kensingtondogrun@gmail.com",
+      "leisure": "dog_park",
+      "name": "Kensington Dog Run",
+      "operator": "Kensington Dog Run Association",
+      "operator:type": "private_non_profit",
+      "website": "https://www.kensingtondogrun.com",
+      "wikidata": "Q115628773",
+      "wikimedia_commons": "Category:Kensington Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_714943608",
+    "name": "Central Bark Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.588554,
+    "longitude": -74.4951679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Central Bark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_717957767",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7215477,
+    "longitude": -73.9609559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_729909636",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1244947,
+    "longitude": -74.0681424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "animal": "dog",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_733756881",
+    "name": "Madison New Britain Dog park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.262187,
+    "longitude": -75.2211701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Madison New Britain Dog park"
+    }
+  },
+  {
+    "place_id": "osm_734089525",
+    "name": "Montville Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8754699,
+    "longitude": -74.363132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Montville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_740445612",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4933839,
+    "longitude": -74.6718756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "Hillsborough Parks & Recreation Department",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_741915623",
+    "name": "Van Vorst Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7182893,
+    "longitude": -74.0472735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Van Vorst Park Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_757227822",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9900827,
+    "longitude": -74.6339473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_757985935",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7381138,
+    "longitude": -74.0661837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_758762211",
+    "name": "Montgomery Township Bark Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2258182,
+    "longitude": -75.2520449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "There are two separate areas:  one only for small dogs under 25 pounds and one for all dogs.",
+      "leisure": "dog_park",
+      "name": "Montgomery Township Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_759651864",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0104661,
+    "longitude": -75.5913499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_761541464",
+    "name": "Hatboro Station Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1704203,
+    "longitude": -75.1030023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Hatboro Station Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_765885097",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7380148,
+    "longitude": -74.042119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_766359622",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0255363,
+    "longitude": -75.1850471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_767642858",
+    "name": "Roxborough Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0271705,
+    "longitude": -75.2115475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Philadelphia",
+      "addr:housenumber": "4117",
+      "addr:postcode": "19128",
+      "addr:state": "PA",
+      "addr:street": "Mitchell Street",
+      "email": "info@roxboroughdogpark.com",
+      "leisure": "dog_park",
+      "membership": "yes",
+      "name": "Roxborough Dog Park",
+      "opening_hours": "Mo-Su 06:30-21:00",
+      "website": "https://roxboroughdogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_775612874",
+    "name": "Egg Harbor Township Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.3720955,
+    "longitude": -74.6272296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Egg Harbor Township",
+      "addr:housenumber": "2",
+      "addr:postcode": "08234",
+      "addr:state": "NJ",
+      "addr:street": "Swift Avenue",
+      "leisure": "dog_park",
+      "name": "Egg Harbor Township Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_780389290",
+    "name": "Barnegat Light Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.7573519,
+    "longitude": -74.109685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "disused:leisure": "pitch",
+      "disused:sport": "baseball",
+      "leisure": "dog_park",
+      "name": "Barnegat Light Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_792327364",
+    "name": "Orianna Hill Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9656204,
+    "longitude": -75.1428628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Orianna Hill Park",
+      "leisure": "dog_park",
+      "name": "Orianna Hill Dog Park",
+      "website": "https://www.oriannahill.org/"
+    }
+  },
+  {
+    "place_id": "osm_803920231",
+    "name": "Sit, Stay, 'N Play",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0026425,
+    "longitude": -75.1997425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Stroudsburg",
+      "addr:housenumber": "1501",
+      "addr:postcode": "18360",
+      "addr:state": "PA",
+      "addr:street": "North 5th Street",
+      "building": "yes",
+      "leisure": "dog_park",
+      "name": "Sit, Stay, 'N Play",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "place_id": "osm_816033073",
+    "name": "Marlboro Township Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3289467,
+    "longitude": -74.2632383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Marlboro",
+      "addr:housenumber": "1996",
+      "addr:postcode": "07746",
+      "addr:state": "NJ",
+      "addr:street": "Recreation Way",
+      "barrier": "fence",
+      "bench": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "min_age": "13",
+      "name": "Marlboro Township Dog Park",
+      "supervised": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_819285878",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7848112,
+    "longitude": -74.4100866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_823177490",
+    "name": "Small Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0362863,
+    "longitude": -74.928799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "operator": "Burlington County Parks System",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_824725438",
+    "name": "Matamoras Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.3600358,
+    "longitude": -74.6996576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Matamoras",
+      "addr:postcode": "18336",
+      "addr:state": "PA",
+      "addr:street": "Avenue S",
+      "leisure": "dog_park",
+      "name": "Matamoras Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_824929802",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0155363,
+    "longitude": -75.3289178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377826364",
+    "name": "Swedes Run Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9851092,
+    "longitude": -74.9256279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Moorestown Township",
+      "addr:housenumber": "735",
+      "addr:postcode": "08057",
+      "addr:state": "NJ",
+      "addr:street": "Westfield Road",
+      "leisure": "dog_park",
+      "name": "Swedes Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_827128637",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9785765,
+    "longitude": -75.3950191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_832365277",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7332437,
+    "longitude": -74.0495581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_835366883",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5382065,
+    "longitude": -74.1873701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_839467517",
+    "name": "Lower Macungie Dog Park - Small Dogs",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5433827,
+    "longitude": -75.5836747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Lower Macungie Dog Park - Small Dogs",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_843289743",
+    "name": "Cuddy Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2989656,
+    "longitude": -75.468519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Cuddy Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_849465516",
+    "name": "Tom's Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7922412,
+    "longitude": -73.9350587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Tom's Dog Run",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_860725595",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3281522,
+    "longitude": -74.7619336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_860754400",
+    "name": "Cooper River Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9197665,
+    "longitude": -75.0433428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Cooper River Dog Park",
+      "operator": "Camden County"
+    }
+  },
+  {
+    "place_id": "osm_864896514",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8670702,
+    "longitude": -73.9975846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_876443281",
+    "name": "Pops Dogs",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9842277,
+    "longitude": -75.123907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pops Dogs",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_880484815",
+    "name": "Conference House Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5003857,
+    "longitude": -74.249993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Conference House Park Dog Run",
+      "website": "https://www.nycgovparks.org/parks/conference-house-park/facilities/dogareas"
+    }
+  },
+  {
+    "place_id": "osm_886571913",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8857354,
+    "longitude": -75.2922937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_889673026",
+    "name": "Robert Moses Playground Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7482584,
+    "longitude": -73.9689896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:state": "NY",
+      "leisure": "dog_park",
+      "name": "Robert Moses Playground Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_891134386",
+    "name": "North End Avenue Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7167301,
+    "longitude": -74.0146769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "North End Avenue Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_891134438",
+    "name": "Sirius Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7120151,
+    "longitude": -74.0169299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sirius Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_906240785",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5333418,
+    "longitude": -74.2113962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "smoking": "no"
+    }
+  },
+  {
+    "place_id": "osm_909445793",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2817895,
+    "longitude": -75.2898983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_930291533",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0496257,
+    "longitude": -75.5142608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_938226737",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8285802,
+    "longitude": -73.9875522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_939041180",
+    "name": "Sir William’s Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.861709,
+    "longitude": -73.9319384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sir William’s Dog Run",
+      "picnic_table": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_945295878",
+    "name": "Essex County Dog Park at Mountain Ave N Caldwell",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8430099,
+    "longitude": -74.2588309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Essex County Dog Park at Mountain Ave N Caldwell",
+      "operator": "Essex County"
+    }
+  },
+  {
+    "place_id": "osm_945646713",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5573499,
+    "longitude": -74.2548059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_948681375",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8052631,
+    "longitude": -74.0437618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_949791884",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4508536,
+    "longitude": -74.5026802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_951827194",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8835243,
+    "longitude": -74.1303925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_954033273",
+    "name": "Timber Creek Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8313444,
+    "longitude": -75.0548387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Timber Creek Dog Park",
+      "operator": "Camden County Park System",
+      "operator:type": "government",
+      "website": "https://www.camdencounty.com/service/parks/timber-creek-park/"
+    }
+  },
+  {
+    "place_id": "osm_955051726",
+    "name": "Manhattan Beach Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.577806,
+    "longitude": -73.9418144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Brooklyn",
+      "addr:postcode": "11235",
+      "addr:state": "NY",
+      "addr:street": "Oriental Boulevard",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Manhattan Beach Dog Run",
+      "opening_hours": "Mo-Su 09:00-21:00",
+      "small_dog": "separate",
+      "website": "https://www.nycgovparks.org/parks/manhattan-beach-park/facilities/dogareas",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_956233788",
+    "name": "Cameron Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8590765,
+    "longitude": -74.3853625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cameron Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_958712502",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2566331,
+    "longitude": -75.2630672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_963002320",
+    "name": "Cortlandt Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.3111474,
+    "longitude": -73.9241402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Cortlandt Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_973891441",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.258353,
+    "longitude": -74.6305898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Mercer County Park"
+    }
+  },
+  {
+    "place_id": "osm_974517594",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.763187,
+    "longitude": -74.0848628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_977019688",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0351157,
+    "longitude": -74.5731986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_984928865",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9290249,
+    "longitude": -74.3066908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_992519916",
+    "name": "Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9457872,
+    "longitude": -74.1618662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_992738282",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8766476,
+    "longitude": -75.055782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Planned Dog Park",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_997306758",
+    "name": "Greenwood Playground Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6493986,
+    "longitude": -73.9763517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Greenwood Playground Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_997819342",
+    "name": "Andrew Haswell Green Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7602391,
+    "longitude": -73.9568168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Andrew Haswell Green Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_998143509",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4137192,
+    "longitude": -74.6972468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1001492295",
+    "name": "Small Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7764533,
+    "longitude": -73.9896483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1016727644",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7133014,
+    "longitude": -73.9686188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1017954732",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0401033,
+    "longitude": -75.2686818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1021708161",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.966666,
+    "longitude": -75.1384334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1023965479",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.055962,
+    "longitude": -74.5821873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1024101008",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.4423496,
+    "longitude": -74.5090101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1028241538",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7372378,
+    "longitude": -73.9590597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1031823136",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1594483,
+    "longitude": -75.2996581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1033110223",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9215631,
+    "longitude": -74.2647764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Wayne",
+      "addr:housenumber": "41",
+      "addr:postcode": "07470",
+      "addr:state": "NJ",
+      "addr:street": "Laguna Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1033692107",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.667027,
+    "longitude": -75.5748797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1034014118",
+    "name": "Old Army Area",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7881403,
+    "longitude": -74.5336463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Old Army Area"
+    }
+  },
+  {
+    "place_id": "osm_1037822416",
+    "name": "Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5446556,
+    "longitude": -74.5149459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_1041760677",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7810003,
+    "longitude": -73.9498264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1046401024",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7854933,
+    "longitude": -74.2988618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1047418170",
+    "name": "Tribeca Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7162113,
+    "longitude": -74.0120888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:state": "NY",
+      "leisure": "dog_park",
+      "name": "Tribeca Dog Run",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:short": "NYC Parks",
+      "operator:type": "public",
+      "operator:wikidata": "Q1894232",
+      "website": "https://www.nycgovparks.org/parks/tribeca-dog-run"
+    }
+  },
+  {
+    "place_id": "osm_1051664012",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7147901,
+    "longitude": -74.0455937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1053421007",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3351702,
+    "longitude": -74.1441539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1059127012",
+    "name": "Dyker Beach Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6177801,
+    "longitude": -74.0208442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Dyker Beach Park",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:short": "NYC Parks",
+      "operator:type": "government",
+      "operator:wikidata": "Q1894232",
+      "small_dog": "shared",
+      "website": "https://www.nycgovparks.org/parks/dyker-beach-park/facilities/dogareas"
+    }
+  },
+  {
+    "place_id": "osm_1061493362",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.2222732,
+    "longitude": -74.6238654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1071324927",
+    "name": "The Sirius Dog Park (For Large Dogs)",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.64544,
+    "longitude": -74.1387799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "The Sirius Dog Park (For Large Dogs)"
+    }
+  },
+  {
+    "place_id": "osm_1073218553",
+    "name": "Urby Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7204696,
+    "longitude": -74.0345067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Urby Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1080859015",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4596168,
+    "longitude": -74.2818633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1081291417",
+    "name": "Soho Grand Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7224667,
+    "longitude": -74.0043457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Soho Grand Dog Park",
+      "operator": "SoHo Grand Hotel",
+      "website": "https://www.sohogrand.com/event-spaces/soho-grand-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1084078607",
+    "name": "VYV Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.723031,
+    "longitude": -74.0376963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "VYV Dog Park",
+      "operator": "Brookfield Properties"
+    }
+  },
+  {
+    "place_id": "osm_1085727749",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7901565,
+    "longitude": -75.4887762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1092495545",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8165664,
+    "longitude": -74.3220255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1093181002",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7231123,
+    "longitude": -74.0863772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1094214864",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7963533,
+    "longitude": -74.069703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1094530421",
+    "name": "Port Jervis Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.3771744,
+    "longitude": -74.6954228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Port Jervis Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1098085857",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3169475,
+    "longitude": -74.4776375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_1102747534",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7693904,
+    "longitude": -73.9413751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1105788554",
+    "name": "The Park: Dog Park II",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6446971,
+    "longitude": -74.2659175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "The Park: Dog Park II"
+    }
+  },
+  {
+    "place_id": "osm_1111613038",
+    "name": "Town of Stony Point Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.2250155,
+    "longitude": -74.0253517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Town of Stony Point Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1112392828",
+    "name": "Homer's Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8713087,
+    "longitude": -73.921701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "New York",
+      "addr:postcode": "10034",
+      "addr:state": "NY",
+      "addr:street": "Seaman Avenue",
+      "leisure": "dog_park",
+      "name": "Homer's Run",
+      "operator": "New York Parks",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1117288501",
+    "name": "Dudley C. Allen Park (Lakeview Park)",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8706377,
+    "longitude": -73.9811209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dudley C. Allen Park (Lakeview Park)"
+    }
+  },
+  {
+    "place_id": "osm_1125025909",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.6876859,
+    "longitude": -74.5447207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1127833409",
+    "name": "Dog Park (Large Dogs)",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8806189,
+    "longitude": -74.8775939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Evesham",
+      "addr:housenumber": "984",
+      "addr:postcode": "08053",
+      "addr:state": "NJ",
+      "addr:street": "Tuckerton Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Park (Large Dogs)",
+      "operator": "Evesham Township",
+      "website": "https://evesham-nj.org/recreation-page-list/385-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1127834034",
+    "name": "Dog Park (Small Dogs)",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8807308,
+    "longitude": -74.8767159,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Evesham",
+      "addr:housenumber": "984",
+      "addr:postcode": "08053",
+      "addr:state": "NJ",
+      "addr:street": "Tuckerton Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Park (Small Dogs)",
+      "operator": "Evesham Township",
+      "website": "https://evesham-nj.org/recreation-page-list/385-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1127943639",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7676016,
+    "longitude": -73.9942689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "New York City Department of Parks & Recreation",
+      "operator:type": "government",
+      "website": "https://www.nycgovparks.org/parks/de-witt-clinton-park/facilities/dogareas",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1137983824",
+    "name": "Tindall Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4018963,
+    "longitude": -74.1041168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Middletown",
+      "addr:postcode": "07748",
+      "addr:state": "NJ",
+      "addr:street": "Tindall Road",
+      "leisure": "dog_park",
+      "name": "Tindall Dog Park",
+      "website": "https://www.middletownnj.org/facilities/facility/details/Tindall-Park-36"
+    }
+  },
+  {
+    "place_id": "osm_1141861652",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8228846,
+    "longitude": -73.9259153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1146125543",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5780201,
+    "longitude": -73.9785464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "check_date": "2025-03-22",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1147069100",
+    "name": "Cooper Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7154268,
+    "longitude": -73.9361214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Cooper Park Dog Run",
+      "opening_hours": "Mo-Su 06:00-01:00",
+      "operator": "NYC parks",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1147272452",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.441671,
+    "longitude": -74.6132171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1147272463",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.4413166,
+    "longitude": -74.6118617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1153908533",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8421523,
+    "longitude": -74.2547439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_1154360063",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7061779,
+    "longitude": -73.9467463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1154628504",
+    "name": "Stuyvesant Park Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.733198,
+    "longitude": -73.9837392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:postcode": "10003",
+      "addr:state": "NY",
+      "addr:street": "2nd Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Stuyvesant Park Dog Run",
+      "operator": "New York City Department of Parks and Recreation",
+      "operator:short": "NYC Parks",
+      "operator:type": "public",
+      "operator:wikidata": "Q1894232",
+      "website": "https://www.nycgovparks.org/parks/stuyvesant-square/facilities/dogareas"
+    }
+  },
+  {
+    "place_id": "osm_1159561246",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8052632,
+    "longitude": -74.055479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1161563166",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.1368389,
+    "longitude": -73.9414443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1162572566",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7144313,
+    "longitude": -73.952158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1163529778",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8054004,
+    "longitude": -74.002559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1169754351",
+    "name": "Orangetown Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0416696,
+    "longitude": -73.9813444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orangetown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1175791334",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.667538,
+    "longitude": -75.397274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1176090174",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0249344,
+    "longitude": -75.2230464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Pet Friendly Dog Bakery"
+    }
+  },
+  {
+    "place_id": "osm_1180014472",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0459603,
+    "longitude": -75.2467154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1189454708",
+    "name": "Barrett Township Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.2276413,
+    "longitude": -75.2637436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barrett Township Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1191252079",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.2154201,
+    "longitude": -74.5004211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192655596",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0259697,
+    "longitude": -75.2213607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1192727773",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7088567,
+    "longitude": -73.9573917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1201839441",
+    "name": "Astro's Community Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7581212,
+    "longitude": -73.9971052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Astro's Community Dog Run",
+      "website": "https://www.astrosdogrun.com/"
+    }
+  },
+  {
+    "place_id": "osm_1206223799",
+    "name": "Fetch Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.015309,
+    "longitude": -75.2108976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Philadelphia",
+      "addr:country": "US",
+      "addr:housenumber": "3720",
+      "addr:postcode": "19127",
+      "addr:state": "PA",
+      "addr:street": "Main Street",
+      "addr:unit": "E",
+      "leisure": "dog_park",
+      "name": "Fetch Park",
+      "website": "https://fetchpark.com/locations/phildelphia"
+    }
+  },
+  {
+    "place_id": "osm_1211615323",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7711459,
+    "longitude": -74.0263124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1213099696",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6265164,
+    "longitude": -74.0927332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1213862026",
+    "name": "Gansevoort Peninsula Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7404483,
+    "longitude": -74.0106038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "maxweight": "23 lb",
+      "name": "Gansevoort Peninsula Dog Park",
+      "opening_hours": "Mo-Su,PH 06:00-01:00",
+      "website": "https://hudsonriverpark.org/activities/gansevoort-peninsula-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1214373547",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0107981,
+    "longitude": -75.2203633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216161458",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3049421,
+    "longitude": -74.7429823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216181366",
+    "name": "Concord Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.865797,
+    "longitude": -75.515566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Glen Mills",
+      "addr:housenumber": "725",
+      "addr:postcode": "19342",
+      "addr:state": "PA",
+      "addr:street": "Smithbridge Road",
+      "leisure": "dog_park",
+      "name": "Concord Dog Park",
+      "website": "https://www.townshipofconcord.com/how_do_i/find/dog_park_info.php"
+    }
+  },
+  {
+    "place_id": "osm_1227663711",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6602166,
+    "longitude": -75.0808198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1233229606",
+    "name": "Warinanco Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6523598,
+    "longitude": -74.2459611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Warinanco Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1235108742",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9983741,
+    "longitude": -74.290024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1239798104",
+    "name": "Coleman Oval Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7113093,
+    "longitude": -73.9932568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Coleman Oval Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_1246057532",
+    "name": "High Bridge Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6698246,
+    "longitude": -74.8980189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "High Bridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1248960871",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1226659,
+    "longitude": -74.7741772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1259766952",
+    "name": "Bark Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0294746,
+    "longitude": -75.2328569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1266438802",
+    "name": "Long Valley Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7738817,
+    "longitude": -74.7705304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Long Valley Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1268304374",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0099467,
+    "longitude": -74.1382787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284529678",
+    "name": "Venue Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3633857,
+    "longitude": -74.4578797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Venue Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1286139888",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7408191,
+    "longitude": -73.9226131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1286970399",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7346663,
+    "longitude": -74.0607705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1287152168",
+    "name": "142nd Street Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.82531,
+    "longitude": -73.9541918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Dog Run 142",
+      "description": "The dog run is under reconstruction.  It was a dog park before the construction.  It should be a better one after. See https://www.nycgovparks.org/planning-and-building/capital-project-tracker/project/2625",
+      "landuse": "construction",
+      "last_checked": "2024-05-11",
+      "leisure": "dog_park",
+      "mapillary": "798675179023678",
+      "name": "142nd Street Dog Run",
+      "website": "https://manhattandogparks.com/142nd-street-dog-run/"
+    }
+  },
+  {
+    "place_id": "osm_1288980003",
+    "name": "Battery Park Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7040231,
+    "longitude": -74.015484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Battery Park Dog Park",
+      "operator": "The Battery",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1289210263",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6813025,
+    "longitude": -73.9701891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1296747405",
+    "name": "The Boozy Mutt",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9730113,
+    "longitude": -75.1804138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Boozy Mutt"
+    }
+  },
+  {
+    "place_id": "osm_1301848405",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7123719,
+    "longitude": -75.275898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1302151961",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6815843,
+    "longitude": -75.2677102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304929302",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6588694,
+    "longitude": -75.4622837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304959698",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5185081,
+    "longitude": -75.5562593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1307286304",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.1972828,
+    "longitude": -74.1837615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1309878558",
+    "name": "Happy Hound Playground",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8569926,
+    "longitude": -74.5065092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Denville",
+      "addr:street": "Zeek Road",
+      "leisure": "dog_park",
+      "name": "Happy Hound Playground",
+      "website": "https://morriscountydogpark.com/about-the-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1311816569",
+    "name": "URBN Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.8888541,
+    "longitude": -75.1780379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "URBN Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1333650892",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7548316,
+    "longitude": -74.1620561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1334038381",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.758377,
+    "longitude": -74.1627285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1335180969",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7556091,
+    "longitude": -74.1441941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336674030",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9658271,
+    "longitude": -75.132818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336678847",
+    "name": "Fort Greene Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6905261,
+    "longitude": -73.9742211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Greene Park"
+    }
+  },
+  {
+    "place_id": "osm_1338980504",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6837699,
+    "longitude": -74.2314118,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1339327646",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0684524,
+    "longitude": -75.527895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1343349419",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5968576,
+    "longitude": -75.4609267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1346698976",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5381492,
+    "longitude": -74.2367847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Woof & Tails Lodge",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1349132953",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.64711,
+    "longitude": -75.4150822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1354786071",
+    "name": "Elmwood Park Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8880627,
+    "longitude": -74.1284026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Elmwood Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1358662341",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7631811,
+    "longitude": -74.021223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1359923343",
+    "name": "Wag N Bone",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7547563,
+    "longitude": -73.9320629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Long Island City",
+      "addr:housenumber": "37-05",
+      "addr:state": "NY",
+      "addr:street": "30th Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Wag N Bone",
+      "website": "https://www.wag-bone.com/"
+    }
+  },
+  {
+    "place_id": "osm_1360189323",
+    "name": "Judge Memorial Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5814588,
+    "longitude": -75.4664436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access:conditional": "yes @ Lehigh County resident AND permit; no @ Lehigh County resident without permit; no @ not Lehigh County resident",
+      "addr:city": "Allentown",
+      "addr:housenumber": "791",
+      "addr:postcode": "18103",
+      "addr:state": "PA",
+      "addr:street": "Dixon Street",
+      "dog": "unleashed",
+      "fee:conditional": "no @ City of Allentown resident; yes @ not City of Allentown resident",
+      "leisure": "dog_park",
+      "name": "Judge Memorial Dog Park",
+      "operator": "City of Allentown",
+      "operator:type": "government",
+      "was:name": "Dixon Street Dog park",
+      "website": "https://allentownpa.myrec.com/info/activities/program_details.aspx?ProgramID=29835"
+    }
+  },
+  {
+    "place_id": "osm_1362140878",
+    "name": "Bethlehem Fields Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5944933,
+    "longitude": -75.3313811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "colour": "black",
+      "fence_type": "bars",
+      "leisure": "dog_park",
+      "name": "Bethlehem Fields Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1366019046",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8096704,
+    "longitude": -73.9121827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1366631097",
+    "name": "Branch Brook Park Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7745646,
+    "longitude": -74.1775048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Newark",
+      "addr:postcode": "07107",
+      "addr:state": "NJ",
+      "addr:street": "West Park Drive",
+      "leisure": "dog_park",
+      "name": "Branch Brook Park Dog Park",
+      "operator": "Essex County"
+    }
+  },
+  {
+    "place_id": "osm_1370025497",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5329225,
+    "longitude": -75.5169422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1375690248",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.3631736,
+    "longitude": -74.1375991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377930848",
+    "name": "City of Peekskill Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.2945759,
+    "longitude": -73.902768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "City of Peekskill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1380981974",
+    "name": "Fenton Lane Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1404912,
+    "longitude": -74.6704128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chesterfield",
+      "addr:housenumber": "16",
+      "addr:postcode": "08515",
+      "addr:state": "NJ",
+      "addr:street": "Fenton",
+      "leisure": "dog_park",
+      "name": "Fenton Lane Dog Park",
+      "opening_hours": "Mo-Su 7:00-20:00"
+    }
+  },
+  {
+    "place_id": "osm_1385807235",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0182007,
+    "longitude": -74.1935355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1386624571",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0163982,
+    "longitude": -74.2549151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387279640",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5840389,
+    "longitude": -75.5620731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "post_and_rail",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387655789",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5895048,
+    "longitude": -75.5765619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "colour": "black",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387915180",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5554599,
+    "longitude": -75.4742919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "colour": "black",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1389230164",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5640182,
+    "longitude": -75.4744759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1392241557",
+    "name": "Bark N' Brews",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0952757,
+    "longitude": -73.9998128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark N' Brews"
+    }
+  },
+  {
+    "place_id": "osm_1392463522",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.0474534,
+    "longitude": -75.2337919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1393207488",
+    "name": "Play Yard & Training Course",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5804549,
+    "longitude": -75.4603156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Play Yard & Training Course"
+    }
+  },
+  {
+    "place_id": "osm_1395114896",
+    "name": "Cedar Creek Parkway West Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5849582,
+    "longitude": -75.548819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Cedar Creek Parkway West Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1410574460",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5694672,
+    "longitude": -75.5204668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "bars",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413149183",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5661174,
+    "longitude": -75.5897956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437335",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1201922,
+    "longitude": -74.7092646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413846348",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.990034,
+    "longitude": -75.4071572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1414811629",
+    "name": "Center Square - Pup Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6013775,
+    "longitude": -75.4724312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Center Square - Pup Park"
+    }
+  },
+  {
+    "place_id": "osm_1415499085",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7292076,
+    "longitude": -74.0514108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1416646818",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5281984,
+    "longitude": -74.3679542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1424468761",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.3152914,
+    "longitude": -75.1315578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426291564",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6914054,
+    "longitude": -73.9838467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1435991536",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.4919917,
+    "longitude": -74.4378437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1441530138",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5943219,
+    "longitude": -75.3347338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1445095954",
+    "name": "West 87th Street Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7902744,
+    "longitude": -73.9804744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:postcode": "10024",
+      "addr:state": "NY",
+      "addr:street": "Hudson River Greenway",
+      "leisure": "dog_park",
+      "name": "West 87th Street Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_1445615993",
+    "name": "New Wave Pier Dog Run",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7459182,
+    "longitude": -73.9697668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "New York",
+      "addr:postcode": "10016",
+      "addr:state": "NY",
+      "addr:street": "East River Esplanade",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "New Wave Pier Dog Run",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1447866321",
+    "name": "Resident only Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.5324653,
+    "longitude": -74.5139494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Resident only Dog Park",
+      "operator": "Promenade of Somerset",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1452914558",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 38.9883186,
+    "longitude": -74.8065701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "City of Wildwood",
+      "operator:type": "public",
+      "website": "https://wildwoodsnj.com/attraction/wildwood-dog-park-beach/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1453651992",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 41.0095489,
+    "longitude": -74.334349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1454314489",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.8473973,
+    "longitude": -74.1103954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1457015590",
+    "name": "Allen Township Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6898582,
+    "longitude": -75.4703142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Allen Township Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1458288080",
+    "name": "Sven Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.7509118,
+    "longitude": -73.9362454,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Long Island City",
+      "addr:housenumber": "29-17",
+      "addr:postcode": "11103",
+      "addr:state": "NY",
+      "addr:street": "41st Avenue",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Sven Dog Park",
+      "operator": "Sven",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1483775165",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.1429453,
+    "longitude": -75.1509668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "website": "https://www.upperdublinrec.net/parks-facilities/dog-parks"
+    }
+  },
+  {
+    "place_id": "osm_1493244133",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.9552257,
+    "longitude": -75.4084945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12970138",
+    "name": "Lanier Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 39.9336268,
+    "longitude": -75.1938009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Lanier Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_13677207",
+    "name": "Dog Park",
+    "formatted_address": ", New Jersey, USA",
+    "latitude": 40.6998911,
+    "longitude": -75.2136966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

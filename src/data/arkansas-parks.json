@@ -1,0 +1,736 @@
+[
+  {
+    "place_id": "osm_4645201281",
+    "name": "Shelby Farms Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.1407529,
+    "longitude": -89.8098657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shelby Farms Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479544932",
+    "name": "Olive Bark",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.9605197,
+    "longitude": -89.8416874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Olive Bark"
+    }
+  },
+  {
+    "place_id": "osm_544815814",
+    "name": "Overton Bark",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.146171,
+    "longitude": -89.9914621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Overton Bark"
+    }
+  },
+  {
+    "place_id": "osm_686945499",
+    "name": "Hernando Dog and Skate Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.8105121,
+    "longitude": -89.9944546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hernando Dog and Skate Park"
+    }
+  },
+  {
+    "place_id": "osm_737670275",
+    "name": "Suggs Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0372677,
+    "longitude": -89.6644153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "amenity_1": "waste_basket",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Suggs Dog Park",
+      "operator": "Town of Collierville",
+      "operator:type": "government",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_916483798",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.968846,
+    "longitude": -89.7981043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1253287840",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0423768,
+    "longitude": -89.7086477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1253781773",
+    "name": "Emily's Bark Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.4644688,
+    "longitude": -89.7979438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Emily's Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1413442516",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.8844091,
+    "longitude": -89.9177717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1433630280",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.9577102,
+    "longitude": -89.9579797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483916945",
+    "name": "NSA Mid-South Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.330647,
+    "longitude": -89.8668933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "NSA Mid-South Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_245565236",
+    "name": "Bella Vista K9 Corral Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4727018,
+    "longitude": -94.3159055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bella Vista K9 Corral Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_486858077",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4111234,
+    "longitude": -93.7404557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_546623810",
+    "name": "Railyard Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3299842,
+    "longitude": -94.1146044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Railyard Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_546636037",
+    "name": "Pleasant Ridge Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3247,
+    "longitude": -94.1004423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pleasant Ridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_631621611",
+    "name": "Large Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.1508102,
+    "longitude": -94.0802957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_772627843",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.4031946,
+    "longitude": -94.2157411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_952398522",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3337196,
+    "longitude": -94.2177849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_967612663",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3561593,
+    "longitude": -94.2213498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_992766092",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2556329,
+    "longitude": -94.1539307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1053706578",
+    "name": "Orchards Park Large Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3776409,
+    "longitude": -94.1944544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orchards Park Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1053706579",
+    "name": "Orchards Park Small Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3773879,
+    "longitude": -94.194283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orchards Park Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1094003045",
+    "name": "Iams Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.0840278,
+    "longitude": -94.2115865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Fayetteville",
+      "addr:housenumber": "1595",
+      "addr:postcode": "72704",
+      "addr:state": "AR",
+      "addr:street": "North Dartmouth Ave",
+      "leisure": "dog_park",
+      "name": "Iams Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1123368181",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2925056,
+    "longitude": -94.1897577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1133931002",
+    "name": "Large Dogs Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2166244,
+    "longitude": -94.2136909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dogs Park"
+    }
+  },
+  {
+    "place_id": "osm_1164983880",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3399705,
+    "longitude": -94.2369943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1165001133",
+    "name": "Tails & Trails Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.187405,
+    "longitude": -94.5501355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tails & Trails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1177908336",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3460163,
+    "longitude": -94.2247799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209615206",
+    "name": "Mt Hebron Small Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.2766626,
+    "longitude": -94.2000264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mt Hebron Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1214331832",
+    "name": "Large Dogs",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3513554,
+    "longitude": -94.2709956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Large Dogs",
+      "operator": "US:AR:Centerton"
+    }
+  },
+  {
+    "place_id": "osm_1229581023",
+    "name": "Woodward Hills Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3051705,
+    "longitude": -94.3396606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Woodward Hills Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1292686607",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.1713596,
+    "longitude": -94.2173946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1292690987",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.155664,
+    "longitude": -94.1943248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1292693781",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.0545714,
+    "longitude": -94.165355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1300928586",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3724061,
+    "longitude": -94.3110678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1418832547",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3533864,
+    "longitude": -94.2163956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427022019",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3934688,
+    "longitude": -94.1976867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429030648",
+    "name": "Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.0750539,
+    "longitude": -94.2078968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Fayetteville",
+      "addr:housenumber": "791",
+      "addr:postcode": "72704",
+      "addr:state": "AR",
+      "addr:street": "North Honey Locust Bend",
+      "leisure": "dog_park"
+    }
+  }
+]

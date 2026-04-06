@@ -1,0 +1,2467 @@
+[
+  {
+    "place_id": "osm_4710790296",
+    "name": "Gazebo dog park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1046166,
+    "longitude": -86.7235997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gazebo dog park"
+    }
+  },
+  {
+    "place_id": "osm_8032857808",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1038909,
+    "longitude": -85.3230937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:state": "TN",
+      "addr:street": "Runyan Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8630269516",
+    "name": "Maggie's Bark Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9443899,
+    "longitude": -86.8790122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Maggie's Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_8674863486",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0080568,
+    "longitude": -86.6194915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8890521877",
+    "name": "Winchester Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2039806,
+    "longitude": -86.1340626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Winchester Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_9860692282",
+    "name": "Love's Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8387385,
+    "longitude": -88.0850645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Love's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10119730328",
+    "name": "Pleasant Run Creek Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2783138,
+    "longitude": -89.0182526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pleasant Run Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10853794040",
+    "name": "Two Rivers Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1913095,
+    "longitude": -86.6770791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Nashville",
+      "addr:housenumber": "3150",
+      "addr:postcode": "37214",
+      "addr:state": "TN",
+      "addr:street": "McGavock Pike",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Two Rivers Dog Park",
+      "website": "https://www.nashville.gov/Parks-and-Recreation/Parks/Dog-Parks.aspx"
+    }
+  },
+  {
+    "place_id": "osm_10861363252",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1399066,
+    "longitude": -86.7734918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11403901583",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1383189,
+    "longitude": -86.7718747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11829357341",
+    "name": "White Oak Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0862095,
+    "longitude": -85.3042863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "White Oak Dog Park",
+      "operator": "City of Red Bank",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_12272256774",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1527584,
+    "longitude": -86.7864677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Nashville",
+      "addr:housenumber": "1216",
+      "addr:postcode": "37203",
+      "addr:state": "TN",
+      "addr:street": "Pine Street",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_77929528",
+    "name": "Greenway Farms Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1262891,
+    "longitude": -85.2152458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Greenway Farms Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_86480145",
+    "name": "Chattanooga Chew Chew Canine Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0372597,
+    "longitude": -85.3187052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chattanooga Chew Chew Canine Park"
+    }
+  },
+  {
+    "place_id": "osm_172186701",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0081686,
+    "longitude": -85.1493532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_256890098",
+    "name": "Shelby Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1707631,
+    "longitude": -86.7336894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Shelby Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_293237644",
+    "name": "Murfreesboro Bark Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8675844,
+    "longitude": -86.4172433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Murfreesboro Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_360640161",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.005636,
+    "longitude": -84.8745766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_370039852",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9534057,
+    "longitude": -86.6684012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_385194624",
+    "name": "Alara Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9068296,
+    "longitude": -86.8477379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Alara Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_486815962",
+    "name": "Brighton Valley Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0854224,
+    "longitude": -86.6443739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Brighton Valley Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_490448836",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1481464,
+    "longitude": -86.8193736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_544675966",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9533761,
+    "longitude": -86.8021119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_557495631",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2006287,
+    "longitude": -85.5352536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_575574229",
+    "name": "Highlandpark Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0374522,
+    "longitude": -85.282228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Highlandpark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_586893263",
+    "name": "Tinsley Park Dog Park for Big Dogs",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2012551,
+    "longitude": -84.856353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tinsley Park Dog Park for Big Dogs"
+    }
+  },
+  {
+    "place_id": "osm_587034198",
+    "name": "Percy Priest Dam Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1591594,
+    "longitude": -86.6216547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Percy Priest Dam Dog Park",
+      "note": "Stones River Dog Park",
+      "website": "https://www.nashville.gov/Parks-and-Recreation/Parks/Dog-Parks.aspx"
+    }
+  },
+  {
+    "place_id": "osm_591997451",
+    "name": "Riverfront Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1610415,
+    "longitude": -86.7727877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Riverfront Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_596230045",
+    "name": "Big Turtle Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9915599,
+    "longitude": -84.3166563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Big Turtle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_639890111",
+    "name": "The Gables Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1426264,
+    "longitude": -85.5083168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "The Gables Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_643161266",
+    "name": "Fenway's Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3220585,
+    "longitude": -86.6801662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog Park at Moss-Wright Park, separated into areas for small dogs and large dogs.",
+      "leisure": "dog_park",
+      "name": "Fenway's Park"
+    }
+  },
+  {
+    "place_id": "osm_643165498",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.475524,
+    "longitude": -86.6656119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_664374369",
+    "name": "Pitts Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0582092,
+    "longitude": -86.7056352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pitts Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_671900525",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7508622,
+    "longitude": -86.937288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_673225494",
+    "name": "BarkPark",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1840495,
+    "longitude": -86.7688391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "BarkPark",
+      "website": "https://park.bark.co/"
+    }
+  },
+  {
+    "place_id": "osm_673446006",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2164871,
+    "longitude": -86.3001589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_676843820",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1262578,
+    "longitude": -86.7655302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fence": "yes",
+      "leisure": "dog_park",
+      "note": "Fair Park Plan: https://www.gannett-cdn.com/-mm-/edce89b1425e4e6bfdd1e47d0d55e793ed2a7e51/c=54-0-1240-892/local/-/media/2017/05/10/TennGroup/Nashville/636300228573291977-soccer-fields-and-dog-park.PNG?width=540&height=405&fit=crop"
+    }
+  },
+  {
+    "place_id": "osm_677333455",
+    "name": "Nutro Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8207955,
+    "longitude": -86.8951457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Nutro Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_684419857",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1356866,
+    "longitude": -86.757875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_701221487",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9221411,
+    "longitude": -88.7261471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_730865244",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9002469,
+    "longitude": -86.770611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_730886701",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1498161,
+    "longitude": -86.8066606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_731712654",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1615371,
+    "longitude": -86.7882384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_743224469",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0795203,
+    "longitude": -86.7045035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_744877259",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0472488,
+    "longitude": -86.6678056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_747405807",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0522202,
+    "longitude": -86.9010672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_749659789",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.023216,
+    "longitude": -86.7512225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_750927372",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0465335,
+    "longitude": -86.718437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_751421133",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0805342,
+    "longitude": -86.7013599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_753475427",
+    "name": "The Knolls Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0438998,
+    "longitude": -86.7163462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Knolls Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_769104399",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0425994,
+    "longitude": -86.6669294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_775548161",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1185116,
+    "longitude": -86.9124784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_778998603",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0952294,
+    "longitude": -86.9289301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_779013579",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0955016,
+    "longitude": -86.927326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_783078983",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0679597,
+    "longitude": -86.7273914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_784656433",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0530124,
+    "longitude": -86.7412339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_789135345",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.098661,
+    "longitude": -86.9200771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_789215892",
+    "name": "Bark Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1017307,
+    "longitude": -86.9268578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_792051299",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0748479,
+    "longitude": -86.9287673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_792054591",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0765547,
+    "longitude": -86.9268381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_792422614",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0833152,
+    "longitude": -86.9444262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_792537168",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0649349,
+    "longitude": -86.9114528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_795332980",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0174841,
+    "longitude": -86.70693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_797613903",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.048859,
+    "longitude": -86.6685458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_797625109",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0471086,
+    "longitude": -86.7381353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_805843159",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9892117,
+    "longitude": -86.678828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_845117335",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0646195,
+    "longitude": -86.6893288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_845325208",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0574719,
+    "longitude": -86.7459025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_850690029",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0448361,
+    "longitude": -86.6847728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_852597194",
+    "name": "City of Martin Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3097882,
+    "longitude": -88.8488062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "City of Martin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_853557093",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0598571,
+    "longitude": -86.7381075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_855576231",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1646527,
+    "longitude": -86.7896646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_858377957",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9514338,
+    "longitude": -86.682975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_866377299",
+    "name": "Landmark Bark Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0429882,
+    "longitude": -86.7245686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "name": "Landmark Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_930012899",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0152078,
+    "longitude": -86.6196691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_942716948",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9309572,
+    "longitude": -86.7996289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_955579091",
+    "name": "Loudon Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7260311,
+    "longitude": -84.3780884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Loudon Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_960816655",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0900572,
+    "longitude": -85.2982382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_969492000",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8445849,
+    "longitude": -88.9040064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_969603315",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7457553,
+    "longitude": -86.8932967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_969890873",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8250416,
+    "longitude": -86.46469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_997749647",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0028653,
+    "longitude": -85.2275968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1000432168",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.048016,
+    "longitude": -86.685916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1001104593",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0411116,
+    "longitude": -86.6693679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1034269070",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9357998,
+    "longitude": -86.8056564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1043601215",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0554987,
+    "longitude": -86.6448063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1046735065",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0615421,
+    "longitude": -86.6435039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1046747503",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0607749,
+    "longitude": -86.6361766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1046771237",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0508276,
+    "longitude": -86.6609068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1049837220",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0512125,
+    "longitude": -86.6467619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1050910351",
+    "name": "Stewarts Ferry Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1614772,
+    "longitude": -86.6305168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "name": "Stewarts Ferry Dog Park",
+      "operator": "Stewarts Ferry Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1053307561",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1216126,
+    "longitude": -85.3150533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "3131",
+      "addr:postcode": "37415",
+      "addr:state": "TN",
+      "addr:street": "Mountain Creek Road",
+      "dog": "yes",
+      "fixme": "access",
+      "leisure": "dog_park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_1090460375",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0391237,
+    "longitude": -86.6295005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1098160692",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.072672,
+    "longitude": -86.630561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1115397329",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6964106,
+    "longitude": -84.8599605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1116955055",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9565157,
+    "longitude": -86.5230152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1125088638",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0766061,
+    "longitude": -86.6597005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1127423377",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.824872,
+    "longitude": -86.4245248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1132685091",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0843245,
+    "longitude": -86.7138981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1162461641",
+    "name": "Collegedale Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0536902,
+    "longitude": -85.0470856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Collegedale Dog Park",
+      "operator": "City of Collegedale"
+    }
+  },
+  {
+    "place_id": "osm_1167762771",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.065185,
+    "longitude": -85.0899906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1215657410",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8779721,
+    "longitude": -86.4657053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1228725519",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8669377,
+    "longitude": -84.5208244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1248925342",
+    "name": "Play Wash Pint",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0357689,
+    "longitude": -85.3038044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "113",
+      "addr:postcode": "37408",
+      "addr:state": "TN",
+      "addr:street": "Johnson Street",
+      "leisure": "dog_park",
+      "name": "Play Wash Pint"
+    }
+  },
+  {
+    "place_id": "osm_1257906360",
+    "name": "Heron Pointe Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1162501,
+    "longitude": -86.6263258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Heron Pointe Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1262721643",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1417997,
+    "longitude": -86.6242541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "fence_type": "wire",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1272106666",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.330995,
+    "longitude": -86.5832166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1282877824",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0193719,
+    "longitude": -85.0282497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1302630740",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0488259,
+    "longitude": -86.7240449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1309137283",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1738129,
+    "longitude": -84.8593044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1316564375",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.999212,
+    "longitude": -86.7942664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1316738956",
+    "name": "The Puppy Patch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1444377,
+    "longitude": -85.3225815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "The Puppy Patch",
+      "operator": "McCoy Farm and Gardens",
+      "operator:type": "public",
+      "website": "https://mccoyfarmandgardens.com/visit/"
+    }
+  },
+  {
+    "place_id": "osm_1324197931",
+    "name": "Urban Dog Bar",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1664803,
+    "longitude": -86.8570812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Nashville",
+      "addr:housenumber": "5700",
+      "addr:postcode": "37209",
+      "addr:state": "TN",
+      "addr:street": "Ohio Avenue",
+      "leisure": "dog_park",
+      "name": "Urban Dog Bar",
+      "website": "https://urbandogbar.com/"
+    }
+  },
+  {
+    "place_id": "osm_1324583841",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0442792,
+    "longitude": -86.6823778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1352980215",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4809971,
+    "longitude": -84.9765292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Blue Water Resort"
+    }
+  },
+  {
+    "place_id": "osm_1360049106",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.956644,
+    "longitude": -86.674009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1370738556",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1792155,
+    "longitude": -86.3985304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1374919558",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9704119,
+    "longitude": -86.8159315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1379385151",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9473116,
+    "longitude": -86.8488951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413441927",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4683159,
+    "longitude": -86.6863427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413442668",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0681533,
+    "longitude": -86.4280486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413442942",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9916972,
+    "longitude": -87.4890446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413443120",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6787146,
+    "longitude": -88.7432472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413443234",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8726043,
+    "longitude": -84.3234608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419695057",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1672497,
+    "longitude": -86.6159003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Edison At Riverwood",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1419695058",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1635014,
+    "longitude": -86.6187782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Edison at Riverwood",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1423082878",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7432,
+    "longitude": -86.9071864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1433354244",
+    "name": "River's Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0604968,
+    "longitude": -85.2976951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "River's Dog Park",
+      "operator": "City of Chattanooga"
+    }
+  },
+  {
+    "place_id": "osm_1453741445",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1699706,
+    "longitude": -86.7900019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1464485707",
+    "name": "Dog Park",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1545205,
+    "longitude": -85.1970645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

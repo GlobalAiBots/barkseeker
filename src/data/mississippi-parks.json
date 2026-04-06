@@ -1,0 +1,215 @@
+[
+  {
+    "place_id": "osm_141283822",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 30.3736064,
+    "longitude": -88.5648167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Fenced play area for small dogs",
+      "leisure": "dog_park",
+      "source": "MGC;local knowledge"
+    }
+  },
+  {
+    "place_id": "osm_173690600",
+    "name": "Starkville Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 33.4702064,
+    "longitude": -88.8116658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Starkville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_595935649",
+    "name": "Oxford Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.3816384,
+    "longitude": -89.5374515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Oxford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_596700566",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.3731681,
+    "longitude": -89.5655009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_603143152",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.3435165,
+    "longitude": -89.5378429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_605937640",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.389736,
+    "longitude": -89.5135186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_608626305",
+    "name": "Pixie's Memorial Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 30.4096539,
+    "longitude": -88.9527903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pixie's Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_720708074",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.3421405,
+    "longitude": -89.5506526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_975537486",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 33.4632904,
+    "longitude": -88.7732989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1413443680",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.9513713,
+    "longitude": -88.9105947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413450268",
+    "name": "Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 30.4520486,
+    "longitude": -88.9340935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  }
+]

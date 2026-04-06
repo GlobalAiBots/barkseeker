@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in Arkansas — 503+ Ramps Across 13 Lakes | RampSeeker",
-  description: "The most complete boat ramp directory for Arkansas. 503+ ramps across Beaver Lake, Bull Shoals, Greers Ferry, Lake Ouachita, and more. GPS coordinates, amenities, directions.",
-  openGraph: { title: "Arkansas Boat Ramps — RampSeeker", url: "https://rampseeker.com/arkansas", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/arkansas" },
+  title: "Every Dog Park in Arkansas — 38+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for Arkansas. 38+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "Arkansas Dog Parks — BarkSeeker", url: "https://barkseeker.com/arkansas", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "Arkansas Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/arkansas" },
 };
 
 export default function ArkansasLayout({ children }: { children: React.ReactNode }) {

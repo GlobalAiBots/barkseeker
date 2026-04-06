@@ -1,0 +1,458 @@
+[
+  {
+    "place_id": "osm_3054116885",
+    "name": "Watson Upper Valley Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.656963,
+    "longitude": -72.3334341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Watson Upper Valley Dog Park",
+      "website": "https://uvdp.org/"
+    }
+  },
+  {
+    "place_id": "osm_11741806399",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0688417,
+    "longitude": -70.7747935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12591656601",
+    "name": "Lezama Family Happy Tails Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5194916,
+    "longitude": -71.4546814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lezama Family Happy Tails Dog Park",
+      "opening_hours": "Mo-Su 06:00-20:00"
+    }
+  },
+  {
+    "place_id": "osm_304177650",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0733419,
+    "longitude": -70.7417992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "forest",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_438271780",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0588594,
+    "longitude": -70.7551543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "woodchips"
+    }
+  },
+  {
+    "place_id": "osm_474627192",
+    "name": "Parc canin",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2143864,
+    "longitude": -72.5092038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Parc canin"
+    }
+  },
+  {
+    "place_id": "osm_504497840",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0272443,
+    "longitude": -70.7884996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_620655038",
+    "name": "Hooksett Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1056194,
+    "longitude": -71.4644162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Hooksett Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_802139449",
+    "name": "Manchester Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9777865,
+    "longitude": -71.4729332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Manchester Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_823920464",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2228057,
+    "longitude": -71.7230756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_831867192",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.433215,
+    "longitude": -71.9809698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_859808903",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9019472,
+    "longitude": -71.5795023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_860726127",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.020225,
+    "longitude": -71.505051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_870961902",
+    "name": "Parc canin de Coaticook",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1291888,
+    "longitude": -71.8021944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Parc canin de Coaticook"
+    }
+  },
+  {
+    "place_id": "osm_917629810",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0719945,
+    "longitude": -70.7574882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1143776372",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0363234,
+    "longitude": -70.7853683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1204560544",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7812055,
+    "longitude": -71.1039808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Park",
+      "source": "https://fcpossipee.org/wp-content/uploads/2023/01/Constitution-Park-10-9-2022-24x18-300dpi-JPEG-scaled.jpg",
+      "website": "https://fcpossipee.org/"
+    }
+  },
+  {
+    "place_id": "osm_1308343859",
+    "name": "Live Free & Run Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9031095,
+    "longitude": -71.0661056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Live Free & Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1310770089",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9774594,
+    "longitude": -70.9425076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "operator": "Phillips Exeter Academy",
+      "operator:short": "PEA",
+      "operator:wikidata": "Q1426464"
+    }
+  },
+  {
+    "place_id": "osm_1315742867",
+    "name": "Shaker Field Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6148588,
+    "longitude": -72.1447527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "email": "mascomavalleydogpark@gmail.com",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Shaker Field Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Mascoma Valley Dog Park Supporters (MVDPS)",
+      "website": "https://www.mascomavalleydogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1322915722",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1958637,
+    "longitude": -71.5200307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "City of Concord",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1326358769",
+    "name": "Town of Barre Community Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.1659123,
+    "longitude": -72.4891369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "addr:city": "Barre Town",
+      "addr:housenumber": "46",
+      "addr:state": "VT",
+      "addr:street": "Websterville Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Town of Barre Community Dog Park",
+      "operator": "Town of Barre Community Dog Park Volunteers",
+      "operator:type": "community",
+      "website": "https://www.facebook.com/groups/214773445631358/"
+    }
+  },
+  {
+    "place_id": "osm_1454458386",
+    "name": "Dog Park",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2734375,
+    "longitude": -72.1044212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

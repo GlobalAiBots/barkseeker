@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "osm_1379392360",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.2655192,
+    "longitude": -103.6737837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430421",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.2655388,
+    "longitude": -103.6389437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435674",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.291972,
+    "longitude": -102.2772132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1435384008",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.2510218,
+    "longitude": -103.8136192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

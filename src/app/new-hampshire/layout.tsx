@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in New Hampshire — 376 Ramps Across 6 Lakes & Waterways | RampSeeker",
-  description: "The most complete boat ramp directory for New Hampshire. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "New Hampshire Boat Ramps — RampSeeker", url: "https://rampseeker.com/new-hampshire", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "New Hampshire Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/new-hampshire" },
+  title: "Every Dog Park in New Hampshire — 23+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for New Hampshire. 23+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "New Hampshire Dog Parks — BarkSeeker", url: "https://barkseeker.com/new-hampshire", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "New Hampshire Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/new-hampshire" },
 };
 
 export default function NewHampshireLayout({ children }: { children: React.ReactNode }) {

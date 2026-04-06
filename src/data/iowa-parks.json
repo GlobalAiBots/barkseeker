@@ -1,0 +1,1720 @@
+[
+  {
+    "place_id": "osm_1261872107",
+    "name": "Walnut Creek Dog Park - Large Breed Area",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1368633,
+    "longitude": -96.0736989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Walnut Creek Dog Park - Large Breed Area"
+    }
+  },
+  {
+    "place_id": "osm_12141252913",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.9870111,
+    "longitude": -96.2271602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_126172145",
+    "name": "Windsor Heights Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.592624,
+    "longitude": -93.7104916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Windsor Heights Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_160970719",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4948905,
+    "longitude": -96.335746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_183882182",
+    "name": "Ames Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0034347,
+    "longitude": -93.6020612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Ames",
+      "addr:housenumber": "605",
+      "addr:postcode": "50010",
+      "addr:state": "IA",
+      "addr:street": "Billy Sunday Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Ames Dog Park",
+      "operator": "City of Ames",
+      "operator:type": "public",
+      "source": "Bing",
+      "website": "https://www.cityofames.org/Home/Components/FacilityDirectory/FacilityDirectory/6/503",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_216505127",
+    "name": "Ankeny Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6962282,
+    "longitude": -93.6118817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ankeny Dog Park",
+      "website": "https://www.ankenydogpark.org/"
+    }
+  },
+  {
+    "place_id": "osm_286646590",
+    "name": "Wildwood Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.6742705,
+    "longitude": -95.878706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wildwood Dog Park",
+      "note": "1/2 Acre small dog area; 1 Acre large dog space"
+    }
+  },
+  {
+    "place_id": "osm_301604729",
+    "name": "Raccoon River Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5559746,
+    "longitude": -93.7230702,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Raccoon River Dog Park",
+      "opening_hours": "Su-Sa 06:30-sunset"
+    }
+  },
+  {
+    "place_id": "osm_315991658",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1462384,
+    "longitude": -95.9759325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "wall",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "surface": "grass",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_409838401",
+    "name": "Riverwalk Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5979298,
+    "longitude": -93.6168747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Des Moines",
+      "addr:housenumber": "1111",
+      "addr:state": "IA",
+      "addr:street": "Illinois Street",
+      "barrier": "fence",
+      "description": "PERMIT REQUIRED TO ENTER",
+      "leisure": "dog_park",
+      "name": "Riverwalk Dog Park",
+      "opening_hours": "06:00-sunset",
+      "website": "https://www.dmgov.org/Departments/Parks/Pages/DogParks.aspx?Tab=Riverwalk"
+    }
+  },
+  {
+    "place_id": "osm_412255236",
+    "name": "Dog Recreation Ground",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2870204,
+    "longitude": -96.090588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Recreation Ground",
+      "source": "Bing",
+      "website": "https://omahadogparks.org/"
+    }
+  },
+  {
+    "place_id": "osm_412255237",
+    "name": "Dog Recreation Ground",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2879926,
+    "longitude": -96.0897479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Recreation Ground",
+      "source": "Bing",
+      "website": "https://omahadogparks.org/"
+    }
+  },
+  {
+    "place_id": "osm_426044365",
+    "name": "Large Dogs",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1535932,
+    "longitude": -95.8958161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Large Dogs",
+      "note": ">=30 Pounds",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_456298176",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0186012,
+    "longitude": -92.4277012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_470095656",
+    "name": "Freedom Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1644399,
+    "longitude": -95.9273773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Freedom Dog Park",
+      "operator": "Suburu Car Dealership"
+    }
+  },
+  {
+    "place_id": "osm_479604891",
+    "name": "Wes Carter Memorial Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.2786433,
+    "longitude": -92.8230951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wes Carter Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479827493",
+    "name": "Ewing Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5431549,
+    "longitude": -93.5858895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ewing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_481078107",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.8312923,
+    "longitude": -94.1099399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_497767749",
+    "name": "K9 Acres Off-Leash Area",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0137781,
+    "longitude": -91.5534378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Marion",
+      "addr:housenumber": "5200",
+      "addr:postcode": "52302",
+      "addr:state": "IA",
+      "addr:street": "Golf Course Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "K9 Acres Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_514571242",
+    "name": "Paw Spa",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1902308,
+    "longitude": -96.179466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paw Spa"
+    }
+  },
+  {
+    "place_id": "osm_545153357",
+    "name": "Paw Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.508239,
+    "longitude": -92.4450353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paw Park"
+    }
+  },
+  {
+    "place_id": "osm_548902500",
+    "name": "Waterloo Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4844895,
+    "longitude": -92.3790746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Waterloo Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_549166937",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.0580267,
+    "longitude": -91.1559096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "designated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_549758066",
+    "name": "Dog Park at the Cascades",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5538912,
+    "longitude": -93.819338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park at the Cascades"
+    }
+  },
+  {
+    "place_id": "osm_589042826",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.7391261,
+    "longitude": -96.5950945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_600366600",
+    "name": "Apple Creek Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2379695,
+    "longitude": -96.1339162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Apple Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_605108717",
+    "name": "Reno Memorial Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.628952,
+    "longitude": -93.5468345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Des Moines",
+      "addr:housenumber": "3533",
+      "addr:street": "East Douglas Avenue",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Reno Memorial Dog Park",
+      "opening_hours": "Mo-Su 06:00-sunset",
+      "website": "https://www.dmgov.org/Departments/Parks/Pages/DogParks.aspx?Tab=Reno+Memorial"
+    }
+  },
+  {
+    "place_id": "osm_627471034",
+    "name": "Norwalk Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.477388,
+    "longitude": -93.6770634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Norwalk",
+      "addr:housenumber": "907",
+      "addr:postcode": "50211",
+      "addr:street": "North Avenue",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Norwalk Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_628405457",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7325488,
+    "longitude": -90.4626018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_674360361",
+    "name": "Altoona Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6428608,
+    "longitude": -93.4826593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Altoona Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_704405784",
+    "name": "Hanscom Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2442231,
+    "longitude": -95.9582686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hanscom Dog Park",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "place_id": "osm_754422331",
+    "name": "Dewey Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.256023,
+    "longitude": -95.9595714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dewey Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_757102009",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0149409,
+    "longitude": -91.5759554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_803344368",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7043437,
+    "longitude": -91.6554837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_831856725",
+    "name": "Red Fern Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.7508914,
+    "longitude": -91.5756431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Red Fern Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_839964575",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1364317,
+    "longitude": -95.9551035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_849611515",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5768784,
+    "longitude": -93.6269939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Cityville Apartments",
+      "operator:type": "private",
+      "surface": "clay"
+    }
+  },
+  {
+    "place_id": "osm_895260361",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9583277,
+    "longitude": -91.5826016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_933110464",
+    "name": "Bark Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1530485,
+    "longitude": -95.9354169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_953030044",
+    "name": "Park 120 Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2028201,
+    "longitude": -96.0969867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Park 120 Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1039391372",
+    "name": "Newton Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6985743,
+    "longitude": -93.093491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Newton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1047766360",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5936257,
+    "longitude": -93.6290135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1053448221",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7028158,
+    "longitude": -90.9593112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1063319147",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4703153,
+    "longitude": -96.3960057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1074973143",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4236743,
+    "longitude": -96.4510762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_1076667354",
+    "name": "Kinship Brewing Company Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6190923,
+    "longitude": -93.8970131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kinship Brewing Company Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1092228299",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0454182,
+    "longitude": -95.8266134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1104449566",
+    "name": "Large Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2583705,
+    "longitude": -95.9274178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1105663406",
+    "name": "Ingersoll Square Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5865641,
+    "longitude": -93.643534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ingersoll Square Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1120479178",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.0459946,
+    "longitude": -91.6771314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1149802286",
+    "name": "Trailside Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6073959,
+    "longitude": -93.8497707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Trailside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1173691236",
+    "name": "Waverly Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7102243,
+    "longitude": -92.4625797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Waverly Dog Park",
+      "operator": "City of Waverly",
+      "operator:type": "government",
+      "website": "https://www.waverlyia.com/leisure-services/departments/parks/petsafeoff-leash-dog-park/default.aspx"
+    }
+  },
+  {
+    "place_id": "osm_1261890298",
+    "name": "La Vista Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1790574,
+    "longitude": -96.054759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "7120",
+      "addr:street": "South 92nd Avenue",
+      "leisure": "dog_park",
+      "name": "La Vista Dog Park",
+      "operator": "City of La Vista",
+      "operator:type": "government",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1270776480",
+    "name": "Urbandale Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6538491,
+    "longitude": -93.7072081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Urbandale",
+      "addr:housenumber": "4905",
+      "addr:state": "IA",
+      "addr:street": "68th Street",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Urbandale Dog Park",
+      "operator": "Urbandale",
+      "website": "https://www.urbandale.org/1089/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_1280463409",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.0023818,
+    "longitude": -96.0689424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1289003073",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2412103,
+    "longitude": -96.0133778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1290295317",
+    "name": "Omaha Dog Bar",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.247176,
+    "longitude": -95.9342714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Omaha Dog Bar",
+      "operator": "Omaha Dog Bar",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1311829953",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 40.6532831,
+    "longitude": -96.1982957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1312055563",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6882261,
+    "longitude": -92.0052656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1317731254",
+    "name": "Paws & Pints",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5565447,
+    "longitude": -93.7021303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Des Moines",
+      "addr:housenumber": "6218",
+      "addr:postcode": "50321",
+      "addr:state": "IA",
+      "addr:street": "Willowmere Drive",
+      "leisure": "dog_park",
+      "name": "Paws & Pints",
+      "website": "https://pawsandpintsdsm.com/"
+    }
+  },
+  {
+    "place_id": "osm_1341801567",
+    "name": "Central Bark Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.0383435,
+    "longitude": -96.361693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Ashland",
+      "addr:housenumber": "191",
+      "addr:postcode": "68003",
+      "addr:state": "NE",
+      "addr:street": "South 8th Street",
+      "leisure": "dog_park",
+      "name": "Central Bark Dog Park",
+      "operator": "City of Ashland"
+    }
+  },
+  {
+    "place_id": "osm_1363268602",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5921142,
+    "longitude": -93.6151366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Velocity Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1363269192",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5949023,
+    "longitude": -93.6155689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Level Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1363512589",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6213534,
+    "longitude": -93.8883756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "check_date": "2025-02-27",
+      "dog": "unleashed",
+      "fence_type": "bars",
+      "leisure": "dog_park",
+      "operator": "Converge NW Apartments",
+      "operator:type": "private",
+      "surface": "pebblestone"
+    }
+  },
+  {
+    "place_id": "osm_1364308137",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1215821,
+    "longitude": -96.2403084,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1364373577",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5798747,
+    "longitude": -93.6302204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "LINC Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1365038287",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6394159,
+    "longitude": -93.5046029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "operator": "The Emory",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1369796399",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.3010379,
+    "longitude": -96.1625864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1382170975",
+    "name": "Doggie Daycare",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.2320137,
+    "longitude": -96.0831012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Doggie Daycare"
+    }
+  },
+  {
+    "place_id": "osm_1384160008",
+    "name": "Pet Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5141314,
+    "longitude": -90.693092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Dubuque",
+      "addr:housenumber": "2501",
+      "addr:postcode": "52001",
+      "addr:state": "IA",
+      "addr:street": "North Grandview Avenue",
+      "leisure": "dog_park",
+      "name": "Pet Park",
+      "operator": "City of Dubuque",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1390091586",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4363932,
+    "longitude": -96.3360288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1410432259",
+    "name": "Union at Marina Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.5285015,
+    "longitude": -90.6449842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Union at Marina Dog Park",
+      "operator": "Annex Group"
+    }
+  },
+  {
+    "place_id": "osm_1413428805",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.7662083,
+    "longitude": -96.2127401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430125",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.3115313,
+    "longitude": -93.5714597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431236",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.4968987,
+    "longitude": -95.4522723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431305",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6798663,
+    "longitude": -92.9990424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431589",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.1577957,
+    "longitude": -96.1370505,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1417410735",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 42.4818502,
+    "longitude": -95.7892336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1446741406",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.9586403,
+    "longitude": -92.5818567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_16322203",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 43.1644532,
+    "longitude": -93.1945586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18218982",
+    "name": "Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.5944502,
+    "longitude": -93.6122398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19418508",
+    "name": "Thornberry Off-Leash Dog Park",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6726871,
+    "longitude": -91.5599844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Featuring a large, fenced-in dog park with separate areas for small or timid dogs and a pond for dogs to swim",
+      "leisure": "dog_park",
+      "name": "Thornberry Off-Leash Dog Park",
+      "type": "multipolygon",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_19420164",
+    "name": "Emma's Run",
+    "formatted_address": ", Iowa, USA",
+    "latitude": 41.6723654,
+    "longitude": -91.5586163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Emma's Run",
+      "type": "multipolygon"
+    }
+  }
+]

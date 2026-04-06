@@ -1,0 +1,487 @@
+[
+  {
+    "place_id": "osm_2123270725",
+    "name": "Elsmere Bark Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7372526,
+    "longitude": -75.589852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Elsmere Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_5314000451",
+    "name": "Large Bark Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4282295,
+    "longitude": -75.7477895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_7611434748",
+    "name": "Millsboro Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5863396,
+    "longitude": -75.2926745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Millsboro",
+      "addr:postcode": "19966",
+      "addr:state": "DE",
+      "addr:street": "Wilson Highway",
+      "leisure": "dog_park",
+      "name": "Millsboro Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_9595716466",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5416421,
+    "longitude": -75.1218386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_40416844",
+    "name": "Large Bark Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6373614,
+    "longitude": -75.7559452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "bags": "yes",
+      "barrier": "fence",
+      "fence_type": "chain",
+      "leisure": "dog_park",
+      "name": "Large Bark Park",
+      "note": "large dog area",
+      "source": "GPS,survey",
+      "water": "yes"
+    }
+  },
+  {
+    "place_id": "osm_265482236",
+    "name": "Washington Lake Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.74342,
+    "longitude": -75.0901081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Washington Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_413731307",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7292862,
+    "longitude": -75.6880089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "GPS + bing"
+    }
+  },
+  {
+    "place_id": "osm_544442617",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7941101,
+    "longitude": -75.5210328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_545364926",
+    "name": "Small Bark Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6070452,
+    "longitude": -75.7358624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Small Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_545738796",
+    "name": "Lums Pond State Park Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5656822,
+    "longitude": -75.7076069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lums Pond State Park Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_593136641",
+    "name": "Large Bark Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7170173,
+    "longitude": -75.5915684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_617723782",
+    "name": "Arundel Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7351134,
+    "longitude": -75.6726297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Arundel Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_623760364",
+    "name": "Bark Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1665864,
+    "longitude": -75.4472895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog park located in Little Creek, DE established in 2018",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_724210949",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6228845,
+    "longitude": -75.1046717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_724214152",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6197517,
+    "longitude": -75.1522561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_730311696",
+    "name": "Large Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1118658,
+    "longitude": -75.5095116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_732015186",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6631623,
+    "longitude": -75.2295061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_732466941",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0161564,
+    "longitude": -75.7669388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_818720551",
+    "name": "Bark in the Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4346004,
+    "longitude": -75.2370473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark in the Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1163067382",
+    "name": "Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3217652,
+    "longitude": -75.6182501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1167463034",
+    "name": "Lewes Unleashed Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7782061,
+    "longitude": -75.1617878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lewes Unleashed Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1258907082",
+    "name": "Milford Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9145348,
+    "longitude": -75.420478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Milford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1356288203",
+    "name": "Nick Mowers Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6409721,
+    "longitude": -75.5450217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Nick Mowers Dog Park",
+      "operator": "Pennsville Township",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1380310736",
+    "name": "Gloucester County Dog Park",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7878298,
+    "longitude": -75.366365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Logan Township",
+      "addr:housenumber": "2401",
+      "addr:postcode": "08085",
+      "addr:state": "NJ",
+      "addr:street": "High Hill Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Gloucester County Dog Park",
+      "operator": "Gloucester County Improvement Authority",
+      "operator:type": "government",
+      "website": "https://www.gcianj.com/dog-park/"
+    }
+  }
+]

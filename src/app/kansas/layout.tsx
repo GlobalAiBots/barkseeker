@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in Kansas — 386+ Ramps Across 15 Lakes | RampSeeker",
-  description: "The most complete boat ramp directory for Kansas. 386+ ramps across Milford, Tuttle Creek, Clinton, Perry, Cheney, Wilson, and more. GPS coordinates, amenities, directions.",
-  openGraph: { title: "Kansas Boat Ramps — RampSeeker", url: "https://rampseeker.com/kansas", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/kansas" },
+  title: "Every Dog Park in Kansas — 93+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for Kansas. 93+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "Kansas Dog Parks — BarkSeeker", url: "https://barkseeker.com/kansas", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "Kansas Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/kansas" },
 };
 
 export default function KansasLayout({ children }: { children: React.ReactNode }) {

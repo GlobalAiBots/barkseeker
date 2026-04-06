@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in Iowa — 637 Ramps Across 8 Lakes & Waterways | RampSeeker",
-  description: "The most complete boat ramp directory for Iowa. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "Iowa Boat Ramps — RampSeeker", url: "https://rampseeker.com/iowa", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "Iowa Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/iowa" },
+  title: "Every Dog Park in Iowa — 83+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for Iowa. 83+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "Iowa Dog Parks — BarkSeeker", url: "https://barkseeker.com/iowa", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "Iowa Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/iowa" },
 };
 
 export default function IowaLayout({ children }: { children: React.ReactNode }) {

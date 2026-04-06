@@ -1,0 +1,275 @@
+[
+  {
+    "place_id": "osm_11162107470",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.909086,
+    "longitude": -98.0062012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12650549151",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.9189227,
+    "longitude": -103.533696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13040462868",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.8388995,
+    "longitude": -100.7817094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "City of Bismarck"
+    }
+  },
+  {
+    "place_id": "osm_506734596",
+    "name": "Happy Tails Bark Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 48.4209685,
+    "longitude": -97.4255831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Happy Tails Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_576127937",
+    "name": "Lasalle Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.8633354,
+    "longitude": -100.8114596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lasalle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_576415899",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 47.9688067,
+    "longitude": -97.3739087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_618690102",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.8931499,
+    "longitude": -98.8050936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_628177990",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 48.780524,
+    "longitude": -97.7480216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_645738854",
+    "name": "Dakota Bark Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 48.2311435,
+    "longitude": -101.3378866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Minot",
+      "addr:housenumber": "505",
+      "addr:postcode": "58701",
+      "addr:state": "ND",
+      "addr:street": "505 25th Street Southwest",
+      "ele": "475",
+      "leisure": "dog_park",
+      "name": "Dakota Bark Park",
+      "website": "http://minotparks.com/parks/dakota-bark-park/"
+    }
+  },
+  {
+    "place_id": "osm_693994494",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 48.2020948,
+    "longitude": -101.3208909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "artificial_turf",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_901859840",
+    "name": "Dog Town",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.8168736,
+    "longitude": -100.8808597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "810",
+      "addr:street": "8th Avenue South",
+      "leisure": "dog_park",
+      "name": "Dog Town"
+    }
+  },
+  {
+    "place_id": "osm_1039970473",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 48.2294462,
+    "longitude": -101.3368817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225076949",
+    "name": "Dog Park",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.9346819,
+    "longitude": -97.9903065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1430192634",
+    "name": "Dickinson Dog Parkww",
+    "formatted_address": ", North Dakota, USA",
+    "latitude": 46.8702516,
+    "longitude": -102.8007078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dickinson Dog Parkww"
+    }
+  }
+]

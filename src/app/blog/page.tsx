@@ -3,11 +3,11 @@ import { blogPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "RampSeeker Blog — Boating Tips & Lake Guides for Oklahoma, Texas & More",
-  description: "Boating tips, fishing guides, lake information, and boat ramp advice for anglers across Oklahoma, Texas, Missouri, Arkansas, and Kansas.",
-  openGraph: { title: "RampSeeker Blog", url: "https://rampseeker.com/blog", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "RampSeeker Blog" },
-  alternates: { canonical: "https://rampseeker.com/blog" },
+  title: "BarkSeeker Blog — Dog Park Tips, Guides & Off-Leash Areas",
+  description: "Dog park guides, off-leash area tips, etiquette advice, and park recommendations for dog owners across America.",
+  openGraph: { title: "BarkSeeker Blog", url: "https://barkseeker.com/blog", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "BarkSeeker Blog" },
+  alternates: { canonical: "https://barkseeker.com/blog" },
 };
 
 export default function BlogIndex() {
@@ -29,7 +29,7 @@ export default function BlogIndex() {
                 <span className="text-gray-400 text-xs">{p.date} &middot; {p.readTime}</span>
               </div>
               <h2 className="font-[Cabin] text-lg font-bold text-charcoal group-hover:text-water transition mb-2 line-clamp-2">{p.title}</h2>
-              <p className="text-gray-500 text-sm line-clamp-2 mb-3">{p.excerpt}</p>
+              <p className="text-gray-500 text-sm line-clamp-2 mb-3">{p.description}</p>
               <span className="text-sunset font-semibold text-sm">Read more &rarr;</span>
             </div>
           </Link>

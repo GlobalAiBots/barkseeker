@@ -1,0 +1,6720 @@
+[
+  {
+    "place_id": "osm_2129586174",
+    "name": "Pet Exercise Area",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.5157872,
+    "longitude": -78.2072995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_2422867542",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8279014,
+    "longitude": -78.8052908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "visited"
+    }
+  },
+  {
+    "place_id": "osm_4687145002",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4688203,
+    "longitude": -80.6644008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_4771887836",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8227525,
+    "longitude": -79.1041635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6009988145",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8478909,
+    "longitude": -78.6786325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8567602905",
+    "name": "Carolina Arbors Small Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9352681,
+    "longitude": -78.7885795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carolina Arbors Small Dog Park",
+      "operator": "Carolina Arbors",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_9194469083",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9586106,
+    "longitude": -83.9175102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "leashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9194469096",
+    "name": "university walk and society 865 dog park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9571267,
+    "longitude": -83.9432003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "university walk and society 865 dog park"
+    }
+  },
+  {
+    "place_id": "osm_9481637513",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.5584458,
+    "longitude": -76.0069931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9993532167",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.2790948,
+    "longitude": -77.8166736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10036568296",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6342011,
+    "longitude": -78.7606482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10177524832",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8524532,
+    "longitude": -83.5656957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10573073138",
+    "name": "Saluda Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2331362,
+    "longitude": -82.3536381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Saluda",
+      "addr:housenumber": "199",
+      "addr:postcode": "28773",
+      "addr:state": "NC",
+      "addr:street": "Chestnut Street",
+      "leisure": "dog_park",
+      "name": "Saluda Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10577724444",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4346227,
+    "longitude": -80.6337349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10807358937",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.9009677,
+    "longitude": -77.5465051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Richlands",
+      "addr:housenumber": "101-145",
+      "addr:postcode": "28574",
+      "addr:state": "NC",
+      "addr:street": "West Foy Street",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10853471341",
+    "name": "George Poston Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2850643,
+    "longitude": -81.1116854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Gastonia",
+      "addr:housenumber": "1101",
+      "addr:postcode": "28056",
+      "addr:state": "NC",
+      "addr:street": "Lowell Spencer Mountain Rd",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "George Poston Dog Park",
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "website": "https://www.gastongov.com/Facilities/Facility/Details/George-Poston-Park-6"
+    }
+  },
+  {
+    "place_id": "osm_10964143965",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2072046,
+    "longitude": -80.86324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11283896905",
+    "name": "Highlands Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0573291,
+    "longitude": -83.1989339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Highlands Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_11466232433",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5722454,
+    "longitude": -82.5658331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11784559032",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3486337,
+    "longitude": -77.9642044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12055986336",
+    "name": "Davy's Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.3252547,
+    "longitude": -82.8349313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Davy's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_12162311396",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0687404,
+    "longitude": -79.7895641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12242056181",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6698087,
+    "longitude": -78.6277414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12344459697",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.791349,
+    "longitude": -78.823368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12485260601",
+    "name": "Lucky Dog Bark and Brew",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2338452,
+    "longitude": -80.8725736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Charlotte",
+      "addr:housenumber": "2220",
+      "addr:postcode": "28208",
+      "addr:state": "NC",
+      "addr:street": "Thrift Road",
+      "leisure": "dog_park",
+      "name": "Lucky Dog Bark and Brew"
+    }
+  },
+  {
+    "place_id": "osm_12485264648",
+    "name": "Outer Banks Brewing Station",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0095491,
+    "longitude": -75.6592069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Kill Devil Hills",
+      "addr:housenumber": "600",
+      "addr:postcode": "27948",
+      "addr:state": "NC",
+      "addr:street": "South Croatan Highway",
+      "leisure": "dog_park",
+      "name": "Outer Banks Brewing Station"
+    }
+  },
+  {
+    "place_id": "osm_12536848470",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.009756,
+    "longitude": -82.3230933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12629262511",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7339536,
+    "longitude": -78.6578878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12941771901",
+    "name": "Jackson County Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.371783,
+    "longitude": -83.2614303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jackson County Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_13623103685",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0617494,
+    "longitude": -79.8342809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_106435751",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.023984,
+    "longitude": -78.8996005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_106521850",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9146642,
+    "longitude": -78.9222552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_149692472",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8377638,
+    "longitude": -78.6919821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_199537912",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0699555,
+    "longitude": -79.1098291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes"
+    }
+  },
+  {
+    "place_id": "osm_211377934",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8723469,
+    "longitude": -79.0679976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_211517956",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8112347,
+    "longitude": -78.8403898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_257759540",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9220142,
+    "longitude": -79.1061256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_260052950",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0840161,
+    "longitude": -79.4500934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_260840584",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9535678,
+    "longitude": -79.0624093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_260967424",
+    "name": "K-9 Corner at Schmidt Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0914115,
+    "longitude": -79.5231788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "K-9 Corner at Schmidt Park"
+    }
+  },
+  {
+    "place_id": "osm_265685649",
+    "name": "Azalea Small Breed Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5754719,
+    "longitude": -82.4849433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Azalea Small Breed Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_267467318",
+    "name": "Little Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6131235,
+    "longitude": -77.3548641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Little Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_291695253",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8956302,
+    "longitude": -79.0862855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_291756489",
+    "name": "Downtown Durham Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9967702,
+    "longitude": -78.8955534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Downtown Durham Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_313112640",
+    "name": "Pitner Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6588044,
+    "longitude": -80.4656945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Pitner Dog Park",
+      "website": "https://salisburync.gov/Government/Parks-and-Recreation/Parks/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_323719310",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0947612,
+    "longitude": -80.8720826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_324348870",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0851099,
+    "longitude": -79.8048481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Greensboro",
+      "addr:housenumber": "1214",
+      "addr:postcode": "27408",
+      "addr:state": "NC",
+      "addr:street": "Battleground Avenue",
+      "building": "retail",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_345215812",
+    "name": "Apex Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7373205,
+    "longitude": -78.8469028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Apex Dog Park",
+      "operator": "Town of Apex"
+    }
+  },
+  {
+    "place_id": "osm_366515020",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9102086,
+    "longitude": -78.7891209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_403759448",
+    "name": "PetSafe Village Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9135282,
+    "longitude": -84.1347525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PetSafe Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_409273645",
+    "name": "Dog Walk",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0177479,
+    "longitude": -76.3146273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Walk"
+    }
+  },
+  {
+    "place_id": "osm_431357667",
+    "name": "Tanglewood Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0162719,
+    "longitude": -80.4074286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Tanglewood Dog Park",
+      "name:en": "Tanglewoof Dog Park",
+      "operator": "Forsyth County Parks and Recreation",
+      "operator:type": "government",
+      "surface": "grass",
+      "website": "https://www.forsyth.cc/parks/dog_park.aspx"
+    }
+  },
+  {
+    "place_id": "osm_439224183",
+    "name": "Fuquay-Varina Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.582123,
+    "longitude": -78.8063633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Fuquay-Varina",
+      "addr:housenumber": "110",
+      "addr:postcode": "27526",
+      "addr:state": "NC",
+      "addr:street": "Woodland Drive",
+      "leisure": "dog_park",
+      "name": "Fuquay-Varina Dog Park",
+      "operator": "Town of Fuquay-Varina",
+      "operator:type": "public",
+      "website": "https://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Downtown-Dog-Park-13"
+    }
+  },
+  {
+    "place_id": "osm_447723397",
+    "name": "North Garner Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7067222,
+    "longitude": -78.602531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Garner",
+      "addr:housenumber": "221",
+      "addr:state": "NC",
+      "addr:street": "East Garner Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "North Garner Dog Park",
+      "operator": "Town of Garner",
+      "operator:type": "government",
+      "website": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/parks-facilities/dog-parks"
+    }
+  },
+  {
+    "place_id": "osm_468751948",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8128076,
+    "longitude": -78.786276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469274190",
+    "name": "Gurney Hood Barking Lot",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 33.9987335,
+    "longitude": -77.9118066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gurney Hood Barking Lot"
+    }
+  },
+  {
+    "place_id": "osm_470079588",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3588538,
+    "longitude": -80.1885803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_471495775",
+    "name": "Bicentennial Greenbelt Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7581347,
+    "longitude": -83.9757388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bicentennial Greenbelt Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479548909",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8794976,
+    "longitude": -78.8293838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Fenced in Dog Park with utilities (trash/waste bags)",
+      "leisure": "dog_park",
+      "noname": "yes"
+    }
+  },
+  {
+    "place_id": "osm_487075056",
+    "name": "Victor Ashe Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.982632,
+    "longitude": -83.992515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Victor Ashe Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_511392659",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3177975,
+    "longitude": -80.9398771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_517955128",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1869109,
+    "longitude": -83.3744705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_518031832",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2746728,
+    "longitude": -80.7173527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_520911097",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9113226,
+    "longitude": -79.0584911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_534272015",
+    "name": "Liberty Pointe Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.7193461,
+    "longitude": -77.3173088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog Park for Liberty Pointe ",
+      "leisure": "dog_park",
+      "name": "Liberty Pointe Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_544275754",
+    "name": "Ashley Wilder Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.793063,
+    "longitude": -78.4754765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ashley Wilder Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_544595599",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8700062,
+    "longitude": -78.6055421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544723649",
+    "name": "Fairbrook Optimist Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.72686,
+    "longitude": -81.3127169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fairbrook Optimist Park"
+    }
+  },
+  {
+    "place_id": "osm_546716631",
+    "name": "East Clayton Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6378049,
+    "longitude": -78.4200067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Clayton",
+      "addr:housenumber": "2027",
+      "addr:postcode": "27527",
+      "addr:state": "NC",
+      "addr:street": "Glen Laurel Road",
+      "leisure": "dog_park",
+      "name": "East Clayton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_547545487",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9152343,
+    "longitude": -78.9290382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_549971135",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1443795,
+    "longitude": -78.868393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_552181202",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1865425,
+    "longitude": -81.8712258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Beech Mountain",
+      "addr:housenumber": "114",
+      "addr:postcode": "28604",
+      "addr:state": "NC",
+      "addr:street": "Bark Park Way",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_552415028",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7884145,
+    "longitude": -80.8779566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_555598438",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8101244,
+    "longitude": -78.7371556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_556630800",
+    "name": "Large Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0652374,
+    "longitude": -80.6189783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_566004474",
+    "name": "Pets Own Place",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3255208,
+    "longitude": -82.4522164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pets Own Place"
+    }
+  },
+  {
+    "place_id": "osm_571420113",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9520954,
+    "longitude": -84.1683776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_577304871",
+    "name": "Heather Ridge Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2930975,
+    "longitude": -80.7341031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Heather Ridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_577595668",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3340173,
+    "longitude": -80.7113988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_580646780",
+    "name": "Campus Walk Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0112165,
+    "longitude": -78.9509977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Campus Walk Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_582913287",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.213775,
+    "longitude": -80.8595236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_583564533",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.1519701,
+    "longitude": -77.8944762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_583840947",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8170831,
+    "longitude": -78.60912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_584953930",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9469404,
+    "longitude": -78.8205311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_585036214",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9197345,
+    "longitude": -78.4649633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_611694842",
+    "name": "Midway Dog Park #1",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.7286904,
+    "longitude": -77.3377766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Jacksonville",
+      "addr:postcode": "28544",
+      "addr:state": "NC",
+      "addr:street": "Butler Drive North",
+      "leisure": "dog_park",
+      "name": "Midway Dog Park #1"
+    }
+  },
+  {
+    "place_id": "osm_611694843",
+    "name": "Midway Dog Park #2",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.7261288,
+    "longitude": -77.3340616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Midway Dog Park #2"
+    }
+  },
+  {
+    "place_id": "osm_613070270",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1400868,
+    "longitude": -79.6190196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_617493731",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7827379,
+    "longitude": -78.7430383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_617493732",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7810455,
+    "longitude": -78.7410089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_619870684",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7559013,
+    "longitude": -78.7756492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_626322481",
+    "name": "Jamison Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0971806,
+    "longitude": -80.3642855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Jamison Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_626322482",
+    "name": "Jamison Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.097536,
+    "longitude": -80.3643687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Jamison Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_633947595",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.2700929,
+    "longitude": -77.8314315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_650775700",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.5014062,
+    "longitude": -81.5133355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_657733446",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0254987,
+    "longitude": -81.8944752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_662959326",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9500363,
+    "longitude": -79.0759762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_669881867",
+    "name": "Horizons Happy Hounds Off Leash Dog Area",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.2282032,
+    "longitude": -80.23206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Horizons Happy Hounds Off Leash Dog Area",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_675579106",
+    "name": "Small Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1137249,
+    "longitude": -80.6361669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_693800614",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1000228,
+    "longitude": -79.2775717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_696245853",
+    "name": "Large/Medium Dog Area",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7114,
+    "longitude": -78.7667178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Cary",
+      "addr:housenumber": "9725",
+      "addr:postcode": "27606",
+      "addr:state": "NC",
+      "addr:street": "Penny Road",
+      "leisure": "dog_park",
+      "membership": "yes",
+      "name": "Large/Medium Dog Area",
+      "website": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park"
+    }
+  },
+  {
+    "place_id": "osm_696510280",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6659533,
+    "longitude": -78.6948269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_700015894",
+    "name": "Hidden Oaks Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1452473,
+    "longitude": -81.1531634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hidden Oaks Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_711550954",
+    "name": "North Bend Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8601661,
+    "longitude": -78.6241875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "North Bend Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_727918506",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6599278,
+    "longitude": -78.8795195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_728785333",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.575786,
+    "longitude": -80.8244183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_730893574",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0102914,
+    "longitude": -78.9434407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_735452160",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0869774,
+    "longitude": -81.6588179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_738922222",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6711587,
+    "longitude": -78.8326821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_743552297",
+    "name": "Arko Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.2231031,
+    "longitude": -81.5961722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "contact:website": "https://wataugahumane.org/dog-park",
+      "leisure": "dog_park",
+      "name": "Arko Dog Park",
+      "operator": "Watauga Humane Society",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_744471031",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6306855,
+    "longitude": -78.8221883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_746281160",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.2888647,
+    "longitude": -82.4046986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_760642489",
+    "name": "Oakwood Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7902894,
+    "longitude": -78.6235932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Oakwood Dog Park",
+      "note": "Open sunrise to sunset. Fenced areas for both large and small dogs.",
+      "website": "https://raleighnc.gov/places/oakwood-park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_762574214",
+    "name": "Agility Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0288987,
+    "longitude": -80.9626626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Agility Park"
+    }
+  },
+  {
+    "place_id": "osm_764838586",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0857475,
+    "longitude": -80.9100436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_770912987",
+    "name": "Hudson Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8498799,
+    "longitude": -81.4894278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hudson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_775060277",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.925171,
+    "longitude": -78.7747031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_775083867",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9290134,
+    "longitude": -78.7772356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_775766340",
+    "name": "Pet Station Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1434311,
+    "longitude": -80.864321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Station Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_777519515",
+    "name": "Canine Commons Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0761841,
+    "longitude": -80.892893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Pineville",
+      "addr:housenumber": "181",
+      "addr:postcode": "28134",
+      "addr:state": "NC",
+      "addr:street": "Lake Drive",
+      "leisure": "dog_park",
+      "name": "Canine Commons Dog Park",
+      "operator": "Pineville Parks and Recreation",
+      "operator:type": "government",
+      "website": "http://www.pinevillenc.gov/Departments/ParksRecreaton/ParksFacilities/CanineCommonsDogPark/tabid/257/Default.aspx"
+    }
+  },
+  {
+    "place_id": "osm_795853555",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7264348,
+    "longitude": -78.9246481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_801794940",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8023277,
+    "longitude": -78.5187145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_802187267",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6028362,
+    "longitude": -78.7536903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_803908018",
+    "name": "Weddington Road Bark Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3723237,
+    "longitude": -80.7041531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "addr:city": "Concord",
+      "addr:housenumber": "8955",
+      "addr:postcode": "28027",
+      "addr:state": "NC",
+      "addr:street": "Weddington Road",
+      "leisure": "dog_park",
+      "name": "Weddington Road Bark Park",
+      "operator": "City of Concord Parks& Recreation",
+      "operator:type": "government",
+      "website": "https://www.concordnc.gov/Departments/Parks-Recreation/Facilities/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_807625259",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6828519,
+    "longitude": -78.59961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_813219962",
+    "name": "Small Dogs Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.351687,
+    "longitude": -80.8119241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Small Dogs Park"
+    }
+  },
+  {
+    "place_id": "osm_819517714",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1645608,
+    "longitude": -83.3781628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_824925629",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0005388,
+    "longitude": -80.707965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_827087540",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4718904,
+    "longitude": -80.8261238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_831335002",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.381779,
+    "longitude": -82.5505562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_850234183",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8310107,
+    "longitude": -78.8128344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_850234184",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8259144,
+    "longitude": -78.8049467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_850234185",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8198948,
+    "longitude": -78.8211292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_855163964",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9430792,
+    "longitude": -79.0027693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_858762369",
+    "name": "McAlpine Creek Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1525195,
+    "longitude": -80.7449955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Charlotte",
+      "addr:housenumber": "8617",
+      "addr:postcode": "28212",
+      "addr:state": "NC",
+      "addr:street": "Monroe Road",
+      "leisure": "dog_park",
+      "name": "McAlpine Creek Dog Park",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "place_id": "osm_859119696",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.323228,
+    "longitude": -80.7857037,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_866758267",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1514157,
+    "longitude": -80.7427939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_872026247",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1547175,
+    "longitude": -80.9225494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_881509089",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7086507,
+    "longitude": -80.8913064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_887389403",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.133421,
+    "longitude": -80.7467805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fixme": "position estimated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_889972186",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6929098,
+    "longitude": -78.6125294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_889972187",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7042327,
+    "longitude": -78.6216485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_889972197",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7163063,
+    "longitude": -78.6515764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_892717092",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4799347,
+    "longitude": -82.5699568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_894675300",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4283918,
+    "longitude": -82.4962566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_899341638",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0182231,
+    "longitude": -83.9361957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_908464734",
+    "name": "Morristown Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.2430811,
+    "longitude": -83.2615262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Morristown Dog Park",
+      "operator": "City of Morristown",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_916746342",
+    "name": "Woodbury Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.688094,
+    "longitude": -78.934057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woodbury Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_922894998",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.110257,
+    "longitude": -80.7843782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_930343115",
+    "name": "The Bark Knoxville",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.975178,
+    "longitude": -83.9219408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Knoxville",
+      "addr:housenumber": "601",
+      "addr:postcode": "37917",
+      "addr:state": "TN",
+      "addr:street": "Lamar Street",
+      "leisure": "dog_park",
+      "name": "The Bark Knoxville"
+    }
+  },
+  {
+    "place_id": "osm_943590175",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.969032,
+    "longitude": -79.0720229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_954447101",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8586804,
+    "longitude": -79.0229098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_960841576",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.066341,
+    "longitude": -79.4199376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_965964098",
+    "name": "Bark Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8785471,
+    "longitude": -78.8656346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "opening_hours": "Mo-Su 10:00-21:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_970374543",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1050904,
+    "longitude": -80.9823986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_978287434",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.9740587,
+    "longitude": -79.0110966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_978786945",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7744792,
+    "longitude": -81.5451376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_981521011",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.1458486,
+    "longitude": -78.0896252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_991677761",
+    "name": "Aviation Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0099232,
+    "longitude": -75.6643668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Aviation Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_994961601",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1796574,
+    "longitude": -80.9096019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_995338819",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.9785039,
+    "longitude": -78.9749705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1003676989",
+    "name": "5401 North Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8589279,
+    "longitude": -78.5316219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "5401 North Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1019344551",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 33.9494242,
+    "longitude": -80.3581123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1023027200",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8668025,
+    "longitude": -78.5955402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1024372927",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8003191,
+    "longitude": -78.7928571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1027236711",
+    "name": "Tuckers Tap Yard",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1078194,
+    "longitude": -80.2379246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Winston-Salem",
+      "addr:housenumber": "1010",
+      "addr:postcode": "27101",
+      "addr:state": "NC",
+      "addr:street": "North Liberty Street",
+      "leisure": "dog_park",
+      "name": "Tuckers Tap Yard",
+      "source": "microsoft/BuildingFootprints"
+    }
+  },
+  {
+    "place_id": "osm_1028445873",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.5569957,
+    "longitude": -76.0092537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1035166784",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1546393,
+    "longitude": -80.9670201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1053215311",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.976788,
+    "longitude": -84.0044479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Waterford Village Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1058636854",
+    "name": "Bradley Station Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2647194,
+    "longitude": -81.1804626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Gastonia",
+      "addr:housenumber": "181",
+      "addr:postcode": "28052",
+      "addr:state": "NC",
+      "addr:street": "North Oakland Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Bradley Station Dog Park",
+      "operator": "City of Gastonia",
+      "operator:type": "government",
+      "start_date": "2021-01-25",
+      "website": "https://www.cityofgastonia.com/bradley-station-dog-park.html"
+    }
+  },
+  {
+    "place_id": "osm_1059970708",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2848893,
+    "longitude": -80.7567899,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1061932705",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8055509,
+    "longitude": -78.7327949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "ground"
+    }
+  },
+  {
+    "place_id": "osm_1066285545",
+    "name": "The Vineyards on Lake Wylie Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2286691,
+    "longitude": -80.9960801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "The Vineyards on Lake Wylie Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1072417629",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3293171,
+    "longitude": -80.8018936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1080441046",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.772128,
+    "longitude": -83.2668352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1086127213",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2091243,
+    "longitude": -80.8377552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1086540739",
+    "name": "Dog Park Area",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2405723,
+    "longitude": -75.6207424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park Area"
+    }
+  },
+  {
+    "place_id": "osm_1089872834",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0659453,
+    "longitude": -79.9065302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1090586474",
+    "name": "Trails to Tails Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3316857,
+    "longitude": -81.8673798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Trails to Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1092243234",
+    "name": "Kamp K9",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1356381,
+    "longitude": -77.0292237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "KOA",
+      "brand:wikidata": "Q16988635",
+      "leisure": "dog_park",
+      "name": "Kamp K9"
+    }
+  },
+  {
+    "place_id": "osm_1092672142",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0338436,
+    "longitude": -80.3880443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1092763893",
+    "name": "Dog Park at Dix Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7708442,
+    "longitude": -78.6624865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Raleigh",
+      "addr:housenumber": "1800",
+      "addr:postcode": "27695",
+      "addr:state": "NC",
+      "addr:street": "Umstead Drive",
+      "leisure": "dog_park",
+      "name": "Dog Park at Dix Park",
+      "website": "https://dixpark.org/dogpark",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1095281387",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.391517,
+    "longitude": -80.8563991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1095525722",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8246113,
+    "longitude": -78.6890205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Raleigh",
+      "addr:housenumber": "3109",
+      "addr:postcode": "27607",
+      "addr:state": "NC",
+      "addr:street": "Westbury Drive",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1096856921",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1342261,
+    "longitude": -80.9314619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1097028760",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3160229,
+    "longitude": -80.7435512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1098029378",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8711729,
+    "longitude": -78.5717613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1098389922",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3137439,
+    "longitude": -80.7481716,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1099406561",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3307535,
+    "longitude": -80.7546015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1103040667",
+    "name": "Waynesville Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5007368,
+    "longitude": -82.980426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Waynesville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1105630622",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 33.9894226,
+    "longitude": -80.4794445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1107231083",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.7017668,
+    "longitude": -77.0033552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1110659319",
+    "name": "Gallery Lofts Bark Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1013515,
+    "longitude": -80.2427257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "name": "Gallery Lofts Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1116348463",
+    "name": "Rosedale Dog park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4099492,
+    "longitude": -80.8658513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rosedale Dog park",
+      "note": "the satilite image doesn't show it, so the boundries may be wrong, but once the satilite gets updated someone will most likely fix it"
+    }
+  },
+  {
+    "place_id": "osm_1120210957",
+    "name": "Oriental Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0475147,
+    "longitude": -76.6881757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Oriental",
+      "addr:housenumber": "130",
+      "addr:postcode": "28571",
+      "addr:state": "NC",
+      "addr:street": "Straight Road",
+      "leisure": "dog_park",
+      "name": "Oriental Dog Park",
+      "operator": "Town of Oriental",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1121066190",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7805329,
+    "longitude": -78.7306069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1123479995",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7256431,
+    "longitude": -79.1582602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1125972246",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0747617,
+    "longitude": -79.7876094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator:type": "government",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1126380128",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8000834,
+    "longitude": -78.5529844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1127358007",
+    "name": "Carden Farm Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0997465,
+    "longitude": -84.1283034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carden Farm Dog Park",
+      "operator": "City of Clinton",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1150017582",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8349721,
+    "longitude": -78.6809956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1150216814",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8317748,
+    "longitude": -78.679057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1150753373",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0148308,
+    "longitude": -80.8609759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1152574267",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2409948,
+    "longitude": -80.8148187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "dog": "designated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1154420901",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1547013,
+    "longitude": -84.0747853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1157447954",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8188749,
+    "longitude": -78.6996575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1169138936",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2363119,
+    "longitude": -80.7941986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1170993632",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8435879,
+    "longitude": -78.8937335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1170993635",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8407286,
+    "longitude": -78.88964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "unknown",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1171004471",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.842201,
+    "longitude": -78.8453753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Broadstone Trailside"
+    }
+  },
+  {
+    "place_id": "osm_1175399376",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.4251193,
+    "longitude": -75.9258908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1180068114",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7471855,
+    "longitude": -78.6890485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1181005441",
+    "name": "9th Street Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2339839,
+    "longitude": -80.8413403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Charlotte",
+      "addr:housenumber": "417",
+      "addr:postcode": "28202",
+      "addr:state": "NC",
+      "addr:street": "West 9th Street",
+      "dog": "designated",
+      "leisure": "dog_park",
+      "name": "9th Street Dog Park",
+      "operator": "Mecklenburg County Park And Recreation"
+    }
+  },
+  {
+    "place_id": "osm_1181478438",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3326233,
+    "longitude": -80.750793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Alexander Village Apartments",
+      "operator:type": "private",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1184909369",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2491579,
+    "longitude": -81.0693833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1185598425",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2005757,
+    "longitude": -80.8678014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1186827657",
+    "name": "PetSafe Plumb Creek Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9417414,
+    "longitude": -84.1283521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PetSafe Plumb Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1186917407",
+    "name": "Jordan H Shelton Memorial Dog Park (Large Dog)",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6132599,
+    "longitude": -80.8432805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Jordan H Shelton Memorial Dog Park (Large Dog)",
+      "operator": "City of Mooresville, NC",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1192184143",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 33.8401878,
+    "longitude": -78.8442979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192457504",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.497837,
+    "longitude": -76.1606184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192569569",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2024671,
+    "longitude": -80.8671175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1193269818",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9328162,
+    "longitude": -79.0194806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1196263563",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2216074,
+    "longitude": -80.8772725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "The Humane Society of Charlotte"
+    }
+  },
+  {
+    "place_id": "osm_1197573605",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8776019,
+    "longitude": -78.6906105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1200015221",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.661325,
+    "longitude": -78.475544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1200622239",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8551584,
+    "longitude": -78.8963756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1205552533",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8937022,
+    "longitude": -79.0814202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "The Villages of Chapel Hill Apartment Complex",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1217875888",
+    "name": "Skiptown",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2092087,
+    "longitude": -80.8643671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Charlotte",
+      "addr:housenumber": "222",
+      "addr:postcode": "28203",
+      "addr:state": "NC",
+      "addr:street": "Rampart Street",
+      "branch": "Charlotte",
+      "leisure": "dog_park",
+      "name": "Skiptown",
+      "website": "https://skiptown.io/charlotte-nc/"
+    }
+  },
+  {
+    "place_id": "osm_1220954910",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7719806,
+    "longitude": -78.8055605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1222415132",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8025836,
+    "longitude": -78.7777507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1222771614",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8082567,
+    "longitude": -78.8209133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1224482511",
+    "name": "Barkyard: Biggies",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7842913,
+    "longitude": -78.7788369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Barkyard: Biggies",
+      "operator": "Cary",
+      "operator:type": "government",
+      "operator:wikidata": "Q852665"
+    }
+  },
+  {
+    "place_id": "osm_1225097916",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8237125,
+    "longitude": -78.8577566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Cary",
+      "addr:housenumber": "820",
+      "addr:postcode": "27519",
+      "addr:state": "NC",
+      "addr:street": "Bistre Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225433452",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 33.8286983,
+    "longitude": -79.0583998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225514044",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8185687,
+    "longitude": -78.8497513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1226730281",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8340601,
+    "longitude": -78.8326035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1226754879",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.771923,
+    "longitude": -78.8146464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1227462459",
+    "name": "Broadstone Ayrsley Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1322047,
+    "longitude": -80.9329177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Broadstone Ayrsley Dog Park",
+      "operator": "Broadstone Ayrsley",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1228448093",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8661338,
+    "longitude": -78.8609895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1230332425",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3714764,
+    "longitude": -81.9542386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1230829236",
+    "name": "Wagbar",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6778815,
+    "longitude": -82.5746292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Weaverville",
+      "addr:housenumber": "320",
+      "addr:postcode": "28787",
+      "addr:state": "NC",
+      "addr:street": "Merrimon Avenue",
+      "leisure": "dog_park",
+      "name": "Wagbar",
+      "website": "https://www.wagbar.com/"
+    }
+  },
+  {
+    "place_id": "osm_1232733370",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1790695,
+    "longitude": -83.380139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1237354865",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7490227,
+    "longitude": -79.171724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1240898289",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2488172,
+    "longitude": -80.8032465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_1243334994",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7908733,
+    "longitude": -78.4939664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1243341732",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7923032,
+    "longitude": -78.4991595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1243715971",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8185309,
+    "longitude": -78.7995225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1246118593",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8100528,
+    "longitude": -78.7872518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1247504965",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.224219,
+    "longitude": -80.8731097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1250732784",
+    "name": "Carolina Pines Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7489101,
+    "longitude": -78.6641533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Raleigh",
+      "addr:housenumber": "1700",
+      "addr:postcode": "27603",
+      "addr:state": "NC",
+      "addr:street": "Sierra Drive",
+      "leisure": "dog_park",
+      "name": "Carolina Pines Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1251683365",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8320535,
+    "longitude": -78.9054187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1252728127",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9028418,
+    "longitude": -83.9410151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1258839464",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8211666,
+    "longitude": -78.8835318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1263061220",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2505639,
+    "longitude": -80.8009578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1264155892",
+    "name": "Carolina Plantations Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.8165436,
+    "longitude": -77.4114972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carolina Plantations Dog Park",
+      "operator": "Carolina Plantations HOA",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1272141411",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1493235,
+    "longitude": -80.9387421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1285006393",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0149618,
+    "longitude": -78.8938201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1287162590",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2395465,
+    "longitude": -80.8827921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "designated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1299415196",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6081495,
+    "longitude": -82.570352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1302141138",
+    "name": "Wilson Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7451012,
+    "longitude": -77.904533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wilson Dog Park",
+      "website": "https://www.wilsonnc.org/Home/Components/News/News/152/16"
+    }
+  },
+  {
+    "place_id": "osm_1308884234",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.234214,
+    "longitude": -80.8704881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1309917589",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4028415,
+    "longitude": -80.8625755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1310964589",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9605308,
+    "longitude": -83.9300203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1312721792",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2608421,
+    "longitude": -80.7963836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1313563032",
+    "name": "Dog Run",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.22211,
+    "longitude": -80.8575846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Charlotte",
+      "addr:housenumber": "1200",
+      "addr:postcode": "28203",
+      "addr:state": "NC",
+      "addr:street": "South Mint Street",
+      "check_date": "2024-09-05",
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "name": "Dog Run",
+      "operator": "Link Apartments Mint Street",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1313760279",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3085321,
+    "longitude": -83.1897977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "808 West Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1323671971",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2923597,
+    "longitude": -81.1156663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1324399710",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1677065,
+    "longitude": -80.8537812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1325484547",
+    "name": "Off Leash Social",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.3470667,
+    "longitude": -82.4045122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Social",
+      "surface": "woodchips"
+    }
+  },
+  {
+    "place_id": "osm_1329211568",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2347366,
+    "longitude": -80.8560269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1331714944",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3901275,
+    "longitude": -80.191829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1332738036",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8163806,
+    "longitude": -78.8018191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1342293442",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1566014,
+    "longitude": -81.478421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349428603",
+    "name": "Cashiers Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1108136,
+    "longitude": -83.1058771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Cashiers Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1350427352",
+    "name": "Bark Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3667258,
+    "longitude": -77.9496812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1354998112",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3280048,
+    "longitude": -80.9049828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1355427247",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3743622,
+    "longitude": -82.0297589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1361001804",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9097152,
+    "longitude": -78.9076613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1378959935",
+    "name": "Sugg Farm Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6393484,
+    "longitude": -78.8149517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Holly Springs",
+      "addr:housenumber": "2401",
+      "addr:postcode": "27540",
+      "addr:state": "NC",
+      "addr:street": "Grigsby Avenue",
+      "leisure": "dog_park",
+      "name": "Sugg Farm Dog Park",
+      "operator": "Town of Holly Springs"
+    }
+  },
+  {
+    "place_id": "osm_1388376216",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2483525,
+    "longitude": -80.8078878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1388554532",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8342298,
+    "longitude": -78.8893217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1389209080",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2306412,
+    "longitude": -80.8259671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1389903837",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2872371,
+    "longitude": -81.1202564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1393676803",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1928139,
+    "longitude": -80.872092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1393893169",
+    "name": "Tribute Resident Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8505431,
+    "longitude": -78.6906705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Tribute Resident Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1394967795",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8582487,
+    "longitude": -84.0807404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Knoxville",
+      "addr:housenumber": "1975",
+      "addr:postcode": "37922",
+      "addr:state": "TN",
+      "addr:street": "Willow Loop Way",
+      "leisure": "dog_park",
+      "source": "esri/USA_NAD_Addresses",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1395034859",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0672922,
+    "longitude": -80.8486778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1409538911",
+    "name": "Sylva Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3738429,
+    "longitude": -83.2314254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sylva Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1411153316",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.2239243,
+    "longitude": -81.6554173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1412613347",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3684578,
+    "longitude": -80.7402137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413442056",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.579585,
+    "longitude": -80.7397586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413442964",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0684473,
+    "longitude": -79.3141674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413443283",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8119564,
+    "longitude": -80.8332556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413443782",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2561489,
+    "longitude": -80.9807903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444137",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.7982976,
+    "longitude": -80.4067805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444815",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.1392351,
+    "longitude": -80.7475637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444816",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.1393166,
+    "longitude": -80.7474686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1415195492",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8265103,
+    "longitude": -78.8898482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1417418615",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3303306,
+    "longitude": -80.7288752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1417465929",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3597129,
+    "longitude": -80.8536524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1421682915",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0271825,
+    "longitude": -78.9231286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_1423083961",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6948187,
+    "longitude": -78.6749829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1425054266",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.539814,
+    "longitude": -77.0534134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426120650",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1930713,
+    "longitude": -80.7764842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426124194",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3744128,
+    "longitude": -80.783961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426724809",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.209749,
+    "longitude": -80.8026342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431023959",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9205456,
+    "longitude": -78.788496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431553413",
+    "name": "Buffaloe Road Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8369196,
+    "longitude": -78.5363125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Buffaloe Road Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1433591455",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2374382,
+    "longitude": -80.8611022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1435968658",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2224225,
+    "longitude": -80.8329764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1436076744",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5601864,
+    "longitude": -78.7706256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1437034306",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5841103,
+    "longitude": -78.7794191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1443783259",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2479202,
+    "longitude": -80.8220375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1446593710",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.1455368,
+    "longitude": -81.7989952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1448482708",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.0855622,
+    "longitude": -80.803463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1448534879",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2203588,
+    "longitude": -80.6548648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1450777515",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.0068845,
+    "longitude": -78.8493748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1458342174",
+    "name": "Carraway Village Bark Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9700115,
+    "longitude": -79.0667799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Carraway Village Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1459957144",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8791945,
+    "longitude": -78.8872504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1460332352",
+    "name": "Smithfield Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.4949919,
+    "longitude": -78.3572444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Smithfield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1462725045",
+    "name": "Buncombe County Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5536331,
+    "longitude": -82.6376245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Asheville",
+      "addr:housenumber": "58",
+      "addr:postcode": "28806",
+      "addr:state": "NC",
+      "addr:street": "Apac Drive",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Buncombe County Dog Park",
+      "operator": "Buncombe County",
+      "operator:type": "government",
+      "website": "https://share.google/Cb6GtFSweQpjJexLt"
+    }
+  },
+  {
+    "place_id": "osm_1464468610",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1864549,
+    "longitude": -80.7607422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1465219053",
+    "name": "Long Leaf Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 34.2058592,
+    "longitude": -77.8847328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Wilmington",
+      "addr:housenumber": "1701",
+      "addr:postcode": "28403",
+      "addr:state": "NC",
+      "addr:street": "College Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Long Leaf Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1468147068",
+    "name": "Pop-Pup Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.779318,
+    "longitude": -78.6430814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Pop-Pup Dog Park",
+      "operator": "City of Raleigh: Parks, Recreation and Cultural Resources",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1469956099",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6152897,
+    "longitude": -78.5641018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1471443588",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9035502,
+    "longitude": -78.5786437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1473382763",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8645027,
+    "longitude": -78.8250342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1474206169",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.4223255,
+    "longitude": -82.3229865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1475439693",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.2510239,
+    "longitude": -80.8522121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1475975175",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8730787,
+    "longitude": -84.0943628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1480885035",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.5980832,
+    "longitude": -80.878973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1481234015",
+    "name": "Serenity Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.546553,
+    "longitude": -78.828347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Serenity Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1481649420",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.121996,
+    "longitude": -84.0010437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1482658253",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9453635,
+    "longitude": -78.8257294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483955721",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.628602,
+    "longitude": -78.7245947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483969945",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9473112,
+    "longitude": -78.4616228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483989283",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9389351,
+    "longitude": -78.5365573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1488732504",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9648211,
+    "longitude": -78.8282425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1489577866",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 36.4647996,
+    "longitude": -82.28533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1494465577",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.9279493,
+    "longitude": -78.7559086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1494795648",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.1583328,
+    "longitude": -80.8227703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11233825",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.7387703,
+    "longitude": -81.6594692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_13181429",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.6155432,
+    "longitude": -77.4055939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Treybrooke Apartments",
+      "operator:type": "private",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18298512",
+    "name": "Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.3736685,
+    "longitude": -77.963754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "minweight:dog": "25 lbs",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19437816",
+    "name": "Concord PetSafe Dog Park",
+    "formatted_address": ", North Carolina, USA",
+    "latitude": 35.8646519,
+    "longitude": -84.1269817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Knoxville",
+      "addr:housenumber": "10901",
+      "addr:postcode": "37922",
+      "addr:state": "TN",
+      "addr:street": "South Northshore Drive",
+      "leisure": "dog_park",
+      "name": "Concord PetSafe Dog Park",
+      "operator": "Knox County Parks and Recreation",
+      "operator:type": "public",
+      "type": "multipolygon"
+    }
+  }
+]

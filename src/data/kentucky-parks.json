@@ -1,0 +1,1354 @@
+[
+  {
+    "place_id": "osm_4722807402",
+    "name": "MeadowBark Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5686722,
+    "longitude": -86.5150587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "MeadowBark Park"
+    }
+  },
+  {
+    "place_id": "osm_12034021083",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6221673,
+    "longitude": -88.3111354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_386399204",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9871844,
+    "longitude": -84.4169183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_441847338",
+    "name": "Heritage Bark Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5814425,
+    "longitude": -87.3883963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Heritage Bark Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_456427395",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7388308,
+    "longitude": -84.2779278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Richmond",
+      "addr:postcode": "40475",
+      "addr:state": "KY",
+      "addr:street": "Big Hill Avenue",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_543838446",
+    "name": "Arlington Park Apartments Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7309803,
+    "longitude": -85.9022172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Arlington Park Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_556228053",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.560223,
+    "longitude": -82.2206901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_821888380",
+    "name": "Central Bark",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5157215,
+    "longitude": -86.8906019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Central Bark",
+      "website": "http://www.springfield-tn.org/195/Parks-Recreation"
+    }
+  },
+  {
+    "place_id": "osm_966052821",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7276969,
+    "longitude": -85.8734698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1056646759",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6343192,
+    "longitude": -87.3214843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1169102425",
+    "name": "Whitley Branch Bark Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.1196446,
+    "longitude": -84.0832673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Whitley Branch Bark Park",
+      "operator": "City of London",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1225743057",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7094675,
+    "longitude": -87.45636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225749909",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8449945,
+    "longitude": -87.5002564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1233405933",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9759375,
+    "longitude": -84.4970594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1249347163",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9546033,
+    "longitude": -84.5023457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1267782288",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.5593875,
+    "longitude": -82.4698443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1271826433",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7411823,
+    "longitude": -87.1043944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1300519982",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.7681585,
+    "longitude": -84.2684622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1354305120",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.8626305,
+    "longitude": -84.5615392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1393011390",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.9820568,
+    "longitude": -84.4707208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440511",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.654015,
+    "longitude": -85.8873944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440560",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.4172882,
+    "longitude": -87.4746813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440954",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 37.2006128,
+    "longitude": -85.9353899,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413441452",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8540509,
+    "longitude": -89.5838456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413441542",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.7588687,
+    "longitude": -89.5418636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1457160839",
+    "name": "Small Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.8959871,
+    "longitude": -89.5656854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_11992462",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 36.6686037,
+    "longitude": -87.4765535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "height": "2",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_7218740500",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.3983294,
+    "longitude": -82.384064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12787227931",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9731117,
+    "longitude": -84.2928397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "website": "https://riverdayscampground.com/"
+    }
+  },
+  {
+    "place_id": "osm_13092810370",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0525298,
+    "longitude": -84.5066601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "survey:date": "2025-08-23"
+    }
+  },
+  {
+    "place_id": "osm_136014359",
+    "name": "Kellogg Park Dog Field",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0479363,
+    "longitude": -84.3977363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kellogg Park Dog Field",
+      "operator": "Anderson Park District",
+      "operator:wikidata": "Q4754143",
+      "website": "https://andersonparks.com/kellogg-park-dog-field-info/"
+    }
+  },
+  {
+    "place_id": "osm_247897189",
+    "name": "Boone County Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0362425,
+    "longitude": -84.7304325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Boone County Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_251051376",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8664048,
+    "longitude": -84.6211248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_264256898",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0821205,
+    "longitude": -84.4568398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_547946843",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7363149,
+    "longitude": -83.0022855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_551299947",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.600529,
+    "longitude": -83.8092964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_608798903",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9139732,
+    "longitude": -84.6563531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_616462382",
+    "name": "Newport Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0973415,
+    "longitude": -84.4877738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Newport Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_639537903",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4092794,
+    "longitude": -82.4315517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_706671087",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4725786,
+    "longitude": -82.6346991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_773151263",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.3968414,
+    "longitude": -82.3837388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_892090926",
+    "name": "Wellington Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0010044,
+    "longitude": -84.538962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Wellington Dog Park",
+      "website": "https://friendsofthedogpark.wordpress.com/our-dog-parks/wellington-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_900885797",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.098618,
+    "longitude": -84.488039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_903980577",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0110406,
+    "longitude": -84.4055961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1048721353",
+    "name": "Spock Memorial Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.7312388,
+    "longitude": -82.9971469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spock Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1053456778",
+    "name": "Great Amelia Paw Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.01463,
+    "longitude": -84.2265493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Amelia",
+      "addr:housenumber": "70",
+      "addr:postcode": "45102",
+      "addr:state": "OH",
+      "addr:street": "Robin Way",
+      "leisure": "dog_park",
+      "name": "Great Amelia Paw Park",
+      "old_name": "Great Amelia Paw Park",
+      "old_name:etymology": "Amelia",
+      "old_name:etymology:wikidata": "Q943559",
+      "opening_hours": "dawn-dusk",
+      "operator": "Pierce Township",
+      "operator:type": "public",
+      "operator:wikidata": "Q111669239",
+      "website": "https://piercetownship.org/great-amelia-paw-park/"
+    }
+  },
+  {
+    "place_id": "osm_1115331922",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0447985,
+    "longitude": -84.4543826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1121920486",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0845299,
+    "longitude": -84.4660858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1238990402",
+    "name": "Service Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0347631,
+    "longitude": -84.5061468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Service Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1241545358",
+    "name": "Bark Park & Patio",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0013335,
+    "longitude": -84.6391814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Florence",
+      "addr:housenumber": "7455",
+      "addr:postcode": "41042",
+      "addr:state": "KY",
+      "addr:street": "Burlington Pike",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Bark Park & Patio"
+    }
+  },
+  {
+    "place_id": "osm_1249352211",
+    "name": "Phoenix Park Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0456865,
+    "longitude": -84.497432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Phoenix Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1284679009",
+    "name": "Off-Leash Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0267877,
+    "longitude": -84.2717105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Cincinnati",
+      "addr:housenumber": "961",
+      "addr:postcode": "45245",
+      "addr:state": "OH",
+      "addr:street": "Locust Corner Road",
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Park",
+      "operator": "Pierce Township",
+      "website": "https://piercetownship.org/parks/pierce-township-off-leash-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1303265441",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.1624741,
+    "longitude": -84.6758715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319651396",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0234141,
+    "longitude": -84.2169733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1321464571",
+    "name": "Small Dog",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9574336,
+    "longitude": -84.2866726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog"
+    }
+  },
+  {
+    "place_id": "osm_1321464572",
+    "name": "Large Dog",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.957568,
+    "longitude": -84.2861256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog"
+    }
+  },
+  {
+    "place_id": "osm_1328485299",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0564621,
+    "longitude": -84.1198698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1330411149",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0809073,
+    "longitude": -84.3032768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Fox Chase",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1332411869",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0894688,
+    "longitude": -84.266483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1335209690",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.066305,
+    "longitude": -84.5333179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1354521222",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0502041,
+    "longitude": -84.7648066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1362310232",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.9522438,
+    "longitude": -84.2284491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439545",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.8758523,
+    "longitude": -82.2978585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1414679822",
+    "name": "David J. Stricker Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0614196,
+    "longitude": -84.2140242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "David J. Stricker Dog Park",
+      "operator": "Batavia Township",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1430567957",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.6781355,
+    "longitude": -83.1082511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1464228692",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.0425784,
+    "longitude": -84.5685445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1492465248",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 39.0644795,
+    "longitude": -84.3370477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7828121",
+    "name": "Petsafe Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.4044908,
+    "longitude": -82.4358576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Petsafe Dog Park",
+      "type": "multipolygon",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_15613779",
+    "name": "Dog Park",
+    "formatted_address": ", Kentucky, USA",
+    "latitude": 38.1006715,
+    "longitude": -84.5549655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

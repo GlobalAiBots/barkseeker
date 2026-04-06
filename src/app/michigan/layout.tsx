@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in Michigan — 3,400+ Ramps Across 24 Lakes & Great Lakes | RampSeeker",
-  description: "The most complete boat ramp directory for Michigan. 3,400+ ramps across Lake Michigan, Lake Huron, Lake Superior, Torch Lake, Houghton Lake, and more. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "Michigan Boat Ramps — RampSeeker", url: "https://rampseeker.com/michigan", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "Michigan Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/michigan" },
+  title: "Every Dog Park in Michigan — 316+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for Michigan. 316+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "Michigan Dog Parks — BarkSeeker", url: "https://barkseeker.com/michigan", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "Michigan Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/michigan" },
 };
 
 export default function MichiganLayout({ children }: { children: React.ReactNode }) {

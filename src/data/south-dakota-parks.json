@@ -1,0 +1,541 @@
+[
+  {
+    "place_id": "osm_10250497553",
+    "name": "SoDak Labradors & Gundog Kennels LLC",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.7024182,
+    "longitude": -98.150594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Mitchell",
+      "addr:housenumber": "40276",
+      "addr:postcode": "57301",
+      "addr:state": "SD",
+      "addr:street": "254th Street",
+      "leisure": "dog_park",
+      "name": "SoDak Labradors & Gundog Kennels LLC",
+      "operator": "Mike Musick",
+      "phone": "+1-605-999-5647",
+      "website": "https://sodakgundogs.com"
+    }
+  },
+  {
+    "place_id": "osm_12036919208",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.0698412,
+    "longitude": -103.16508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12988719745",
+    "name": "Subaru Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4768096,
+    "longitude": -96.7287218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "7601",
+      "addr:postcode": "57108",
+      "addr:state": "SD",
+      "addr:street": "South Minnesota Avenue",
+      "leisure": "dog_park",
+      "name": "Subaru Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_248616413",
+    "name": "Dog Run",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 45.4681464,
+    "longitude": -98.49296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dog Run",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_390060995",
+    "name": "Off Leash Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.4622755,
+    "longitude": -103.7986653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_537037876",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.3808421,
+    "longitude": -100.3212279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_583373727",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.7191637,
+    "longitude": -98.0387821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_847583053",
+    "name": "Belvidere East / Exit 170 KOA",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.8916259,
+    "longitude": -101.1496814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Belvidere East / Exit 170 KOA"
+    }
+  },
+  {
+    "place_id": "osm_966236232",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.40769,
+    "longitude": -103.3948772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Hot Springs KOA"
+    }
+  },
+  {
+    "place_id": "osm_976389875",
+    "name": "Wareing Motors Off-Leash Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.3901968,
+    "longitude": -103.5054181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Sturgis",
+      "addr:housenumber": "1",
+      "addr:postcode": "57785",
+      "addr:state": "SD",
+      "addr:street": "Ford Place",
+      "description": "Wareing Motors Off-Leash Dog Park is open to the public seven days a week from sunrise to sunsest.",
+      "leisure": "dog_park",
+      "name": "Wareing Motors Off-Leash Dog Park",
+      "operator": "Wareing Sturgis Ford",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_1008779729",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.1323986,
+    "longitude": -103.2133655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1184521172",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4431206,
+    "longitude": -96.7182242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "city of harrisburg",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1197293488",
+    "name": "Pierre Community Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.3560992,
+    "longitude": -100.3343266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pierre Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1291066688",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.1555192,
+    "longitude": -103.0711596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1296994492",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.1598388,
+    "longitude": -103.0723743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304651316",
+    "name": "Webster Paws Walk Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 45.3385781,
+    "longitude": -97.5180982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Webster Paws Walk Dog Park",
+      "operator": "Tori Hoffer",
+      "operator:type": "public",
+      "website": "https://www.facebook.com/WebsterPawsWalk/"
+    }
+  },
+  {
+    "place_id": "osm_1308916249",
+    "name": "Aberdeen Nature Area Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 45.4877807,
+    "longitude": -98.5017414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Aberdeen Nature Area Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1333321543",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4768344,
+    "longitude": -96.7494814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349508182",
+    "name": "Bar K-9",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.0978843,
+    "longitude": -103.160808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Rapid City",
+      "addr:housenumber": "3306",
+      "addr:postcode": "57703",
+      "addr:state": "SD",
+      "addr:street": "Edwards Street",
+      "leisure": "dog_park",
+      "name": "Bar K-9",
+      "website": "https://bark9dogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1349509980",
+    "name": "The Splash Bark by SDK",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4381478,
+    "longitude": -96.7262788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Harrisburg",
+      "addr:housenumber": "27246",
+      "addr:postcode": "57032",
+      "addr:state": "South Dakota",
+      "addr:street": "SD Highway 115",
+      "leisure": "dog_park",
+      "name": "The Splash Bark by SDK",
+      "website": "https://www.smokendakotakennels.com/indoor-park-bar"
+    }
+  },
+  {
+    "place_id": "osm_1392177418",
+    "name": "SDK West",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.4893574,
+    "longitude": -96.8915128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "SDK West"
+    }
+  },
+  {
+    "place_id": "osm_1413423840",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.1207926,
+    "longitude": -103.052307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413424125",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.7358859,
+    "longitude": -98.9570771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1418140398",
+    "name": "Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.3559494,
+    "longitude": -103.7594235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1421482167",
+    "name": "Kamp K9",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 43.6925574,
+    "longitude": -101.9304824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "KOA",
+      "brand:wikidata": "Q16988635",
+      "leisure": "dog_park",
+      "name": "Kamp K9"
+    }
+  },
+  {
+    "place_id": "osm_4029625",
+    "name": "Spearfish Dog Park",
+    "formatted_address": ", South Dakota, USA",
+    "latitude": 44.4879898,
+    "longitude": -103.8527742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Spearfish",
+      "addr:housenumber": "414",
+      "addr:postcode": "57783",
+      "addr:state": "SD",
+      "addr:street": "North State Street",
+      "leisure": "dog_park",
+      "name": "Spearfish Dog Park",
+      "type": "multipolygon"
+    }
+  }
+]

@@ -1,0 +1,3912 @@
+[
+  {
+    "place_id": "osm_2502942741",
+    "name": "Bark Place",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.491884,
+    "longitude": -71.031174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Place"
+    }
+  },
+  {
+    "place_id": "osm_3381799018",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.9515024,
+    "longitude": -71.4575183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6393785886",
+    "name": "The Right Paw",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4444152,
+    "longitude": -71.8416576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Princeton",
+      "addr:country": "US",
+      "addr:postcode": "01541",
+      "addr:state": "MA",
+      "addr:street": "179 Sterling Rd (Rte. 62)",
+      "leisure": "dog_park",
+      "name": "The Right Paw",
+      "phone": "+1-978-464-0429",
+      "website": "https://www.therightpaw.com/"
+    }
+  },
+  {
+    "place_id": "osm_7595898824",
+    "name": "Dog Ranch",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4062722,
+    "longitude": -71.2137598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Ranch"
+    }
+  },
+  {
+    "place_id": "osm_7768321149",
+    "name": "Charlesgate Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3490049,
+    "longitude": -71.0922549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "email": "charlesgatealliance@gmail.com",
+      "leisure": "dog_park",
+      "name": "Charlesgate Dog Park",
+      "operator": "Charlesgate Alliance",
+      "operator:type": "community",
+      "proposed": "yes",
+      "website": "https://charlesgatealliance.org/about-us/charlesgate-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_7857858749",
+    "name": "Carleton Court Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3453214,
+    "longitude": -71.0787503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Boston",
+      "addr:housenumber": "49",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Carleton Street",
+      "contact:facebook": "https://www.facebook.com/carletoncourtdogpark/",
+      "contact:instagram": "https://www.instagram.com/carletoncourtdogpark/",
+      "dog": "yes",
+      "email": "carletoncourtdogpark@gmail.com",
+      "leisure": "dog_park",
+      "name": "Carleton Court Dog Park",
+      "opening_hours": "Mo-Su 06:30-22:00",
+      "operator": "Friends of Carleton Court Dog Park, Inc.",
+      "operator:type": "community",
+      "smoking": "no",
+      "start_date": "11-2005",
+      "website": "http://www.swcpc.org/dogwalking.asp"
+    }
+  },
+  {
+    "place_id": "osm_8400918358",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2876553,
+    "longitude": -71.044319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10745356875",
+    "name": "Pilgrim Bark Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.0539396,
+    "longitude": -70.1962914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Provincetown",
+      "addr:state": "MA",
+      "leisure": "dog_park",
+      "name": "Pilgrim Bark Park",
+      "website": "https://provincetowndogpark.org"
+    }
+  },
+  {
+    "place_id": "osm_12181127234",
+    "name": "Park-9 Dog Bar",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4078982,
+    "longitude": -71.0647149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Everett",
+      "addr:housenumber": "48",
+      "addr:postcode": "02149",
+      "addr:state": "MA",
+      "addr:street": "Waters Avenue",
+      "air_conditioning": "yes",
+      "alt_name": "Park-9 Dog Bar Flagship;Park-9 Bar;Park-9",
+      "branch": "Flagship",
+      "check_date": "2024-09-16",
+      "contact:facebook": "https://www.facebook.com/park9dogbar",
+      "contact:instagram": "http://www.instagram.com/park9dogbar/",
+      "contact:tiktok": "https://www.tiktok.com/@park9dogbar",
+      "dog": "yes",
+      "facebook": "https://www.facebook.com/park9dogbar",
+      "leisure": "dog_park",
+      "name": "Park-9 Dog Bar",
+      "opening_hours": "Mo-Tu 17:00-21:00; We-Fr 17:00-22:00; Sa 11:00-22:00; Su 11:00-21:00",
+      "phone": "+1-617-294-8048",
+      "website": "https://www.park9dogbar.com/",
+      "website:menu": "https://www.park9dogbar.com/menus"
+    }
+  },
+  {
+    "place_id": "osm_13168142952",
+    "name": "Dogtopia of North Attleboro",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.9803816,
+    "longitude": -71.3311014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "North Attleborough",
+      "addr:housenumber": "21",
+      "addr:postcode": "02760",
+      "addr:state": "MA",
+      "addr:street": "East Street",
+      "addr:unit": "Building B",
+      "description": "Dogtopia of North Attleboro is the ultimate destination for dog daycare, boarding, and spa services in North Attleborough. Our fully supervised, open-play environment gives your pup a safe and fun space to exercise, socialize, and thrive.",
+      "email": "nattleboro@dogtopia.com",
+      "image": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/340635087_1723876411344109_3078344143282749323_n.png?stp=dst-png_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ffFQfHt5froQ7kNvwEQ2pPZ&_nc_oc=Adk03IqnHVAc2KxbEWBRaILXT8ZzQTvsDJFaOzsyNP3vUzuTxandYqL_",
+      "leisure": "dog_park",
+      "mobile": "+1 508-659-9988",
+      "name": "Dogtopia of North Attleboro",
+      "website": "https://www.dogtopia.com/north-attleboro/"
+    }
+  },
+  {
+    "place_id": "osm_29834883",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.405257,
+    "longitude": -71.0526382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "massgis:ARTICLE97": "9",
+      "massgis:ASSESS_ACR": "0.05000000",
+      "massgis:ASSESS_LOT": "185",
+      "massgis:ASSESS_MAP": "K1",
+      "massgis:ATT_DATE": "1995/05/08",
+      "massgis:BASE_MAP": "93-1",
+      "massgis:DCAM_ID": "0",
+      "massgis:DEED_ACRES": "0.00000000",
+      "massgis:EOEAINVOLV": "0",
+      "massgis:FEESYM": "M",
+      "massgis:FEE_OWNER": "City of Everett",
+      "massgis:FY_FUNDING": "0",
+      "massgis:LEV_PROT": "L",
+      "massgis:MANAGER": "City of Everett Parks Department",
+      "massgis:MANAGR_ABR": "M093PD",
+      "massgis:MANAGR_TYP": "M",
+      "massgis:OS_DEED_BO": "0",
+      "massgis:OS_DEED_PA": "0",
+      "massgis:OS_ID": "93-40",
+      "massgis:OWNER_ABRV": "M093",
+      "massgis:OWNER_TYPE": "M",
+      "massgis:POLY_ID": "40",
+      "massgis:PRIM_PURP": "R",
+      "massgis:PUB_ACCESS": "Y",
+      "massgis:SITE_NAME": "STADIUM PLAYGROUND",
+      "massgis:SOURCE_MAP": "1",
+      "massgis:TOWN_ID": "93",
+      "owner": "City Of Everett",
+      "ownership": "municipal",
+      "protected": "limited",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)"
+    }
+  },
+  {
+    "place_id": "osm_29835078",
+    "name": "First Street Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6480337,
+    "longitude": -71.3010066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "First Street Dog Park",
+      "owner": "City Of Lowell",
+      "ownership": "municipal",
+      "protected": "limited",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)"
+    }
+  },
+  {
+    "place_id": "osm_29837081",
+    "name": "Beecher St Play Area",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3181807,
+    "longitude": -71.1068863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "massgis:ARTICLE97": "9",
+      "massgis:ASSESS_ACR": "0.18000000",
+      "massgis:ATT_DATE": "1994/08/03",
+      "massgis:COMMENTS": "PASSIVE/COMMUNITY GARDEN",
+      "massgis:DCAM_ID": "0",
+      "massgis:DEED_ACRES": "0.00000000",
+      "massgis:EOEAINVOLV": "0",
+      "massgis:FEESYM": "M",
+      "massgis:FEE_OWNER": "City of Boston",
+      "massgis:FY_FUNDING": "0",
+      "massgis:LEV_PROT": "P",
+      "massgis:MANAGER": "City of Boston Parks Department",
+      "massgis:MANAGR_ABR": "M035PD",
+      "massgis:MANAGR_TYP": "M",
+      "massgis:OS_DEED_BO": "0",
+      "massgis:OS_DEED_PA": "0",
+      "massgis:OS_ID": "35-501",
+      "massgis:OWNER_ABRV": "M035",
+      "massgis:OWNER_TYPE": "M",
+      "massgis:POLY_ID": "501",
+      "massgis:PRIM_PURP": "O",
+      "massgis:PUB_ACCESS": "Y",
+      "massgis:SITE_NAME": "BEECHER ST PLAY AREA",
+      "massgis:TOWN_ID": "35",
+      "name": "Beecher St Play Area",
+      "note": "dog park",
+      "owner": "City Of Boston",
+      "ownership": "municipal",
+      "protected": "perpetuity",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)"
+    }
+  },
+  {
+    "place_id": "osm_29908600",
+    "name": "Westfield Dog Bark",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1465879,
+    "longitude": -72.7382738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Westfield",
+      "addr:housenumber": "125",
+      "addr:postcode": "01085",
+      "addr:state": "MA",
+      "addr:street": "Lockhouse Road",
+      "leisure": "dog_park",
+      "massgis:ARTICLE97": "9",
+      "massgis:ASSESS_ACR": "0.00000000",
+      "massgis:ASSESS_LOT": "3",
+      "massgis:ASSESS_MAP": "50R",
+      "massgis:ATT_DATE": "2005/12/11",
+      "massgis:DCAM_ID": "0",
+      "massgis:DEED_ACRES": "0.00000000",
+      "massgis:EOEAINVOLV": "0",
+      "massgis:FEESYM": "M",
+      "massgis:FEE_OWNER": "City of Westfield",
+      "massgis:FY_FUNDING": "0",
+      "massgis:LEV_PROT": "P",
+      "massgis:MANAGER": "City of Westfield Parks and Recreation Department",
+      "massgis:MANAGR_ABR": "M329PR",
+      "massgis:MANAGR_TYP": "M",
+      "massgis:OS_DEED_BO": "0",
+      "massgis:OS_DEED_PA": "0",
+      "massgis:OS_ID": "329-1213",
+      "massgis:OWNER_ABRV": "M329",
+      "massgis:OWNER_TYPE": "M",
+      "massgis:POLY_ID": "1213",
+      "massgis:PRIM_PURP": "R",
+      "massgis:PUB_ACCESS": "Y",
+      "massgis:SITE_NAME": "City Park",
+      "massgis:SOURCE_MAP": "PVPC",
+      "massgis:SOURCE_TYP": "NP",
+      "massgis:TOWN_ID": "329",
+      "name": "Westfield Dog Bark",
+      "owner": "City Of Westfield",
+      "ownership": "municipal",
+      "protected": "perpetuity",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)"
+    }
+  },
+  {
+    "place_id": "osm_35836848",
+    "name": "Derry Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.8719915,
+    "longitude": -71.3290086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Derry Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_46034893",
+    "name": "Sheepfold",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4550925,
+    "longitude": -71.1077863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Sheepfold"
+    }
+  },
+  {
+    "place_id": "osm_133528401",
+    "name": "Zero New Washington St Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3800484,
+    "longitude": -71.0823789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:country": "US",
+      "addr:housenumber": "0",
+      "addr:postcode": "02143",
+      "addr:street": "New Washington Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Zero New Washington St Dog Park",
+      "opening_hours": "08:00-22:00"
+    }
+  },
+  {
+    "place_id": "osm_133530257",
+    "name": "Danehy Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3906361,
+    "longitude": -71.1373473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:country": "US",
+      "addr:housenumber": "39",
+      "addr:postcode": "02138",
+      "addr:street": "Sherman Street",
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Danehy Dog Park",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_133532399",
+    "name": "Nunziato Field Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3829496,
+    "longitude": -71.0987542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:country": "US",
+      "addr:housenumber": "13-29",
+      "addr:postcode": "02143",
+      "addr:street": "Summer Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Nunziato Field Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_133534919",
+    "name": "Pacific Street Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3606681,
+    "longitude": -71.1038153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:country": "US",
+      "addr:housenumber": "22",
+      "addr:postcode": "02139",
+      "addr:street": "Tudor Street",
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Pacific Street Dog Park",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_133535657",
+    "name": "Joe Wex Dog Recreation Space",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3426434,
+    "longitude": -71.0676394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Boston",
+      "addr:housenumber": "1277",
+      "addr:postcode": "02118",
+      "addr:state": "MA",
+      "addr:street": "Washington Street",
+      "area": "yes",
+      "covered": "no",
+      "dog": "yes",
+      "email": "FriendsofPetersPark@gmail.com",
+      "indoor": "no",
+      "leisure": "dog_park",
+      "location": "outdoor",
+      "name": "Joe Wex Dog Recreation Space",
+      "opening_hours": "24/7",
+      "operator": "Friends of Peters Park",
+      "operator:type": "community",
+      "surface": "dirt",
+      "website": "https://www.peterspark.org/peters-park-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_142480567",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.7035203,
+    "longitude": -71.457594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_171311755",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2033824,
+    "longitude": -72.6373617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_190058168",
+    "name": "Hudson Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.7692946,
+    "longitude": -71.4051097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain",
+      "leisure": "dog_park",
+      "name": "Hudson Dog Park",
+      "website": "http://www.hudsondogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_257042458",
+    "name": "Mansfield Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3569047,
+    "longitude": -71.1306771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mansfield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_293082185",
+    "name": "Franciscan Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.8190551,
+    "longitude": -71.4367259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Franciscan Park"
+    }
+  },
+  {
+    "place_id": "osm_298110704",
+    "name": "Gano Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.8243234,
+    "longitude": -71.387311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gano Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_310575832",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.501486,
+    "longitude": -71.2602446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_360150849",
+    "name": "Kayla Jean Ricci Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6203235,
+    "longitude": -71.4105335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "North Kingstown",
+      "addr:housenumber": "159",
+      "addr:postcode": "02852",
+      "addr:state": "RI",
+      "addr:street": "Allen Harbor Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lighting": "no",
+      "name": "Kayla Jean Ricci Dog Park",
+      "website": "http://www.northkingstown.org/kayla-jean-ricci-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_369709256",
+    "name": "Sharon Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1106099,
+    "longitude": -71.1849509,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sharon Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_385724338",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5213273,
+    "longitude": -71.1310998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_385785454",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5258132,
+    "longitude": -71.4318595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_399656881",
+    "name": "Bremen Street Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3725114,
+    "longitude": -71.0340882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bremen Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_399657203",
+    "name": "Thorndike Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3989604,
+    "longitude": -71.1446073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Thorndike Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_465177230",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.8718209,
+    "longitude": -71.342545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_470062391",
+    "name": "Waterman Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.8283484,
+    "longitude": -71.3822958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Providence",
+      "addr:housenumber": "320",
+      "addr:postcode": "02906",
+      "addr:state": "RI",
+      "addr:street": "Waterman Street",
+      "leisure": "dog_park",
+      "name": "Waterman Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_485604543",
+    "name": "Merrimack Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.8216643,
+    "longitude": -71.5325929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Merrimack Dog Park",
+      "note": "The Park is open to both Residents & Non-Residents and is free of charge to use."
+    }
+  },
+  {
+    "place_id": "osm_506567319",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6605881,
+    "longitude": -70.2517291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "West Yarmouth",
+      "addr:housenumber": "482",
+      "addr:street": "Buck Island Road",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_512705333",
+    "name": "Maynard Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4283686,
+    "longitude": -71.4357079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Maynard Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_521793814",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5761759,
+    "longitude": -72.5994122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544843410",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.472753,
+    "longitude": -71.3437805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "Open area, no fence. Common dog play area.",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_557154553",
+    "name": "Paws N Play Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4214282,
+    "longitude": -71.0267964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Paws N Play Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_558981506",
+    "name": "Town of Randolph Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1707668,
+    "longitude": -71.0556506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Town of Randolph Dog Park",
+      "surface": "dirt"
+    }
+  },
+  {
+    "place_id": "osm_566128556",
+    "name": "Wakefield Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4960044,
+    "longitude": -71.0696042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Wakefield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_571112148",
+    "name": "Barnstable Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6810618,
+    "longitude": -70.3106595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Barnstable Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_573727876",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3200452,
+    "longitude": -71.5735554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_585551541",
+    "name": "Beaver Brook Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2614351,
+    "longitude": -71.8264528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Beaver Brook Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_586976700",
+    "name": "Butler Farm Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1634633,
+    "longitude": -71.7901939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Butler Farm Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_594371747",
+    "name": "Pemberton Street Dog Run",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3900682,
+    "longitude": -71.1283978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Pemberton Street Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_606206083",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6719755,
+    "longitude": -71.1195906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_642225236",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6062668,
+    "longitude": -70.6797552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_648600795",
+    "name": "Lincoln Park Off-Leash Area",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.378258,
+    "longitude": -71.1012638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Lincoln Park Off-Leash Area",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_653381630",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3537916,
+    "longitude": -71.0651671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "animal": "dog",
+      "bicycle": "no",
+      "contact:facebook": "https://www.facebook.com/groups/TheCommonCanine/",
+      "contact:instagram": "https://www.instagram.com/thecommoncanine/",
+      "covered": "no",
+      "dog": "designated",
+      "email": "info@friendsofthepublicgarden.org",
+      "foot": "yes",
+      "indoor": "no",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "internet_access:ssid": "WickedFreeWiFi",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "location": "outdoor",
+      "motor_vehicle": "no",
+      "opening_hours": "Mo-Su 06:00-23:00",
+      "operator": "Friends of the Public Garden",
+      "operator:type": "community",
+      "phone": "+1-617-723-8144",
+      "start_date": "2013",
+      "surface": "grass",
+      "website": "https://friendsofthepublicgarden.org/our-parks/the-common/common-canine/",
+      "wheelchair": "yes",
+      "wikidata": "Q30632288",
+      "wikipedia": "en:Friends of the Public Garden"
+    }
+  },
+  {
+    "place_id": "osm_658954213",
+    "name": "City Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6927732,
+    "longitude": -71.4137446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_659952601",
+    "name": "Newport Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.50425,
+    "longitude": -71.3172474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Newport",
+      "addr:housenumber": "111",
+      "addr:postcode": "02840",
+      "addr:state": "RI",
+      "addr:street": "J T O Connell Highway",
+      "leisure": "dog_park",
+      "name": "Newport Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_667956545",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4100338,
+    "longitude": -71.0482393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_697517975",
+    "name": "Union Point Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1638452,
+    "longitude": -70.9455356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Union Point Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_699582637",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3870216,
+    "longitude": -71.0456051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_718496198",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3523567,
+    "longitude": -71.1975062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_733373907",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2585339,
+    "longitude": -71.4850465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_733432535",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3668113,
+    "longitude": -71.081243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_744800199",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5994579,
+    "longitude": -71.2152914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_744801995",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5443209,
+    "longitude": -71.1744176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_744802114",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5341911,
+    "longitude": -71.1383338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_747461415",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5328784,
+    "longitude": -71.1597828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_748822176",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3687683,
+    "longitude": -71.042051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_757741731",
+    "name": "Marblehead Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5083417,
+    "longitude": -70.8545088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Marblehead Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_759381820",
+    "name": "Swampscott Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4853262,
+    "longitude": -70.9130598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Swampscott Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_797677518",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4862476,
+    "longitude": -71.2224447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_798113737",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.324899,
+    "longitude": -71.2128394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "natural": "grass"
+    }
+  },
+  {
+    "place_id": "osm_798460402",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6030887,
+    "longitude": -71.1212085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_799166396",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6154679,
+    "longitude": -71.2133731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_802325244",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4566869,
+    "longitude": -72.5824026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_808875368",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6861736,
+    "longitude": -71.2131738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_813710228",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3661155,
+    "longitude": -71.0397497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_814434935",
+    "name": "East First Street Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3384022,
+    "longitude": -71.0316724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "768",
+      "addr:postcode": "02127",
+      "addr:state": "MA",
+      "addr:street": "East First Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "East First Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1303502584",
+    "name": "RUFF North End",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3668403,
+    "longitude": -71.0567943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "RUFF North End"
+    }
+  },
+  {
+    "place_id": "osm_819544627",
+    "name": "Downtown Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2599996,
+    "longitude": -71.7978337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Downtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_834419991",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1200683,
+    "longitude": -71.3998432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_845074372",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4372588,
+    "longitude": -71.0432811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_846808993",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4444075,
+    "longitude": -71.0630133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_849641236",
+    "name": "Scheidler Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.3661433,
+    "longitude": -71.659207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Scheidler Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_852229149",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3447565,
+    "longitude": -71.0627406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_854578801",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6151649,
+    "longitude": -70.4918587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Mashpee Commons"
+    }
+  },
+  {
+    "place_id": "osm_1396723811",
+    "name": "Bay Village Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3497811,
+    "longitude": -71.0662657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "check_date": "2025-06-19",
+      "leisure": "dog_park",
+      "name": "Bay Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_859539536",
+    "name": "Barkland Avenue Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4814892,
+    "longitude": -70.9657976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Barkland Avenue Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_882489062",
+    "name": "Warren Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.7272059,
+    "longitude": -71.2801646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Warren",
+      "addr:state": "RI",
+      "addr:street": "East Bay Bike Path",
+      "leisure": "dog_park",
+      "name": "Warren Dog Park",
+      "operator": "Town of Warren, RI",
+      "operator:type": "government",
+      "website": "https://www.townofwarren-ri.gov/town_government/departments/parks_and_recreation/index.php"
+    }
+  },
+  {
+    "place_id": "osm_885347969",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.9959487,
+    "longitude": -70.9624395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_897818602",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1913209,
+    "longitude": -71.197503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_898182489",
+    "name": "Quincy Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2468894,
+    "longitude": -71.0124692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Quincy",
+      "addr:postcode": "02169",
+      "addr:state": "MA",
+      "leisure": "dog_park",
+      "name": "Quincy Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "City of Quincy",
+      "operator:type": "government",
+      "website": "https://www.quincyma.gov/govt/depts/natural_resources/park/dog_park.htm"
+    }
+  },
+  {
+    "place_id": "osm_905527067",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.620108,
+    "longitude": -70.4513504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_928894473",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5264176,
+    "longitude": -71.4244222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_930817672",
+    "name": "FIDO Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2832625,
+    "longitude": -71.363765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Natick",
+      "addr:housenumber": "109",
+      "addr:postcode": "01760",
+      "addr:state": "MA",
+      "addr:street": "West Central Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "FIDO Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_970089793",
+    "name": "Bark Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2330885,
+    "longitude": -71.5006053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Hopkinton",
+      "addr:housenumber": "2",
+      "addr:postcode": "01748",
+      "addr:state": "MA",
+      "addr:street": "Woodview Way",
+      "description": "Small, fenced-in dog park, surfaced with wood-chips. Located behind Building 2, open for residents.",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_970090788",
+    "name": "Pond Pet Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2299238,
+    "longitude": -71.5000448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Hopkinton",
+      "addr:housenumber": "6",
+      "addr:postcode": "01748",
+      "addr:state": "MA",
+      "addr:street": "Woodview way",
+      "description": "Small, un-fenced, grass-surfaced dog park lined by trees, garage, and Building 6.",
+      "leisure": "dog_park",
+      "name": "Pond Pet Park"
+    }
+  },
+  {
+    "place_id": "osm_972947315",
+    "name": "Puddingstone Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3320085,
+    "longitude": -71.1036903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Puddingstone Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_986831831",
+    "name": "Needham Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2739416,
+    "longitude": -71.2723634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Needham Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1001791943",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3220751,
+    "longitude": -71.1103039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1014960012",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.5871566,
+    "longitude": -71.2765359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1018923966",
+    "name": "Gaslight Village Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1702408,
+    "longitude": -70.9516273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gaslight Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1021677035",
+    "name": "Captain Jack Peterson Memorial Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6434084,
+    "longitude": -70.9490678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Captain Jack Peterson Memorial Dog Park",
+      "operator": "New Bedford Parks, Recreation & Beaches",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1022926878",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.7800165,
+    "longitude": -71.5182937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1047345133",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.8534566,
+    "longitude": -70.8647335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1049715400",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3815288,
+    "longitude": -71.2256624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1054202045",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4105461,
+    "longitude": -71.0999556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1056117046",
+    "name": "Melrose Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4622533,
+    "longitude": -71.0650354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Melrose Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1096323391",
+    "name": "Andover Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6590401,
+    "longitude": -71.2037998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Andover",
+      "addr:housenumber": "288",
+      "addr:postcode": "01810",
+      "addr:state": "MA",
+      "addr:street": "High Plain Road",
+      "leisure": "dog_park",
+      "name": "Andover Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1100745180",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.6164299,
+    "longitude": -71.2037421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1107428706",
+    "name": "Dog Park @ The Track",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3921061,
+    "longitude": -71.0004558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park @ The Track"
+    }
+  },
+  {
+    "place_id": "osm_1147767553",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1915267,
+    "longitude": -73.4402898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1151086360",
+    "name": "Gardner Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5701117,
+    "longitude": -71.9976984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gardner Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1153087746",
+    "name": "Child Street Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3716637,
+    "longitude": -71.0723642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Child Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1155449374",
+    "name": "Brewster Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.7449486,
+    "longitude": -70.0781855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Brewster",
+      "addr:housenumber": "631",
+      "addr:postcode": "02631",
+      "addr:state": "MA",
+      "addr:street": "Harwich Road",
+      "leisure": "dog_park",
+      "name": "Brewster Dog Park",
+      "website": "https://www.brewster-ma.gov/brewster-dog-park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1161553745",
+    "name": "Pittsfield Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4634513,
+    "longitude": -73.2757292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Pittsfield",
+      "addr:housenumber": "500",
+      "addr:state": "MA",
+      "addr:street": "Lakeway Drive",
+      "leisure": "dog_park",
+      "name": "Pittsfield Dog Park",
+      "operator": "City of Pittsfield",
+      "website": "https://www.cityofpittsfield.org/departments/parks_and_recreation/dog_park.php"
+    }
+  },
+  {
+    "place_id": "osm_1162927212",
+    "name": "Scituate Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1761103,
+    "longitude": -70.7290389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Scituate Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1167521987",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.1567683,
+    "longitude": -71.9626062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1172557183",
+    "name": "River's Edge Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.9948975,
+    "longitude": -71.4936742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "River's Edge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1172889745",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2947929,
+    "longitude": -71.4749937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1184489189",
+    "name": "Smithfield Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.9160947,
+    "longitude": -71.5467603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Smithfield",
+      "addr:housenumber": "353",
+      "addr:postcode": "02917",
+      "addr:state": "RI",
+      "addr:street": "Farnum Pike",
+      "leisure": "dog_park",
+      "name": "Smithfield Dog Park",
+      "operator": "Town of Smithfield",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1193233589",
+    "name": "North Attleboro Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.0079317,
+    "longitude": -71.2942308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "North Attleborough",
+      "addr:postcode": "02760",
+      "addr:state": "MA",
+      "addr:street": "Plain Street",
+      "dog": "yes",
+      "landuse": "park",
+      "leisure": "dog_park",
+      "name": "North Attleboro Dog Park",
+      "operator": "Town of North Attleboro",
+      "operator:type": "public",
+      "start_date": "2022",
+      "website": "https://www.nattleboro.com/671/Town-Forest"
+    }
+  },
+  {
+    "place_id": "osm_1195445839",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3949827,
+    "longitude": -71.0776526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1197235265",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3734001,
+    "longitude": -71.079583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Greystar",
+      "operator:type": "private",
+      "website": "https://www.livezinc.com/"
+    }
+  },
+  {
+    "place_id": "osm_1207893400",
+    "name": "Mashpee Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6526782,
+    "longitude": -70.5009678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "mashpee",
+      "addr:housenumber": "156",
+      "addr:state": "MA",
+      "addr:street": "Ashumet Road",
+      "leisure": "dog_park",
+      "name": "Mashpee Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1215634617",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3931507,
+    "longitude": -71.1070372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1215881075",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3665605,
+    "longitude": -71.1311793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1222970634",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.501824,
+    "longitude": -71.1660461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225323014",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3752375,
+    "longitude": -71.5594029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1226583832",
+    "name": "Amory Playground Green Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3461374,
+    "longitude": -71.1130941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Brookline",
+      "addr:postcode": "02445",
+      "addr:state": "MA",
+      "addr:street": "Amory Street & Freeman Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Amory Playground Green Dog Park",
+      "operator": "Town of Brookline",
+      "operator:type": "public/government",
+      "website": "https://www.brooklinema.gov/facilities/facility/details/amory-playground-9",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1226590910",
+    "name": "Larz Anderson Park Green Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3134242,
+    "longitude": -71.1354294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Brookline",
+      "addr:postcode": "02245",
+      "addr:state": "MA",
+      "addr:street": "Newton Street and Goddard Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Larz Anderson Park Green Dog Park",
+      "operator": "Town of Brookline",
+      "operator:type": "public/government",
+      "website": "https://www.brooklinema.gov/facilities/facility/details/larz-anderson-park-87"
+    }
+  },
+  {
+    "place_id": "osm_1229484756",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.5560945,
+    "longitude": -71.2979956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1241547878",
+    "name": "Danvers Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5709536,
+    "longitude": -70.9638762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Danvers Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1259551131",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.0222851,
+    "longitude": -71.255089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1278392909",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.7751787,
+    "longitude": -71.230386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281882419",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3936584,
+    "longitude": -71.1420648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284437959",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5995092,
+    "longitude": -71.9907116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1302866541",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6903767,
+    "longitude": -71.4575699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1306914625",
+    "name": "South Kingstown Dog Park Association",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.4513048,
+    "longitude": -71.4809206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South Kingstown Dog Park Association"
+    }
+  },
+  {
+    "place_id": "osm_1311256222",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4085348,
+    "longitude": -71.2324782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1311375432",
+    "name": "Dedham Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2576941,
+    "longitude": -71.1932394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Dedham",
+      "addr:housenumber": "269",
+      "addr:postcode": "02026",
+      "addr:state": "MA",
+      "addr:street": "Common Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Dedham Dog Park",
+      "operator": "Town of Dedham, Massachusetts",
+      "operator:type": "government",
+      "website": "https://www.dedham-ma.gov/Home/Components/ServiceDirectory/ServiceDirectory/81/736"
+    }
+  },
+  {
+    "place_id": "osm_1313389567",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4017456,
+    "longitude": -71.1100071,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1313554459",
+    "name": "Park-9 @ The Station",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3430084,
+    "longitude": -71.1019407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Boston",
+      "addr:housenumber": "1400",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "leisure": "dog_park",
+      "name": "Park-9 @ The Station",
+      "website": "https://www.park9dogbar.com/park9-fenway"
+    }
+  },
+  {
+    "place_id": "osm_1313852175",
+    "name": "John G Rogers Memorial Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.4382583,
+    "longitude": -70.6212021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "John G Rogers Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1316975922",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3664411,
+    "longitude": -71.0889724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1329761024",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5236619,
+    "longitude": -70.9009624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Large dog area of dog park.",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1333250035",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4463937,
+    "longitude": -71.3175988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1343497513",
+    "name": "Wareham Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.7695516,
+    "longitude": -70.6798581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Wareham",
+      "addr:housenumber": "74",
+      "addr:postcode": "02571",
+      "addr:state": "MA",
+      "addr:street": "Maple Springs Road",
+      "leisure": "dog_park",
+      "name": "Wareham Dog Park",
+      "website": "https://www.warehamdogpark.org/"
+    }
+  },
+  {
+    "place_id": "osm_1343523057",
+    "name": "Fitzhenry Square Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4061496,
+    "longitude": -70.9952968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fitzhenry Square Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1344559296",
+    "name": "Groveland Community Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.7670791,
+    "longitude": -71.0266182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Groveland",
+      "addr:housenumber": "222",
+      "addr:postcode": "01834",
+      "addr:state": "MA",
+      "addr:street": "Main Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Groveland Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1344559297",
+    "name": "Riverside Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.7595459,
+    "longitude": -71.0424733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Riverside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1362680268",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.399654,
+    "longitude": -71.0452465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1363177699",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4015118,
+    "longitude": -71.0536016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1363238638",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.7715248,
+    "longitude": -71.2265545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Salem",
+      "addr:postcode": "03079",
+      "addr:state": "NH",
+      "fixme": "Refer to Salem NH planning board docs for more detailed mapping.",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1365402065",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3515422,
+    "longitude": -71.1658336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1365402621",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.356743,
+    "longitude": -71.1709155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1366078941",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3503099,
+    "longitude": -72.5287927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1374868262",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.6869189,
+    "longitude": -71.0068481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377486212",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5164327,
+    "longitude": -71.216973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1378110041",
+    "name": "Station Landing Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.401116,
+    "longitude": -71.081524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Station Landing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1380467190",
+    "name": "Uxbridge Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.0986182,
+    "longitude": -71.6735831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Uxbridge",
+      "addr:housenumber": "375",
+      "addr:street": "Sutton Street",
+      "leisure": "dog_park",
+      "name": "Uxbridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1385391655",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2479647,
+    "longitude": -71.5647471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Park",
+      "operator": "Town of Hopkinton",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1396606580",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4398801,
+    "longitude": -71.0697156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1408433864",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2462348,
+    "longitude": -71.5910453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1410407598",
+    "name": "Amherst Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3544359,
+    "longitude": -72.4804254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Amherst",
+      "addr:state": "MA",
+      "addr:street": "Old Belchertown Road",
+      "leisure": "dog_park",
+      "name": "Amherst Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1412390775",
+    "name": "Dog Park @ The Yard",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3980929,
+    "longitude": -70.9939046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Revere",
+      "addr:housenumber": "10",
+      "addr:postcode": "02151",
+      "addr:state": "MA",
+      "addr:street": "Suffolk Downs Boulevard",
+      "leisure": "dog_park",
+      "name": "Dog Park @ The Yard"
+    }
+  },
+  {
+    "place_id": "osm_1413430919",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3629131,
+    "longitude": -73.4294249,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1415674330",
+    "name": "Marlborough Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3518747,
+    "longitude": -71.5183543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Marlborough Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1416418204",
+    "name": "Carlisle Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5222126,
+    "longitude": -71.3442206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carlisle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1434635149",
+    "name": "Northborough Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3395837,
+    "longitude": -71.6135827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northborough Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1436281622",
+    "name": "Ayer Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.556255,
+    "longitude": -71.5577785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ayer Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1451390616",
+    "name": "Walker Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.350552,
+    "longitude": -71.2137903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Newton",
+      "addr:housenumber": "988;990",
+      "addr:postcode": "02460",
+      "addr:state": "MA",
+      "addr:street": "Washington Street",
+      "leisure": "dog_park",
+      "name": "Walker Park",
+      "operator": "City of Newton",
+      "operator:type": "government",
+      "start_date": "2025",
+      "website": "https://www.newtonma.gov/Home/Components/FacilityDirectory/FacilityDirectory/196/"
+    }
+  },
+  {
+    "place_id": "osm_1451970431",
+    "name": "Woburn Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5073668,
+    "longitude": -71.1594776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Woburn",
+      "addr:postcode": "01801",
+      "addr:state": "MA",
+      "addr:street": "Main Street",
+      "leisure": "dog_park",
+      "name": "Woburn Dog Park",
+      "operator": "Woburn Recreation Department"
+    }
+  },
+  {
+    "place_id": "osm_1453116740",
+    "name": "Newport Large Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 41.499807,
+    "longitude": -71.3177331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Newport Large Dog Park",
+      "operator": "City of Newport",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1458153572",
+    "name": "Avalon Framingham Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3309038,
+    "longitude": -71.389987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Avalon Framingham Dog Park",
+      "operator": "AvalonBay"
+    }
+  },
+  {
+    "place_id": "osm_1458391368",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5913496,
+    "longitude": -71.7814139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1463028941",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.3798919,
+    "longitude": -71.0719864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1467887025",
+    "name": "Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5148658,
+    "longitude": -71.192481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1470127658",
+    "name": "Northgate Meadows Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.4788939,
+    "longitude": -71.7545042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Northgate Meadows Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1480989179",
+    "name": "Chelmsford Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.629528,
+    "longitude": -71.3767026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chelmsford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1494635628",
+    "name": "Ware Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2621278,
+    "longitude": -72.2404729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ware Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_11661030",
+    "name": "Billerica Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.5564579,
+    "longitude": -71.2963119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Billerica Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_20367689",
+    "name": "North Quincy Dog Park",
+    "formatted_address": ", Massachusetts, USA",
+    "latitude": 42.2831119,
+    "longitude": -71.0313107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Quincy",
+      "addr:postcode": "02171",
+      "addr:state": "MA",
+      "addr:street": "Atlantic Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "massgis:ARTICLE97": "9",
+      "massgis:ASSESS_ACR": "1.00000000",
+      "massgis:ATT_DATE": "1994/07/13",
+      "massgis:DCAM_ID": "0",
+      "massgis:DEED_ACRES": "0.00000000",
+      "massgis:EOEAINVOLV": "0",
+      "massgis:FEESYM": "M",
+      "massgis:FEE_OWNER": "City of Quincy",
+      "massgis:FY_FUNDING": "0",
+      "massgis:LEV_PROT": "L",
+      "massgis:MANAGER": "City of Quincy Parks and Recreation Department",
+      "massgis:MANAGR_ABR": "M243PR",
+      "massgis:MANAGR_TYP": "M",
+      "massgis:OS_DEED_BO": "0",
+      "massgis:OS_DEED_PA": "0",
+      "massgis:OS_ID": "243-3269",
+      "massgis:OWNER_ABRV": "M243",
+      "massgis:OWNER_TYPE": "M",
+      "massgis:POLY_ID": "3269",
+      "massgis:PRIM_PURP": "R",
+      "massgis:PUB_ACCESS": "Y",
+      "massgis:SITE_NAME": "KENDALL PK PG",
+      "massgis:SOURCE_MAP": "1",
+      "massgis:TOWN_ID": "243",
+      "name": "North Quincy Dog Park",
+      "note": "Named after Doctor Walter Kendall, who used to own the land where this park now stands",
+      "opening_hours": "sunrise-sunset",
+      "operator": "City of Quincy",
+      "operator:type": "public/government",
+      "owner": "City Of Quincy",
+      "ownership": "municipal",
+      "protected": "limited",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)",
+      "type": "multipolygon"
+    }
+  }
+]

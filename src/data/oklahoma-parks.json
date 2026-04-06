@@ -1,0 +1,484 @@
+[
+  {
+    "place_id": "osm_10596726162",
+    "name": "NASH Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.6759763,
+    "longitude": -101.4682756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "NASH Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_90548281",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1520884,
+    "longitude": -96.0170361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_202210767",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1655427,
+    "longitude": -95.8667449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_232683196",
+    "name": "Stillwaggin Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1092485,
+    "longitude": -97.0687571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Stillwater",
+      "addr:housenumber": "801",
+      "addr:postcode": "74074",
+      "addr:street": "West 11th Avenue",
+      "leisure": "dog_park",
+      "name": "Stillwaggin Dog Park",
+      "operator": "Oklahoma State University"
+    }
+  },
+  {
+    "place_id": "osm_236991876",
+    "name": "Biscuit Acres Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.028179,
+    "longitude": -95.9115204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Biscuit Acres Dog Park",
+      "opening_hours": "We-Su sunrise-sunset",
+      "operator": "City of Tulsa",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_468526159",
+    "name": "Sir Mortimer's and Jazzie's Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.4326717,
+    "longitude": -97.8936939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sir Mortimer's and Jazzie's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_470023089",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0641061,
+    "longitude": -95.9674898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_532438645",
+    "name": "Southern Reserve Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0134572,
+    "longitude": -96.0233522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southern Reserve Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_664031880",
+    "name": "Rose West Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0161131,
+    "longitude": -95.8472081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Broken Arrow",
+      "addr:housenumber": "4751",
+      "addr:street": "West New Orleans Street South",
+      "leisure": "dog_park",
+      "name": "Rose West Dog Park",
+      "operator": "City of Broken Arrow",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_717276843",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0169287,
+    "longitude": -95.9835589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_745077256",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0286552,
+    "longitude": -95.8667818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_766866657",
+    "name": "Waggin' Trail Dog Park (large dogs)",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.2724862,
+    "longitude": -95.8698284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Owasso",
+      "addr:housenumber": "8200",
+      "addr:postcode": "74055",
+      "addr:state": "OK",
+      "addr:street": "North 91st East Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Waggin' Trail Dog Park (large dogs)",
+      "operator": "City of Owasso, OK",
+      "operator:type": "government",
+      "website": "https://cityofowasso.com/625/Owasso-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_840678230",
+    "name": "Barking Ridge",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0220583,
+    "longitude": -95.8537126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barking Ridge"
+    }
+  },
+  {
+    "place_id": "osm_988533160",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0475135,
+    "longitude": -95.9636711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1080801900",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.8487101,
+    "longitude": -97.3453429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1149746472",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.5346213,
+    "longitude": -97.3415514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1202215254",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0707486,
+    "longitude": -95.8846867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1288355690",
+    "name": "Tails and Ales",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1347694,
+    "longitude": -95.9855265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "no",
+      "addr:city": "Tulsa",
+      "addr:housenumber": "1903",
+      "addr:postcode": "74119",
+      "addr:state": "OK",
+      "addr:street": "South Boston Avenue East",
+      "leisure": "dog_park",
+      "name": "Tails and Ales",
+      "website": "https://www.tailsandalestulsa.com/"
+    }
+  },
+  {
+    "place_id": "osm_1308937302",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3433888,
+    "longitude": -97.8957762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1316175613",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1160387,
+    "longitude": -97.3366489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "Cowboy Travel Plaza"
+    }
+  },
+  {
+    "place_id": "osm_1413440175",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.6510979,
+    "longitude": -97.3425108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440383",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.3987913,
+    "longitude": -97.8192655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413994123",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.102907,
+    "longitude": -95.8310775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_19927656",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1320085,
+    "longitude": -96.0060212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

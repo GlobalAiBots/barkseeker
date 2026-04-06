@@ -7,13 +7,13 @@ export default function CookieConsent() {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
-    if (!localStorage.getItem("rampseeker_cookies_accepted")) {
+    if (!localStorage.getItem("barkseeker_cookies_accepted")) {
       setShow(true);
     }
   }, []);
 
   function accept() {
-    localStorage.setItem("rampseeker_cookies_accepted", "1");
+    localStorage.setItem("barkseeker_cookies_accepted", "1");
     setShow(false);
   }
 
@@ -26,8 +26,8 @@ export default function CookieConsent() {
           We use cookies to improve your experience and serve relevant ads. By continuing to browse, you agree to our cookie policy.
         </p>
         <div className="flex items-center gap-3 flex-shrink-0">
-          <Link href="/privacy" className="text-water text-sm font-medium hover:underline">Learn More</Link>
-          <button onClick={accept} className="bg-water hover:bg-water-light text-white font-bold text-sm px-5 py-2 rounded-lg transition">
+          <Link href="/privacy" className="text-forest text-sm font-medium hover:underline">Learn More</Link>
+          <button onClick={accept} className="bg-forest hover:bg-forest-light text-white font-bold text-sm px-5 py-2 rounded-lg transition">
             Accept
           </button>
         </div>

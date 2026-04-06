@@ -1,0 +1,7358 @@
+[
+  {
+    "place_id": "osm_313025472",
+    "name": "Falkland Chase Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9934524,
+    "longitude": -77.0352669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Falkland Chase Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_2340527003",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.182588,
+    "longitude": -76.669298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_2401937426",
+    "name": "Pet Corral",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5739102,
+    "longitude": -77.7983247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Corral"
+    }
+  },
+  {
+    "place_id": "osm_2453225717",
+    "name": "Glencarlyn Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8619773,
+    "longitude": -77.1170584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Glencarlyn Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_2798580941",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6344544,
+    "longitude": -77.8362153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4000091495",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.2444706,
+    "longitude": -76.4482496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Anonymous map note"
+    }
+  },
+  {
+    "place_id": "osm_584325384",
+    "name": "Wurzburg Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4527999,
+    "longitude": -77.9803869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Martinsburg",
+      "addr:housenumber": "400",
+      "addr:postcode": "25401",
+      "addr:state": "WV",
+      "addr:street": "Mall Drive",
+      "leisure": "dog_park",
+      "name": "Wurzburg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_5762575642",
+    "name": "Jacobs Forest Dog Meetup",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1172163,
+    "longitude": -76.713257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jacobs Forest Dog Meetup"
+    }
+  },
+  {
+    "place_id": "osm_414037196",
+    "name": "Quail Run Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1297629,
+    "longitude": -76.707533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Quail Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6302123123",
+    "name": "Monticello Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8333579,
+    "longitude": -77.069812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Monticello Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123124",
+    "name": "Chinquapin Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8223277,
+    "longitude": -77.0818323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Chinquapin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6302123125",
+    "name": "Timberbranch Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8213539,
+    "longitude": -77.0760065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Timberbranch Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123129",
+    "name": "Windmill Hill Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7981521,
+    "longitude": -77.0412451,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Windmill Hill Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123130",
+    "name": "Founders Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8084111,
+    "longitude": -77.038976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Founders Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123134",
+    "name": "Mount Jefferson Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8303924,
+    "longitude": -77.0554917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Mount Jefferson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6302123135",
+    "name": "Four Mile Run Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8405527,
+    "longitude": -77.0601989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Four Mile Run Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123136",
+    "name": "Tarleton Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8085636,
+    "longitude": -77.1094161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Tarleton Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123137",
+    "name": "Fort Williams Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8140311,
+    "longitude": -77.0942965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Fort Williams Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123138",
+    "name": "Ben Brenman Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8068769,
+    "longitude": -77.1132141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Ben Brenman Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6302123140",
+    "name": "Chambliss Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.83583,
+    "longitude": -77.127741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "none",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Chambliss Dog Park",
+      "source": "GPS"
+    }
+  },
+  {
+    "place_id": "osm_6325070587",
+    "name": "BARC Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4513335,
+    "longitude": -76.8146283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "BARC Park"
+    }
+  },
+  {
+    "place_id": "osm_6486895687",
+    "name": "Kimco Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5418733,
+    "longitude": -76.3258909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kimco Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6965004255",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3797038,
+    "longitude": -75.3097708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7007183878",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4553343,
+    "longitude": -75.9703823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7188647221",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4652609,
+    "longitude": -76.3034768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7570294590",
+    "name": "Garrett County Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5731998,
+    "longitude": -79.3353079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Accident",
+      "addr:housenumber": "1249",
+      "addr:postcode": "21521",
+      "addr:state": "MD",
+      "addr:street": "Bumble Bee Road",
+      "leisure": "dog_park",
+      "name": "Garrett County Dog Park",
+      "operator": "Deep Creek Lake Lions Club",
+      "operator:type": "community",
+      "website": "https://deepcreeklions.org/"
+    }
+  },
+  {
+    "place_id": "osm_8723631352",
+    "name": "Westmore Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8483638,
+    "longitude": -77.3277316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Fairfax",
+      "addr:housenumber": "11000",
+      "addr:postcode": "22030",
+      "addr:state": "VA",
+      "addr:street": "Berry Street",
+      "leisure": "dog_park",
+      "name": "Westmore Dog Park",
+      "website": "https://www.fairfaxva.gov/government/parks-recreation/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_8920830681",
+    "name": "Starbarks Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7915368,
+    "longitude": -77.1390127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Starbarks Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_9609226077",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3022735,
+    "longitude": -76.6200304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_10274100467",
+    "name": "Lee Farnum Johnson Jr. Memorial Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9552086,
+    "longitude": -77.41073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lee Farnum Johnson Jr. Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10899672472",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9627678,
+    "longitude": -77.5597316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11866963526",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3488267,
+    "longitude": -77.5999746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "Not sure of exact location / size"
+    }
+  },
+  {
+    "place_id": "osm_12057152607",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4767494,
+    "longitude": -76.6023635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_12180653303",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1860003,
+    "longitude": -76.7553096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "The Forge"
+    }
+  },
+  {
+    "place_id": "osm_12263305370",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1778481,
+    "longitude": -77.0238781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Rivermist Pet Lodg",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_12656903341",
+    "name": "Woods at Addison Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8746063,
+    "longitude": -76.8931653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woods at Addison Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_12996096834",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0621074,
+    "longitude": -77.1515295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "resurvey",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13082499749",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1087482,
+    "longitude": -76.8328093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13665532601",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1460091,
+    "longitude": -77.1970525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_38888910",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.307163,
+    "longitude": -77.4707488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_48207326",
+    "name": "S Street Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.914392,
+    "longitude": -77.0387165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dcgis:address": "New Hampshire Ave.,17th St.,S St.,NW",
+      "dcgis:area": "17",
+      "dcgis:propid": "DPR0144",
+      "dcgis:res_num": "144",
+      "dcgis:use_type": "TRIANGLE",
+      "dcgis:ward": "2",
+      "dcgis:zone_": "04",
+      "leisure": "dog_park",
+      "name": "S Street Dog Park",
+      "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00",
+      "phone": "+1 202-673-7647",
+      "website": "https://dpr.dc.gov/"
+    }
+  },
+  {
+    "place_id": "osm_79289648",
+    "name": "Baron Cameron Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9768773,
+    "longitude": -77.335194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Reston",
+      "addr:housenumber": "11300",
+      "addr:postcode": "20194",
+      "addr:state": "VA",
+      "addr:street": "Baron Cameron Avenue",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Baron Cameron Dog Park",
+      "operator": "Fairfax County Park Authority",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_89905511",
+    "name": "Banneker Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8821688,
+    "longitude": -77.1559836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Arlington",
+      "addr:housenumber": "1680",
+      "addr:postcode": "22205",
+      "addr:state": "VA",
+      "addr:street": "North Sycamore Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Banneker Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Arlington County Department of Parks and Recreation",
+      "website": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Benjamin-Banneker-Park"
+    }
+  },
+  {
+    "place_id": "osm_91278689",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.988962,
+    "longitude": -76.8792466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_152434767",
+    "name": "Duke Street Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8122399,
+    "longitude": -77.1150882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "designation": "dog_park",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Duke Street Dog Park",
+      "source": "GPS",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_162743181",
+    "name": "Canton Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2781608,
+    "longitude": -76.5699005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Canton Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_167531834",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9182746,
+    "longitude": -77.0154698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_170977229",
+    "name": "Worthington Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2512176,
+    "longitude": -76.7975302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Ellicott City",
+      "addr:housenumber": "8190",
+      "addr:postcode": "21043",
+      "addr:street": "Hillsborough Road",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "fence_type": "chain",
+      "leisure": "dog_park",
+      "name": "Worthington Dog Park",
+      "operator": "Howard County Recreation & Parks",
+      "operator:type": "government",
+      "website": "https://www.howardcountymd.gov/recreation-parks/parks-playgrounds-trails#worthington-dog-park-in-ellicott-city"
+    }
+  },
+  {
+    "place_id": "osm_170977234",
+    "name": "Worthington Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2499819,
+    "longitude": -76.796348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain",
+      "leisure": "dog_park",
+      "name": "Worthington Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_173553541",
+    "name": "Simpson Stadium Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8213667,
+    "longitude": -77.0520786,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Alexandria",
+      "addr:housenumber": "609",
+      "addr:postcode": "22301",
+      "addr:state": "VA",
+      "addr:street": "East Monroe Avenue",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Simpson Stadium Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_177921313",
+    "name": "Wheaton Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.053569,
+    "longitude": -77.0353664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wheaton Dog Park",
+      "wikidata": "Q49579735"
+    }
+  },
+  {
+    "place_id": "osm_186907279",
+    "name": "Madison Community Canine Area",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9230084,
+    "longitude": -77.1228762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Arlington",
+      "addr:housenumber": "3829",
+      "addr:postcode": "22207",
+      "addr:state": "VA",
+      "addr:street": "North Stafford Street",
+      "alt_name": "Fort Ethan Allen Dog Park",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Madison Community Canine Area",
+      "opening_hours": "sunrise-(sunset+00:30)",
+      "operator": "Arlington County Department of Parks and Recreation",
+      "website": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Fort-Ethan-Allen-Park/Fort-Ethan-Allen-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_200374287",
+    "name": "Paw Point Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3813485,
+    "longitude": -76.641637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Paw Point Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_202222511",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9315871,
+    "longitude": -76.505031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "internet_access": "no",
+      "leisure": "dog_park",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_204818508",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1131373,
+    "longitude": -77.2115871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Upper level of the city's dog exercise area. It is approximately 17,000 sq. ft. and has a bluestone dust-based ground cover.",
+      "leisure": "dog_park",
+      "surface": "compacted"
+    }
+  },
+  {
+    "place_id": "osm_212013847",
+    "name": "James Hunter Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8883352,
+    "longitude": -77.0961947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "1299",
+      "addr:postcode": "22201",
+      "addr:state": "VA",
+      "addr:street": "North Herndon Street",
+      "leisure": "dog_park",
+      "name": "James Hunter Park",
+      "website": "https://parks.arlingtonva.us/locations/james-hunter-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_213194724",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2671266,
+    "longitude": -76.5920713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_220140809",
+    "name": "Columbia Heights Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9314786,
+    "longitude": -77.0284227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Columbia Heights Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_221295128",
+    "name": "Liberty Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2899619,
+    "longitude": -76.6178764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Liberty Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_221296493",
+    "name": "Patterson Park Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2882697,
+    "longitude": -76.5762371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "2",
+      "leisure": "dog_park",
+      "name": "Patterson Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_225638545",
+    "name": "Big Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9313363,
+    "longitude": -77.2333518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Big Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_226345749",
+    "name": "Walter Pierce Park Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9238656,
+    "longitude": -77.047026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Walter Pierce Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_230250918",
+    "name": "Hagerstown Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6437121,
+    "longitude": -77.7106639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "designation": "Hagerstown Dog Park",
+      "ele": "170",
+      "gnis:feature_id": "1713810",
+      "leisure": "dog_park",
+      "name": "Hagerstown Dog Park",
+      "source": "City of Hagerstown, MD., GIS Specialist",
+      "surface": "grass",
+      "website": "https://www.facebook.com/Hagerstown-Dog-Park-415774781877431/",
+      "wikidata": "Q49554536"
+    }
+  },
+  {
+    "place_id": "osm_256928845",
+    "name": "Olney Manor Dog Park (large dogs)",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1258197,
+    "longitude": -77.0690122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Olney Manor Dog Park (large dogs)"
+    }
+  },
+  {
+    "place_id": "osm_264198136",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8750106,
+    "longitude": -77.2928728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_265946089",
+    "name": "Dog Park at King Farm",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1191242,
+    "longitude": -77.1777331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park at King Farm"
+    }
+  },
+  {
+    "place_id": "osm_268464037",
+    "name": "Island Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9807466,
+    "longitude": -76.305561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Island Dog Park",
+      "source": "survey"
+    }
+  },
+  {
+    "place_id": "osm_269459990",
+    "name": "Perry Paw Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3940245,
+    "longitude": -76.4487067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Perry Paw Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_297114665",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.2587314,
+    "longitude": -76.4489719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_302964165",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9687396,
+    "longitude": -77.3685194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_312084106",
+    "name": "Westgrove Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.769508,
+    "longitude": -77.0589371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Westgrove Dog Park",
+      "operator": "Westgrove PACK",
+      "website": "https://www.westgrovepack.org/"
+    }
+  },
+  {
+    "place_id": "osm_313026641",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8952489,
+    "longitude": -76.9866692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_314570885",
+    "name": "Newark Street Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.934743,
+    "longitude": -77.076657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Newark Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_337505807",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2812792,
+    "longitude": -76.5877197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_345951074",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8599171,
+    "longitude": -77.1487884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_356377661",
+    "name": "Grist Mill Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7087161,
+    "longitude": -77.1123342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grist Mill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_362134686",
+    "name": "Hooff's Run Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8130661,
+    "longitude": -77.0617187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Hooff's Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_365791523",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9390568,
+    "longitude": -76.7430085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_367147287",
+    "name": "Dog Run",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8732833,
+    "longitude": -77.0027267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_369290328",
+    "name": "Heurich Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9623625,
+    "longitude": -76.9693272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Heurich Dog Park",
+      "website": "https://www.hyattsville.org/413/Heurich-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_389286558",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8823982,
+    "longitude": -77.0849362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "comment": "sigma_project",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_393078110",
+    "name": "name=Broadneck Dog Park - Small Dog Area",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0333499,
+    "longitude": -76.4494023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "name=Broadneck Dog Park - Small Dog Area",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Anne Arundel Recreation and Parks",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_400686149",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.758135,
+    "longitude": -77.1713453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_404805270",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7593175,
+    "longitude": -77.5647344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "survey 3/2016"
+    }
+  },
+  {
+    "place_id": "osm_411544171",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1887332,
+    "longitude": -77.2908788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_422551630",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3801222,
+    "longitude": -77.4496985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_424669102",
+    "name": "Bark Social Columbia",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2108695,
+    "longitude": -76.8640912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Columbia",
+      "addr:housenumber": "5801",
+      "addr:postcode": "21044",
+      "addr:state": "MD",
+      "addr:street": "Merriweather Drive",
+      "fixme": "rough location",
+      "leisure": "dog_park",
+      "name": "Bark Social Columbia",
+      "website": "https://barksocial.com"
+    }
+  },
+  {
+    "place_id": "osm_435644134",
+    "name": "Wags",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2544773,
+    "longitude": -76.526936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "2",
+      "leisure": "dog_park",
+      "name": "Wags"
+    }
+  },
+  {
+    "place_id": "osm_435691826",
+    "name": "City of Frederick Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4147267,
+    "longitude": -77.4152863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "City of Frederick Dog Park",
+      "name:signed": "Dog Park",
+      "operator": "City of Frederick",
+      "website": "https://www.cityoffrederickmd.gov/258/Dog-Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_461446296",
+    "name": "Vint Hill Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7450688,
+    "longitude": -77.6844203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Park",
+      "leisure": "dog_park",
+      "name": "Vint Hill Dog Park",
+      "note": "Includes Parking areas",
+      "website": "https://www.vinthilldogpark.org/"
+    }
+  },
+  {
+    "place_id": "osm_467353873",
+    "name": "Bell Branch \"Big\" Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9880752,
+    "longitude": -76.6773195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bell Branch \"Big\" Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468177774",
+    "name": "Maryland City Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0730989,
+    "longitude": -76.82993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Maryland City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468480053",
+    "name": "Rodgers Forge Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.380303,
+    "longitude": -76.6164263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rodgers Forge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468586698",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8284168,
+    "longitude": -77.173238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469234676",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9780982,
+    "longitude": -76.5036968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_479564756",
+    "name": "Addison Court Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4120949,
+    "longitude": -75.559878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "location?",
+      "leisure": "dog_park",
+      "name": "Addison Court Dog Park",
+      "name_1": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_481663438",
+    "name": "South Run Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7529076,
+    "longitude": -77.2754058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_506078730",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6551978,
+    "longitude": -77.2565177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "walking survey 7/2017"
+    }
+  },
+  {
+    "place_id": "osm_532234772",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.803747,
+    "longitude": -77.0784868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_543896426",
+    "name": "Watkins Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3791275,
+    "longitude": -77.1443431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Watkins Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_544885224",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2148385,
+    "longitude": -76.705038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_545123233",
+    "name": "The Harrison Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4248711,
+    "longitude": -78.8700026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Harrison Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_545485828",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4539773,
+    "longitude": -78.8398592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_546389575",
+    "name": "Ma & Pa Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5297856,
+    "longitude": -76.373327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bel Air",
+      "addr:housenumber": "703",
+      "addr:postcode": "21014",
+      "addr:state": "MD",
+      "addr:street": "North Tollgate Road",
+      "leisure": "dog_park",
+      "name": "Ma & Pa Dog Park",
+      "note": "area is per HarCoGov site",
+      "website": "https://www.harfordcountymd.gov/Facilities/Facility/Details/Ma-Pa-Dog-Park-65"
+    }
+  },
+  {
+    "place_id": "osm_550989116",
+    "name": "Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4495511,
+    "longitude": -77.3875233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "place_id": "osm_555180282",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0829258,
+    "longitude": -76.6855642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_556158511",
+    "name": "Ellsworth Urban Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0005562,
+    "longitude": -77.0250516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ellsworth Urban Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_557799101",
+    "name": "Bundy Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9094974,
+    "longitude": -77.0179722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bundy Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_559330351",
+    "name": "Rock Hill District Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8779044,
+    "longitude": -77.4739445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "description": "Dog park for dogs over 30 pounds",
+      "leisure": "dog_park",
+      "name": "Rock Hill District Dog Park",
+      "website": "https://www.fairfaxcounty.gov/parks/offleash"
+    }
+  },
+  {
+    "place_id": "osm_559334153",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8399031,
+    "longitude": -77.4473457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_559334154",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.844303,
+    "longitude": -77.4364315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_562933565",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9976981,
+    "longitude": -77.0385639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_565086990",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8010743,
+    "longitude": -77.1438656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "walking survey 2/2018"
+    }
+  },
+  {
+    "place_id": "osm_565133513",
+    "name": "Columbia DogPark",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2259236,
+    "longitude": -76.8900348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Columbia",
+      "addr:housenumber": "5901",
+      "addr:postcode": "21044",
+      "addr:state": "MD",
+      "addr:street": "Rivendell Lane",
+      "leisure": "dog_park",
+      "name": "Columbia DogPark",
+      "opening_hours": "Su-Sa 07:00-17:30",
+      "phone": "+1-410-312-6330",
+      "website": "https://www.columbiaassociation.org/facilities/columbia-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_569976919",
+    "name": "Wiggly Field",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8109137,
+    "longitude": -77.1293418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wiggly Field"
+    }
+  },
+  {
+    "place_id": "osm_573659518",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9239555,
+    "longitude": -77.2193661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_575736886",
+    "name": "Watersedge Dog Walking Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2463806,
+    "longitude": -76.5033993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog walking park",
+      "leisure": "dog_park",
+      "name": "Watersedge Dog Walking Park"
+    }
+  },
+  {
+    "place_id": "osm_578638614",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7811633,
+    "longitude": -77.1208393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_582301555",
+    "name": "Summerfield Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4058665,
+    "longitude": -77.2952538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Summerfield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_583334198",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.5720026,
+    "longitude": -76.9808391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_588194756",
+    "name": "Large Dog Off-leash Area",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9078648,
+    "longitude": -78.2107365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Large Dog Off-leash Area"
+    }
+  },
+  {
+    "place_id": "osm_593527605",
+    "name": "Play Ball Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6818804,
+    "longitude": -76.1685394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Play Ball Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_602106935",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.2201175,
+    "longitude": -77.4895985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_607743130",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9916189,
+    "longitude": -77.0342309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_612741162",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4583407,
+    "longitude": -76.3159304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_621847365",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9630138,
+    "longitude": -77.4472215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_624540592",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2884092,
+    "longitude": -76.6119045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Baltimore",
+      "addr:country": "US",
+      "addr:housenumber": "25",
+      "addr:postcode": "21202",
+      "addr:state": "MD",
+      "addr:street": "South Calvert Street",
+      "barrier": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_625181189",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4285872,
+    "longitude": -76.3287412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_628169139",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0270555,
+    "longitude": -77.4155705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_641019944",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4407223,
+    "longitude": -76.8308798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_644589284",
+    "name": "South Riding Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9210058,
+    "longitude": -77.5096587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "South Riding Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_647551916",
+    "name": "Chestertown Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.222421,
+    "longitude": -76.0597564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chestertown",
+      "addr:housenumber": "100",
+      "addr:postcode": "21620",
+      "addr:state": "MD",
+      "addr:street": "Schauber Road",
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "name": "Chestertown Dog Park",
+      "phone": "+1-410-778-0500",
+      "website": "https://townofchestertown.com/residents/parks-and-trails/dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_671144343",
+    "name": "Senior Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2965823,
+    "longitude": -76.6207826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Senior Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_673167225",
+    "name": "Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2209912,
+    "longitude": -76.8051069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_674148177",
+    "name": "Abingdon Road Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4701319,
+    "longitude": -76.2850753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Abingdon Road Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_675878928",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9557896,
+    "longitude": -77.4200867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_678027572",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0621208,
+    "longitude": -77.1181748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_681140176",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8722357,
+    "longitude": -77.1106083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_682018127",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1729493,
+    "longitude": -76.5689121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_685020761",
+    "name": "Urban Green Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3243344,
+    "longitude": -77.3451476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Urban Green Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_690087834",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5150199,
+    "longitude": -76.375883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "community",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_691246323",
+    "name": "Charlesmont",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2750648,
+    "longitude": -76.4887261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Charlesmont"
+    }
+  },
+  {
+    "place_id": "osm_691454465",
+    "name": "Towers Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8672408,
+    "longitude": -77.0770296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Towers Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_695265351",
+    "name": "Liberty Parkway Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2536971,
+    "longitude": -76.5153154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Liberty Parkway Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_695870763",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3043341,
+    "longitude": -76.5245145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_696037424",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9978069,
+    "longitude": -76.9346695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_696437402",
+    "name": "Watersedge Community Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.247376,
+    "longitude": -76.4995132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Watersedge Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_696437407",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.244618,
+    "longitude": -76.5098733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_696437408",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.244989,
+    "longitude": -76.5128217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_696451531",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2531121,
+    "longitude": -76.5204753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_696730809",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2812187,
+    "longitude": -76.4925988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_697179792",
+    "name": "Waggertail Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.965965,
+    "longitude": -76.9253242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Waggertail Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_697508426",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9554767,
+    "longitude": -76.9384364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_698068494",
+    "name": "Yoprkway Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2624756,
+    "longitude": -76.5175538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Yoprkway Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_698092515",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2789194,
+    "longitude": -76.4834303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_698721460",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2831137,
+    "longitude": -76.529611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_698721466",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.276983,
+    "longitude": -76.5287635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_699263605",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0819276,
+    "longitude": -76.682672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_699269179",
+    "name": "Towsers Branch Park Small Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0336977,
+    "longitude": -76.697232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Towsers Branch Park Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_700378703",
+    "name": "Harborview Tower Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.277419,
+    "longitude": -76.6040112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Harborview Tower Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_700745858",
+    "name": "The Point at Silver Spring Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9976621,
+    "longitude": -77.0318058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Point at Silver Spring Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_703996318",
+    "name": "K-9 Cody Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5628807,
+    "longitude": -76.1030846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "facebook": "https://www.facebook.com/K-9-Cody-Dog-Park-1083456478370457/",
+      "leisure": "dog_park",
+      "name": "K-9 Cody Dog Park",
+      "operator": "City of Havre de Grace",
+      "phone": "+1-443-228-0527",
+      "website": "https://www.explorehavredegrace.com/venue/k-9-cody-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_723890190",
+    "name": "Strasburg Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.976202,
+    "longitude": -78.3502463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Strasburg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_725205554",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5001326,
+    "longitude": -76.3328584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "community",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_727817542",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8376523,
+    "longitude": -77.1116049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_742710245",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0730856,
+    "longitude": -78.4556793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_744204585",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3838303,
+    "longitude": -75.3101545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_744536143",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3027474,
+    "longitude": -75.1188783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_747185816",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3525604,
+    "longitude": -77.5941835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_747379167",
+    "name": "Lansdowne Dog Park (new)",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0799682,
+    "longitude": -77.4967563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lansdowne Dog Park (new)"
+    }
+  },
+  {
+    "place_id": "osm_747805480",
+    "name": "Gypsy Hill Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.1589149,
+    "longitude": -79.0825605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Gypsy Hill Dog Park",
+      "operator": "City of Staunton",
+      "operator:type": "government",
+      "waste": "dog_excrement",
+      "website": "https://www.ci.staunton.va.us/departments/parks-recreation-/parks-/gypsy-hill-park/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_748872457",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9109056,
+    "longitude": -77.002665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Gale Eckington"
+    }
+  },
+  {
+    "place_id": "osm_750318899",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0392639,
+    "longitude": -78.7405763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_768300802",
+    "name": "Kensington Dog Run",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0266281,
+    "longitude": -77.0707048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Kensington Dog Run",
+      "operator": "Town of Kensington",
+      "operator:type": "government",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_775595586",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9694592,
+    "longitude": -77.3597874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Kettler Inc.",
+      "operator:type": "private",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_775816689",
+    "name": "Metro Crossing Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.40604,
+    "longitude": -76.7825825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Metro Crossing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_781644261",
+    "name": "Quebec House Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9375073,
+    "longitude": -77.057517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Quebec House Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_781974620",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9153533,
+    "longitude": -77.2150602,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_791075151",
+    "name": "Eckington Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9123362,
+    "longitude": -77.0008155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eckington Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_795751716",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3410413,
+    "longitude": -76.4076646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_800030107",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0129928,
+    "longitude": -77.499981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_800596060",
+    "name": "Fort Meade Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1170188,
+    "longitude": -76.7332165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Meade Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_806931388",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0629473,
+    "longitude": -77.4796852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_813606403",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3915216,
+    "longitude": -76.4752453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_819460727",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3299996,
+    "longitude": -76.6153862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "The Marylander"
+    }
+  },
+  {
+    "place_id": "osm_826563338",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2779357,
+    "longitude": -76.5773585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_828950470",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.5367941,
+    "longitude": -77.3431039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_832680391",
+    "name": "Lenah Mill Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9404098,
+    "longitude": -77.5703799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lenah Mill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_850013930",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3571982,
+    "longitude": -76.4029871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_859500155",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3291502,
+    "longitude": -77.6298143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_860140156",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4027667,
+    "longitude": -78.8357228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_863388116",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1811363,
+    "longitude": -76.7720816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_865375680",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3784004,
+    "longitude": -76.6609706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_869336266",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0105487,
+    "longitude": -78.5136669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_870420117",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0406764,
+    "longitude": -78.1596353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_873095034",
+    "name": "Utah Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8379997,
+    "longitude": -77.0859047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "3191",
+      "addr:postcode": "22206",
+      "addr:state": "VA",
+      "addr:street": "South Utah Street",
+      "leisure": "dog_park",
+      "name": "Utah Dog Park",
+      "website": "https://parks.arlingtonva.us/locations/utah-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_879076902",
+    "name": "Upshur Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9448098,
+    "longitude": -77.0314125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Upshur Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_881171944",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7868387,
+    "longitude": -77.6031636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_881787053",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4871574,
+    "longitude": -76.2420097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "community",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_897243386",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2110156,
+    "longitude": -77.2466237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_898075233",
+    "name": "Maple Lawn Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1580745,
+    "longitude": -76.9118309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Maple Lawn Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_899946481",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.2820292,
+    "longitude": -77.5565684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_909472421",
+    "name": "Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4777476,
+    "longitude": -76.2408715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "community",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_910656653",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8705604,
+    "longitude": -77.0078669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_926330167",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9358912,
+    "longitude": -77.0535498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_929915691",
+    "name": "Frostburg Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6434511,
+    "longitude": -78.9264188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Frostburg",
+      "addr:postcode": "21532",
+      "addr:state": "MD",
+      "addr:street": "Willow Drive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Frostburg Dog Park",
+      "operator": "The city of Frostburg"
+    }
+  },
+  {
+    "place_id": "osm_933043488",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7348549,
+    "longitude": -77.4750453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_934094185",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.668923,
+    "longitude": -77.2878458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_934096401",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6827665,
+    "longitude": -77.1540691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_934750676",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8774857,
+    "longitude": -76.9920284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_935168972",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6078152,
+    "longitude": -75.8183763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_935169284",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6074705,
+    "longitude": -75.8189428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_935567536",
+    "name": "Montgomery Park Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8143932,
+    "longitude": -77.0406583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Montgomery Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_944026530",
+    "name": "Bruce Monroe Community Park Dog Run",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.928399,
+    "longitude": -77.0244444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Bruce Monroe Community Park Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_945637308",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0470861,
+    "longitude": -77.0888743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "For large dogs",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_952506077",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7625776,
+    "longitude": -77.1384668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_952798207",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7624696,
+    "longitude": -77.1398631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_952807660",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7618525,
+    "longitude": -77.1489496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_953224462",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7991041,
+    "longitude": -77.6266984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_954382482",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8130298,
+    "longitude": -77.6635438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_958011714",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3835268,
+    "longitude": -76.5815293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_964096064",
+    "name": "The Point Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.862763,
+    "longitude": -77.0527027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "The Point Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_964441431",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7939073,
+    "longitude": -77.1383614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_965282656",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1223594,
+    "longitude": -76.6096157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_974782157",
+    "name": "Downtown Salisbury Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3651328,
+    "longitude": -75.6047703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Downtown Salisbury Bark Park",
+      "operator": "City of Salisbury",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_978749782",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0359217,
+    "longitude": -77.415264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_978884397",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6707244,
+    "longitude": -78.3905615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_981035687",
+    "name": "Creighton West Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9803072,
+    "longitude": -77.5478145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Creighton West Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_983692888",
+    "name": "Fort Barnard Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8502816,
+    "longitude": -77.0929484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Arlington",
+      "addr:housenumber": "2101",
+      "addr:postcode": "22204",
+      "addr:state": "VA",
+      "addr:street": "South Pollard Street",
+      "leisure": "dog_park",
+      "name": "Fort Barnard Dog Park",
+      "operator": "Arlington County Department of Parks and Recreation",
+      "operator:type": "government",
+      "website": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Fort-Barnard-Park/Fort-Barnard-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_983754366",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.387889,
+    "longitude": -76.571613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_984379201",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0427615,
+    "longitude": -77.4575283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_985631001",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0338033,
+    "longitude": -77.1486425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_991237547",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0882209,
+    "longitude": -77.524318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_993503871",
+    "name": "Takoma Park Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9849418,
+    "longitude": -77.0113279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Takoma Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_995111085",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4251449,
+    "longitude": -78.8756351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_996155725",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8588515,
+    "longitude": -77.3514793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1002460516",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2836978,
+    "longitude": -76.8641397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1004448515",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8684344,
+    "longitude": -77.0958117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1005048788",
+    "name": "Takoma Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9691174,
+    "longitude": -77.0188687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Takoma Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1005059425",
+    "name": "Chevy Chase Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9642857,
+    "longitude": -77.080967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chevy Chase Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1005063435",
+    "name": "Langdon Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.926432,
+    "longitude": -76.9749168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Langdon Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1005064328",
+    "name": "Lansburgh Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8777576,
+    "longitude": -77.0125503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lansburgh Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1007330339",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2052365,
+    "longitude": -76.7859678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1007399856",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9180266,
+    "longitude": -77.0766206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1009151027",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9228428,
+    "longitude": -76.9960126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1021786512",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8980118,
+    "longitude": -77.0888513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1037782673",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9902132,
+    "longitude": -77.0301428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1041336011",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4541123,
+    "longitude": -76.6248549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1042080389",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3348067,
+    "longitude": -76.6295119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1043471830",
+    "name": "Sandy-Trevor Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.285725,
+    "longitude": -76.8210828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Sandy-Trevor Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1047866423",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.208428,
+    "longitude": -77.5060283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1051961437",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0228888,
+    "longitude": -76.7243758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1052055628",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.2519644,
+    "longitude": -77.502567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1052347578",
+    "name": "Darden-Towe Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0442412,
+    "longitude": -78.4491866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Darden-Towe Dog Park",
+      "operator": "Albemarle County Parks and Recreation",
+      "website": "https://www.albemarle.org/government/parks-recreation/parks/dog-parks"
+    }
+  },
+  {
+    "place_id": "osm_1064851150",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0731789,
+    "longitude": -78.4927452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1068812971",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9035315,
+    "longitude": -77.0023494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1070053876",
+    "name": "Carlyle Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8041386,
+    "longitude": -77.0678304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Carlyle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1072038647",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9067985,
+    "longitude": -77.053651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1075397281",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.143615,
+    "longitude": -77.4126069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1077530148",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8719403,
+    "longitude": -77.3152593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1079330293",
+    "name": "94th Street Ocean City Dog Playground",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4104177,
+    "longitude": -75.0618349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "94th Street Ocean City Dog Playground"
+    }
+  },
+  {
+    "place_id": "osm_1081953018",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8528731,
+    "longitude": -77.3292585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1082379424",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7306448,
+    "longitude": -77.5560348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1089933743",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7323267,
+    "longitude": -77.4705091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1097848149",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5225593,
+    "longitude": -77.9462243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1101867969",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8595557,
+    "longitude": -77.0651526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1103030255",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7572244,
+    "longitude": -77.44615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1105833238",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2681785,
+    "longitude": -77.6371955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1108377202",
+    "name": "Dog Beach",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9301267,
+    "longitude": -76.5080052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_1111672801",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.5973552,
+    "longitude": -77.2860266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1112105117",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4223023,
+    "longitude": -78.8798873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1115917629",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4489568,
+    "longitude": -78.832459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1115917630",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4499939,
+    "longitude": -78.8328336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1125096908",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3382535,
+    "longitude": -77.3629222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1126497442",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3088963,
+    "longitude": -76.7076056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1127575742",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1840164,
+    "longitude": -76.7595468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1133831308",
+    "name": "Mosaic Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8695125,
+    "longitude": -77.2318769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mosaic Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1137849889",
+    "name": "Del Ray Central Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8334734,
+    "longitude": -77.059424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Del Ray Central Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1153072678",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0699393,
+    "longitude": -78.5003291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1153590643",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8319073,
+    "longitude": -77.1271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1155092981",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3557229,
+    "longitude": -76.5428922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1156606614",
+    "name": "Shirlington Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.844704,
+    "longitude": -77.0931049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Arlington",
+      "addr:housenumber": "2701",
+      "addr:postcode": "22206",
+      "addr:state": "VA",
+      "addr:street": "South Oakland Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Shirlington Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1156797746",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2388332,
+    "longitude": -76.6294295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1157213797",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0740959,
+    "longitude": -78.4714024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1157531295",
+    "name": "Shaw Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9120025,
+    "longitude": -77.0266187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:housenumber": "1673",
+      "addr:street": "11th Street Northwest",
+      "leisure": "dog_park",
+      "name": "Shaw Dog Park",
+      "operator": "District of Columbia Department of Parks and Recreation",
+      "operator:type": "government",
+      "website": "http://shawdogs.org/"
+    }
+  },
+  {
+    "place_id": "osm_1158481514",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.5576437,
+    "longitude": -77.3214516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1161115228",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2677848,
+    "longitude": -76.6094412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1164513441",
+    "name": "Guy Mason Recreation Center Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9217872,
+    "longitude": -77.0710079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Guy Mason Recreation Center Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1164599178",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.643074,
+    "longitude": -77.267848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1165443716",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9759306,
+    "longitude": -77.5452328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Loudoun County Parks, Recreation, & Community Services",
+      "operator:type": "government",
+      "website": "https://www.loudoun.gov/5786/Hal-Berni-Hanson-Regional-Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1165455693",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9727641,
+    "longitude": -77.5544769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1175465126",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.592581,
+    "longitude": -77.3139113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1182954000",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9732609,
+    "longitude": -77.029186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1183478546",
+    "name": "Small Dog Run",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8607303,
+    "longitude": -77.0549749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Small Dog Run",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1183687128",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8585579,
+    "longitude": -77.0495215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1187343140",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0233118,
+    "longitude": -76.9423961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1190444636",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8670714,
+    "longitude": -77.0093965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1193057742",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6343306,
+    "longitude": -77.4296322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1196613621",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7333051,
+    "longitude": -77.1289034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1200898128",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6478468,
+    "longitude": -77.2655739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1205461848",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4643818,
+    "longitude": -77.4488588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1210788959",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.906976,
+    "longitude": -77.0073643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "location": "roof",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_1214363332",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9228544,
+    "longitude": -77.2070937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1217441278",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9482839,
+    "longitude": -77.418024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1220173284",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.1562263,
+    "longitude": -78.4836528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1226720776",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0215298,
+    "longitude": -79.1414668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1231351954",
+    "name": "Bark and Go Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8806876,
+    "longitude": -77.0048367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Bark and Go Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1233242553",
+    "name": "Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1153892,
+    "longitude": -77.2002764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1233842981",
+    "name": "Canine Cardio",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8436524,
+    "longitude": -77.0896975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Arlington",
+      "addr:housenumber": "2709",
+      "addr:postcode": "22206",
+      "addr:state": "VA",
+      "addr:street": "S OAKLAND ST.",
+      "leisure": "dog_park",
+      "name": "Canine Cardio",
+      "website": "https://www.snoutsnstouts.com/"
+    }
+  },
+  {
+    "place_id": "osm_1235938378",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3549277,
+    "longitude": -76.4121217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1236412343",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4504752,
+    "longitude": -77.3936808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1236681873",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4567061,
+    "longitude": -77.8986165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1237320911",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1085439,
+    "longitude": -77.2038344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1237329274",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4813973,
+    "longitude": -78.0675461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1238526767",
+    "name": "Kimco Realty Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.122438,
+    "longitude": -77.2359632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kimco Realty Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1241282912",
+    "name": "Camden Bark Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1057179,
+    "longitude": -77.2023611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Camden Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1255038550",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0418725,
+    "longitude": -77.4398428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1255290972",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7091279,
+    "longitude": -77.7940471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1269117631",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6466796,
+    "longitude": -78.9403053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1279219346",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7585637,
+    "longitude": -77.6237659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "designated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1282031587",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8244237,
+    "longitude": -77.0506126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Alexandria",
+      "addr:housenumber": "529",
+      "addr:postcode": "22301",
+      "addr:state": "VA",
+      "addr:street": "East Howell Avenue",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Bark Social - Alexendria"
+    }
+  },
+  {
+    "place_id": "osm_1282036984",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0422443,
+    "longitude": -78.4948041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284173300",
+    "name": "Avalon Chuch Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8736921,
+    "longitude": -77.1695785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Avalon Chuch Dog Park",
+      "operator": "Avalon",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1284737035",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3609685,
+    "longitude": -77.5328938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1293535302",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3187002,
+    "longitude": -78.3247865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1299355816",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0907124,
+    "longitude": -77.5429328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1301015348",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3311485,
+    "longitude": -76.6443819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1303521765",
+    "name": "Frances J. Tilghman Memorial Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3596847,
+    "longitude": -75.5774226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Frances J. Tilghman Memorial Dog Park",
+      "operator": "CIty of Salisbury",
+      "operator:type": "government",
+      "website": "https://sbyparksandrec.com/recreation/salisbury-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1304165402",
+    "name": "Oakland Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.413003,
+    "longitude": -79.416933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Oakland",
+      "addr:housenumber": "27",
+      "addr:state": "Maryland",
+      "addr:street": "Oakland Rosedale Road",
+      "leisure": "dog_park",
+      "name": "Oakland Dog Park",
+      "operator": "Town of Oakland",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1308046659",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.2252319,
+    "longitude": -77.4268584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1308816784",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4715346,
+    "longitude": -76.6050487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1308816785",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4674663,
+    "longitude": -76.6069732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1316033364",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9461641,
+    "longitude": -77.3324175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1318038091",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1440885,
+    "longitude": -77.2230601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319617974",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1524166,
+    "longitude": -76.7145283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319769818",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1183361,
+    "longitude": -77.2075267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1321725735",
+    "name": "Hunt Club Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1570637,
+    "longitude": -77.2086563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "wood",
+      "leisure": "dog_park",
+      "name": "Hunt Club Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1323813226",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7944593,
+    "longitude": -76.8958133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1323813233",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7998312,
+    "longitude": -76.8931536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1326087126",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0878218,
+    "longitude": -77.1521526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1326109794",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7886696,
+    "longitude": -76.8919185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1354671392",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.3305997,
+    "longitude": -76.3938005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1355301193",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.840393,
+    "longitude": -77.0226316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1370888054",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2844456,
+    "longitude": -76.5490049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1375972141",
+    "name": "Vienna Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8887538,
+    "longitude": -77.2729789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Vienna",
+      "addr:housenumber": "700",
+      "addr:postcode": "22180",
+      "addr:state": "VA",
+      "addr:street": "700 Courthouse Road SW",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Vienna Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Town of Vienna",
+      "operator:type": "government",
+      "website": "https://www.viennava.gov/Home/Components/FacilityDirectory/FacilityDirectory/24/67"
+    }
+  },
+  {
+    "place_id": "osm_1377217445",
+    "name": "Oldham Crossing Community Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2916407,
+    "longitude": -76.5569594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Oldham Crossing Community Dog Park",
+      "operator": "Oldham Crossing HOA",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1381095652",
+    "name": "Belmont Road Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9189641,
+    "longitude": -77.0511593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "informal": "yes",
+      "leisure": "dog_park",
+      "name": "Belmont Road Park"
+    }
+  },
+  {
+    "place_id": "osm_1385224618",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3385938,
+    "longitude": -75.5970205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387855534",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8551158,
+    "longitude": -77.0506113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1410370265",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.2076036,
+    "longitude": -76.8186539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438783",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.6727274,
+    "longitude": -78.7161096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1416617890",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3462613,
+    "longitude": -77.5171386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419485407",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.3548752,
+    "longitude": -77.4994827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1420941553",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8518416,
+    "longitude": -77.7862565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427596679",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8789905,
+    "longitude": -76.9032262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1433637619",
+    "name": "Canis Major Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9484019,
+    "longitude": -77.3626219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Canis Major Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1448482379",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9018169,
+    "longitude": -77.0548963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1452946281",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.7987849,
+    "longitude": -77.0686005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1452982404",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6164691,
+    "longitude": -77.2853204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1453237807",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.4717391,
+    "longitude": -76.6348247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1456414196",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8635175,
+    "longitude": -77.3862447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1463599224",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1284957,
+    "longitude": -76.584092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Creekstone Village",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1467903244",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1718208,
+    "longitude": -76.5768336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Tanyard Shores Homeowners Association",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1471133282",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.5841712,
+    "longitude": -77.3032004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1471884268",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.5639179,
+    "longitude": -76.9952741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1481627319",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.6184995,
+    "longitude": -77.2847295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1482030751",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0477207,
+    "longitude": -79.0978027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1485163538",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.0052144,
+    "longitude": -76.9205386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1485587934",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.0642127,
+    "longitude": -78.6911539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1486897422",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.9560337,
+    "longitude": -77.3619493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1487273036",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.5519464,
+    "longitude": -77.3157787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8348950",
+    "name": "Embrey Mill Dogwood Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.4372097,
+    "longitude": -77.4261337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Embrey Mill Dogwood Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_17034109",
+    "name": "Gaithersburg Dog Exercise Area",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 39.1124919,
+    "longitude": -77.2115091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gaithersburg Dog Exercise Area",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18194728",
+    "name": "Dog Park",
+    "formatted_address": ", Maryland, USA",
+    "latitude": 38.8921739,
+    "longitude": -76.905153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

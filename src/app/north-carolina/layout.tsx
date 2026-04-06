@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in North Carolina — 1,500+ Ramps, Lakes & Coastal Launches | RampSeeker",
-  description: "The most complete boat ramp directory for North Carolina. 1,500+ ramps across Lake Norman, Jordan Lake, Falls Lake, Pamlico Sound, Outer Banks, and more. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "North Carolina Boat Ramps — RampSeeker", url: "https://rampseeker.com/north-carolina", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "North Carolina Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/north-carolina" },
+  title: "Every Dog Park in North Carolina — 345+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for North Carolina. 345+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "North Carolina Dog Parks — BarkSeeker", url: "https://barkseeker.com/north-carolina", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "North Carolina Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/north-carolina" },
 };
 
 export default function NorthCarolinaLayout({ children }: { children: React.ReactNode }) {

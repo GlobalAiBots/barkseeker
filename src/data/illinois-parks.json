@@ -1,0 +1,6382 @@
+[
+  {
+    "place_id": "osm_7744862262",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.7030298,
+    "longitude": -89.1946935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_563478138",
+    "name": "Central Bark Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.9977037,
+    "longitude": -87.5686555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Central Bark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_621043459",
+    "name": "The Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.736558,
+    "longitude": -88.939107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_623560200",
+    "name": "Cannon Park Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.7612593,
+    "longitude": -89.0934659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cannon Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_628646647",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.8159368,
+    "longitude": -89.0179756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336147442",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.8113504,
+    "longitude": -87.5808502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1378242163",
+    "name": "Earthborn Holistic Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.9739902,
+    "longitude": -87.5748684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Evansville",
+      "addr:housenumber": "324",
+      "addr:postcode": "47708",
+      "addr:state": "IN",
+      "addr:street": "Northwest 3rd Street",
+      "check_date": "2026-02-08",
+      "dog": "unleashed",
+      "fee": "no",
+      "leisure": "dog_park",
+      "name": "Earthborn Holistic Dog Park",
+      "opening_hours": "24/7",
+      "website": "https://www.downtownevansville.com/about_us/earthborn_holistic_dog_park.php"
+    }
+  },
+  {
+    "place_id": "osm_1413441152",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.0031371,
+    "longitude": -88.3189129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1458814748",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.3462325,
+    "longitude": -87.5074506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1486195718",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 37.7209043,
+    "longitude": -89.8477196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_2303367993",
+    "name": "Pottawattomie Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.017061,
+    "longitude": -87.676771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "7340",
+      "addr:postcode": "60626",
+      "addr:state": "IL",
+      "addr:street": "North Rogers Avenue",
+      "leisure": "dog_park",
+      "name": "Pottawattomie Dog Park",
+      "opening_hours": "06:00-23:00",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "phone": "+1-773-262-5835",
+      "website": "https://www.chicagoparkdistrict.com/mobile/parks/pottawattomie-park/"
+    }
+  },
+  {
+    "place_id": "osm_3649582046",
+    "name": "Dog Beach",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0474576,
+    "longitude": -87.6727407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Beach",
+      "natural": "beach",
+      "surface": "sand"
+    }
+  },
+  {
+    "place_id": "osm_3958950097",
+    "name": "Canine Corners Dog Park at Elliot Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2679729,
+    "longitude": -88.9592907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Rockford",
+      "addr:housenumber": "426",
+      "addr:postcode": "61108",
+      "addr:state": "IL",
+      "addr:street": "Lyford Road",
+      "description": "Open year-round from dawn to dusk.\n* Elliot Park Dog Park is set to close in the coming years.\nNew Location TBD",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Canine Corners Dog Park at Elliot Park",
+      "note": "Membership, visible Canine Corners tag, is REQUIRED of all dogs using the park, & must be renewed each calendar year. Owners are subject to fines for non-compliance w/ user fees or park rules, according to District Ordinance Section 11.03",
+      "website": "https://rockfordparkdistrict.org/caninecorners"
+    }
+  },
+  {
+    "place_id": "osm_4827421029",
+    "name": "Off-Leash Dog Area (Except Ap 1-July15)",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.818003,
+    "longitude": -88.7334624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Area (Except Ap 1-July15)"
+    }
+  },
+  {
+    "place_id": "osm_4827421075",
+    "name": "Off-Leash Dog Area (Except Ap1-July15)",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8181225,
+    "longitude": -88.7265732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Area (Except Ap1-July15)"
+    }
+  },
+  {
+    "place_id": "osm_4827493483",
+    "name": "Off-Leash Dog Area (Except Ap1-July15)",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1016927,
+    "longitude": -88.8628173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Area (Except Ap1-July15)"
+    }
+  },
+  {
+    "place_id": "osm_6878869651",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.3910478,
+    "longitude": -88.4209493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7009033615",
+    "name": "Centralia Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5191569,
+    "longitude": -89.122485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Centralia Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_7105466731",
+    "name": "Calumet Bark",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7178381,
+    "longitude": -87.5287946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Calumet Bark",
+      "operator": "Chicago Park District"
+    }
+  },
+  {
+    "place_id": "osm_7153930389",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.353635,
+    "longitude": -89.2364893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Pecatonica",
+      "addr:housenumber": "10180",
+      "addr:postcode": "61063",
+      "addr:state": "IL",
+      "addr:street": "Trask Bridge Road",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10082153370",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.2323176,
+    "longitude": -91.0172639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park",
+      "opening_hours": "Mo-Su 00:00-12:00"
+    }
+  },
+  {
+    "place_id": "osm_11050358403",
+    "name": "Woof Lawn Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7747843,
+    "longitude": -87.7292022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "4233",
+      "addr:postcode": "60629",
+      "addr:state": "IL",
+      "addr:street": "West 65th Street",
+      "leisure": "dog_park",
+      "name": "Woof Lawn Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_11664359436",
+    "name": "Wayside Park Unleashed",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7480708,
+    "longitude": -90.2898276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Ferguson",
+      "addr:housenumber": "1026",
+      "addr:postcode": "63135",
+      "addr:state": "MO",
+      "addr:street": "Chambers Road",
+      "description": "Ferguson Dog Park",
+      "dog": "yes",
+      "image": "https://www.fergusoncity.com/ImageRepository/Document?documentID=3570",
+      "leisure": "dog_park",
+      "name": "Wayside Park Unleashed",
+      "operator": "City of Ferguson",
+      "website": "https://www.fergusoncity.com/613/Wayside-Park"
+    }
+  },
+  {
+    "place_id": "osm_11664405174",
+    "name": "Florissant Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7873263,
+    "longitude": -90.3408133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Florissant",
+      "addr:housenumber": "5",
+      "addr:postcode": "63031",
+      "addr:state": "MO",
+      "addr:street": "Brower Lane",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Florissant Dog Park",
+      "operator": "City of Florissant",
+      "operator:type": "community",
+      "website": "https://www.florissantmo.com/topic/index.php?topicid=239&structureid=20"
+    }
+  },
+  {
+    "place_id": "osm_11881943377",
+    "name": "Fetch & Stretch",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.7466688,
+    "longitude": -88.7249184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chenoa",
+      "addr:housenumber": "205",
+      "addr:postcode": "61726-1044",
+      "addr:state": "IL",
+      "addr:street": "North Morehead Street",
+      "fixme": "Move and convert to area when satellite imagery updated.",
+      "leisure": "dog_park",
+      "name": "Fetch & Stretch",
+      "source": "https://pantagraph.com/news/local/route66-fetchstretch-chenoa-redcarpetcorridor/article_7081913e-0a48-11ef-8184-b3f239fd0004.html"
+    }
+  },
+  {
+    "place_id": "osm_12569719715",
+    "name": "K-9 Training",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.8261475,
+    "longitude": -90.2220071,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "K-9 Training"
+    }
+  },
+  {
+    "place_id": "osm_12585928531",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.8050962,
+    "longitude": -90.466776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12889490839",
+    "name": "Dr. Tom Getzelman Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.095879,
+    "longitude": -88.500035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Dr. Tom Getzelman Dog Park",
+      "opening_hours": "Mo-Su dawn-dusk",
+      "operator": "Hampshire Township Park District",
+      "website": "https://www.hampshireparkdistrict.org/parks-facilities/dr-tom-getzelman-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_13639275748",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.930722,
+    "longitude": -87.6382402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13646382880",
+    "name": "Heinz Memorial Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.9450774,
+    "longitude": -90.1967177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Heinz Memorial Dog Park",
+      "note": "Small Dogs",
+      "operator": "City of Godfrey",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_23989865",
+    "name": "Belmont Harbor Dog Beach",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9453114,
+    "longitude": -87.640325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Belmont Harbor Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_34851617",
+    "name": "Park No. 556",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9275758,
+    "longitude": -87.6883365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chicago",
+      "addr:housenumber": "2529",
+      "addr:postcode": "60647",
+      "addr:state": "IL",
+      "addr:street": "West Logan Boulevard",
+      "leisure": "dog_park",
+      "name": "Park No. 556",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-556"
+    }
+  },
+  {
+    "place_id": "osm_133805074",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8799521,
+    "longitude": -87.650571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "layer": "2",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_156571387",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8857073,
+    "longitude": -87.6184922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_156992003",
+    "name": "Broemmelsiek",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7169435,
+    "longitude": -90.8185792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Broemmelsiek",
+      "opening_hours": "07:00-(sunset+00:30)"
+    }
+  },
+  {
+    "place_id": "osm_158977042",
+    "name": "Wiggly Field Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9305284,
+    "longitude": -87.6534295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "2645",
+      "addr:postcode": "60614",
+      "addr:state": "IL",
+      "addr:street": "North Sheffield Avenue",
+      "ele": "182",
+      "gnis:feature_id": "1831493",
+      "leisure": "dog_park",
+      "name": "Wiggly Field Park",
+      "old_name": "Noethling Park",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/noethling-grace-park"
+    }
+  },
+  {
+    "place_id": "osm_171583277",
+    "name": "South Elgin Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9908547,
+    "longitude": -88.2951499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "South Elgin Dog Park",
+      "operator": "South Elgin"
+    }
+  },
+  {
+    "place_id": "osm_183247603",
+    "name": "Shepard Park - Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.5233609,
+    "longitude": -88.9429419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Shepard Park - Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_191498762",
+    "name": "Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9082667,
+    "longitude": -88.1444264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_200357072",
+    "name": "Blackwell",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8409454,
+    "longitude": -88.1974489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Blackwell",
+      "website": "https://www.dupageforest.org/places-to-go/forest-preserves/blackwell"
+    }
+  },
+  {
+    "place_id": "osm_200493076",
+    "name": "Shaw Neighborhood Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6117565,
+    "longitude": -90.2515595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shaw Neighborhood Dog Park",
+      "website": "https://shawstlouis.org/attractions-amenities/shaw-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_206621731",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9142415,
+    "longitude": -87.6767472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Chicago Park District",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_219860546",
+    "name": "Champaign Bark District",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.0832896,
+    "longitude": -88.3291315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Champaign",
+      "addr:housenumber": "4409",
+      "addr:postcode": "61822",
+      "addr:state": "IL",
+      "addr:street": "Copper Ridge Road",
+      "charge": "46 USD",
+      "dog": "unleashed",
+      "email": "david.galvin@champaignparks.org",
+      "fee": "yes",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "leisure": "dog_park",
+      "name": "Champaign Bark District",
+      "opening_hours": "dawn-dusk",
+      "operator": "Champaign Park District",
+      "operator:type": "government",
+      "start_date": "2007",
+      "website": "https://champaignparks.org/places/champaign-bark-district-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_225091228",
+    "name": "Shiloh Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5488129,
+    "longitude": -89.9147474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "shiloh",
+      "addr:postcode": "62221",
+      "addr:street": "Lebanon Avenue",
+      "leisure": "dog_park",
+      "name": "Shiloh Dog Park",
+      "note": "Small dog area",
+      "source": "Bing Imagery"
+    }
+  },
+  {
+    "place_id": "osm_236778607",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.6446937,
+    "longitude": -89.4525262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_248154053",
+    "name": "Northlake Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9149611,
+    "longitude": -87.9070174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "description": "Northlake Dog Park\nSee Northlake City Hall for permit information",
+      "leisure": "dog_park",
+      "name": "Northlake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_255671349",
+    "name": "Rita's Ranch",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6520704,
+    "longitude": -91.480291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rita's Ranch",
+      "operator": "City of Iowa City",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_260349430",
+    "name": "Puptown Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9700012,
+    "longitude": -87.6491515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "4900",
+      "addr:postcode": "60640",
+      "addr:state": "IL",
+      "addr:street": "North Marine Drive",
+      "leisure": "dog_park",
+      "name": "Puptown Dog Park",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/puptown"
+    }
+  },
+  {
+    "place_id": "osm_266923082",
+    "name": "Still Farm Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.3140344,
+    "longitude": -88.41383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Still Farm Dog Park",
+      "note": "Area estimated based on direct observation.",
+      "source": "Signage"
+    }
+  },
+  {
+    "place_id": "osm_271770039",
+    "name": "Maxwell Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.5177176,
+    "longitude": -89.0264882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Maxwell Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_276427683",
+    "name": "Debbie Gottlieb Beitler Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1620743,
+    "longitude": -87.8013756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Debbie Gottlieb Beitler Dog Park",
+      "website": "https://www.pdhp.org/interactive-map/debbie-gottlieb-beitler-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_307500499",
+    "name": "Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8478805,
+    "longitude": -88.0336513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_313782003",
+    "name": "Fred Anderson Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.859482,
+    "longitude": -87.6251712,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fred Anderson Park"
+    }
+  },
+  {
+    "place_id": "osm_323936886",
+    "name": "Village Way Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0066719,
+    "longitude": -89.3435421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Village Way Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_323937453",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0038498,
+    "longitude": -89.3283287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_337856245",
+    "name": "Montrose Dog Beach",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9686202,
+    "longitude": -87.6425208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Montrose Dog Beach",
+      "natural": "beach"
+    }
+  },
+  {
+    "place_id": "osm_337874918",
+    "name": "Beck Lake Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0712695,
+    "longitude": -87.8681725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Beck Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_337874919",
+    "name": "Bremen Grove Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5979942,
+    "longitude": -87.7825392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bremen Grove Dog Park",
+      "operator": "Forest Preserve District of Cook County",
+      "owner": "Forest Preserve District of Cook County"
+    }
+  },
+  {
+    "place_id": "osm_340775712",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2436965,
+    "longitude": -88.3522833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_346983725",
+    "name": "Ohio Place Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8923248,
+    "longitude": -87.6382452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chicago",
+      "addr:housenumber": "360",
+      "addr:postcode": "60654",
+      "addr:state": "IL",
+      "addr:street": "West Ohio Street",
+      "leisure": "dog_park",
+      "name": "Ohio Place Dog Park",
+      "operator": "River North Residents Association",
+      "operator:type": "private",
+      "website": "https://rnrachicago.org/locations/ohio-place-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_346985162",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8894028,
+    "longitude": -87.6253297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_347372407",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9074097,
+    "longitude": -87.6752209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_349234970",
+    "name": "Grant Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8703794,
+    "longitude": -87.6217687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grant Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_349237662",
+    "name": "Challenger Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9584043,
+    "longitude": -87.657114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "1100",
+      "addr:postcode": "60613",
+      "addr:state": "IL",
+      "addr:street": "West Irving Park Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Challenger Park",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/challenger-dog-friendly-area"
+    }
+  },
+  {
+    "place_id": "osm_349238237",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9360604,
+    "longitude": -87.6803204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_349239709",
+    "name": "Norwood Park Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9879056,
+    "longitude": -87.7935281,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Norwood Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_349239805",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8886009,
+    "longitude": -87.6432248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_349239969",
+    "name": "Park No. 569",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8806153,
+    "longitude": -87.6616835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "1358",
+      "addr:postcode": "60607",
+      "addr:state": "IL",
+      "addr:street": "West Monroe Street",
+      "leisure": "dog_park",
+      "name": "Park No. 569",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q2963322",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-569"
+    }
+  },
+  {
+    "place_id": "osm_349240096",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9564382,
+    "longitude": -87.7660433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_349242488",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.973503,
+    "longitude": -87.7029356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_349242647",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9140276,
+    "longitude": -87.668131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_349242662",
+    "name": "Larrabee Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8942958,
+    "longitude": -87.6432427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Larrabee Dog Park",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_357516252",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.89629,
+    "longitude": -87.6418294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_358212565",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.206857,
+    "longitude": -88.2732295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_358611816",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7982102,
+    "longitude": -90.8393817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_362102149",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8922137,
+    "longitude": -87.6178432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_401441178",
+    "name": "Stuart Dog Park II",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.8228463,
+    "longitude": -89.7051513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stuart Dog Park II",
+      "operator": "Springfield Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q23073350",
+      "operator:wikipedia": "en:Springfield Park District",
+      "website": "https://www.springfieldparks.org/locations/85/dog-park-stuart-park-dog-park/springfield/location-details"
+    }
+  },
+  {
+    "place_id": "osm_405326802",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8115182,
+    "longitude": -87.5957649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_406666265",
+    "name": "Jackson Bark",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7863356,
+    "longitude": -87.5784532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jackson Bark",
+      "operator": "Chicago Park District"
+    }
+  },
+  {
+    "place_id": "osm_406699517",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7276528,
+    "longitude": -90.4464695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_418099223",
+    "name": "Bo's Run Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0882416,
+    "longitude": -88.105795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bo's Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_436491018",
+    "name": "Hasan Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7712631,
+    "longitude": -87.5671141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chicago",
+      "addr:housenumber": "6855",
+      "addr:postcode": "60649",
+      "addr:state": "IL",
+      "addr:street": "South Oglesby Avenue",
+      "fee": "no",
+      "leisure": "dog_park",
+      "name": "Hasan Park",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q2963322",
+      "website": "https://www.chicagoparkdistrict.com/parks/Hasan-Playlot-Park/"
+    }
+  },
+  {
+    "place_id": "osm_438884670",
+    "name": "Copley Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0539059,
+    "longitude": -88.0741903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Copley Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_438978486",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8604401,
+    "longitude": -87.621197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_445482919",
+    "name": "Whalon Lake Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7170253,
+    "longitude": -88.1004706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Whalon Lake Dog Park",
+      "operator": "Forest Preserve District of Will County",
+      "website": "https://www.reconnectwithnature.org/preserves-trails/preserves/whalon-lake/"
+    }
+  },
+  {
+    "place_id": "osm_447108092",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6850063,
+    "longitude": -91.3470421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "note": "Supposed to purchase a dog park pass from the city, but the gate is unlocked on the honor system?"
+    }
+  },
+  {
+    "place_id": "osm_451782543",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5928385,
+    "longitude": -90.2235405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_453343294",
+    "name": "Wildwood Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5865369,
+    "longitude": -90.6483078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wildwood Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_461391324",
+    "name": "Forest Park Southeast Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6301891,
+    "longitude": -90.2575694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Saint Louis",
+      "addr:housenumber": "4359",
+      "addr:postcode": "63110",
+      "addr:state": "MO",
+      "addr:street": "Chouteau Avenue",
+      "leisure": "dog_park",
+      "name": "Forest Park Southeast Dog Park",
+      "website": "https://www.stlouis-mo.gov/parks/parks/browse-parks/amenity.cfm?id=504"
+    }
+  },
+  {
+    "place_id": "osm_467664043",
+    "name": "Jacksonville PetSafe Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.7090317,
+    "longitude": -90.209381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jacksonville PetSafe Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_468206008",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8745827,
+    "longitude": -87.807954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_468563322",
+    "name": "Green Valley Preserve Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7519063,
+    "longitude": -88.0729094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Green Valley Preserve Dog Park",
+      "website": "https://www.dupageforest.org/places-to-go/forest-preserves/greene-valley"
+    }
+  },
+  {
+    "place_id": "osm_468619978",
+    "name": "Davenport Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5176773,
+    "longitude": -90.5914121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Davenport Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468619983",
+    "name": "Crow Creek Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5708586,
+    "longitude": -90.4802731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Crow Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468693783",
+    "name": "Walnut Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.8625174,
+    "longitude": -89.5199482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Walnut Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468870038",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.526999,
+    "longitude": -89.9909711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469099744",
+    "name": "Duck Farm Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.4131246,
+    "longitude": -88.0498574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Duck Farm Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469535465",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9646058,
+    "longitude": -88.2987993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_469584172",
+    "name": "Urbana Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.1263139,
+    "longitude": -88.1888227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Urbana Dog Park",
+      "operator": "Urbana Park District"
+    }
+  },
+  {
+    "place_id": "osm_473212993",
+    "name": "Barkwood Park at Thunder Rock Praire",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.4246016,
+    "longitude": -89.0738741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barkwood Park at Thunder Rock Praire"
+    }
+  },
+  {
+    "place_id": "osm_473292880",
+    "name": "Dog park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.731733,
+    "longitude": -90.2515216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog park"
+    }
+  },
+  {
+    "place_id": "osm_476161610",
+    "name": "Mutts on Main Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6684597,
+    "longitude": -89.9918047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mutts on Main Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_481713405",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.3123507,
+    "longitude": -90.1678704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_482336185",
+    "name": "Gillson Dog Beach",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0777022,
+    "longitude": -87.6809168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "This section of beach is reserved for registered dog owners",
+      "leisure": "dog_park",
+      "name": "Gillson Dog Beach",
+      "operator": "Wilmette Park District",
+      "operator:type": "public",
+      "swimming": "no"
+    }
+  },
+  {
+    "place_id": "osm_485427054",
+    "name": "Messenger Marsh Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5945903,
+    "longitude": -87.9178333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Messenger Marsh Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_492885471",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5701716,
+    "longitude": -88.1819957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_492885631",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5802492,
+    "longitude": -88.1876885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_493510648",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5431445,
+    "longitude": -90.9748592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "metal_bars",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_494486602",
+    "name": "Dempsey Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.7030686,
+    "longitude": -91.3580607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Park",
+      "leisure": "dog_park",
+      "name": "Dempsey Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_494925199",
+    "name": "McBark Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.3623337,
+    "longitude": -88.2652839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "McBark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_526335250",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6679712,
+    "longitude": -90.3650188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_540079099",
+    "name": "Large Dogs",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.4481545,
+    "longitude": -91.0106163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Large Dogs"
+    }
+  },
+  {
+    "place_id": "osm_544463072",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7542702,
+    "longitude": -88.3357379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544634331",
+    "name": "Soulard Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6101388,
+    "longitude": -90.2052833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Soulard Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_547311423",
+    "name": "Dog Park at Rotary Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5154542,
+    "longitude": -89.9910061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park at Rotary Park"
+    }
+  },
+  {
+    "place_id": "osm_547343520",
+    "name": "Miner Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7510067,
+    "longitude": -89.9823747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Miner Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_548269440",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.709383,
+    "longitude": -89.6556356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_550696270",
+    "name": "Moraine Beach (Dog park)",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1993417,
+    "longitude": -87.7946093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Highland Park",
+      "addr:housenumber": "2501",
+      "addr:postcode": "60035",
+      "addr:state": "IL",
+      "addr:street": "Sheridan Road",
+      "leisure": "dog_park",
+      "name": "Moraine Beach (Dog park)",
+      "opening_hours": "dawn-dusk",
+      "operator": "Park District of Highland Park",
+      "operator:type": "government",
+      "website": "https://www.pdhp.org/interactive-map/moraine-park/"
+    }
+  },
+  {
+    "place_id": "osm_553131082",
+    "name": "Nelson Dog park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.8350921,
+    "longitude": -88.9251741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Nelson Dog park"
+    }
+  },
+  {
+    "place_id": "osm_554372055",
+    "name": "Phillips Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7367105,
+    "longitude": -88.3018648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Phillips Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_554597062",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5350594,
+    "longitude": -87.5041411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_554601053",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5019977,
+    "longitude": -87.5058224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_556880375",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7987879,
+    "longitude": -91.1529682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_559494499",
+    "name": "Spring Avenue Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8660988,
+    "longitude": -88.0447824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spring Avenue Dog Park",
+      "operator": "Glen Ellyn Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q112057709"
+    }
+  },
+  {
+    "place_id": "osm_565924344",
+    "name": "Central Bark Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6569977,
+    "longitude": -88.0157058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Central Bark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_566225081",
+    "name": "Oldfield Oaks Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.723338,
+    "longitude": -88.0056297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Oldfield Oaks Dog Park",
+      "website": "https://www.dupageforest.org/places-to-go/forest-preserves/oldfield-oaks"
+    }
+  },
+  {
+    "place_id": "osm_567223142",
+    "name": "Daisy Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6371798,
+    "longitude": -88.2361222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "bench": "yes",
+      "bin": "yes",
+      "description": "Off-leash dog park. benches and trash cans",
+      "leisure": "dog_park",
+      "name": "Daisy Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_568289279",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8761085,
+    "longitude": -87.6506971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_571440256",
+    "name": "Mayslake Forest Preserve Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8303478,
+    "longitude": -87.9563584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mayslake Forest Preserve Dog Park",
+      "website": "https://www.dupageforest.org/places-to-go/forest-preserves/mayslake"
+    }
+  },
+  {
+    "place_id": "osm_573326234",
+    "name": "Trantina Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.611658,
+    "longitude": -88.0012982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Trantina Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_584713676",
+    "name": "Washington \"Bark\" District",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.6890831,
+    "longitude": -89.4626418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Meadow Valley Park Off-Leash Dog Park",
+      "leisure": "dog_park",
+      "min_age:dog": "4 months",
+      "name": "Washington \"Bark\" District",
+      "operator": "Washington Park District",
+      "source": "survey",
+      "website": "https://www.washingtonparkdistrict.com/parks-facilities/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_584734654",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1714053,
+    "longitude": -87.8687411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_600140932",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.926565,
+    "longitude": -89.4886962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_614648787",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5796396,
+    "longitude": -89.9932053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_615551863",
+    "name": "Batavia Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8435007,
+    "longitude": -88.3999304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Batavia Bark Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_619462399",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9543826,
+    "longitude": -87.6972248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_621800543",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6399366,
+    "longitude": -90.3496699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_626042855",
+    "name": "Water Tower Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6153345,
+    "longitude": -90.2352684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Water Tower Dog Park",
+      "operator": "Water Tower Dog Park",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_626314454",
+    "name": "Lucas Gardens Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6315621,
+    "longitude": -90.1991947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Saint Louis",
+      "addr:postcode": "63103",
+      "addr:state": "MO",
+      "addr:street": "Saint Charles Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lucas Gardens Dog Park",
+      "website": "https://members.lucasparkdogpark.org/public/2025/1-Home"
+    }
+  },
+  {
+    "place_id": "osm_626821754",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0280837,
+    "longitude": -88.0376849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_633127698",
+    "name": "Simba and Nala’s Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5310725,
+    "longitude": -87.8120489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Simba and Nala’s Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_639201617",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6626315,
+    "longitude": -90.3152492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "ele": "153",
+      "gnis:feature_id": "756381",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_643155357",
+    "name": "Fairlawn Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.1041603,
+    "longitude": -88.2036858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fairlawn Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_648339387",
+    "name": "Large Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7376404,
+    "longitude": -87.8691269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_650235885",
+    "name": "Joe Glik Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7955693,
+    "longitude": -89.9236809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Joe Glik Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_666006716",
+    "name": "Canine Campus Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5601399,
+    "longitude": -87.8214086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Canine Campus Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_676936009",
+    "name": "Fermilab Dog Training Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8410614,
+    "longitude": -88.2337484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Off-leash dog park on open grassland",
+      "leisure": "dog_park",
+      "name": "Fermilab Dog Training Area"
+    }
+  },
+  {
+    "place_id": "osm_678672932",
+    "name": "Fido Fields",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.8459862,
+    "longitude": -88.9939732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fido Fields"
+    }
+  },
+  {
+    "place_id": "osm_682459225",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8874145,
+    "longitude": -87.7873876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_687421909",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6395195,
+    "longitude": -88.9478027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_689756362",
+    "name": "Winnebago Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.4918362,
+    "longitude": -87.697001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Winnebago Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_710355158",
+    "name": "Brent Leh Memorial Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.807595,
+    "longitude": -89.9605986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:street": "Olive Street",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Brent Leh Memorial Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "Edwardsville Township",
+      "wheelchair": "yes",
+      "year_of_construction": "2018"
+    }
+  },
+  {
+    "place_id": "osm_736330511",
+    "name": "Park No. 591",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.82455,
+    "longitude": -87.6040002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chicago",
+      "addr:housenumber": "3900",
+      "addr:postcode": "60653",
+      "addr:state": "IL",
+      "addr:street": "South Lake Park Avenue",
+      "leisure": "dog_park",
+      "name": "Park No. 591",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q2963322",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-591"
+    }
+  },
+  {
+    "place_id": "osm_736330515",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8225448,
+    "longitude": -87.622057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chicago",
+      "addr:housenumber": "3938-3940",
+      "addr:postcode": "60653",
+      "addr:state": "IL",
+      "addr:street": "South Indiana Avenue",
+      "leisure": "dog_park",
+      "operator": "Chicago Park District",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_736330517",
+    "name": "Park No. 592",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.818695,
+    "longitude": -87.6133279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chicago",
+      "addr:housenumber": "4149",
+      "addr:postcode": "60653",
+      "addr:state": "IL",
+      "addr:street": "South Vincennes Avenue",
+      "leisure": "dog_park",
+      "name": "Park No. 592",
+      "operator": "Chicago Park District",
+      "operator:type": "public",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-592-2"
+    }
+  },
+  {
+    "place_id": "osm_742340724",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5003197,
+    "longitude": -89.8101616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_747113458",
+    "name": "Paw Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.4321795,
+    "longitude": -90.3896339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paw Park"
+    }
+  },
+  {
+    "place_id": "osm_747113459",
+    "name": "Ozark Paw Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.4273306,
+    "longitude": -90.3866316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ozark Paw Park"
+    }
+  },
+  {
+    "place_id": "osm_747160822",
+    "name": "D'Angelo Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8759438,
+    "longitude": -87.6356536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "D'Angelo Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_755361763",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7680109,
+    "longitude": -88.2477263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_787821282",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8952803,
+    "longitude": -87.6338767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_792261137",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.621,
+    "longitude": -90.3405194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_795843381",
+    "name": "Community Bark West",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0717266,
+    "longitude": -87.8633202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Glenview",
+      "addr:housenumber": "1001",
+      "addr:street": "Zenith Drive",
+      "leisure": "dog_park",
+      "name": "Community Bark West",
+      "operator": "Glenview Park District"
+    }
+  },
+  {
+    "place_id": "osm_800902264",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2574809,
+    "longitude": -88.8394364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_807330593",
+    "name": "Lawrence House Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9695484,
+    "longitude": -87.655616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lawrence House Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_822777867",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.567688,
+    "longitude": -90.0403503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_831111123",
+    "name": "Lakewood Off-Leash Dog Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2648646,
+    "longitude": -88.0983262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Lakewood Off-Leash Dog Area",
+      "opening_hours": "06:30-sunset",
+      "operator": "Lake County Forest Preserves",
+      "operator:type": "public",
+      "website": "https://www.lcfpd.org/places-to-go/off-leash-dog-area/lakewood/"
+    }
+  },
+  {
+    "place_id": "osm_835443938",
+    "name": "upper dog park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.7086714,
+    "longitude": -89.6199144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "upper dog park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_835465005",
+    "name": "lower dog park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.7070696,
+    "longitude": -89.6194943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "min_age": "12",
+      "min_age:dog": "4 months",
+      "name": "lower dog park",
+      "source": "Bing",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_836052398",
+    "name": "Northbrook Dog Park (small dog area) at Coast Guard Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.139197,
+    "longitude": -87.8404783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Northbrook",
+      "addr:housenumber": "2490",
+      "addr:postcode": "60062",
+      "addr:state": "IL",
+      "addr:street": "Dundee Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "maxweight:dog": "26 lbs",
+      "membership": "yes",
+      "name": "Northbrook Dog Park (small dog area) at Coast Guard Park",
+      "website": "https://www.nbparks.org/facilities_parks/northbrook-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_881132117",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5658144,
+    "longitude": -90.5917073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_882966908",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.4638604,
+    "longitude": -90.4541722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_893878619",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7828621,
+    "longitude": -88.1616862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_916805252",
+    "name": "Springbrook Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7374939,
+    "longitude": -88.191956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Springbrook Dog Park",
+      "operator": "Forest Preserve District of DuPage County",
+      "operator:type": "government",
+      "website": "https://www.dupageforest.org/places-to-go/forest-preserves/springbrook-prairie"
+    }
+  },
+  {
+    "place_id": "osm_925093744",
+    "name": "Project Dog Park - Connie Nott Canine Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.9730197,
+    "longitude": -90.3927089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Galesburg",
+      "addr:housenumber": "1285",
+      "addr:postcode": "61401",
+      "addr:state": "IL",
+      "addr:street": "West Carl Sandburg Drive",
+      "leisure": "dog_park",
+      "name": "Project Dog Park - Connie Nott Canine Area"
+    }
+  },
+  {
+    "place_id": "osm_943709130",
+    "name": "Brady Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.6422917,
+    "longitude": -89.5687209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "barrier": "fence",
+      "fee": "no",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Brady Bark Park",
+      "opening_hours": "sunrise-sunset",
+      "source": "survey"
+    }
+  },
+  {
+    "place_id": "osm_943908385",
+    "name": "Park 4 Paws Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8656674,
+    "longitude": -89.4763597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Park 4 Paws Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_955740437",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6927982,
+    "longitude": -88.0788279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_967109036",
+    "name": "Rochelle Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9118458,
+    "longitude": -89.0563169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Rochelle Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_968011873",
+    "name": "4 Paws Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9884654,
+    "longitude": -88.1155072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "4 Paws Dog Park",
+      "operator": "Roselle Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q114357550",
+      "website": "https://www.rparks.org/parks-and-facilities/4-paws-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_968266526",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6524543,
+    "longitude": -90.5642882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1001802008",
+    "name": "Bryn Mawr Dog Friendly Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9843944,
+    "longitude": -87.6522169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bryn Mawr Dog Friendly Area",
+      "website": "https://www.chicagoparkdistrict.com/parks-facilities/bryn-mawr-dog-friendly-area-temporary"
+    }
+  },
+  {
+    "place_id": "osm_1021323850",
+    "name": "Service Animal Relief Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.993556,
+    "longitude": -87.8823942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Service Animal Relief Area",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1021573730",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8607443,
+    "longitude": -87.6464275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1022745084",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8912689,
+    "longitude": -87.6166687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1028500229",
+    "name": "Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7516509,
+    "longitude": -90.6512367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1029079369",
+    "name": "JCC Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.3729324,
+    "longitude": -89.0823424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "JCC Dog Park",
+      "website": "https://www.cityofpana.org/parks"
+    }
+  },
+  {
+    "place_id": "osm_1055731566",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1289887,
+    "longitude": -87.9085944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1057792771",
+    "name": "Duryea Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.7442394,
+    "longitude": -89.5781609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Duryea Dog Park",
+      "start_date": "2018-04-28",
+      "surface": "gravel",
+      "website": "https://www.buildpeoria.org/duryea-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1081974089",
+    "name": "Centennial Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.7613544,
+    "longitude": -89.7551596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Centennial Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Springfield Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q23073350",
+      "operator:wikipedia": "en:Springfield Park District"
+    }
+  },
+  {
+    "place_id": "osm_1093687090",
+    "name": "St Johns Community Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5141352,
+    "longitude": -90.3358445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "St Johns Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1096130000",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.152838,
+    "longitude": -87.6168757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1105672637",
+    "name": "Tag-A-Long Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.372812,
+    "longitude": -88.432331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Morris",
+      "addr:housenumber": "605",
+      "addr:postcode": "60450",
+      "addr:state": "IL",
+      "addr:street": "Michael Drive",
+      "leisure": "dog_park",
+      "name": "Tag-A-Long Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1106462614",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1981136,
+    "longitude": -88.400669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1107993461",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.3255605,
+    "longitude": -88.7541132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1118495190",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8696003,
+    "longitude": -87.6318169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1139098650",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6265192,
+    "longitude": -90.2748296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "note": "This park is solely used by HSMO (across the street). There is an electronic gate with a card reader and PIN pad."
+    }
+  },
+  {
+    "place_id": "osm_1152000102",
+    "name": "Laclede's Landing Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6314295,
+    "longitude": -90.1836885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Saint Louis",
+      "addr:postcode": "63102",
+      "addr:state": "MO",
+      "addr:street": "Laclede's Landing Boulevard",
+      "leisure": "dog_park",
+      "name": "Laclede's Landing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1155642951",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8851579,
+    "longitude": -87.6625967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1158236613",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.949557,
+    "longitude": -87.645341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1175456398",
+    "name": "Kosciuszko Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9316317,
+    "longitude": -87.7251146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kosciuszko Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1180809418",
+    "name": "Woof Run Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7841614,
+    "longitude": -88.4855722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Sugar Grove",
+      "addr:country": "US",
+      "addr:housenumber": "901",
+      "addr:postcode": "60554",
+      "addr:state": "IL",
+      "addr:street": "Wheeler Road",
+      "leisure": "dog_park",
+      "name": "Woof Run Dog Park",
+      "operator": "Sugar Grove Park District",
+      "operator:short": "SGPD",
+      "operator:type": "public",
+      "operator:wikidata": "Q116938168",
+      "website": "https://www.sgparks.org/parks-facilities/woof-run/"
+    }
+  },
+  {
+    "place_id": "osm_1182374416",
+    "name": "Woodson Road Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6821502,
+    "longitude": -90.3621717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Woodson Road Dog Park",
+      "operator": "City of Overland",
+      "website": "https://www.overlandmo.org/418/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_1184310825",
+    "name": "Waukegan Savanna Off-Leash Dog Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.415957,
+    "longitude": -87.901445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Waukegan Savanna Off-Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1186449966",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5714906,
+    "longitude": -87.5063175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1190071288",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7163427,
+    "longitude": -88.2096277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192458743",
+    "name": "Maplewood Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6159871,
+    "longitude": -90.3306331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Maplewood Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1192502451",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.7637819,
+    "longitude": -91.0672193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1193052731",
+    "name": "Canine Corners Dog Park at Elliot Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2671743,
+    "longitude": -88.9583858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Canine Corners Dog Park at Elliot Park",
+      "website": "https://rockfordparkdistrict.org/caninecorners"
+    }
+  },
+  {
+    "place_id": "osm_1197473307",
+    "name": "Centennial Dog Beach",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0982637,
+    "longitude": -87.7144384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Winnetka",
+      "addr:housenumber": "225",
+      "addr:postcode": "60093",
+      "addr:state": "IL",
+      "addr:street": "Sheridan Road",
+      "leisure": "dog_park",
+      "name": "Centennial Dog Beach",
+      "operator": "Winnetka Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q112228982",
+      "surface": "sand",
+      "website": "https://www.winpark.org/beach_park/centennial-beach/"
+    }
+  },
+  {
+    "place_id": "osm_1200048584",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8748594,
+    "longitude": -87.6742612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1212112457",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8989708,
+    "longitude": -88.3457155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1228975947",
+    "name": "Sycamore Park District Brian Bemis Family Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9777373,
+    "longitude": -88.6585946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Sycamore",
+      "addr:housenumber": "480",
+      "addr:postcode": "60178",
+      "addr:state": "IL",
+      "addr:street": "Airport Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Sycamore Park District Brian Bemis Family Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Sycamore Park District",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1228976168",
+    "name": "Katz dog park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9532662,
+    "longitude": -88.7503038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "DeKalb",
+      "addr:housenumber": "393",
+      "addr:postcode": "60115",
+      "addr:state": "IL",
+      "addr:street": "West Dresser Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Katz dog park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_1258058195",
+    "name": "Small Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5342213,
+    "longitude": -88.1856389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1258334194",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7286467,
+    "longitude": -88.3911595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1263816512",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.4529467,
+    "longitude": -88.0817067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1285972230",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.6756823,
+    "longitude": -88.3406146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1286152648",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8185231,
+    "longitude": -87.867587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1290077172",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.6573883,
+    "longitude": -89.6506207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1292356233",
+    "name": "Evergreen Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.1386501,
+    "longitude": -88.5487744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Evergreen Bark Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1297210646",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6418505,
+    "longitude": -90.2604798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1307854337",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0257533,
+    "longitude": -87.8604382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1308022669",
+    "name": "Chatham Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.6739177,
+    "longitude": -89.7161588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Chatham",
+      "addr:postcode": "62629",
+      "addr:state": "Illinois",
+      "addr:street": "Churchill Drive",
+      "leisure": "dog_park",
+      "name": "Chatham Dog Park",
+      "opening_hours": "Mo-Su 07:00-20:00"
+    }
+  },
+  {
+    "place_id": "osm_1308609014",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0677388,
+    "longitude": -88.0564387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1308609015",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0674931,
+    "longitude": -88.0564475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1309486943",
+    "name": "Bar K",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6210987,
+    "longitude": -90.2594812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Saint Louis",
+      "addr:housenumber": "4565",
+      "addr:postcode": "63110",
+      "addr:state": "MO",
+      "addr:street": "McRee Avenue",
+      "leisure": "dog_park",
+      "name": "Bar K",
+      "website": "https://barkdogbar.com/locations/st-louis-mo/"
+    }
+  },
+  {
+    "place_id": "osm_1315834712",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9171464,
+    "longitude": -91.4145115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1316185124",
+    "name": "Fox Park Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6075199,
+    "longitude": -90.2259392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Fox Park Dog Park",
+      "operator": "Fox Park Neighborhood Association",
+      "operator:type": "community",
+      "website": "https://www.foxparkstl.org/neighborhood-association/dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_1326105697",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7578556,
+    "longitude": -88.2079802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1330722443",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6213606,
+    "longitude": -90.1893745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1334592348",
+    "name": "Canine Corners Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.301195,
+    "longitude": -89.1208883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Rockford",
+      "addr:housenumber": "4950",
+      "addr:postcode": "61101",
+      "addr:state": "IL",
+      "addr:street": "Safford Road",
+      "description": "Open year-round from dawn to dusk, with a portion of the park open until 10:00 pm.",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Canine Corners Dog Park",
+      "note": "Membership, visible Canine Corners tag, is REQUIRED of all dogs using the park, & must be renewed each calendar year. Owners are subject to fines for non-compliance w/ user fees or park rules, according to District Ordinance Section 11.03",
+      "operator": "Rockford Park District",
+      "operator:type": "government",
+      "website": "https://rockfordparkdistrict.org/caninecorners"
+    }
+  },
+  {
+    "place_id": "osm_1335332310",
+    "name": "Miller Meadow Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8545944,
+    "longitude": -87.8302335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Miller Meadow Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1340294138",
+    "name": "Independence Grove Off-Leash Dog Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.3169955,
+    "longitude": -87.9600613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Independence Grove Off-Leash Dog Area",
+      "operator": "Lake County Forest Preserves",
+      "operator:type": "public",
+      "website": "https://www.lcfpd.org/places-to-go/off-leash-dog-area/independence-grove/"
+    }
+  },
+  {
+    "place_id": "osm_1340354915",
+    "name": "Prairie Wolf Off-Leash Dog Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2079163,
+    "longitude": -87.8617934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Prairie Wolf Off-Leash Dog Area",
+      "operator": "Lake County Forest Preserves",
+      "operator:type": "public",
+      "website": "https://www.lcfpd.org/places-to-go/off-leash-dog-area/prairie-wolf/"
+    }
+  },
+  {
+    "place_id": "osm_1349015611",
+    "name": "Renaissance Place Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6418044,
+    "longitude": -90.2285487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Renaissance Place Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1352785411",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6311623,
+    "longitude": -90.1900705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1359400277",
+    "name": "Happy Tails Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.5618816,
+    "longitude": -89.6263057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1359414391",
+    "name": "Prarie District Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8545972,
+    "longitude": -87.620083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "material": "metal",
+      "name": "Prarie District Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1360246057",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6330448,
+    "longitude": -90.2045914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1361746274",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7790088,
+    "longitude": -87.9548261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1362411914",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.8978,
+    "longitude": -91.4550016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1367946966",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.0767915,
+    "longitude": -88.3176447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "The Legends",
+      "operator:type": "business",
+      "website": "https://www.thelegendschampaign.com/"
+    }
+  },
+  {
+    "place_id": "osm_1367947032",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.0716582,
+    "longitude": -88.3171768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "The Landing at Legends",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_1374910967",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.7925568,
+    "longitude": -88.2665206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park",
+      "operator": "Love's",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_1378411935",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5622088,
+    "longitude": -91.021468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Washington",
+      "addr:housenumber": "235",
+      "addr:postcode": "63090",
+      "addr:state": "MO",
+      "addr:street": "Johnson Street",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1379208654",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5985309,
+    "longitude": -88.1245104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1382660064",
+    "name": "Canine Corners Off -Leash Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.3025813,
+    "longitude": -89.1193054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Rockford",
+      "addr:housenumber": "4950",
+      "addr:postcode": "61101",
+      "addr:state": "IL",
+      "addr:street": "Safford Road",
+      "description": "Open year-round from dawn to dusk, with a portion of the park open until 10:00 pm.",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Canine Corners Off -Leash Dog Park",
+      "note": "Membership, visible Canine Corners tag, is REQUIRED of all dogs using the park, & must be renewed each calendar year. Owners are subject to fines for non-compliance w/ user fees or park rules, according to District Ordinance Section 11.03",
+      "operator": "Rockford Park District",
+      "operator:type": "government",
+      "website": "https://rockfordparkdistrict.org/caninecorners"
+    }
+  },
+  {
+    "place_id": "osm_1383620227",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.68292,
+    "longitude": -88.2111203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1384426166",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2731812,
+    "longitude": -88.0016564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1385126281",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2382126,
+    "longitude": -87.9926482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1385487731",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7348576,
+    "longitude": -88.2511068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387484702",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.5410385,
+    "longitude": -88.9972652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "check_date": "2025-05-17",
+      "dog": "designated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1388839795",
+    "name": "Ballou Road Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.2711678,
+    "longitude": -88.1078649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Ballou Road Dog Park",
+      "website": "https://www.reconnectwithnature.org/activities/dog-exercising/"
+    }
+  },
+  {
+    "place_id": "osm_1391974845",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9101787,
+    "longitude": -88.3683913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1395547009",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6343256,
+    "longitude": -90.2386914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1410175454",
+    "name": "Shiller Park Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9634611,
+    "longitude": -87.8707458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shiller Park Bark Park",
+      "operator": "Village of Shiller Park",
+      "website": "https://www.villageofschillerpark.com/Facilities/Facility/Details/Bark-Park-4",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1413430941",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.4881163,
+    "longitude": -87.9538896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431223",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2162538,
+    "longitude": -89.1076043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431257",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1486079,
+    "longitude": -88.513444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431531",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0994442,
+    "longitude": -89.0177586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431682",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.5998433,
+    "longitude": -87.5800439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431845",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.4110613,
+    "longitude": -90.0159346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435700",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.4345227,
+    "longitude": -88.1903614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435720",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.4157814,
+    "longitude": -88.3660114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435731",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.2932965,
+    "longitude": -89.0869735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413435914",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.8991841,
+    "longitude": -90.6597694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436149",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.0723244,
+    "longitude": -87.8674745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437179",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.3409458,
+    "longitude": -88.7605808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park",
+      "ref:loves": "367"
+    }
+  },
+  {
+    "place_id": "osm_1413437354",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.1312779,
+    "longitude": -87.7774009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437683",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.9602046,
+    "longitude": -89.5615813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437725",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.8930826,
+    "longitude": -89.0033073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413437911",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.690083,
+    "longitude": -90.230214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439448",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.8896535,
+    "longitude": -89.8356042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439513",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5349851,
+    "longitude": -89.7332053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439882",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.0059673,
+    "longitude": -90.2250715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439913",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.17388,
+    "longitude": -87.5509846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1416020687",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6127317,
+    "longitude": -90.1985421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1418563378",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0397064,
+    "longitude": -88.043526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419244103",
+    "name": "Hammertime Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.2751415,
+    "longitude": -88.9218991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Belvidere",
+      "addr:housenumber": "897",
+      "addr:postcode": "61008",
+      "addr:state": "IL",
+      "addr:street": "North State Street",
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Hammertime Dog Park",
+      "opening_hours": "Mo-Su sunrise-sunset",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1424632063",
+    "name": "Alton Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.8861222,
+    "longitude": -90.1703691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Alton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1424994482",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.4188786,
+    "longitude": -87.9904998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426130169",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7920378,
+    "longitude": -88.2174488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426130176",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7929439,
+    "longitude": -88.2163093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1428767353",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.7890505,
+    "longitude": -87.7812854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1430351455",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.6977385,
+    "longitude": -89.7088446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1430810748",
+    "name": "Treecourt Unleashed Dog Adventure Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.5569014,
+    "longitude": -90.460638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Saint Louis",
+      "addr:housenumber": "2499",
+      "addr:postcode": "63122",
+      "addr:state": "Missouri",
+      "addr:street": "Marshall Rd",
+      "leisure": "dog_park",
+      "name": "Treecourt Unleashed Dog Adventure Park",
+      "website": "https://treecourtunleasheddogadventureparks.com"
+    }
+  },
+  {
+    "place_id": "osm_1430905866",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6316318,
+    "longitude": -90.2324101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431392932",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8643586,
+    "longitude": -87.8716654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431812496",
+    "name": "Canine Commons Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.0712826,
+    "longitude": -87.9599501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Mount Prospect",
+      "addr:housenumber": "1500",
+      "addr:postcode": "60056",
+      "addr:state": "IL",
+      "addr:street": "W Central Road",
+      "leisure": "dog_park",
+      "name": "Canine Commons Dog Park",
+      "operator": "Arlington Heights Park District and Mount Prospect Park District",
+      "operator:type": "government",
+      "surface": "grass",
+      "website": "https://www.ahpd.org/parks/canine-commons/"
+    }
+  },
+  {
+    "place_id": "osm_1442624477",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.6930596,
+    "longitude": -89.5685122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1448251238",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 38.6273713,
+    "longitude": -90.2329908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1456168688",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1234343,
+    "longitude": -87.9002902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1460431525",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9055655,
+    "longitude": -88.2680951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1462487734",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9696225,
+    "longitude": -88.1635404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1462487738",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9693245,
+    "longitude": -88.1617634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1463541451",
+    "name": "Pooch Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.029056,
+    "longitude": -87.7091572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Skokie",
+      "addr:housenumber": "3220",
+      "addr:postcode": "60076",
+      "addr:state": "IL",
+      "addr:street": "Oakton Street",
+      "area": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Pooch Park",
+      "operator": "Skokie Park District",
+      "operator:type": "public",
+      "operator:wikidata": "Q112228684",
+      "website": "https://www.skokieparks.org/pooch-park/"
+    }
+  },
+  {
+    "place_id": "osm_1476260578",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8881961,
+    "longitude": -87.6547147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1476942381",
+    "name": "Peck Farm dog park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8680806,
+    "longitude": -88.3632846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Peck Farm dog park"
+    }
+  },
+  {
+    "place_id": "osm_1483662257",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.2875619,
+    "longitude": -88.1635271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1485916636",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 39.8125152,
+    "longitude": -88.2880477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1488635225",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.8117255,
+    "longitude": -89.6833145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_14188206",
+    "name": "Eureka Lake Bark Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.7038903,
+    "longitude": -89.2759176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "min_age": "4 months",
+      "name": "Eureka Lake Bark Park",
+      "start_date": "2017-04",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_14570150",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.6211453,
+    "longitude": -89.6015434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_14681636",
+    "name": "Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.7987631,
+    "longitude": -89.3875585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "operator": "Metamora Park District",
+      "operator:type": "public",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_15522058",
+    "name": "McNaughton Park Dog Training Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 40.5959076,
+    "longitude": -89.6149688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "McNaughton Park Dog Training Area",
+      "opening_hours": "06:00-sunset",
+      "operator": "Pekin Park District",
+      "operator:type": "public",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_17821052",
+    "name": "Off Leash Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 42.1057638,
+    "longitude": -88.3189493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Off Leash Area",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18049517",
+    "name": "Lathrop Dog Park",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9339712,
+    "longitude": -87.683645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lathrop Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19662185",
+    "name": "Clarendon Dog Friendly Area",
+    "formatted_address": ", Illinois, USA",
+    "latitude": 41.9639844,
+    "longitude": -87.6477613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Clarendon Dog Friendly Area",
+      "type": "multipolygon"
+    }
+  }
+]

@@ -1,0 +1,1648 @@
+[
+  {
+    "place_id": "osm_3528709261",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.801473,
+    "longitude": -75.9959956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4849920117",
+    "name": "Springhouse BarkPark",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.1315936,
+    "longitude": -76.5200388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Newport News",
+      "addr:postcode": "23602",
+      "addr:state": "VA",
+      "addr:street": "Split Rail Circle",
+      "leisure": "dog_park",
+      "name": "Springhouse BarkPark"
+    }
+  },
+  {
+    "place_id": "osm_6073941089",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5592769,
+    "longitude": -77.4774839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6820721153",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8560302,
+    "longitude": -76.4505987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6974975377",
+    "name": "Dog Beach",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.2923859,
+    "longitude": -76.0130359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_8818937177",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.7144783,
+    "longitude": -76.3792019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_9610950107",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6995382,
+    "longitude": -77.8708061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10286039208",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7635777,
+    "longitude": -76.5991129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10289804238",
+    "name": "Dog Walk",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6074306,
+    "longitude": -76.4396178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Walk"
+    }
+  },
+  {
+    "place_id": "osm_12547994786",
+    "name": "Ocean View Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.9485127,
+    "longitude": -76.2592754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Norfolk",
+      "addr:housenumber": "176",
+      "addr:postcode": "23503",
+      "addr:state": "VA",
+      "addr:street": "Maple Avenue",
+      "leisure": "dog_park",
+      "name": "Ocean View Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_12911298637",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.1391159,
+    "longitude": -77.355395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13430448987",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4693905,
+    "longitude": -79.8119171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_70643416",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.2210621,
+    "longitude": -80.4476757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_202547172",
+    "name": "Barker Field",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5391077,
+    "longitude": -77.4820658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Barker Field",
+      "small_dog": "separate"
+    }
+  },
+  {
+    "place_id": "osm_236143257",
+    "name": "Ruff House Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4478443,
+    "longitude": -77.5803768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ruff House Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_246542215",
+    "name": "Large dog park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4062836,
+    "longitude": -79.1839178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Large dog park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_254439105",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.061437,
+    "longitude": -76.3675275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_298621401",
+    "name": "Church Hill Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5238806,
+    "longitude": -77.4103864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Church Hill Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_335583208",
+    "name": "Stockley Gardens Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8652036,
+    "longitude": -76.2946706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stockley Gardens Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_384942827",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7514901,
+    "longitude": -76.2307744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_399259524",
+    "name": "Bea Arthur Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8533891,
+    "longitude": -76.2998911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bea Arthur Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_402548634",
+    "name": "Pups and Pints",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7710924,
+    "longitude": -76.0222807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Virginia Beach",
+      "addr:housenumber": "2413",
+      "addr:postcode": "23456",
+      "addr:street": "London Bridge Road",
+      "height": "29'",
+      "leisure": "dog_park",
+      "name": "Pups and Pints",
+      "start_date": "1987"
+    }
+  },
+  {
+    "place_id": "osm_528897934",
+    "name": "Libbie Mill Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5887968,
+    "longitude": -77.4961215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Libbie Mill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_541067951",
+    "name": "Addison at Wyndham",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.684798,
+    "longitude": -77.5928243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog Park for Addison at Wyndham community residents",
+      "leisure": "dog_park",
+      "name": "Addison at Wyndham"
+    }
+  },
+  {
+    "place_id": "osm_545083434",
+    "name": "Pole Green Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6440789,
+    "longitude": -77.3049314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pole Green Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_610884427",
+    "name": "Sparky's Run Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.1410387,
+    "longitude": -80.5424288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sparky's Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_636070810",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4159842,
+    "longitude": -79.91429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_637069497",
+    "name": "Western Branch Park - Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8188741,
+    "longitude": -76.4243391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Western Branch Park - Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_661158623",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7233797,
+    "longitude": -76.3450874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_678061687",
+    "name": "Dog Run",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6103526,
+    "longitude": -76.4380069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_686723721",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5606766,
+    "longitude": -77.4855308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_693859417",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8529399,
+    "longitude": -76.4706232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_694831441",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6464742,
+    "longitude": -77.6132468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_739201244",
+    "name": "Colonial Place Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8833656,
+    "longitude": -76.2847103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Colonial Place Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_745108607",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.2886075,
+    "longitude": -76.0109637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_761589495",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5172389,
+    "longitude": -77.4058301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_787012801",
+    "name": "Dorey Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4607412,
+    "longitude": -77.339432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Henrico",
+      "addr:housenumber": "7399",
+      "addr:postcode": "23231",
+      "addr:state": "VA",
+      "addr:street": "Dorey Park Drive",
+      "leisure": "dog_park",
+      "name": "Dorey Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_827309274",
+    "name": "Fido Field Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.0861817,
+    "longitude": -76.5323027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Fido Field Dog Park",
+      "opening_hours": "sunrise-21:00",
+      "website": "https://www.nngov.com/898/Fido-Field-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_845846001",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.7534633,
+    "longitude": -77.4342147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:postcode": "23005",
+      "addr:street": "Taylor Complex Lane",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_911285478",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.1105728,
+    "longitude": -76.4904197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_911653102",
+    "name": "Bark Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.9760985,
+    "longitude": -76.6281684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "website": "https://www.windsorcastlepark.com/barkpark.html"
+    }
+  },
+  {
+    "place_id": "osm_937331013",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7558924,
+    "longitude": -76.0678576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "mulch"
+    }
+  },
+  {
+    "place_id": "osm_944476637",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.9399455,
+    "longitude": -75.3595598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_995311266",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.2261141,
+    "longitude": -80.4455812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "description": "Resident dog park (>25lb large dogs)",
+      "landcover": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1014024024",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8613187,
+    "longitude": -76.486894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1021484451",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5495995,
+    "longitude": -77.4720228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1037171457",
+    "name": "Phideaux Field",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5198994,
+    "longitude": -77.481147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Phideaux Field",
+      "operator": "Forest Hill Presbyterian Church",
+      "operator:type": "religious"
+    }
+  },
+  {
+    "place_id": "osm_1051583892",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5218437,
+    "longitude": -77.5196562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1052186651",
+    "name": "Northside Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5982213,
+    "longitude": -77.4410963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Northside Dog Park",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1052320039",
+    "name": "11 North Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5530501,
+    "longitude": -77.370591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "11 North Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1053432445",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5171811,
+    "longitude": -77.5143068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1055784498",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8515872,
+    "longitude": -76.2892648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1062411945",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8361469,
+    "longitude": -75.9913581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1081637286",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.9775974,
+    "longitude": -77.3949673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1082742641",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4094656,
+    "longitude": -77.6638027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1086557257",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.3012504,
+    "longitude": -76.4699973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1092249455",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.343916,
+    "longitude": -76.276515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1095763764",
+    "name": "Outdoor Pet Recreation Area",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8030552,
+    "longitude": -76.1893764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Fenced-in dog park",
+      "leisure": "dog_park",
+      "name": "Outdoor Pet Recreation Area",
+      "operator": "Founder's Inn",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1116872134",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.3159419,
+    "longitude": -76.7031181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1117344011",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8480935,
+    "longitude": -76.4671936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1121505590",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6919288,
+    "longitude": -77.4728269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1196025496",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8966662,
+    "longitude": -76.4269302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1213101945",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5157024,
+    "longitude": -77.6816301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1303144377",
+    "name": "Ruff Canine Club",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5748612,
+    "longitude": -77.4686865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Richmond",
+      "addr:housenumber": "1924",
+      "addr:postcode": "23230",
+      "addr:state": "VA",
+      "addr:street": "Ellen Road",
+      "leisure": "dog_park",
+      "name": "Ruff Canine Club",
+      "operator": "Unknown",
+      "website": "https://www.ruffcanineclub.com/"
+    }
+  },
+  {
+    "place_id": "osm_1329528547",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.1605273,
+    "longitude": -80.4307238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336945144",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.41818,
+    "longitude": -79.1476763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "private": "Gish Flats"
+    }
+  },
+  {
+    "place_id": "osm_1336979991",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7964208,
+    "longitude": -75.9916832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1365814092",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.2234787,
+    "longitude": -80.4405278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1371381713",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.6021293,
+    "longitude": -77.6561456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_1377345203",
+    "name": "Paw Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.6354233,
+    "longitude": -79.8271326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Axton",
+      "addr:housenumber": "1000",
+      "addr:postcode": "24054",
+      "addr:state": "VA",
+      "addr:street": "Irisburg Road",
+      "leisure": "dog_park",
+      "membership": "yes",
+      "name": "Paw Park",
+      "opening_hours": "0700-dusk",
+      "website": "https://www.smithriversportscomplex.com/content/smithriversportscomplex/uploads/spca_smith_river_paw_park_brochure.pdf"
+    }
+  },
+  {
+    "place_id": "osm_1385920532",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.9939346,
+    "longitude": -78.4981523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440789",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5004268,
+    "longitude": -77.0907806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413441900",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7488075,
+    "longitude": -78.0991039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413442006",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.6051441,
+    "longitude": -77.561188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1417047860",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.2389874,
+    "longitude": -80.3955859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1443984445",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5075737,
+    "longitude": -77.534549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog park for residents of the nearby apartments",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1462443363",
+    "name": "Center West Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5056551,
+    "longitude": -77.6937228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Center West Dog Park",
+      "operator": "Center West"
+    }
+  },
+  {
+    "place_id": "osm_1463257174",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7365313,
+    "longitude": -76.0075743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483868702",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5500064,
+    "longitude": -77.4376171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4638427295",
+    "name": "Fido Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 39.472458,
+    "longitude": -80.1257742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fido Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_334104486",
+    "name": "Ruth Rafferty Peyton Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.3409622,
+    "longitude": -81.6170731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ruth Rafferty Peyton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_851656650",
+    "name": "Clarksburg Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 39.2696744,
+    "longitude": -80.3602877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Clarksburg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1028560830",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.3653445,
+    "longitude": -81.5870798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1075914189",
+    "name": "Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.3613359,
+    "longitude": -81.674695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "website": "https://parks.cityofsouthcharleston.com/joplin/"
+    }
+  }
+]

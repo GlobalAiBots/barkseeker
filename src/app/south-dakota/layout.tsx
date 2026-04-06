@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in South Dakota — 110 Ramps Across 6 Lakes & Waterways | RampSeeker",
-  description: "The most complete boat ramp directory for South Dakota. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "South Dakota Boat Ramps — RampSeeker", url: "https://rampseeker.com/south-dakota", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "South Dakota Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/south-dakota" },
+  title: "Every Dog Park in South Dakota — 26+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for South Dakota. 26+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "South Dakota Dog Parks — BarkSeeker", url: "https://barkseeker.com/south-dakota", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "South Dakota Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/south-dakota" },
 };
 
 export default function SouthDakotaLayout({ children }: { children: React.ReactNode }) {

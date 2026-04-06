@@ -7,24 +7,24 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp in America — 29,000+ Launch Sites",
+  title: "BarkSeeker | Every Dog Park in America — 4,700+ Parks",
   description:
-    "Find boat ramps across the United States. 29,000+ ramps with GPS coordinates, amenities, and local tips. Detailed coverage for Oklahoma and Texas.",
+    "Find dog parks across the United States. 4,700+ parks with GPS coordinates, amenities, off-leash info. Free.",
   keywords:
-    "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
+    "dog park near me, off-leash dog park, dog park directory, dog parks by state, best dog parks America",
   openGraph: {
-    title: "RampSeeker | Every Boat Ramp in America",
-    description: "29,000+ boat ramps across the US. GPS coordinates, amenities, local tips.",
-    url: "https://rampseeker.com",
-    siteName: "RampSeeker",
+    title: "BarkSeeker | Every Dog Park in America",
+    description: "4,700+ dog parks across the US. GPS coordinates, amenities, off-leash info.",
+    url: "https://barkseeker.com",
+    siteName: "BarkSeeker",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "RampSeeker | Every Boat Ramp in America",
-    description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
+    title: "BarkSeeker | Every Dog Park in America",
+    description: "4,700+ dog parks across 35 states. GPS coordinates, amenities, off-leash info.",
   },
-  alternates: { canonical: "https://rampseeker.com" },
+  alternates: { canonical: "https://barkseeker.com" },
   verification: {
     google: "JWsw31t4naK4EN6UbytAGjUR7PuyS4e3i1lgEcjM-R4",
   },
@@ -38,15 +38,15 @@ function Nav() {
     <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-gray-200">
       <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 font-bold text-lg font-[Cabin]">
-          <span className="text-2xl">&#9875;</span>
-          <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
+          <span className="text-2xl">🐕</span>
+          <span className="text-charcoal">Bark<span className="text-forest">Seeker</span></span>
         </Link>
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
           <StatesDropdown />
-          <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
-          <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
-          <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
-          <Link href="/for-businesses" className="text-sunset font-bold hover:text-sunset-dark transition hidden sm:block">For Businesses</Link>
+          <Link href="/map" className="text-gray-500 hover:text-forest transition">Map</Link>
+          <Link href="/blog" className="text-gray-500 hover:text-forest transition hidden sm:block">Blog</Link>
+          <Link href="/about" className="text-gray-500 hover:text-forest transition hidden sm:block">About</Link>
+          <Link href="/for-businesses" className="text-bark font-bold hover:text-bark-dark transition hidden sm:block">For Businesses</Link>
         </div>
       </div>
     </nav>
@@ -59,42 +59,43 @@ function Footer() {
       <div className="max-w-6xl mx-auto px-4 py-10">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-gray-500">
           <div>
-            <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
-            <p>The most complete boat ramp directory in America. 29,000+ ramps across 46 states.</p>
+            <p className="font-bold text-charcoal mb-2 font-[Cabin]">🐕 BarkSeeker</p>
+            <p>The most complete dog park directory in America. 4,700+ parks across 35 states.</p>
           </div>
           <div>
             <p className="font-bold text-charcoal mb-2">Links</p>
             <div className="flex flex-col gap-1">
-              <Link href="/" className="hover:text-water transition">All Ramps</Link>
-              <Link href="/lakes" className="hover:text-water transition">Lakes</Link>
-              <Link href="/map" className="hover:text-water transition">Map</Link>
-              <Link href="/about" className="hover:text-water transition">About</Link>
-              <Link href="/blog" className="hover:text-water transition">Blog</Link>
-              <Link href="/for-businesses" className="hover:text-water transition">For Businesses</Link>
-              <Link href="/privacy" className="hover:text-water transition">Privacy</Link>
-              <Link href="/terms" className="hover:text-water transition">Terms</Link>
+              <Link href="/" className="hover:text-forest transition">All Parks</Link>
+              <Link href="/map" className="hover:text-forest transition">Map</Link>
+              <Link href="/about" className="hover:text-forest transition">About</Link>
+              <Link href="/blog" className="hover:text-forest transition">Blog</Link>
+              <Link href="/for-businesses" className="hover:text-forest transition">For Businesses</Link>
+              <Link href="/privacy" className="hover:text-forest transition">Privacy</Link>
+              <Link href="/terms" className="hover:text-forest transition">Terms</Link>
             </div>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">Know a ramp we missed?</p>
-            <a href="mailto:hello@rampseeker.com" className="text-water hover:text-water-light transition">hello@rampseeker.com</a>
+            <p className="font-bold text-charcoal mb-2">Know a park we missed?</p>
+            <a href="mailto:hello@barkseeker.com" className="text-forest hover:text-forest-light transition">hello@barkseeker.com</a>
           </div>
           <div>
             <p className="font-bold text-charcoal mb-2">From Global AI Bots</p>
             <div className="flex flex-col gap-1">
-              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Global AI Bots</a>
-              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Chat</a>
-              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Voice</a>
-              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Grand Lake AI</a>
+              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-forest transition">Global AI Bots</a>
+              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-forest transition">CLETUS AI Chat</a>
+              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-forest transition">CLETUS AI Voice</a>
+              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-forest transition">Grand Lake AI</a>
+              <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-forest transition">RampSeeker</a>
+              <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-forest transition">PierSeeker</a>
             </div>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
-          <span>&copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
+          <span>&copy; {new Date().getFullYear()} BarkSeeker. All rights reserved.</span>
           <div className="flex gap-3">
-            <a href="mailto:hello@rampseeker.com?subject=Advertising%20Inquiry" className="hover:text-water transition">Advertise With Us</a>
+            <a href="mailto:hello@barkseeker.com?subject=Advertising%20Inquiry" className="hover:text-forest transition">Advertise With Us</a>
             <span>&middot;</span>
-            <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/70 hover:text-water transition">Grand Lake AI</a> project.</span>
+            <span>A <a href="https://grandlakeai.com" target="_blank" className="text-forest/70 hover:text-forest transition">Grand Lake AI</a> project.</span>
           </div>
         </div>
       </div>

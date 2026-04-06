@@ -1,0 +1,1252 @@
+[
+  {
+    "place_id": "osm_964109889",
+    "name": "Dyersburg Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.0301794,
+    "longitude": -89.3878401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dyersburg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1231190369",
+    "name": "Sunkist Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.3508435,
+    "longitude": -89.4511987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sunkist Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1413442323",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.0711267,
+    "longitude": -89.3964819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1450043826",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.1096369,
+    "longitude": -89.2701037,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5290614145",
+    "name": "Summer Large Dogs Area",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9268765,
+    "longitude": -92.3804536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Summer Large Dogs Area"
+    }
+  },
+  {
+    "place_id": "osm_9951343707",
+    "name": "FastLane Pup Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9418634,
+    "longitude": -91.942839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "FastLane Pup Park"
+    }
+  },
+  {
+    "place_id": "osm_201489549",
+    "name": "Penn Valley Off Leash Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0737338,
+    "longitude": -94.5887388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Penn Valley Off Leash Dog Park",
+      "phone": "+1-816-784-5030",
+      "website": "https://kcparks.org/park/penn-valley-park-off-leash-dog-park/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_232583502",
+    "name": "Garth Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9798015,
+    "longitude": -92.3395757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Garth Dog Park",
+      "source": "www.gocolumbiamo.com"
+    }
+  },
+  {
+    "place_id": "osm_351540251",
+    "name": "Waggin' Trail Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1531999,
+    "longitude": -94.5765274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Kansas City",
+      "addr:housenumber": "432",
+      "addr:state": "MO",
+      "addr:street": "Northeast 32nd Avenue",
+      "facebook": "https://www.facebook.com/WagginTrailPark/",
+      "leisure": "dog_park",
+      "name": "Waggin' Trail Dog Park",
+      "website": "https://kcparks.org/places/off-leash-dog-park-north-kc/"
+    }
+  },
+  {
+    "place_id": "osm_351540787",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.2343836,
+    "longitude": -94.3915961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "Liberty Parks & Rec",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_370090486",
+    "name": "River Market Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1099427,
+    "longitude": -94.5778185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "River Market Dog Park",
+      "operator": "Downtown Community Improvement District",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_427844265",
+    "name": "Cruse Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.1943416,
+    "longitude": -93.3207796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cruse Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_436494412",
+    "name": "The Barking Lot",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1052954,
+    "longitude": -94.5821319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "The Barking Lot",
+      "operator": "Downtown Community Improvement District",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_466003066",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.969036,
+    "longitude": -92.3023051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_468542529",
+    "name": "Grove Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.5962088,
+    "longitude": -94.7720308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_474059464",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.895684,
+    "longitude": -94.3390322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Lee's Summit Parks and recreation",
+      "url": "https://cityofls.net/parks/parks/parks/happy-tails-park"
+    }
+  },
+  {
+    "place_id": "osm_486606553",
+    "name": "Blue Springs Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0289274,
+    "longitude": -94.2360545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Blue Springs Dog Park",
+      "operator": "Blue Springs Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://www.bluespringsgov.com/1413/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_501333428",
+    "name": "Best Friends Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.8269385,
+    "longitude": -94.248718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Best Friends Dog Park",
+      "opening_hours": "sunrise-sunset open"
+    }
+  },
+  {
+    "place_id": "osm_522240619",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.0834969,
+    "longitude": -95.7946542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_574631628",
+    "name": "Clover Dell Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.6827778,
+    "longitude": -93.2920668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Clover Dell Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_584022695",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9285861,
+    "longitude": -92.2485628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_672430782",
+    "name": "West Terrace Park Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1055499,
+    "longitude": -94.5915741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West Terrace Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_684896696",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9364104,
+    "longitude": -94.3821226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_719022704",
+    "name": "Old Drum Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.7709722,
+    "longitude": -93.7619612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Old Drum Dog Park",
+      "website": "https://www.facebook.com/olddrumdogpark/"
+    }
+  },
+  {
+    "place_id": "osm_844094868",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.2015599,
+    "longitude": -94.5882792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_880692422",
+    "name": "SoHo Loft Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1050146,
+    "longitude": -94.5864447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "SoHo Loft Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_919963548",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.7783538,
+    "longitude": -92.2581723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1053197800",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.513181,
+    "longitude": -92.055929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1075831152",
+    "name": "North Jefferson Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.5958241,
+    "longitude": -92.1759004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "North Jefferson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1101471554",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.7190913,
+    "longitude": -95.6290563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Love's",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1105639421",
+    "name": "Parr Hill Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.0721374,
+    "longitude": -94.4981365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Parr Hill Dog Park",
+      "operator": "Joplin Parks & Recreation",
+      "website": "https://www.joplinmo.org/843/Dog-Park-Information"
+    }
+  },
+  {
+    "place_id": "osm_1117460217",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0884227,
+    "longitude": -94.5822749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1131072551",
+    "name": "Clay County Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.40748,
+    "longitude": -94.5639302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Smithville",
+      "addr:housenumber": "17325",
+      "addr:postcode": "64089",
+      "addr:state": "MO",
+      "addr:street": "Old Jefferson Highway",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "material": "steel",
+      "name": "Clay County Dog Park",
+      "operator": "Clay County Parks",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1188767135",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0648956,
+    "longitude": -94.5811762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1220369478",
+    "name": "Tuk's Playground",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.7225831,
+    "longitude": -91.8539333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tuk's Playground"
+    }
+  },
+  {
+    "place_id": "osm_1226773873",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.6618757,
+    "longitude": -92.136854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1266256393",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.8458978,
+    "longitude": -94.5175551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1286104662",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1152973,
+    "longitude": -94.459188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "opening_hours": "24/7",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1294672414",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9561183,
+    "longitude": -92.3751707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1303777028",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.2302229,
+    "longitude": -94.5784443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1311122975",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9596538,
+    "longitude": -92.3708659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1353560415",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.066283,
+    "longitude": -95.7850416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1362656072",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9773233,
+    "longitude": -92.2605847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1362984192",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.9245483,
+    "longitude": -91.7758405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1365078139",
+    "name": "Marshall Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1343891,
+    "longitude": -93.1818404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Marshall Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1366241190",
+    "name": "Rothwell Park Large Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.4203236,
+    "longitude": -92.4605572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rothwell Park Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1375837218",
+    "name": "Fulton Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.8585795,
+    "longitude": -91.96339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Fulton Dog Park",
+      "operator": "City of Fulton",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1376873210",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.2580495,
+    "longitude": -94.4181477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377239805",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.7629386,
+    "longitude": -92.562765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "check_date": "2025-04-13",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387806665",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9345869,
+    "longitude": -92.7792607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "check_date": "2025-05-18",
+      "dog": "designated",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1389664108",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0558779,
+    "longitude": -94.5829062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1389750182",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0057745,
+    "longitude": -94.2761184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436879",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.7318496,
+    "longitude": -94.2181911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "colour": "black",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438023",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1539697,
+    "longitude": -94.4749576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413438650",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0122597,
+    "longitude": -94.0674841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413439718",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.9818318,
+    "longitude": -91.7201784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440356",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.0131036,
+    "longitude": -94.5447906,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413440891",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 36.1629533,
+    "longitude": -95.3423555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1452254976",
+    "name": "Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.2322489,
+    "longitude": -94.5336883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1459115671",
+    "name": "Dog Park at Santa Fe Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0659006,
+    "longitude": -94.4259213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park at Santa Fe Park"
+    }
+  },
+  {
+    "place_id": "osm_1463151700",
+    "name": "Harrisonville City Park (Large Dogs)",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.6630514,
+    "longitude": -94.3398612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Harrisonville City Park (Large Dogs)"
+    }
+  },
+  {
+    "place_id": "osm_18564549",
+    "name": "Bar K",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.1145427,
+    "longitude": -94.5780569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bar K",
+      "type": "multipolygon",
+      "website": "https://barkdogbar.com/locations/kansas-city-mo/"
+    }
+  },
+  {
+    "place_id": "osm_19198239",
+    "name": "Swope Park Off Leash Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9971699,
+    "longitude": -94.5264649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Kansas City",
+      "addr:housenumber": "5051",
+      "addr:postcode": "64132",
+      "addr:state": "MO",
+      "addr:street": "East Gregory Boulevard",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Swope Park Off Leash Dog Park",
+      "operator": "Kansas City Parks and Recreation",
+      "operator:type": "public",
+      "type": "multipolygon",
+      "website": "https://kcparks.org/places/swope-park-off-leash-park/"
+    }
+  }
+]

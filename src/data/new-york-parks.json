@@ -1,0 +1,7269 @@
+[
+  {
+    "place_id": "osm_1937542693",
+    "name": "Turtle Creek Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9259441,
+    "longitude": -76.8869361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Turtle Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_2179948300",
+    "name": "Jack Darling Leash Free Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.5288927,
+    "longitude": -79.6068868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jack Darling Leash Free Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_2838718120",
+    "name": "Ellicott Island Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0311571,
+    "longitude": -78.8259229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ellicott Island Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_3634033102",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7790227,
+    "longitude": -79.1772453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4980649008",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6719551,
+    "longitude": -79.3574099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "Park map says dogs off-leash area is here somewhere. Please confirm exact location",
+      "leisure": "dog_park",
+      "name": "Leash-free zone"
+    }
+  },
+  {
+    "place_id": "osm_4980649015",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.670419,
+    "longitude": -79.4150841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leash-free zone",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_4980649017",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6662933,
+    "longitude": -79.3588897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leash-free zone"
+    }
+  },
+  {
+    "place_id": "osm_5852296885",
+    "name": "Kinloch Park Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.7112758,
+    "longitude": -73.6611742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "comment": "off leash dog park allowed on existing park in 2009",
+      "leisure": "dog_park",
+      "name": "Kinloch Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6121687830",
+    "name": "Valley Stream Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6626173,
+    "longitude": -73.7070634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Valley Stream Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_7194157456",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5832832,
+    "longitude": -73.8340983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8048990254",
+    "name": "Woodstock Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.0356439,
+    "longitude": -74.1439538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woodstock Dog Park",
+      "website": "https://www.woodstockdogpark.org"
+    }
+  },
+  {
+    "place_id": "osm_9727489544",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.732524,
+    "longitude": -73.8578236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10929879933",
+    "name": "Bennington Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9001024,
+    "longitude": -73.1977948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bennington",
+      "addr:housenumber": "472",
+      "addr:postcode": "05201",
+      "addr:state": "VT",
+      "addr:street": "East Road",
+      "leisure": "dog_park",
+      "name": "Bennington Dog Park",
+      "website": "https://www.facebook.com/benningtondogpark/"
+    }
+  },
+  {
+    "place_id": "osm_11110613891",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.922797,
+    "longitude": -76.1035419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11651315715",
+    "name": "Marc's Barc Parc",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.8132211,
+    "longitude": -73.0650394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Marc's Barc Parc"
+    }
+  },
+  {
+    "place_id": "osm_11690558041",
+    "name": "Kulpmont Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7922983,
+    "longitude": -76.469993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kulpmont Dog Park",
+      "website": "https://www.facebook.com/groups/726008492198645/"
+    }
+  },
+  {
+    "place_id": "osm_12030089530",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.539653,
+    "longitude": -79.7418052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_12068394719",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.361782,
+    "longitude": -73.7579412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_12089193900",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.5802007,
+    "longitude": -79.7701124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12151812572",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.7757621,
+    "longitude": -73.1949854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12705834357",
+    "name": "Apple Grove Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.5927971,
+    "longitude": -75.2645654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Honesdale",
+      "addr:housenumber": "1872",
+      "addr:postcode": "18431",
+      "addr:state": "PA",
+      "addr:street": "Fair Avenue",
+      "leisure": "dog_park",
+      "name": "Apple Grove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_12769371164",
+    "name": "Small Area for Dog Playing",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6560433,
+    "longitude": -79.389977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Area for Dog Playing",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_12830863594",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.2724185,
+    "longitude": -73.6740141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_12959535845",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5844766,
+    "longitude": -73.8120358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12987782919",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6997076,
+    "longitude": -79.3599673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13115449940",
+    "name": "Neahwa Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.4506823,
+    "longitude": -75.0548603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "City of Oneonta",
+      "addr:housenumber": "15",
+      "addr:postcode": "13820",
+      "addr:state": "NY",
+      "addr:street": "James Georgeson Avenue",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Neahwa Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_13458889764",
+    "name": "Barkology",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9359315,
+    "longitude": -78.7048005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Buffalo",
+      "addr:housenumber": "4939",
+      "addr:postcode": "14225",
+      "addr:state": "NY",
+      "addr:street": "Genesee Street",
+      "leisure": "dog_park",
+      "name": "Barkology"
+    }
+  },
+  {
+    "place_id": "osm_4300557",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6601407,
+    "longitude": -79.418377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_25743799",
+    "name": "Urban Reserve (Waterfront Dog Park)",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4855697,
+    "longitude": -73.2268884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Urban Reserve (Waterfront Dog Park)"
+    }
+  },
+  {
+    "place_id": "osm_28615703",
+    "name": "Garnetwood Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6372839,
+    "longitude": -79.5883077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Garnetwood Park",
+      "note": "traced, some kind of fenced area"
+    }
+  },
+  {
+    "place_id": "osm_34937115",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6707808,
+    "longitude": -79.2820125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_58422667",
+    "name": "Ossining Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.1938352,
+    "longitude": -73.8554477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ossining Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_70345445",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1906714,
+    "longitude": -77.7361862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_125813682",
+    "name": "Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9444591,
+    "longitude": -78.909466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "note": "Small dogs northern half, large dogs southern half"
+    }
+  },
+  {
+    "place_id": "osm_143303271",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1455079,
+    "longitude": -79.2259952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_143383193",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6203776,
+    "longitude": -79.6394289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_147384954",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6665883,
+    "longitude": -79.3800926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leash-free zone"
+    }
+  },
+  {
+    "place_id": "osm_152163174",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4381038,
+    "longitude": -73.1125007,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_153505644",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.9260272,
+    "longitude": -78.830057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_153906090",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6824981,
+    "longitude": -79.3038713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_164609588",
+    "name": "Wegmans Good Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1257876,
+    "longitude": -76.2511107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Liverpool",
+      "addr:country": "US",
+      "addr:housenumber": "49",
+      "addr:postcode": "13090",
+      "addr:state": "NY",
+      "addr:street": "Cold Springs Trail",
+      "leisure": "dog_park",
+      "name": "Wegmans Good Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "phone": "+1-315-453-6712",
+      "website": "https://www.onondagacountyparks.com/parks/onondaga-lake-park/wegmans-good-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_174487972",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6337831,
+    "longitude": -79.4037833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Toronto",
+      "addr:province": "Ontario",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_174655727",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.5864823,
+    "longitude": -79.5460535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_176962295",
+    "name": "Dave Boyd Memorial Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8946639,
+    "longitude": -78.6699674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dave Boyd Memorial Dog Park",
+      "source": "survey",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_186998622",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6999319,
+    "longitude": -73.3285664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_200798008",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6874775,
+    "longitude": -79.6216749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_202223414",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6638174,
+    "longitude": -79.3859904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "opening_hours": "07:00-23:00",
+      "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0."
+    }
+  },
+  {
+    "place_id": "osm_206039554",
+    "name": "Colonel Samuel Smith Park Dogs Off Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.5935247,
+    "longitude": -79.517425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Colonel Samuel Smith Park Dogs Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_206932303",
+    "name": "Etobicoke Valley Leash Free Zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6211167,
+    "longitude": -79.5672476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Etobicoke Valley Leash Free Zone",
+      "website": "http://www.leashfreemississauga.com"
+    }
+  },
+  {
+    "place_id": "osm_220509742",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6678181,
+    "longitude": -79.3289448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "website": "https://www.toronto.ca/parks/prd/facilities/complex/70/index.htm"
+    }
+  },
+  {
+    "place_id": "osm_223479198",
+    "name": "White Spruce Park leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.728464,
+    "longitude": -79.78003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "White Spruce Park leash-free zone",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_226888178",
+    "name": "Delmar Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6047518,
+    "longitude": -73.8452182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Delmar Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_239252833",
+    "name": "Quenippenon Meadows Leash Free Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.56336,
+    "longitude": -79.7137629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Mississauga",
+      "addr:housenumber": "5210",
+      "addr:street": "Erin Mills Parkway",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Quenippenon Meadows Leash Free Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_242172235",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5897215,
+    "longitude": -73.6044541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_242500041",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.4951246,
+    "longitude": -79.6135467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_246571076",
+    "name": "Torordeaca Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.609341,
+    "longitude": -79.7743485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Leach-Free Dog Park",
+      "leisure": "dog_park",
+      "name": "Torordeaca Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_254751913",
+    "name": "Rockaway Freeway Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5912131,
+    "longitude": -73.8085952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rockaway Freeway Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_265632385",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.691943,
+    "longitude": -79.4291109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Toronto",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_275398225",
+    "name": "Concord Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8241986,
+    "longitude": -79.4628776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Concord Dog Park",
+      "sport": "multi",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_281091076",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6336185,
+    "longitude": -79.4700829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_296091880",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6625009,
+    "longitude": -79.4621662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "Off leash area."
+    }
+  },
+  {
+    "place_id": "osm_296117547",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6130246,
+    "longitude": -79.4834455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "Off Lead Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_296573361",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8918807,
+    "longitude": -78.8948566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_307083658",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8227663,
+    "longitude": -77.8961319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_310931484",
+    "name": "Cobourg Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.9696242,
+    "longitude": -78.1830798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cobourg Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_316464929",
+    "name": "Stevens Farm Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6337934,
+    "longitude": -73.8068559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Stevens Farm Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_321398662",
+    "name": "Robinson Duck Farm County Park Dog Run Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8001283,
+    "longitude": -72.8896698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Robinson Duck Farm County Park Dog Run Area"
+    }
+  },
+  {
+    "place_id": "osm_327006126",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6439276,
+    "longitude": -79.3935221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_348681842",
+    "name": "Aurora Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.0162304,
+    "longitude": -79.462302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Aurora Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_353317790",
+    "name": "Earlscourt Park Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6719849,
+    "longitude": -79.4492325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Toronto",
+      "addr:housenumber": "1200",
+      "addr:province": "Ontario",
+      "addr:street": "Lansdowne Avenue",
+      "leisure": "dog_park",
+      "name": "Earlscourt Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_358449470",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8532464,
+    "longitude": -74.8914881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_360806952",
+    "name": "Orphan's Greenspace",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6546327,
+    "longitude": -79.362419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Toronto",
+      "addr:housenumber": "51",
+      "addr:street": "Power Street",
+      "alt_name": "Dogs Off-Leash Area",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Orphan's Greenspace",
+      "note": "Off leash",
+      "source": "Foot Survey",
+      "website": "http://www.petservicedirectory.ca/city/toronto/listing/orphans-greenspace-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_368203679",
+    "name": "Cherry Beach Off Leash Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6349912,
+    "longitude": -79.3464236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Toronto",
+      "leisure": "dog_park",
+      "name": "Cherry Beach Off Leash Dog Park",
+      "note": "Off leash",
+      "source": "Foot Survey, GPX trace upload",
+      "website": "http://www1.toronto.ca/parks/prd/facilities/complex/209/"
+    }
+  },
+  {
+    "place_id": "osm_374134774",
+    "name": "Sherry Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.741479,
+    "longitude": -73.898786,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Woodside",
+      "addr:postcode": "11377",
+      "addr:state": "NY",
+      "addr:street": "Queens Boulevard",
+      "alt_name": "Sherry Park",
+      "ele": "19",
+      "gnis:feature_id": "2352532",
+      "leisure": "dog_park",
+      "name": "Sherry Dog Run",
+      "opening_hours": "24/7",
+      "website": "https://www.nycgovparks.org/parks/sherry-dog-run/",
+      "wikidata": "Q49561112"
+    }
+  },
+  {
+    "place_id": "osm_374313577",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7540297,
+    "longitude": -73.8895829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_385035492",
+    "name": "Kingston Point Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.9274641,
+    "longitude": -73.9648267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Kingston Point Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_392597544",
+    "name": "Hickories Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.0939186,
+    "longitude": -76.2244261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Hickories Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_397508108",
+    "name": "Kingsford Garden - Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.4946417,
+    "longitude": -79.6651835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Oakville",
+      "addr:housenumber": "2480",
+      "addr:street": "Sherwood Heights Drive",
+      "leisure": "dog_park",
+      "name": "Kingsford Garden - Off-Leash Area",
+      "note": "off-leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_424199765",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6414692,
+    "longitude": -79.4091181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_425665542",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.2999581,
+    "longitude": -73.8523609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_435868915",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.0711635,
+    "longitude": -79.454837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "lit": "no",
+      "surface": "dirt",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_442203294",
+    "name": "Canine Court",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.899003,
+    "longitude": -73.8951549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Canine Court"
+    }
+  },
+  {
+    "place_id": "osm_442508006",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6462722,
+    "longitude": -79.399399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "approx"
+    }
+  },
+  {
+    "place_id": "osm_443284416",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.4648799,
+    "longitude": -79.751607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_444492616",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7175213,
+    "longitude": -79.7513519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_444492617",
+    "name": "Duggan Off Leash Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6947264,
+    "longitude": -79.7634149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Duggan Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_444618721",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7565464,
+    "longitude": -79.2531074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_447062325",
+    "name": "Jackson Heights Canine Recreational Wonderland",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7508522,
+    "longitude": -73.8968747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "JHCREW",
+      "leisure": "dog_park",
+      "name": "Jackson Heights Canine Recreational Wonderland",
+      "website": "https://jhbg.org/programs/jh-crew"
+    }
+  },
+  {
+    "place_id": "osm_449301687",
+    "name": "Botany Hill Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7786254,
+    "longitude": -79.2134013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Botany Hill Dog Park",
+      "source": "mapbox"
+    }
+  },
+  {
+    "place_id": "osm_462232641",
+    "name": "Large Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0460121,
+    "longitude": -77.6154424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Large dog park has an area of 1.59 acres.",
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_463491566",
+    "name": "Town of Oyster Bay Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6838374,
+    "longitude": -73.426464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "name": "Town of Oyster Bay Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469546717",
+    "name": "Beresford Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6561178,
+    "longitude": -79.4803399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Beresford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469685836",
+    "name": "OGS Albany Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6722739,
+    "longitude": -73.7337111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "OGS Albany Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_470254842",
+    "name": "Rotary Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.2932675,
+    "longitude": -78.2939028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rotary Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479548172",
+    "name": "Winooski Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4916154,
+    "longitude": -73.1906472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Winooski Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479551718",
+    "name": "Prince Edward Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.0034021,
+    "longitude": -77.1429464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Prince Edward Dog Park",
+      "opening_hours": "24/7",
+      "website": "https://www.princeedwarddogpark.org/"
+    }
+  },
+  {
+    "place_id": "osm_481302256",
+    "name": "Dog Walk",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8545086,
+    "longitude": -72.9919313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "highway": "footway",
+      "leisure": "dog_park",
+      "name": "Dog Walk"
+    }
+  },
+  {
+    "place_id": "osm_482654824",
+    "name": "Dog Off Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8404574,
+    "longitude": -79.3462382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Off Leash Area",
+      "website": "https://www.markham.ca/wps/portal/Markham/Residents/AnimalServices/BylawsAndOffLeashAreas"
+    }
+  },
+  {
+    "place_id": "osm_484568724",
+    "name": "Underbridge Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7338581,
+    "longitude": -73.8451867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Underbridge Dog Run",
+      "website": "https://www.nycgovparks.org/parks/underbridge-dog-run"
+    }
+  },
+  {
+    "place_id": "osm_485187501",
+    "name": "Niskayuna Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8136442,
+    "longitude": -73.8623704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Niskayuna Dog Park",
+      "operator": "Town of Niskayuna",
+      "website": "https://www.niskayuna.org/town-clerk/pages/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_486775303",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6020219,
+    "longitude": -79.5217847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_490217519",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.648813,
+    "longitude": -79.4428503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_494794994",
+    "name": "May Street Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.3141435,
+    "longitude": -73.644625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "May Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_495559854",
+    "name": "Elm Street Leash-Free Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9224923,
+    "longitude": -79.2578737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Elm Street Leash-Free Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_505382044",
+    "name": "Essex Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4972694,
+    "longitude": -73.128895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Essex Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_505436420",
+    "name": "Paws Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.2359929,
+    "longitude": -76.9847083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paws Park"
+    }
+  },
+  {
+    "place_id": "osm_505609787",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.1857861,
+    "longitude": -77.3207215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_526538661",
+    "name": "BARK PARK (ROME DOG PARK)",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.2365673,
+    "longitude": -75.4512929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "BARK PARK (ROME DOG PARK)"
+    }
+  },
+  {
+    "place_id": "osm_527471990",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.4077941,
+    "longitude": -76.5411849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_531058014",
+    "name": "Glen Oaks Village Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.752436,
+    "longitude": -73.7207372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Glen Oaks Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_531996102",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6410824,
+    "longitude": -79.4257614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_539250908",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.5252991,
+    "longitude": -74.243148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_539310039",
+    "name": "Fairport Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0841602,
+    "longitude": -77.4245903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fairport Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_542345173",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.0876422,
+    "longitude": -73.8714325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_549997623",
+    "name": "Starr Farm Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.5133124,
+    "longitude": -73.2676821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Starr Farm Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_550520643",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.3875205,
+    "longitude": -76.3600244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_551935876",
+    "name": "Kish Park Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6226713,
+    "longitude": -77.5601531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kish Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_555833057",
+    "name": "Newcastle Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.9094704,
+    "longitude": -78.6017956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Newcastle Dog Park",
+      "source": "Bing;survey",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_556847629",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.1954398,
+    "longitude": -79.4782181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_558958406",
+    "name": "Selinsgrove Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7961432,
+    "longitude": -76.8672557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Selinsgrove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_560588732",
+    "name": "Middlebury Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.0020062,
+    "longitude": -73.1671458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Middlebury Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_569820873",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9631481,
+    "longitude": -76.57317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_574121130",
+    "name": "Bacon Lofts Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4516394,
+    "longitude": -73.2070614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bacon Lofts Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_583482715",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4443754,
+    "longitude": -73.2039752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_588500051",
+    "name": "Bellamy Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7790184,
+    "longitude": -79.2424572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bellamy Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_590566252",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6294948,
+    "longitude": -73.6610201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_591447018",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1125751,
+    "longitude": -75.905824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "place_id": "osm_591677472",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6858845,
+    "longitude": -73.9089174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_595662532",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6568773,
+    "longitude": -73.4088846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_597938949",
+    "name": "Lakewood Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1005124,
+    "longitude": -79.297162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lakewood Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_609242158",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.5631926,
+    "longitude": -75.4998247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_623970092",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.9796362,
+    "longitude": -75.9651259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_633720447",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.5960992,
+    "longitude": -73.6659007,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_634272127",
+    "name": "Sherrill Brook Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.066762,
+    "longitude": -75.3213119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sherrill Brook Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_642330107",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.11885,
+    "longitude": -78.751559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_645741108",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9492802,
+    "longitude": -78.5371221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "survey:date": "2023-08-22"
+    }
+  },
+  {
+    "place_id": "osm_657672436",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.249583,
+    "longitude": -79.7709764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_658960184",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6493964,
+    "longitude": -73.5138387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_660392978",
+    "name": "Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.0372062,
+    "longitude": -73.7540972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_662745238",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.7048132,
+    "longitude": -73.8332896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_665161130",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6597155,
+    "longitude": -79.3765752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_670315603",
+    "name": "Maple Hill Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.444877,
+    "longitude": -74.4417049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Middletown",
+      "addr:housenumber": "390",
+      "addr:postcode": "10940",
+      "addr:state": "NY",
+      "addr:street": "County Route 78",
+      "leisure": "dog_park",
+      "name": "Maple Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_672769465",
+    "name": "Babylon Village Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7004154,
+    "longitude": -73.3173316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Babylon Village Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_676605208",
+    "name": "Berwick Community Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.064807,
+    "longitude": -76.2133994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Berwick Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_680387725",
+    "name": "Geneva Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8634698,
+    "longitude": -76.982287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park",
+      "name": "Geneva Bark Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_680704655",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.648273,
+    "longitude": -79.3746284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "no",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "note": "not a full out dog park, but mainly for dogs to go to the bathroom"
+    }
+  },
+  {
+    "place_id": "osm_680981692",
+    "name": "Dog Hill",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6468646,
+    "longitude": -79.4637233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Off leash zone",
+      "leisure": "dog_park",
+      "name": "Dog Hill"
+    }
+  },
+  {
+    "place_id": "osm_682034572",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8030075,
+    "longitude": -73.3163412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_683730457",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6740423,
+    "longitude": -79.3469247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Leash-free zone",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_684881196",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6401493,
+    "longitude": -79.4152963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_684881550",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6391245,
+    "longitude": -79.3970803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_684885961",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6933707,
+    "longitude": -79.5142583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_684945621",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6762738,
+    "longitude": -79.4242024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area",
+      "note": "DOLA is occasional, and should be noted as such-- it is mostly banned during summer daylight hours."
+    }
+  },
+  {
+    "place_id": "osm_684947343",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.679367,
+    "longitude": -79.4243561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_685258971",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7884259,
+    "longitude": -79.3943666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_685260821",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.755752,
+    "longitude": -79.4310303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_685265394",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.777648,
+    "longitude": -79.4680642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_685287384",
+    "name": "Sunnybrook Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7221398,
+    "longitude": -79.3658078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sunnybrook Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_685287392",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7449768,
+    "longitude": -79.4077068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_685805506",
+    "name": "Dogs Off- Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6997723,
+    "longitude": -79.2506642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off- Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_685810022",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7715298,
+    "longitude": -79.2571639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_685811958",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7737578,
+    "longitude": -79.2350648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_685812595",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8101027,
+    "longitude": -79.3053326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_685812948",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7570018,
+    "longitude": -79.2520061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_685829419",
+    "name": "Dogs Off-Leash Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6813036,
+    "longitude": -79.3124456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Park"
+    }
+  },
+  {
+    "place_id": "osm_686029614",
+    "name": "Dogs Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6994983,
+    "longitude": -79.3144647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dogs Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_686055888",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.659296,
+    "longitude": -79.3506309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_686455531",
+    "name": "Beverly Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8983722,
+    "longitude": -76.8545074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Waterloo",
+      "addr:housenumber": "50",
+      "addr:postcode": "13165",
+      "addr:state": "NY",
+      "addr:street": "East River Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Beverly Dog Park",
+      "opening_hours": "Mo-Sa 09:00-17:00",
+      "operator": "Beverly Animal Shelter"
+    }
+  },
+  {
+    "place_id": "osm_689670827",
+    "name": "Brockville Off-Leash Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.6069926,
+    "longitude": -75.6752068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Brockville Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_691478334",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.652045,
+    "longitude": -79.3923777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leash-free zone",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_691488424",
+    "name": "Barking Lot",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4554706,
+    "longitude": -73.2180688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barking Lot",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_693052666",
+    "name": "Andersen Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8706282,
+    "longitude": -73.9474286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Andersen Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_695679233",
+    "name": "Woodlawn Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8995183,
+    "longitude": -73.8734152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woodlawn Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_699104922",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.657122,
+    "longitude": -73.5044108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_699438877",
+    "name": "Leash-free zone",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6625205,
+    "longitude": -79.3747312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leash-free zone",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_704420959",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7879071,
+    "longitude": -73.7927433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_710293165",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.9129104,
+    "longitude": -79.3735125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_710378175",
+    "name": "Wright Twp Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.1344479,
+    "longitude": -75.9064264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wright Twp Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_714807388",
+    "name": "Gore Road Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.260522,
+    "longitude": -76.4609142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gore Road Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_722063160",
+    "name": "Penifield Canine Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.7061664,
+    "longitude": -73.4647788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Penifield Canine Park"
+    }
+  },
+  {
+    "place_id": "osm_723277960",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0111699,
+    "longitude": -73.8427754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_742711553",
+    "name": "Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8555795,
+    "longitude": -73.8705819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_757947200",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1390686,
+    "longitude": -79.1163516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_771729803",
+    "name": "The Dog Park at Cobbs Hill",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1433861,
+    "longitude": -77.5676996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "The Dog Park at Cobbs Hill",
+      "website": "https://www.cityofrochester.gov/dogpark/"
+    }
+  },
+  {
+    "place_id": "osm_773875473",
+    "name": "Milton Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.6151191,
+    "longitude": -73.127221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Milton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_776809630",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6506777,
+    "longitude": -73.7042101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Rensselaer",
+      "addr:postcode": "12144",
+      "addr:state": "NY",
+      "addr:street": "Van Allen Way",
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_784313154",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4448706,
+    "longitude": -73.2129463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_793080818",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.40776,
+    "longitude": -74.3122179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Goshen Parks and Recreation",
+      "operator:type": "public/government"
+    }
+  },
+  {
+    "place_id": "osm_793657418",
+    "name": "Shelburne Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.3842911,
+    "longitude": -73.2397221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Shelburne Dog Park",
+      "source": "survey;gps"
+    }
+  },
+  {
+    "place_id": "osm_794492018",
+    "name": "Memorial Centre Off-Leash Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.240527,
+    "longitude": -76.4994869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Memorial Centre Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_801930519",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6649774,
+    "longitude": -79.3378404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_807561578",
+    "name": "Amherst Paw Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0538015,
+    "longitude": -78.7194272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Amherst",
+      "addr:housenumber": "550",
+      "addr:postcode": "14051",
+      "addr:state": "NY",
+      "addr:street": "Smith Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Amherst Paw Park",
+      "website": "https://www.thepawpark.org/"
+    }
+  },
+  {
+    "place_id": "osm_810075631",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8226251,
+    "longitude": -73.972822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_810606668",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6557669,
+    "longitude": -79.354048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_827914758",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.1007324,
+    "longitude": -79.3396006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_831925308",
+    "name": "Eldridge Park Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1125526,
+    "longitude": -76.8177742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Eldridge Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_832350133",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6453464,
+    "longitude": -79.3626431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_834778605",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.3674226,
+    "longitude": -77.3095304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_835374099",
+    "name": "Shandaken Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1224164,
+    "longitude": -74.3994785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shandaken Dog Park",
+      "official_name": "Shandaken Dog Park & Agility Center"
+    }
+  },
+  {
+    "place_id": "osm_840711920",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1185616,
+    "longitude": -79.058932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_849040445",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.5625732,
+    "longitude": -77.2512408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_855003571",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.3843152,
+    "longitude": -75.6740285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_855004617",
+    "name": "Abington Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.4829299,
+    "longitude": -75.7298523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Abington Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_857378065",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.4020007,
+    "longitude": -78.7649623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_865448804",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0605623,
+    "longitude": -77.694963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:state": "NY",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_867727073",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7238645,
+    "longitude": -79.4295474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_875383903",
+    "name": "Tower Hill Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.9125301,
+    "longitude": -79.4507736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Tower Hill Dog Park",
+      "operator": "City of Richmond Hill",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_879396101",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6675029,
+    "longitude": -79.3421397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "Construction of temp dog park during Ontario Line Construction replacing one west of this location."
+    }
+  },
+  {
+    "place_id": "osm_886466898",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7452141,
+    "longitude": -73.1630227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_890898242",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6828054,
+    "longitude": -79.3670795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_909417473",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6974359,
+    "longitude": -79.3708889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_923127698",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.0507429,
+    "longitude": -74.2888401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_926326024",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.5110349,
+    "longitude": -76.4685628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_931573966",
+    "name": "South Dundas Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.8983217,
+    "longitude": -75.1737874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South Dundas Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_931805186",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6777585,
+    "longitude": -79.3246542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "Survey exact location of the dog park",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_935882218",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.883747,
+    "longitude": -73.882847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_949156136",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1684702,
+    "longitude": -79.0337053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_954377881",
+    "name": "Oakes Road Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.2158926,
+    "longitude": -79.6105342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Grimsby",
+      "addr:housenumber": "600",
+      "addr:province": "ON",
+      "addr:street": "Winston Road",
+      "leisure": "dog_park",
+      "name": "Oakes Road Dog Run",
+      "operator": "Town of Grimsby",
+      "operator:type": "government",
+      "website": "https://www.grimsby.ca/en/parks-recreation-culture/leash-free-dog-parks.aspx"
+    }
+  },
+  {
+    "place_id": "osm_954382758",
+    "name": "Southward Leash-Free Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1505291,
+    "longitude": -79.5817944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Southward Leash-Free Dog Park",
+      "operator": "Town of Grimsby",
+      "operator:type": "government",
+      "source": "https://www.grimsby.ca/en/parks-recreation-culture/leash-free-dog-parks.aspx;local knowledge",
+      "website": "https://www.grimsby.ca/en/parks-recreation-culture/leash-free-dog-parks.aspx"
+    }
+  },
+  {
+    "place_id": "osm_954426065",
+    "name": "Steve McDonnell Leash Free Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1953298,
+    "longitude": -79.5365368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "chan",
+      "leisure": "dog_park",
+      "material": "steel",
+      "name": "Steve McDonnell Leash Free Dog Park",
+      "operator": "Town of Grimsby",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_957652595",
+    "name": "Oswego Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.4733705,
+    "longitude": -76.4764213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Oswego Dog Park",
+      "operator": "City of Oswego",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_960095077",
+    "name": "West Hills Small Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8125369,
+    "longitude": -73.4371739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West Hills Small Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_960095078",
+    "name": "West Hills Large Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8004639,
+    "longitude": -73.4207926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West Hills Large Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_961081146",
+    "name": "Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8346922,
+    "longitude": -73.2205431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_965091795",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7235382,
+    "longitude": -73.8506594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "check_date": "2025-07-08",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_970512154",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8705106,
+    "longitude": -73.0510313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_970928046",
+    "name": "Sweden Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.2022425,
+    "longitude": -77.972941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sweden Dog Park",
+      "website": "https://www.townofsweden.org/sweden-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_971475678",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8807266,
+    "longitude": -72.933719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_971813219",
+    "name": "Heritage Oyster Bay Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8564108,
+    "longitude": -73.5411891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Heritage Oyster Bay Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_977037087",
+    "name": "Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7751765,
+    "longitude": -73.4470719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run",
+      "operator": "Nassua County",
+      "operator:type": "local_authority"
+    }
+  },
+  {
+    "place_id": "osm_978841229",
+    "name": "Isaac Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9192048,
+    "longitude": -72.8181158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Isaac Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_979913845",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6607337,
+    "longitude": -79.3628929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_980789051",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1150094,
+    "longitude": -77.4750726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Penfield",
+      "addr:housenumber": "99",
+      "addr:postcode": "14526",
+      "addr:state": "NY",
+      "addr:street": "Whitney Road",
+      "leisure": "dog_park",
+      "operator": "Town of Perinton",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_981872361",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7014584,
+    "longitude": -79.3318819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_994034817",
+    "name": "Dog Park at Masthope",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.5118454,
+    "longitude": -75.0277785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Dog Park at Masthope",
+      "operator": "Masthope Mountain Community",
+      "operator:type": "private",
+      "website": "http://masthope.org/amenities.aspx"
+    }
+  },
+  {
+    "place_id": "osm_1007989640",
+    "name": "Woodland Estates Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1192749,
+    "longitude": -77.5026522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Woodland Estates Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1013174811",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.4523921,
+    "longitude": -76.44827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1023709746",
+    "name": "Manchester Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1857396,
+    "longitude": -73.051004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Manchester Dog Park",
+      "opening_hours": "dawn-dusk",
+      "phone": "+1-802-362-3959",
+      "website": "https://manchesterdogparkvt.org"
+    }
+  },
+  {
+    "place_id": "osm_1026582721",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.7971837,
+    "longitude": -77.805953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1030509349",
+    "name": "Day Use Leash Free area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.3997002,
+    "longitude": -79.7583934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Day Use Leash Free area",
+      "website": "https://www.ontarioparks.com/park/brontecreek/rules"
+    }
+  },
+  {
+    "place_id": "osm_1034670923",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1393155,
+    "longitude": -75.9413962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1034702505",
+    "name": "Dogsview Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.739153,
+    "longitude": -79.4790604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Dogsview Park",
+      "name:fr": "Caniparc",
+      "surface": "woodchips",
+      "website": "https://en.downsviewpark.ca/nature/dogsviewpark"
+    }
+  },
+  {
+    "place_id": "osm_1035870192",
+    "name": "Hudson Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.2585945,
+    "longitude": -73.7901224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Hudson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1036055463",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1960371,
+    "longitude": -79.7797316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1040953221",
+    "name": "Monkton Community Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.2451352,
+    "longitude": -73.1419431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Monkton Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1044341190",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7977784,
+    "longitude": -73.627991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Incorporated Village of East Hills"
+    }
+  },
+  {
+    "place_id": "osm_1055531893",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9132963,
+    "longitude": -77.7358844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1059310399",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.098711,
+    "longitude": -77.4188201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1060295333",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.5454333,
+    "longitude": -79.1796915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1062439809",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6815734,
+    "longitude": -75.7616022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1062460552",
+    "name": "Centre Island Beach Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9113133,
+    "longitude": -73.5357546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Centre Island Beach Dog Park",
+      "operator": "Town of Oyster Bay",
+      "operator:type": "government",
+      "operator:wikidata": "Q129361"
+    }
+  },
+  {
+    "place_id": "osm_1069101624",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.773201,
+    "longitude": -77.8573597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "opening_hours": "24/7",
+      "operator": "Brairwood Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1071393475",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6478896,
+    "longitude": -79.4316539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "description": "Informal off-leash dog park supported by the owner.",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "note": "June 2022: Informal agreement established c2010s between community and the owner (TCDSB) to allow use of the grounds as an off-leash dog park. The school board provides waste receptacles. The name is colloquially understood started from the instagram acct",
+      "website": "https://instagram.com/dogparkshitpark?igshid=YmMyMTA2M2Y="
+    }
+  },
+  {
+    "place_id": "osm_1071397925",
+    "name": "The Dog Bowl",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6485563,
+    "longitude": -79.4148105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Unenclosed off-leash dog area (approximate)",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "The Dog Bowl"
+    }
+  },
+  {
+    "place_id": "osm_1071705727",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1173691,
+    "longitude": -73.7382377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1072895587",
+    "name": "Bailey's Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9307345,
+    "longitude": -75.9751885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bailey's Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1073228190",
+    "name": "Forest Park Barking Lot",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7103943,
+    "longitude": -73.836744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "description": "Dog park with two separately fenced sections: a section for small dogs (up to 30 lbs) and a large dogs (30lbs and over) / all dogs section. The dog park is supported and maintained by community volunteers.",
+      "leisure": "dog_park",
+      "name": "Forest Park Barking Lot",
+      "small_dog": "separate",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1076432747",
+    "name": "Garvies Point Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8582749,
+    "longitude": -73.6445649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Garvies Point Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1079911682",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5342987,
+    "longitude": -77.3562998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1080048782",
+    "name": "Dennis Brian Murray Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8564849,
+    "longitude": -73.6251496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dennis Brian Murray Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1081023746",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6996634,
+    "longitude": -73.2774835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1083577767",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8036106,
+    "longitude": -73.6503954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1086949015",
+    "name": "Scanlon Creek Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.1481567,
+    "longitude": -79.5709765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Scanlon Creek Bark Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Lake Simcoe Region Conservation Authority",
+      "website": "https://www.lsrca.on.ca/enjoytheoutdoors/off-leash-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1095413754",
+    "name": "Hartman Road Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6506321,
+    "longitude": -73.8283517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Hartman Road Dog Park",
+      "operator": "City of Albany",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1103874010",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7905688,
+    "longitude": -73.7103712,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Great Neck Park District"
+    }
+  },
+  {
+    "place_id": "osm_1107096494",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.7963218,
+    "longitude": -73.744202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1110758626",
+    "name": "Memorial Park Off-Leash Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.4784461,
+    "longitude": -79.7243293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Memorial Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_1110915305",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.0942188,
+    "longitude": -75.9009866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1112306299",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7062382,
+    "longitude": -79.3938912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1121918606",
+    "name": "The Pocket",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6777278,
+    "longitude": -79.3344199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "The Pocket"
+    }
+  },
+  {
+    "place_id": "osm_1121923667",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1547435,
+    "longitude": -75.8922367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1124021277",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8015402,
+    "longitude": -73.9111637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1125967256",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1912097,
+    "longitude": -76.2499412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1131759102",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.4011989,
+    "longitude": -73.7273001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1134215304",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.5792647,
+    "longitude": -73.5253972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1135764150",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0164194,
+    "longitude": -78.9568986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1139011856",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.2678142,
+    "longitude": -75.8981567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1149910363",
+    "name": "Cathedral for Pets Ministry Space",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7189635,
+    "longitude": -73.6438374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cathedral for Pets Ministry Space"
+    }
+  },
+  {
+    "place_id": "osm_1153931569",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.0935906,
+    "longitude": -77.5848043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "area is approximate"
+    }
+  },
+  {
+    "place_id": "osm_1164701524",
+    "name": "Dog Park at Tanner Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6595093,
+    "longitude": -73.3949523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park at Tanner Park"
+    }
+  },
+  {
+    "place_id": "osm_1167220403",
+    "name": "Saratoga Spa State Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0651424,
+    "longitude": -73.7868849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Saratoga Springs",
+      "addr:housenumber": "10",
+      "addr:postcode": "12866",
+      "addr:state": "NY",
+      "addr:street": "Crescent Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Saratoga Spa State Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1171743837",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1683276,
+    "longitude": -79.2467645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1174460996",
+    "name": "Christopher Morley Park Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7860593,
+    "longitude": -73.6629434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Christopher Morley Park Dog Run",
+      "operator": "County of Nassau",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1178493141",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1021524,
+    "longitude": -75.8356736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "lit": "no",
+      "opening_hours": "24/7",
+      "operator": "Love's Travel Stops",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1180027054",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8619773,
+    "longitude": -79.2275082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1182586605",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.9363519,
+    "longitude": -74.0418947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1186549254",
+    "name": "Courtice Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8885813,
+    "longitude": -78.7900474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Courtice",
+      "addr:housenumber": "1595",
+      "addr:province": "Ontario",
+      "addr:street": "Prestonvale Road",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Courtice Dog Park",
+      "operator": "Municipality of Clarington",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1197596522",
+    "name": "Ithaca Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.4568681,
+    "longitude": -76.5163815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ithaca Dog Park",
+      "surface": "grass",
+      "wikidata": "Q6094491",
+      "wikipedia": "en:Ithaca Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1202021063",
+    "name": "Cornell Community Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8868518,
+    "longitude": -79.2225043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cornell Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1204066778",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.850537,
+    "longitude": -73.8209924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208206013",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6764636,
+    "longitude": -79.3960336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209203857",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6825458,
+    "longitude": -79.4097438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1215088451",
+    "name": "Olde English Downtown Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6534807,
+    "longitude": -73.7495705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "comment": "opened in 2017",
+      "leisure": "dog_park",
+      "name": "Olde English Downtown Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_1218389638",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6800993,
+    "longitude": -73.795471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1222803118",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6219616,
+    "longitude": -79.4906381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1243495403",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8745993,
+    "longitude": -76.2682221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1245960782",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0740232,
+    "longitude": -77.4959204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "fenced": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1246463560",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.2336176,
+    "longitude": -77.9096957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1248696985",
+    "name": "Uxbridge Off-Leash Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.105142,
+    "longitude": -79.1450852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access:conditional": "no @ (dusk-dawn)",
+      "addr:city": "Uxbridge",
+      "addr:housenumber": "7239",
+      "addr:postcode": "L9P 1W9",
+      "addr:province": "Ontario",
+      "addr:street": "Concession Road 6",
+      "leisure": "dog_park",
+      "name": "Uxbridge Off-Leash Dog Park",
+      "operator": "Township of Uxbridge",
+      "operator:type": "public",
+      "website": "https://www.uxbridge.ca/en/explore-and-play/off-leash-dog-park.aspx"
+    }
+  },
+  {
+    "place_id": "osm_1248950821",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.2952995,
+    "longitude": -77.800838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1252668584",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6203892,
+    "longitude": -79.5220603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:housenumber": "28",
+      "addr:street": "Zorra Street",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1254613945",
+    "name": "Lawrence Township Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.0074989,
+    "longitude": -78.4215577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Lawrence Township Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1265557897",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1488108,
+    "longitude": -77.5181207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1272385588",
+    "name": "Bloomsburg Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9937005,
+    "longitude": -76.4446577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bloomsburg Dog Park",
+      "website": "https://bloomsburgdogpark.com/node/4"
+    }
+  },
+  {
+    "place_id": "osm_1272618134",
+    "name": "James Moore Quinte Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.1549569,
+    "longitude": -77.3870019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "James Moore Quinte Dog Park",
+      "note": "For larger dogs"
+    }
+  },
+  {
+    "place_id": "osm_1277618787",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9588321,
+    "longitude": -77.2269257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1280886627",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.145439,
+    "longitude": -79.4762645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1282035527",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.7243783,
+    "longitude": -73.250142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284767587",
+    "name": "Camden Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7184574,
+    "longitude": -79.7940698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Camden Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1290602787",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5952189,
+    "longitude": -75.6305327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1290753858",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.641063,
+    "longitude": -79.3797922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1292962923",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.1036565,
+    "longitude": -77.6222047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1296467790",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.7333939,
+    "longitude": -73.6743545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1298533273",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.986193,
+    "longitude": -76.5463233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1300145451",
+    "name": "Dog Park at Waubeeka Family Campground",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1161605,
+    "longitude": -73.5458896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Dog Park at Waubeeka Family Campground",
+      "operator": "Waubeeka Family Campground",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1301232790",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.2009043,
+    "longitude": -77.6369868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "The Eastman Reserve",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1306474948",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.875816,
+    "longitude": -78.8555301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1316242139",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9225103,
+    "longitude": -78.916584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "opening_hours": "sunrise-sunset",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "place_id": "osm_1333044573",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6241693,
+    "longitude": -79.4924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1337593756",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6466798,
+    "longitude": -79.4618975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1337593757",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6477117,
+    "longitude": -79.4615896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1341423550",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.6893335,
+    "longitude": -73.7241123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1344363984",
+    "name": "Innisfil Dog Beach",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.3245905,
+    "longitude": -79.5338435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Innisfil Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_1344668748",
+    "name": "Washago Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.7494067,
+    "longitude": -79.3380177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Washago Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1353384371",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.5636486,
+    "longitude": -75.7945419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Factoryville",
+      "addr:postcode": "18419",
+      "addr:state": "PA",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1359619403",
+    "name": "Hancock Hounds Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.9560311,
+    "longitude": -75.2949107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hancock Hounds Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1366075627",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.8709283,
+    "longitude": -79.0549813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1368602265",
+    "name": "Riverside Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.4778729,
+    "longitude": -75.1786952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Hawley",
+      "addr:housenumber": "757",
+      "addr:postcode": "18428",
+      "addr:state": "PA",
+      "addr:street": "Church Street",
+      "leisure": "dog_park",
+      "name": "Riverside Dog Park",
+      "operator": "Hawley Borough",
+      "operator:type": "public/government",
+      "website": "https://www.facebook.com/riversidedogpark19/?_rdr"
+    }
+  },
+  {
+    "place_id": "osm_1369808798",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.726014,
+    "longitude": -73.7750883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1375530491",
+    "name": "Kew Gardens Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6659651,
+    "longitude": -79.2972448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Kew Gardens Dog Park",
+      "source": "https://www.toronto.ca/community-people/animals-pets/pets-in-the-city/dog-off-leash-areas/"
+    }
+  },
+  {
+    "place_id": "osm_1375578462",
+    "name": "Barking Lot",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.125057,
+    "longitude": -78.9866081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Barking Lot"
+    }
+  },
+  {
+    "place_id": "osm_1376321778",
+    "name": "Harrison Hills Park Dog Area",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6490104,
+    "longitude": -79.7000068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Harrison Hills Park Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1377082611",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.240745,
+    "longitude": -79.49668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377317528",
+    "name": "Remington Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.0548405,
+    "longitude": -75.765213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:street": "Remington Pond Road",
+      "leisure": "dog_park",
+      "name": "Remington Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1377318766",
+    "name": "Bridgewater Apartments Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.9777538,
+    "longitude": -73.8632822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Central Bark",
+      "leisure": "dog_park",
+      "name": "Bridgewater Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1377490709",
+    "name": "Philipsburg Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9037776,
+    "longitude": -78.2113286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Philipsburg",
+      "addr:housenumber": "1369",
+      "addr:postcode": "16866",
+      "addr:state": "PA",
+      "addr:street": "East Pine Street",
+      "leisure": "dog_park",
+      "name": "Philipsburg Dog Park",
+      "website": "https://www.facebook.com/philipsburgdogpark/"
+    }
+  },
+  {
+    "place_id": "osm_1379452285",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.7031725,
+    "longitude": -74.6216095,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1379614595",
+    "name": "Huntington Park Off-Leash Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8342372,
+    "longitude": -79.3879191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "amenity": "waste_basket",
+      "leisure": "dog_park",
+      "name": "Huntington Park Off-Leash Dog Park",
+      "operator": "City of Markham"
+    }
+  },
+  {
+    "place_id": "osm_1408268414",
+    "name": "Newbridge Road Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6501295,
+    "longitude": -73.5341589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bellmore",
+      "addr:housenumber": "2858",
+      "addr:postcode": "11710",
+      "addr:state": "NY",
+      "addr:street": "Shore Road",
+      "leisure": "dog_park",
+      "name": "Newbridge Road Dog Park",
+      "operator": "Town of Hempstead",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1412961949",
+    "name": "Kamp K9 - Pet Playground",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.6591692,
+    "longitude": -75.6919834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Kamp K9 - Pet Playground"
+    }
+  },
+  {
+    "place_id": "osm_1413431577",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.2592904,
+    "longitude": -79.7433705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436350",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.1709854,
+    "longitude": -79.0468814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436448",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.0259526,
+    "longitude": -76.3193873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413436737",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.5171565,
+    "longitude": -76.1114087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1415732908",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 44.2513337,
+    "longitude": -76.4596084,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1417053252",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6714699,
+    "longitude": -79.4918627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1418542004",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6461624,
+    "longitude": -79.349499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1420862809",
+    "name": "Craig park dog park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.1645004,
+    "longitude": -77.0950557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Craig park dog park"
+    }
+  },
+  {
+    "place_id": "osm_1426088793",
+    "name": "Central Bark",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.5561611,
+    "longitude": -74.4515954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Central Bark"
+    }
+  },
+  {
+    "place_id": "osm_1426125022",
+    "name": "Paws Place Dog Park at Ward Acres",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9566388,
+    "longitude": -73.7817706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "New Rochelle",
+      "addr:housenumber": "300",
+      "addr:postcode": "10804",
+      "addr:state": "NY",
+      "addr:street": "Broadfield Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Paws Place Dog Park at Ward Acres",
+      "website": "https://www.wardacresconservancy.org/paws-place"
+    }
+  },
+  {
+    "place_id": "osm_1426745766",
+    "name": "Conklin 'Raceway' Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 42.0849122,
+    "longitude": -75.8319337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Conklin",
+      "addr:housenumber": "956",
+      "addr:postcode": "13748",
+      "addr:state": "NY",
+      "addr:street": "Conklin Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Conklin 'Raceway' Dog Park",
+      "operator": "Town of Conkliln",
+      "operator:type": "government_facility-public"
+    }
+  },
+  {
+    "place_id": "osm_1430100901",
+    "name": "Rye Dog Beach",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.9620104,
+    "longitude": -73.6773884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Rye Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_1431379133",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6392068,
+    "longitude": -79.4757298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1433937924",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6583626,
+    "longitude": -79.3589518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1435797753",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6393645,
+    "longitude": -79.5833975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1445459074",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.6983156,
+    "longitude": -79.2841922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1476308463",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0397026,
+    "longitude": -73.8647172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1485738250",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.8282159,
+    "longitude": -79.4642862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1495570944",
+    "name": "Dog Run",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0157407,
+    "longitude": -77.8313979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_6601675",
+    "name": "Tudek Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8003279,
+    "longitude": -77.8908282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tudek Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_9509692",
+    "name": "Linkwood Lane Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7129653,
+    "longitude": -79.3246978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Linkwood Lane Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_10029306",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.0810278,
+    "longitude": -73.8267402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16518037",
+    "name": "Cornwall Bark Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 41.4242043,
+    "longitude": -74.0411125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cornwall Bark Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_17301171",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 40.8190275,
+    "longitude": -73.8776453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18677241",
+    "name": "Dog Park",
+    "formatted_address": ", New York, USA",
+    "latitude": 43.7168836,
+    "longitude": -79.3836539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

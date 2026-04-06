@@ -1,0 +1,2393 @@
+[
+  {
+    "place_id": "osm_1517000646",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3030633,
+    "longitude": -86.0703659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4073902101",
+    "name": "Dog Exercise Area",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 31.6782735,
+    "longitude": -85.0537386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_5333262785",
+    "name": "Loch Haven Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4056618,
+    "longitude": -86.7768743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Hoover",
+      "addr:housenumber": "3469",
+      "addr:postcode": "35216",
+      "addr:state": "AL",
+      "addr:street": "Loch Haven Drive",
+      "description": "Leash free dog park.  Small/Medium and Large dog park. ",
+      "leisure": "dog_park",
+      "name": "Loch Haven Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_8440843520",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.7717162,
+    "longitude": -86.4711372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8638643301",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.637124,
+    "longitude": -86.8690933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Mount Olive",
+      "addr:housenumber": "2191",
+      "addr:postcode": "35117",
+      "addr:state": "AL",
+      "addr:street": "Fieldstown Road",
+      "leisure": "dog_park",
+      "operator": "City of Gardendale",
+      "operator:type": "government",
+      "website": "https://www.cityofgardendale.com/parksrec/page/clemons-complex"
+    }
+  },
+  {
+    "place_id": "osm_9848131393",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4691786,
+    "longitude": -86.8232685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12195090937",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.0923889,
+    "longitude": -88.0044653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_12592442933",
+    "name": "The Barkery",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5251277,
+    "longitude": -86.8060758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "The Barkery",
+      "opening_hours": "Mo-Fr 12:00-19:00; Sa-Su 10:00-18:00",
+      "website": "https://citywalkbham.com/barkery/"
+    }
+  },
+  {
+    "place_id": "osm_13413383301",
+    "name": "Love's Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.7490911,
+    "longitude": -85.3831324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Love's Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_84667213",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3532255,
+    "longitude": -87.1778752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_87770885",
+    "name": "Downtown Dog Spot Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7383767,
+    "longitude": -86.5873247,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Huntsville",
+      "addr:state": "AL",
+      "addr:street": "Cleveland Avenue Northwest",
+      "layer": "1",
+      "leisure": "dog_park",
+      "name": "Downtown Dog Spot Park",
+      "website": "https://www.huntsvilleal.gov/environment/parks-recreation/parks-and-nature/dog-parks/"
+    }
+  },
+  {
+    "place_id": "osm_207799654",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.2148495,
+    "longitude": -87.5184055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_259307252",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2316685,
+    "longitude": -85.8781903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_299287357",
+    "name": "Longview Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5715626,
+    "longitude": -85.0885197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Longview Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_305928717",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3610817,
+    "longitude": -87.3364864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1.5",
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_337717030",
+    "name": "Remy's Dog Park (Large)",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4475541,
+    "longitude": -86.8597436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Remy's Dog Park (Large)"
+    }
+  },
+  {
+    "place_id": "osm_337717031",
+    "name": "Remy's Dog Park (Small)",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4472137,
+    "longitude": -86.860214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Remy's Dog Park (Small)"
+    }
+  },
+  {
+    "place_id": "osm_352905328",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.587415,
+    "longitude": -85.5455061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_361625590",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6544879,
+    "longitude": -88.1827671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_434316883",
+    "name": "Regency Park Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.5110803,
+    "longitude": -87.1761441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Regency Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_434316884",
+    "name": "Bayview Park Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.430979,
+    "longitude": -87.1911731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Pensacola",
+      "addr:postcode": "32503",
+      "addr:state": "FL",
+      "leisure": "dog_park",
+      "name": "Bayview Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_435740887",
+    "name": "Beulah Regional Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.5166252,
+    "longitude": -87.3737823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Pensacola",
+      "addr:housenumber": "7820",
+      "addr:postcode": "32526",
+      "addr:state": "FL",
+      "addr:street": "Mobile Highway",
+      "leisure": "dog_park",
+      "name": "Beulah Regional Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_436569028",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7093982,
+    "longitude": -86.7050627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "natural": "grass"
+    }
+  },
+  {
+    "place_id": "osm_444808908",
+    "name": "Mill Creek Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7049064,
+    "longitude": -86.76884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Mill Creek Dog Park",
+      "website": "http://www.madisonal.gov/index.aspx?NID=787"
+    }
+  },
+  {
+    "place_id": "osm_444905442",
+    "name": "Creekwood Park Dog Spot",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7368479,
+    "longitude": -86.701948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Creekwood Park Dog Spot"
+    }
+  },
+  {
+    "place_id": "osm_444908270",
+    "name": "Astro Dog Spot",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.6011636,
+    "longitude": -86.5457857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Southside Dog Spot",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Astro Dog Spot"
+    }
+  },
+  {
+    "place_id": "osm_483327422",
+    "name": "Small Dog Area",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7379003,
+    "longitude": -86.5876445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_484244189",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7520841,
+    "longitude": -86.6881245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_484765061",
+    "name": "Huntsville K9 Training Field",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.6806676,
+    "longitude": -86.5914009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Huntsville K9 Training Field",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_550037896",
+    "name": "Soundview Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.4089276,
+    "longitude": -86.7629426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Soundview Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_552496704",
+    "name": "Guntersville Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.3554625,
+    "longitude": -86.3166807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Guntersville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_554599094",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.4214188,
+    "longitude": -86.8536777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Large Breed",
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_565607067",
+    "name": "Destin Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3900842,
+    "longitude": -86.4589884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Destin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_566725327",
+    "name": "Dog Park at Lake Shelby",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2538692,
+    "longitude": -87.6671626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park at Lake Shelby"
+    }
+  },
+  {
+    "place_id": "osm_568554397",
+    "name": "Black Creek Bark Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.6186618,
+    "longitude": -86.8035156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Black Creek Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_584262867",
+    "name": "Whiting Pines Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6245741,
+    "longitude": -87.0605835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Whiting Pines Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_585763959",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.5568813,
+    "longitude": -87.2691656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_586639110",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.4664139,
+    "longitude": -87.1981354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_601127541",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.1565329,
+    "longitude": -86.8473203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_603483283",
+    "name": "Dog Walk Area",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2547884,
+    "longitude": -87.6839944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Walk Area"
+    }
+  },
+  {
+    "place_id": "osm_605643695",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7593609,
+    "longitude": -86.7385938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_617106669",
+    "name": "Good Dog Park & Bar",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5136453,
+    "longitude": -86.7993043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Birmingham",
+      "addr:housenumber": "2307",
+      "addr:postcode": "35233",
+      "addr:state": "AL",
+      "addr:street": "1st Avenue South",
+      "leisure": "dog_park",
+      "name": "Good Dog Park & Bar",
+      "website": "https://gooddogpark.org/birmingham-alabama/"
+    }
+  },
+  {
+    "place_id": "osm_620684891",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4124546,
+    "longitude": -86.6272248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_621046805",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.6199443,
+    "longitude": -88.4436727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_627107662",
+    "name": "Barkberry Place Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.411291,
+    "longitude": -86.8102294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barkberry Place Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_629151171",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2953499,
+    "longitude": -87.5486721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Orange Beach",
+      "addr:housenumber": "27920",
+      "addr:postcode": "36561",
+      "addr:state": "AL",
+      "addr:street": "Canal Road",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_665696103",
+    "name": "Scottsboro Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.6580802,
+    "longitude": -86.0396762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Scottsboro Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_669016822",
+    "name": "Hartselle Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.4524879,
+    "longitude": -86.9387112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hartselle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_669577701",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.4059882,
+    "longitude": -86.635779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_700441858",
+    "name": "LaFeyette Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7096282,
+    "longitude": -85.2843282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "LaFeyette Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_705862545",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.7624832,
+    "longitude": -86.5654442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_752102274",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5930564,
+    "longitude": -85.1032139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_758214036",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 31.4164022,
+    "longitude": -86.0639743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_807844648",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.7678502,
+    "longitude": -86.588486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_821919827",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.3091417,
+    "longitude": -86.8091954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_825340475",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.3832905,
+    "longitude": -86.7938571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_825503167",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4087214,
+    "longitude": -86.8021634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_855160494",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.2750123,
+    "longitude": -86.2299692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_857925897",
+    "name": "Avenues of Lakeshore Bark Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4323999,
+    "longitude": -86.8453344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Avenues of Lakeshore Bark Park",
+      "operator": "Avenues of Lakeshore"
+    }
+  },
+  {
+    "place_id": "osm_870061921",
+    "name": "Benefield's Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.1854145,
+    "longitude": -86.8278052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Benefield's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_881002452",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2845389,
+    "longitude": -86.0153874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_936849771",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3787364,
+    "longitude": -86.2836097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_988753980",
+    "name": "Bark City Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.9516019,
+    "longitude": -85.2463946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Bark City Dog Park",
+      "pets_allowed": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1016960572",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3971092,
+    "longitude": -87.2686446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1043340380",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.4894884,
+    "longitude": -84.9604954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1067307899",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.3571971,
+    "longitude": -84.9501126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1077131615",
+    "name": "North Woof Community Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.8167507,
+    "longitude": -87.6829673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Florence",
+      "addr:state": "AL",
+      "addr:street": "Sherrod Avenue",
+      "leisure": "dog_park",
+      "name": "North Woof Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1077578388",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4280949,
+    "longitude": -86.7311429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1089364828",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2024873,
+    "longitude": -85.6542955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1102753298",
+    "name": "Riverwood Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.715549,
+    "longitude": -86.572176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Riverwood Dog Park",
+      "operator": "Riverwood Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1112782681",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.2117832,
+    "longitude": -85.6614681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1134506153",
+    "name": "Fetch Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.4737946,
+    "longitude": -84.9857005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Columbus",
+      "addr:housenumber": "1432",
+      "addr:postcode": "31901",
+      "addr:state": "GA",
+      "addr:street": "5th Avenue",
+      "leisure": "dog_park",
+      "name": "Fetch Park",
+      "website": "https://fetchpark.com/locations/columbus"
+    }
+  },
+  {
+    "place_id": "osm_1136340368",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.5928453,
+    "longitude": -87.839224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1148287105",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.6506066,
+    "longitude": -86.565109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1162167866",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.9203812,
+    "longitude": -85.976625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1166138435",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3581153,
+    "longitude": -87.7022359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1176032451",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.3719983,
+    "longitude": -84.9322697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1183695525",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.3543774,
+    "longitude": -84.9637999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1183695526",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.3587364,
+    "longitude": -84.9821457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1186852154",
+    "name": "HopHounds Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6849255,
+    "longitude": -88.051422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "HopHounds Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1202109593",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.6880682,
+    "longitude": -85.1530148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208386232",
+    "name": "PetSmart Mini Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.3778716,
+    "longitude": -86.8005182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PetSmart Mini Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1231189594",
+    "name": "Dog Park Leash-Free Dog Area",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5505292,
+    "longitude": -86.5967481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park Leash-Free Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1234431950",
+    "name": "Bark Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.9972439,
+    "longitude": -86.0100045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1234755703",
+    "name": "Woodland Bark",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.949052,
+    "longitude": -86.4679551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Woodland Bark",
+      "opening_hours": "sunrise-sunset",
+      "phone": "+1 205-274-2150",
+      "small_dog": "shared",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1259809730",
+    "name": "Dog Relief Area",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.560092,
+    "longitude": -86.7519046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Relief Area"
+    }
+  },
+  {
+    "place_id": "osm_1267184420",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6774699,
+    "longitude": -88.0661348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1273235152",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7757093,
+    "longitude": -86.9292748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1302935546",
+    "name": "Cherry Palmer Memorial Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.6697195,
+    "longitude": -86.6842371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Cherry Palmer Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1303123074",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6656535,
+    "longitude": -88.1117751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1306208437",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.673772,
+    "longitude": -86.5366816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1333721749",
+    "name": "Optimist Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6033778,
+    "longitude": -87.0617792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Milton",
+      "addr:housenumber": "6244",
+      "addr:postcode": "32583",
+      "addr:state": "FL",
+      "addr:street": "Old Bagdad Highway",
+      "leisure": "dog_park",
+      "name": "Optimist Dog Park",
+      "operator": "Santa Rosa County",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1336866676",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6746447,
+    "longitude": -88.0941601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1339672498",
+    "name": "Cove Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.6539592,
+    "longitude": -86.4781201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Cove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1340175968",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7370886,
+    "longitude": -86.6657893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349285241",
+    "name": "Rocket City Dog Bar",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7227677,
+    "longitude": -86.6036754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Huntsville",
+      "addr:housenumber": "2404",
+      "addr:postcode": "35805",
+      "addr:state": "AL",
+      "addr:street": "West Clinton Avenue",
+      "leisure": "dog_park",
+      "name": "Rocket City Dog Bar"
+    }
+  },
+  {
+    "place_id": "osm_1377884753",
+    "name": "Mike Bosarge Memorial Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.4845893,
+    "longitude": -85.8087422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Mike Bosarge Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1381824482",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3836769,
+    "longitude": -87.6642047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1385647134",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.3669296,
+    "longitude": -87.3573486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444731",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.9331126,
+    "longitude": -86.1906349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413444924",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.6908142,
+    "longitude": -85.1895162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413446016",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5769198,
+    "longitude": -86.4785142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413446664",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.8448148,
+    "longitude": -86.5922057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413447194",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.5373903,
+    "longitude": -85.0826648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413447409",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.4049779,
+    "longitude": -85.9566547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413447724",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.1959992,
+    "longitude": -86.4160485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413448290",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 31.4282493,
+    "longitude": -85.6197433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "opening_hours": "24/7",
+      "operator": "Love's",
+      "operator:wikidata": "Q1872496"
+    }
+  },
+  {
+    "place_id": "osm_1413448814",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 31.4197815,
+    "longitude": -87.0072938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413449703",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.7414602,
+    "longitude": -88.1104421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413449916",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.7347363,
+    "longitude": -86.349483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413450380",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.5727035,
+    "longitude": -87.0297988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413954863",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.6820002,
+    "longitude": -88.1363535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1416359052",
+    "name": "Palmer Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.691777,
+    "longitude": -86.7713422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Palmer Dog Park",
+      "operator": "City of Madison",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1423619514",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7244569,
+    "longitude": -86.5877388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427579363",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.7406205,
+    "longitude": -86.5596355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429545499",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.6497214,
+    "longitude": -85.389341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1443553255",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.5805599,
+    "longitude": -85.1049137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1466899847",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 33.158784,
+    "longitude": -86.7345027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1469376407",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 34.6867154,
+    "longitude": -86.5053373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1469512323",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.8971951,
+    "longitude": -87.7744467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1479838674",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 32.6086167,
+    "longitude": -85.4723189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_19307613",
+    "name": "Dog Park",
+    "formatted_address": ", Alabama, USA",
+    "latitude": 30.5387493,
+    "longitude": -87.8926402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

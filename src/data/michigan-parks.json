@@ -1,0 +1,6407 @@
+[
+  {
+    "place_id": "osm_2690450376",
+    "name": "Dog Star Ranch",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.3330581,
+    "longitude": -86.2691525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Star Ranch",
+      "website": "https://www.dogstarranch.com/home.htm"
+    }
+  },
+  {
+    "place_id": "osm_2939807992",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.1450263,
+    "longitude": -85.5828154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_3018485651",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7717603,
+    "longitude": -89.9771496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "DNR map"
+    }
+  },
+  {
+    "place_id": "osm_4085649794",
+    "name": "Token Creek Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.173787,
+    "longitude": -89.3085171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Token Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_4734150734",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.406143,
+    "longitude": -88.1121212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5298398759",
+    "name": "Fort Gratiot Canine Commons",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0468597,
+    "longitude": -82.4759209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Fort Gratiot",
+      "addr:housenumber": "4788",
+      "addr:postcode": "48059",
+      "addr:state": "MI",
+      "addr:street": "Parker Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fort Gratiot Canine Commons",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_5592880146",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8389726,
+    "longitude": -86.0448399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "A dog park, split in half to facilitate both larger dogs and those under 25 lbs. Includes walking paths, benches, shaded areas, and  doggy drinking fountains.",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5696174694",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4285032,
+    "longitude": -83.3926383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5964304324",
+    "name": "Grand Circus Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3373468,
+    "longitude": -83.0497466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grand Circus Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6290179277",
+    "name": "Small Dog Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0235694,
+    "longitude": -89.3461461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_6412037429",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5323645,
+    "longitude": -85.8519563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6871237052",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4053031,
+    "longitude": -88.2019604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6871237053",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4050873,
+    "longitude": -88.2035715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7446737345",
+    "name": "Milford Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5831038,
+    "longitude": -83.6125414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Milford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_7923656809",
+    "name": "Paws 'n Play Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.6494753,
+    "longitude": -90.1722231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Marshfield",
+      "addr:housenumber": "2100",
+      "addr:postcode": "54449",
+      "addr:state": "WI",
+      "addr:street": "South Peach Avenue",
+      "leisure": "dog_park",
+      "name": "Paws 'n Play Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_8532079116",
+    "name": "Home Run Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3381425,
+    "longitude": -85.1534896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Battle Creek",
+      "addr:housenumber": "800",
+      "addr:postcode": "49017",
+      "addr:state": "MI",
+      "addr:street": "E Roosevelt Ave",
+      "leisure": "dog_park",
+      "name": "Home Run Dog Park",
+      "operator": "The Friends of Calhoun County Dog Parks Committee",
+      "operator:type": "private_non_profit",
+      "website": "https://homerundogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_8844664702",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4497047,
+    "longitude": -84.4870763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9463567318",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7122322,
+    "longitude": -85.4956661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_356675301",
+    "name": "Mark Twain Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5303344,
+    "longitude": -83.1237122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:street": "North Campbell Road",
+      "charge": "65.00 USD/non resident/year +10.00 USD/key fob;40.00 USD/residents +10.00 USD/key fob",
+      "gnis:feature_id": "631567",
+      "leisure": "dog_park",
+      "membership": "yes",
+      "name": "Mark Twain Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "wikidata": "Q49521872"
+    }
+  },
+  {
+    "place_id": "osm_9906855626",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0845701,
+    "longitude": -88.8870896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9962110677",
+    "name": "Behnke Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6096048,
+    "longitude": -82.8915748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Behnke Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_10595328721",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4712507,
+    "longitude": -83.4136042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10853581250",
+    "name": "Paw Print Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6404657,
+    "longitude": -89.0405685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Janesville",
+      "addr:housenumber": "2701",
+      "addr:postcode": "53546",
+      "addr:state": "WI",
+      "addr:street": "South Oakhill Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Paw Print Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_11030702579",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1580889,
+    "longitude": -88.1798669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11211390009",
+    "name": "EZ Dog Parkl",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6059436,
+    "longitude": -83.7971591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Howell",
+      "addr:housenumber": "230",
+      "addr:postcode": "48843",
+      "addr:state": "MI",
+      "addr:street": "Norlyn Drive",
+      "check_date": "2023-09-22",
+      "dog": "yes",
+      "image": "https://img1.wsimg.com/isteam/ip/0d9ece6d-40d6-4937-a12e-f004802f55e4/c4aaec1d-3b68-4768-917d-959ccf371638.JPG/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+      "leisure": "dog_park",
+      "name": "EZ Dog Parkl",
+      "note": "Off leash park with daily fee of $10 or monthly membership for $45 unlimited 24/7 access. \nNo children under the age of 16. \nCommunity WhatsApp group and events.",
+      "operator": "James Holly",
+      "operator:type": "private_individual",
+      "website": "https://ezdogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_12485231960",
+    "name": "Fetch Brewing Co.",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4098923,
+    "longitude": -86.3480171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Whitehall",
+      "addr:housenumber": "100",
+      "addr:postcode": "49461",
+      "addr:state": "MI",
+      "addr:street": "West Colby Street",
+      "leisure": "dog_park",
+      "name": "Fetch Brewing Co."
+    }
+  },
+  {
+    "place_id": "osm_12864881441",
+    "name": "Elizabeth Kishkon Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3245903,
+    "longitude": -82.9051924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Elizabeth Kishkon Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_12864970075",
+    "name": "Tecumseh Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3134259,
+    "longitude": -82.8904314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "fixme": "More Info Needed",
+      "leisure": "dog_park",
+      "name": "Tecumseh Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_13040186915",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2768958,
+    "longitude": -83.0600499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13202244638",
+    "name": "Dogtopia of Pewaukee",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0553113,
+    "longitude": -88.2211435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Waukesha",
+      "addr:housenumber": "W238N1700",
+      "addr:postcode": "53188",
+      "addr:state": "WI",
+      "addr:street": "Rockwood Drive",
+      "description": "Dogtopia of Pewaukee is the ultimate destination for dog daycare, boarding, and spa services in Pewaukee. Our fully supervised, open-play environment gives your pup a safe and fun space to exercise, socialize, and thrive.",
+      "email": "pewaukee@dogtopia.com",
+      "image": "https://yt3.googleusercontent.com/h9fYez0U6-sA0nXbmWb2tNF-ZnRRDyO3TFxkcHUCrV4l6mEnDtrVV0lc5zNqp5vxLs8c9WxUJw=s160-c-k-c0x00ffffff-no-rj",
+      "leisure": "dog_park",
+      "mobile": "+1-262-244-5366",
+      "name": "Dogtopia of Pewaukee",
+      "website": "https://www.dogtopia.com/pewaukee/"
+    }
+  },
+  {
+    "place_id": "osm_13326040628",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7176786,
+    "longitude": -85.6152067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13326040634",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7174995,
+    "longitude": -85.6157016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_39486577",
+    "name": "Katherine Kearney Carpenter Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1980399,
+    "longitude": -87.9190169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Katherine Kearney Carpenter Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_40505100",
+    "name": "Soldan's Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7008986,
+    "longitude": -84.5274969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Soldan's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_72473070",
+    "name": "Middleton Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1423728,
+    "longitude": -89.4801406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Middleton Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Middleton Dog Exercise Area",
+      "old_name": "MRD Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_72937727",
+    "name": "Brittingham Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0681086,
+    "longitude": -89.3855923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Brittingham Dog Park",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Brittingham Park Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_74985830",
+    "name": "Prairie Moraine Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9606468,
+    "longitude": -89.5068383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Verona",
+      "addr:housenumber": "6679",
+      "addr:postcode": "53593",
+      "addr:state": "WI",
+      "addr:street": "wesner ln",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Prairie Moraine Dog Park",
+      "operator": "Dane County",
+      "operator:type": "public",
+      "website": "https://parks-lwrd.countyofdane.com/park/PrairieMoraine",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_76281067",
+    "name": "Warner Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1266808,
+    "longitude": -89.37387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Warner Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_86802093",
+    "name": "Roverwest Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0776299,
+    "longitude": -87.8996119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Roverwest Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_119916058",
+    "name": "Yahara Heights County Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1535191,
+    "longitude": -89.4011368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Yahara Heights County Park Dog Park",
+      "name_1": "Yaharah Heights Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_119921380",
+    "name": "Quann Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0500446,
+    "longitude": -89.3851495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Quann Park Dog Park",
+      "name_1": "Quann Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_169464716",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1124459,
+    "longitude": -88.4073188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_169464717",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1128028,
+    "longitude": -88.4046559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_175084649",
+    "name": "Demetral Park Dog Off-Leash Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1063671,
+    "longitude": -89.3543288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "2297",
+      "addr:street": "Commercial Avenue",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Demetral Park Dog Off-Leash Park",
+      "source": "Manual Spec",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_191281671",
+    "name": "Carlisle Family Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6452859,
+    "longitude": -87.8663363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carlisle Family Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_211841500",
+    "name": "Park Township Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7926734,
+    "longitude": -86.160059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Park Township Dog Park",
+      "operator": "Park Township",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_217857568",
+    "name": "Pet Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1667269,
+    "longitude": -89.2252613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_239695634",
+    "name": "small dog area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5201716,
+    "longitude": -83.5585498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "small dog area"
+    }
+  },
+  {
+    "place_id": "osm_240687673",
+    "name": "Ripp Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1910397,
+    "longitude": -89.4760095,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ripp Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_246389222",
+    "name": "Stevens Point Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.5088294,
+    "longitude": -89.581988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Stevens Point",
+      "addr:housenumber": "601",
+      "addr:postcode": "54481",
+      "addr:state": "WI",
+      "addr:street": "Mason Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Stevens Point Dog Park",
+      "opening_hours": "06:00-23:00",
+      "website": "https://stevenspoint.com/158/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_256769817",
+    "name": "Davison Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0276127,
+    "longitude": -83.538972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Davison Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_257133763",
+    "name": "Capital Springs Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0237552,
+    "longitude": -89.3478272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1",
+      "leisure": "dog_park",
+      "name": "Capital Springs Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_260376315",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 46.3663691,
+    "longitude": -82.6416823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "NRCan-CanVec-10.0"
+    }
+  },
+  {
+    "place_id": "osm_260713276",
+    "name": "Baraboo Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4595209,
+    "longitude": -89.7314493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Baraboo Dog Park",
+      "source": "City of Baraboo"
+    }
+  },
+  {
+    "place_id": "osm_263444200",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4971057,
+    "longitude": -83.3419571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_266169866",
+    "name": "Swift Run Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.228995,
+    "longitude": -83.7012974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Swift Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_270269355",
+    "name": "Dog Park (Wayne County Parks)",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3427657,
+    "longitude": -83.3558087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park (Wayne County Parks)"
+    }
+  },
+  {
+    "place_id": "osm_273270545",
+    "name": "Covell Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9730586,
+    "longitude": -85.7157015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Covell Dog Park",
+      "surface": "grass",
+      "website": "https://www.grandrapidsmi.gov/Directory/Places/Parks/Covell-Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_274984291",
+    "name": "Carls",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2969308,
+    "longitude": -85.5948376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carls"
+    }
+  },
+  {
+    "place_id": "osm_282187883",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3997523,
+    "longitude": -83.5176438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_282187895",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4001808,
+    "longitude": -83.5168275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_284757827",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3169822,
+    "longitude": -83.7307896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_309272237",
+    "name": "Hund Platz",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.3312057,
+    "longitude": -83.7309131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hund Platz"
+    }
+  },
+  {
+    "place_id": "osm_310184765",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3017107,
+    "longitude": -85.6074604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_312341199",
+    "name": "Hillcrest Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9674895,
+    "longitude": -85.6374685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hillcrest Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_316615708",
+    "name": "Bay View Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0036357,
+    "longitude": -87.8965626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "yes",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "level": "1",
+      "name": "Bay View Dog Park",
+      "opening_hours": "Mo-Su 05:00-22:00,06:00-22:00",
+      "website": "https://county.milwaukee.gov/EN/Parks/Explore/Dog-Parks",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_317026973",
+    "name": "Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.8435952,
+    "longitude": -89.5959049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_318894926",
+    "name": "Sunnyside Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9874515,
+    "longitude": -89.4276683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sunnyside Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_319509026",
+    "name": "Barstow Woods",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.6290451,
+    "longitude": -84.2324795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Midland",
+      "addr:country": "US",
+      "addr:housenumber": "505",
+      "addr:postcode": "48640",
+      "addr:state": "MI",
+      "addr:street": "West Saint Andrews Road",
+      "gnis:feature_id": "620654",
+      "leisure": "dog_park",
+      "name": "Barstow Woods",
+      "natural": "wood",
+      "wikidata": "Q33348225"
+    }
+  },
+  {
+    "place_id": "osm_319862954",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5494766,
+    "longitude": -83.4184632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_439346081",
+    "name": "Small Dog Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4542612,
+    "longitude": -83.3303599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_352713347",
+    "name": "Weston Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.9074944,
+    "longitude": -89.5448307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Weston Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_358449312",
+    "name": "Midtown Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3514751,
+    "longitude": -83.0644904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Midtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_359685456",
+    "name": "Best Friends Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.0816002,
+    "longitude": -88.5313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Best Friends Dog Park",
+      "website": "http://winnebagocountydogparks.com/best-friends-dog-park-2/"
+    }
+  },
+  {
+    "place_id": "osm_361981324",
+    "name": "Tails n Trails Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.773397,
+    "longitude": -88.9656645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Milton",
+      "addr:housenumber": "886",
+      "addr:state": "WI",
+      "addr:street": "West High Street",
+      "leisure": "dog_park",
+      "name": "Tails n Trails Dog Park",
+      "website": "http://www.ci.milton.wi.us/index.aspx?nid=262"
+    }
+  },
+  {
+    "place_id": "osm_377140311",
+    "name": "Karen A Nelson Memorial Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7492026,
+    "longitude": -87.8210862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Racine",
+      "addr:housenumber": "3800",
+      "addr:state": "WI",
+      "addr:street": "Northwestern Avenue",
+      "leisure": "dog_park",
+      "name": "Karen A Nelson Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_383219183",
+    "name": "Macomb Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3297587,
+    "longitude": -83.0798057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Macomb Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_396306751",
+    "name": "Barkside Detroit",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3580326,
+    "longitude": -83.0001402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Detroit",
+      "addr:housenumber": "7968",
+      "addr:postcode": "48214",
+      "addr:state": "MI",
+      "addr:street": "Kercheval Street",
+      "building": "yes",
+      "leisure": "dog_park",
+      "name": "Barkside Detroit",
+      "website": "https://www.barksidedogbar.com/"
+    }
+  },
+  {
+    "place_id": "osm_396383527",
+    "name": "Cady Street Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4291419,
+    "longitude": -83.4856188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cady Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_406693491",
+    "name": "Novi Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4602772,
+    "longitude": -83.4670439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Novi Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_406937426",
+    "name": "Canton Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3093741,
+    "longitude": -83.5288958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Canton",
+      "addr:state": "MI",
+      "addr:street": "Denton Road",
+      "leisure": "dog_park",
+      "name": "Canton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_408954692",
+    "name": "Antigo Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.1610412,
+    "longitude": -89.163651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "2000",
+      "addr:street": "State HIghway 64",
+      "leisure": "dog_park",
+      "name": "Antigo Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_409158331",
+    "name": "City of Merrill Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.1870846,
+    "longitude": -89.7295362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "City of Merrill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_411060967",
+    "name": "Waupan Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.6458995,
+    "longitude": -88.7274149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Waupun",
+      "addr:housenumber": "N2389",
+      "addr:postcode": "53963",
+      "addr:state": "WI",
+      "addr:street": "County Highway M",
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Waupan Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_415806069",
+    "name": "City of Beloit Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5113493,
+    "longitude": -88.9963188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Beloit",
+      "addr:country": "US",
+      "addr:full": "2422 Springbrook Court, Beloit, WI 53511",
+      "addr:housenumber": "2422",
+      "addr:postcode": "53511",
+      "addr:state": "WI",
+      "addr:street": "Springbrook Court",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "City of Beloit Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "City of Beloit Parks and Recreation",
+      "operator:type": "government",
+      "website": "https://www.beloitrecreation.com/dog-park-2/"
+    }
+  },
+  {
+    "place_id": "osm_430079526",
+    "name": "Granville Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.149451,
+    "longitude": -88.0577391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Granville DEA",
+      "leisure": "dog_park",
+      "name": "Granville Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_430584840",
+    "name": "Warnimont Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9320113,
+    "longitude": -87.848557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Warnimont Dog Exercise Area",
+      "source": "http://county.milwaukee.gov/ImageLibrary/Groups/cntyParks/maps/Warnimont1.pdf"
+    }
+  },
+  {
+    "place_id": "osm_468556805",
+    "name": "Ferndale Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4565172,
+    "longitude": -83.1233945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ferndale Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469121187",
+    "name": "Hannah's Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.6202382,
+    "longitude": -84.7869798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Hannah's Bark Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_470305489",
+    "name": "Animal Hospital of Lowell Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9287835,
+    "longitude": -85.3560355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Animal Hospital of Lowell Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_470506934",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0618453,
+    "longitude": -86.202502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_475322099",
+    "name": "Shoreline Landing Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1350552,
+    "longitude": -86.2230117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shoreline Landing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_477598579",
+    "name": "Sycamore Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1123724,
+    "longitude": -89.3035332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sycamore Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479574208",
+    "name": "Towne Square Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6859711,
+    "longitude": -84.5094209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Towne Square Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479646622",
+    "name": "Estabrook Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0988055,
+    "longitude": -87.9054625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Estabrook Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_484298177",
+    "name": "K9 Korner Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.544787,
+    "longitude": -87.8358046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "K9 Korner Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_486626898",
+    "name": "Immerman Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4591432,
+    "longitude": -84.0785804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Immerman Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_490427998",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0003374,
+    "longitude": -85.5978939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_493282804",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5025018,
+    "longitude": -84.6614766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_496494982",
+    "name": "Sandy's Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.926446,
+    "longitude": -89.6630546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sandy's Bark Park",
+      "operator": "Village of Rib Mountain",
+      "owner": "Village of Rib Mountain"
+    }
+  },
+  {
+    "place_id": "osm_507898581",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.669633,
+    "longitude": -88.2662136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_507905615",
+    "name": "Union Grove Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6910332,
+    "longitude": -88.0489508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Union Grove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_518670111",
+    "name": "Off Leash Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5687181,
+    "longitude": -88.0974893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_518895142",
+    "name": "Bristol Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5596678,
+    "longitude": -88.0447664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bristol Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_519740167",
+    "name": "Wags West",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7682164,
+    "longitude": -85.6349512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wags West"
+    }
+  },
+  {
+    "place_id": "osm_522320431",
+    "name": "Cascade Hospital for Animals Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8934972,
+    "longitude": -85.5061372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cascade Hospital for Animals Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_541217735",
+    "name": "Mill Pond Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.1675571,
+    "longitude": -83.7940313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mill Pond Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_543757201",
+    "name": "Grosse Pointe Farms Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4150807,
+    "longitude": -82.9090431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grosse Pointe Farms Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_543891733",
+    "name": "Cambridge Dog Sanctuary",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2629663,
+    "longitude": -85.5659031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cambridge Dog Sanctuary"
+    }
+  },
+  {
+    "place_id": "osm_548268369",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8946541,
+    "longitude": -85.4617228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_548268371",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8948206,
+    "longitude": -85.4636278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_566145648",
+    "name": "Badger Prairie Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9999217,
+    "longitude": -89.5115862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Badger Prairie Dog Park",
+      "operator": "Dane County Parks",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_570021103",
+    "name": "Small DogPark",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2853597,
+    "longitude": -83.0048787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small DogPark"
+    }
+  },
+  {
+    "place_id": "osm_570398068",
+    "name": "Grand Arbor Reserve Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.059808,
+    "longitude": -89.5649972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Grand Arbor Reserve Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_574977056",
+    "name": "North Shore Picnic and Pet Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4267247,
+    "longitude": -89.7284618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "North Shore Picnic and Pet Area"
+    }
+  },
+  {
+    "place_id": "osm_574994796",
+    "name": "South shore picnic and dog area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4084306,
+    "longitude": -89.7293102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South shore picnic and dog area"
+    }
+  },
+  {
+    "place_id": "osm_588740936",
+    "name": "Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7162019,
+    "longitude": -85.6322126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_589689654",
+    "name": "Odana School Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0517713,
+    "longitude": -89.4693793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Odana School Park Dog Park",
+      "surface": "ground"
+    }
+  },
+  {
+    "place_id": "osm_593944525",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7400483,
+    "longitude": -84.5478874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_599435225",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4638312,
+    "longitude": -85.9565643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_612746562",
+    "name": "Ruff N Tumble Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 41.8182355,
+    "longitude": -86.256826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ruff N Tumble Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_615563452",
+    "name": "Tails n' Trails Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.666294,
+    "longitude": -86.1706378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Saugatuck",
+      "addr:housenumber": "6359",
+      "addr:postcode": "49453",
+      "addr:state": "MI",
+      "addr:street": "134th Avenue",
+      "leisure": "dog_park",
+      "name": "Tails n' Trails Dog Park",
+      "operator": "Saugatuck Township",
+      "operator:type": "government",
+      "website": "https://saugatucktownshipmi.gov/welcome-to-saugatuck-township/saugatuck-township-community-resources/parks-2/tails-n-trails-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_619002755",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1740774,
+    "longitude": -90.0787221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_619023553",
+    "name": "Pleasant Ridge Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4751328,
+    "longitude": -83.1374767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Pleasant Ridge",
+      "addr:postcode": "48069",
+      "addr:state": "MI",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Pleasant Ridge Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_634419557",
+    "name": "Off Leash Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7208819,
+    "longitude": -85.6090233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_639879866",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 41.8285104,
+    "longitude": -86.3765018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_647539395",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0142366,
+    "longitude": -85.6265989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_647539420",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0015405,
+    "longitude": -85.6226848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_653294405",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3127191,
+    "longitude": -82.9898132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_658908485",
+    "name": "Kaukauna Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.3034555,
+    "longitude": -88.2433305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kaukauna Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_662208928",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0495026,
+    "longitude": -88.0364306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_675342321",
+    "name": "Warren Close Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5473675,
+    "longitude": -88.2443056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Warren Close Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_676360394",
+    "name": "Lakeside Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.801235,
+    "longitude": -88.456669,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lakeside Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_676632449",
+    "name": "Monona Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0509804,
+    "longitude": -89.3164135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Monona",
+      "addr:housenumber": "851",
+      "addr:postcode": "53716",
+      "addr:state": "WI",
+      "addr:street": "Femrite Drive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Monona Dog Park",
+      "operator": "City of Monona",
+      "website": "https://www.mymonona.com/619/Dogs-in-Parks"
+    }
+  },
+  {
+    "place_id": "osm_676935002",
+    "name": "Jean Jacobson Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7365762,
+    "longitude": -88.2235579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jean Jacobson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_678513399",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.0188206,
+    "longitude": -82.7684434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_678531702",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.174576,
+    "longitude": -85.5653666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_689800974",
+    "name": "Bark N Brew",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.5644757,
+    "longitude": -88.0799255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Howard",
+      "addr:housenumber": "2514",
+      "addr:postcode": "54313",
+      "addr:state": "WI",
+      "addr:street": "Glendale Avenue",
+      "leisure": "dog_park",
+      "name": "Bark N Brew",
+      "website": "https://barknbrewwi.com/"
+    }
+  },
+  {
+    "place_id": "osm_705436965",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6454974,
+    "longitude": -84.4965286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_720924286",
+    "name": "Lakeland Area Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.8869435,
+    "longitude": -89.7250664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lakeland Area Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_721615038",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2598508,
+    "longitude": -82.9814135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_723015292",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.3007743,
+    "longitude": -88.3684552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_725718728",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0344463,
+    "longitude": -87.9454323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_730247725",
+    "name": "Small dog park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9980317,
+    "longitude": -89.5136868,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "description": "For small dogs only.",
+      "leisure": "dog_park",
+      "name": "Small dog park",
+      "operator": "Dane County Parks",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_731713924",
+    "name": "1820 South Apartments Dog Run",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.5846962,
+    "longitude": -84.7889958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "1820 South Apartments Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_739439722",
+    "name": "Arise Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.434939,
+    "longitude": -83.9318494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Arise Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_745147036",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3336704,
+    "longitude": -85.5338432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_757459017",
+    "name": "College Towne Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6832684,
+    "longitude": -84.5065005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "College Towne Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_761520412",
+    "name": "Brutus Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.6948324,
+    "longitude": -85.4728791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Brutus Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_764346682",
+    "name": "Love's Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6524933,
+    "longitude": -88.5417126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "check_date": "2025-06-28",
+      "leisure": "dog_park",
+      "name": "Love's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_767332475",
+    "name": "New London Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.4001823,
+    "longitude": -88.7369887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "New London Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_776039249",
+    "name": "Off Broadway Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6915037,
+    "longitude": -87.8896466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Broadway Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_777948800",
+    "name": "Riverside Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3135108,
+    "longitude": -83.0806342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Riverside Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_793699495",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0745464,
+    "longitude": -88.1590873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_796505295",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3421456,
+    "longitude": -83.3601804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_799181709",
+    "name": "Chippy's Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.1700891,
+    "longitude": -89.1550266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chippy's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_803788248",
+    "name": "Two Hearts Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.9554484,
+    "longitude": -89.6283135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Wausau",
+      "addr:housenumber": "224",
+      "addr:postcode": "54403",
+      "addr:state": "WI",
+      "addr:street": "South 4th Street",
+      "leisure": "dog_park",
+      "name": "Two Hearts Dog Park",
+      "operator": "Marathon County",
+      "operator:type": "government",
+      "owner": "City of Wausau"
+    }
+  },
+  {
+    "place_id": "osm_806888535",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.4275207,
+    "longitude": -84.8868009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_807937877",
+    "name": "Kamp K9",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9809224,
+    "longitude": -82.5304826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "KOA",
+      "brand:wikidata": "Q16988635",
+      "leisure": "dog_park",
+      "name": "Kamp K9"
+    }
+  },
+  {
+    "place_id": "osm_814645509",
+    "name": "Pontiac Lake Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6717924,
+    "longitude": -83.4440916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Pontiac Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_817754880",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7955759,
+    "longitude": -85.5102673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Caledonia",
+      "addr:housenumber": "6260",
+      "addr:postcode": "49316",
+      "addr:state": "MI",
+      "addr:street": "92nd Street Southeast",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_817926119",
+    "name": "Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.420046,
+    "longitude": -83.7651629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_831361815",
+    "name": "Mead Park Dog Beach",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.5244372,
+    "longitude": -89.5966296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mead Park Dog Beach"
+    }
+  },
+  {
+    "place_id": "osm_833066719",
+    "name": "Pawsitively Unleashed!",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.5144901,
+    "longitude": -89.569471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "building": "yes",
+      "leisure": "dog_park",
+      "name": "Pawsitively Unleashed!"
+    }
+  },
+  {
+    "place_id": "osm_839692332",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4305302,
+    "longitude": -84.3203796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_849974717",
+    "name": "Indian Lake Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1872228,
+    "longitude": -89.6361954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Indian Lake Dog Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_864181344",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4466177,
+    "longitude": -85.6361358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_864505874",
+    "name": "Pioneer Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6308257,
+    "longitude": -83.0384526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Utica",
+      "addr:housenumber": "7505",
+      "addr:postcode": "48317",
+      "addr:state": "MI",
+      "addr:street": "Hahn Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Pioneer Park Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "City of Utica",
+      "operator:type": "government",
+      "surface": "grass",
+      "website": "https://www.cityofutica.org/departments/parks___recreation/"
+    }
+  },
+  {
+    "place_id": "osm_879479458",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3223485,
+    "longitude": -83.5254849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_883940981",
+    "name": "Dog Park at Van Raalte Farm (Small Dog Side)",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7763306,
+    "longitude": -86.0665021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Park at Van Raalte Farm (Small Dog Side)",
+      "operator": "City of Holland",
+      "operator:type": "government",
+      "website": "https://www.cityofholland.com/878/Dog-Park-at-Van-Raalte"
+    }
+  },
+  {
+    "place_id": "osm_889192477",
+    "name": "Chippewassee Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.6114557,
+    "longitude": -84.2543625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chippewassee Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_898546908",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0054184,
+    "longitude": -87.9078726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_906199656",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4818534,
+    "longitude": -83.5192321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_906618627",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5273607,
+    "longitude": -83.5319787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_909445959",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.6073393,
+    "longitude": -86.101925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_923983513",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 41.8319699,
+    "longitude": -83.8658727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_948260574",
+    "name": "Area 3",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0564122,
+    "longitude": -88.7887813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "yes",
+      "dog:large": "no",
+      "dog:small": "yes",
+      "leisure": "dog_park",
+      "name": "Area 3",
+      "operator": "Jefferson County",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_948260576",
+    "name": "Area 4",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0578931,
+    "longitude": -88.7859885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Area 4",
+      "operator": "Jefferson County",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_948260577",
+    "name": "Area 1",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0535613,
+    "longitude": -88.7863378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Area 1",
+      "operator": "Jefferson County",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_948302372",
+    "name": "Milford Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5831639,
+    "longitude": -83.6121534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Milford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_949909704",
+    "name": "Small Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7358783,
+    "longitude": -84.4223564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "operator": "Meridian Charter Township",
+      "operator:type": "public",
+      "operator:wikidata": "Q1920969",
+      "website": "https://www.meridian.mi.us/Home/Components/FacilityDirectory/FacilityDirectory/2184/35"
+    }
+  },
+  {
+    "place_id": "osm_961410674",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8992983,
+    "longitude": -82.4720954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_961730812",
+    "name": "Small Dog Run",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5230343,
+    "longitude": -83.0893782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_962135712",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5221537,
+    "longitude": -83.4316913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_966630235",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.0757452,
+    "longitude": -83.666849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_967593173",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9970071,
+    "longitude": -85.6309943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_981237288",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7494389,
+    "longitude": -84.5059229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fence": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_984542424",
+    "name": "Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3184519,
+    "longitude": -83.7047466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_991802559",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5592537,
+    "longitude": -88.4051513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_995561285",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7838441,
+    "longitude": -84.4815176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_996458497",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.7544084,
+    "longitude": -84.6833573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_997798126",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.284636,
+    "longitude": -85.3625781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_998405662",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.6701803,
+    "longitude": -85.6810767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1010989309",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.2349997,
+    "longitude": -85.890663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1013724081",
+    "name": "Orion Oaks Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7636063,
+    "longitude": -83.2855385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orion Oaks Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1021771638",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9997244,
+    "longitude": -88.0535307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1025011596",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3120119,
+    "longitude": -83.2018317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1028210545",
+    "name": "North Star Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0924367,
+    "longitude": -89.2777616,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "North Star Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1028772920",
+    "name": "Timber Valley Apartments Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0527653,
+    "longitude": -89.5545897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Timber Valley Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1030113194",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1531626,
+    "longitude": -85.5849982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1030834453",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9118081,
+    "longitude": -87.952157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1032631555",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.214679,
+    "longitude": -83.5665051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1033923852",
+    "name": "Daisy Knight Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5696102,
+    "longitude": -83.1464359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Daisy Knight Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1035051776",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.5979904,
+    "longitude": -83.8557081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1039482270",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4182057,
+    "longitude": -82.9225988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1039695357",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3230837,
+    "longitude": -83.7037452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1043301343",
+    "name": "Anderson Farm Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8946703,
+    "longitude": -89.3837414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Anderson Farm Dog Park",
+      "operator": "Dane County Parks",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1047738260",
+    "name": "New Center Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.369632,
+    "longitude": -83.0800775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "New Center Dog Park",
+      "official_name": "Peter Cummings New Center Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1051541037",
+    "name": "Jerry Finch Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.2105205,
+    "longitude": -88.4741136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Jerry Finch Dog Park",
+      "name:it": "Parco per Cani \"Jerry Finch\"",
+      "operator": "Winnebago County",
+      "operator:it": "Contea di Winnebago",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1057028121",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2134936,
+    "longitude": -83.5872845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1057049252",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9063873,
+    "longitude": -85.5668424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1057049253",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9051896,
+    "longitude": -85.5617788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1059876409",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4721985,
+    "longitude": -83.0949288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1070807798",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6881,
+    "longitude": -85.8006529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1074664935",
+    "name": "Northern Tail Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.768315,
+    "longitude": -84.4788873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northern Tail Dog Park",
+      "website": "https://www.cityofeastlansing.com/Facilities/Facility/Details/Northern-Tail-Dog-Park-16"
+    }
+  },
+  {
+    "place_id": "osm_1078684756",
+    "name": "Downtown Westside Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.968785,
+    "longitude": -85.6803254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Grand Rapids",
+      "addr:housenumber": "307",
+      "addr:postcode": "49504",
+      "addr:state": "MI",
+      "addr:street": "Summer Avenue Northwest",
+      "leisure": "dog_park",
+      "name": "Downtown Westside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1082513815",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0868373,
+    "longitude": -86.2419805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1088038117",
+    "name": "Walnut Grove Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0699468,
+    "longitude": -89.5118474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Walnut Grove Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1109900161",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.1947248,
+    "longitude": -85.6281046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1122225044",
+    "name": "Small Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7252257,
+    "longitude": -88.47092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1138962010",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9397317,
+    "longitude": -85.6959832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1154714667",
+    "name": "City of Chelsea Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3283096,
+    "longitude": -84.0112291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Chelsea",
+      "addr:housenumber": "680",
+      "addr:postcode": "48118",
+      "addr:state": "MI",
+      "addr:street": "McKinley",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "City of Chelsea Dog Park",
+      "opening_hours": "24/7",
+      "operator": "City of Chelsea, MI",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1156119533",
+    "name": "Mauston Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.8031021,
+    "longitude": -90.0559407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Mauston Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1157024038",
+    "name": "Rotary Club Leash Free Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.0282875,
+    "longitude": -82.585561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rotary Club Leash Free Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1161831576",
+    "name": "Standing Rocks Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.4294152,
+    "longitude": -89.4065808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Standing Rocks Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1163936286",
+    "name": "Caseville Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.9256733,
+    "longitude": -83.2830517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Caseville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1164889091",
+    "name": "Springfield Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3325869,
+    "longitude": -85.238462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Springfield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1167637841",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4814518,
+    "longitude": -83.3894033,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1177583288",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2792326,
+    "longitude": -85.4447794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1186042739",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0018099,
+    "longitude": -84.3727806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1189307197",
+    "name": "Stony Creek Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.729782,
+    "longitude": -83.0652997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Washington",
+      "addr:postcode": "48094",
+      "leisure": "dog_park",
+      "name": "Stony Creek Dog Park",
+      "operator": "StonyCreekMetropark"
+    }
+  },
+  {
+    "place_id": "osm_1191689981",
+    "name": "Howard Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.5622288,
+    "longitude": -88.0567128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Howard Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1192584036",
+    "name": "St. Joseph Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.102693,
+    "longitude": -86.4783722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Benton Harbor",
+      "addr:housenumber": "1350",
+      "addr:postcode": "49022",
+      "addr:state": "MI",
+      "addr:street": "Pearl Street",
+      "leisure": "dog_park",
+      "name": "St. Joseph Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1192590710",
+    "name": "Grosse Ile Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.1215352,
+    "longitude": -83.1468228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grosse Ile Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1193580792",
+    "name": "Ithaca Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.2959548,
+    "longitude": -84.6172237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Ithaca",
+      "addr:housenumber": "530",
+      "addr:postcode": "48847",
+      "addr:state": "MI",
+      "addr:street": "West Center Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Ithaca Dog Park",
+      "operator": "City of Ithaca",
+      "operator:type": "public",
+      "website": "https://www.ithacami.com/community/parks/"
+    }
+  },
+  {
+    "place_id": "osm_1200703019",
+    "name": "McFarland Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0050558,
+    "longitude": -89.2729393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "McFarland Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1209172092",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 41.9479393,
+    "longitude": -85.027511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209172093",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 41.9479438,
+    "longitude": -85.026209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216610116",
+    "name": "Hancock Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 47.1376372,
+    "longitude": -88.6093173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hancock Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1219897661",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7710455,
+    "longitude": -89.2996557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "material": "metal"
+    }
+  },
+  {
+    "place_id": "osm_1221541518",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6260395,
+    "longitude": -82.5282624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1223541134",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.5664926,
+    "longitude": -89.7972435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1223589194",
+    "name": "Elevation Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6869457,
+    "longitude": -84.4381376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Okemos",
+      "addr:housenumber": "3595",
+      "addr:postcode": "48864",
+      "addr:state": "MI",
+      "addr:street": "Jolly Oak Rd.",
+      "leisure": "dog_park",
+      "name": "Elevation Dog Park",
+      "surface": "ground"
+    }
+  },
+  {
+    "place_id": "osm_1225809756",
+    "name": "Penni Klein Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1124505,
+    "longitude": -89.538663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Penni Klein Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1228737508",
+    "name": "Shepard Dog park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.6298597,
+    "longitude": -89.4215703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shepard Dog park"
+    }
+  },
+  {
+    "place_id": "osm_1230746388",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4280665,
+    "longitude": -83.3922287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1232214113",
+    "name": "Stone Crest Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.5990147,
+    "longitude": -84.7489466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Stone Crest Dog Park",
+      "operator": "Stone Crest",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1232807907",
+    "name": "Clinton Township Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5935908,
+    "longitude": -82.9285364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Clinton Township",
+      "addr:housenumber": "40700",
+      "addr:postcode": "48038",
+      "addr:state": "MI",
+      "addr:street": "Romeo Plank",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Clinton Township Dog Park",
+      "operator": "Clinton Township Parks and Recreation",
+      "operator:type": "government",
+      "website": "https://clintontownship.com/226/Dog-Park"
+    }
+  },
+  {
+    "place_id": "osm_1238316057",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.638628,
+    "longitude": -86.1919822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1244138548",
+    "name": "Middleville Bark Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7122315,
+    "longitude": -85.4772392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Middleville Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1258725392",
+    "name": "Lapeer Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0565641,
+    "longitude": -83.3074398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Lapeer Dog Park",
+      "website": "https://www.ci.lapeer.mi.us/parks_and_recreation/parks.php"
+    }
+  },
+  {
+    "place_id": "osm_1259149593",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5452811,
+    "longitude": -83.1422513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1282063624",
+    "name": "Horicon Lions Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4345426,
+    "longitude": -88.6357587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Horicon Lions Dog Park",
+      "opening_hours": "Mo-Su 06:00-21:00"
+    }
+  },
+  {
+    "place_id": "osm_1291524585",
+    "name": "Marshall Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.166515,
+    "longitude": -89.0553556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Marshall Dog Park",
+      "operator": "Village of Marshall"
+    }
+  },
+  {
+    "place_id": "osm_1296448242",
+    "name": "Creasey Park Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9159213,
+    "longitude": -83.6725588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Creasey Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1299355728",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8610445,
+    "longitude": -83.7019135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1301052157",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0749263,
+    "longitude": -83.551581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fence_type": "chain_link",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "operator": "Outdoor Adventures",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1303978640",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7799027,
+    "longitude": -89.2963363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "woodchips",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1304153996",
+    "name": "Mapleridge Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9557199,
+    "longitude": -83.7161596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mapleridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1311654434",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5587256,
+    "longitude": -83.1375283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1315355636",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5949662,
+    "longitude": -88.4292031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "City of Lake Geneva",
+      "operator:type": "public/government"
+    }
+  },
+  {
+    "place_id": "osm_1318245246",
+    "name": "Crescent Crossing Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0041658,
+    "longitude": -89.4561495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Crescent Crossing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1320755208",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2877016,
+    "longitude": -83.7407919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1320755212",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2873891,
+    "longitude": -83.740071,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1333536296",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6847555,
+    "longitude": -83.1222225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1336355635",
+    "name": "Hastings Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.650881,
+    "longitude": -85.2991314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Hastings",
+      "addr:postcode": "49058",
+      "addr:state": "MI",
+      "addr:street": "West Apple Street",
+      "leisure": "dog_park",
+      "name": "Hastings Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_1340376936",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8593976,
+    "longitude": -88.9096301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1344884387",
+    "name": "Woodbury Gardens Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2583769,
+    "longitude": -83.7322711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woodbury Gardens Dog Park",
+      "operator": "Woodbury Gardens"
+    }
+  },
+  {
+    "place_id": "osm_1349279411",
+    "name": "Madison Boneyard",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1127959,
+    "longitude": -89.3101927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Madison",
+      "addr:housenumber": "1018",
+      "addr:postcode": "53714",
+      "addr:state": "WI",
+      "addr:street": "Walsh Road",
+      "leisure": "dog_park",
+      "name": "Madison Boneyard"
+    }
+  },
+  {
+    "place_id": "osm_1349514449",
+    "name": "The Hounds and Tap",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1196803,
+    "longitude": -88.1295872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Menomonee Falls",
+      "addr:housenumber": "W175N5645",
+      "addr:postcode": "53051",
+      "addr:state": "WI",
+      "addr:street": "Technology Drive",
+      "amenity": "bar",
+      "leisure": "dog_park",
+      "name": "The Hounds and Tap",
+      "website": "https://www.thehoundsandtap.com/"
+    }
+  },
+  {
+    "place_id": "osm_1352104665",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.0641509,
+    "longitude": -89.2829731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1370719708",
+    "name": "Strathclair Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 46.5406153,
+    "longitude": -84.2991061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Strathclair Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1382499611",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.8761934,
+    "longitude": -90.1750682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1382806948",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 45.4719799,
+    "longitude": -84.6076345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Indian River RV Resort",
+      "operator:type": "business",
+      "surface": "ground"
+    }
+  },
+  {
+    "place_id": "osm_1385379298",
+    "name": "Mickies Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5964168,
+    "longitude": -83.4706957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mickies Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1386153969",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7063823,
+    "longitude": -84.5076742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1390526674",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.411888,
+    "longitude": -83.4639588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1393241452",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9027969,
+    "longitude": -87.9407435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1393257683",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9058087,
+    "longitude": -87.9328579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413424500",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.9607046,
+    "longitude": -90.378141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413429979",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8718382,
+    "longitude": -87.9415072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430611",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8638086,
+    "longitude": -82.557755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430654",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.7850002,
+    "longitude": -84.6675049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431294",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3755701,
+    "longitude": -85.6598276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413431536",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2801831,
+    "longitude": -84.9310675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1422358822",
+    "name": "Optimist Memorial Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.2913303,
+    "longitude": -82.9999213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Optimist Memorial Dog Park",
+      "natural": "wood",
+      "operator": "City of Windsor",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1423912645",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.4560808,
+    "longitude": -83.1716263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1424850678",
+    "name": "MKE Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0357633,
+    "longitude": -87.9107092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Milwaukee",
+      "addr:housenumber": "103",
+      "addr:postcode": "53203",
+      "addr:state": "WI",
+      "addr:street": "West Clybourn Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "MKE Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "operator": "Milwaukee Downtown, Business Improvement District #21 (BID #21) and Historic Third Ward Business Improvement District #2 (BID #2)",
+      "operator:type": "private_non_profit",
+      "website": "https://www.mkedogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1425569620",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.1304498,
+    "longitude": -83.2432903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429269911",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.1596138,
+    "longitude": -88.1498396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431554039",
+    "name": "West Side Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.7049048,
+    "longitude": -84.3955774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West Side Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1446181885",
+    "name": "Muttland Meadows Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.3062669,
+    "longitude": -87.9575078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Grafton",
+      "addr:housenumber": "789",
+      "addr:postcode": "53024",
+      "addr:state": "WI",
+      "addr:street": "Green Bay Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Muttland Meadows Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_1449459273",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7143611,
+    "longitude": -85.4894162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1455028858",
+    "name": "Richmond Hills Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9991191,
+    "longitude": -85.7034429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Richmond Hills Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1455772979",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.0904586,
+    "longitude": -83.0826011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1455772988",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.0901457,
+    "longitude": -83.0815765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1455983157",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 41.9589941,
+    "longitude": -86.0911684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1456722515",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.2615411,
+    "longitude": -84.9157843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1459059492",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.4893303,
+    "longitude": -84.7835462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1460869546",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.1867555,
+    "longitude": -83.4234836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fixme": "approximate",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1472699960",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5999421,
+    "longitude": -83.0271841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1475610379",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.6001128,
+    "longitude": -83.0728238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1476919844",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8093148,
+    "longitude": -84.5917215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1476919864",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.782966,
+    "longitude": -84.4918433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1476969848",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8270658,
+    "longitude": -84.5951113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1483941723",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.6787444,
+    "longitude": -85.6606369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1493913571",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5470856,
+    "longitude": -83.0655923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Shoal Creek Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1493913577",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.5487782,
+    "longitude": -83.0681535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Shoal Creek Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1494327710",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.3847736,
+    "longitude": -83.8405083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10657364",
+    "name": "Currie Dog Exercise Area",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.0879964,
+    "longitude": -88.0501022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Wauwatosa",
+      "addr:housenumber": "3535",
+      "addr:postcode": "53222",
+      "addr:state": "WI",
+      "addr:street": "North Mayfair Road",
+      "alt_name": "Currie DEA",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Currie Dog Exercise Area",
+      "type": "multipolygon",
+      "website": "https://county.milwaukee.gov/EN/Parks/Explore/Dog-Parks"
+    }
+  },
+  {
+    "place_id": "osm_11623784",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 44.7142464,
+    "longitude": -85.6787252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_15054902",
+    "name": "Scentral Bark Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.2879406,
+    "longitude": -89.7480734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "Scentral Bark Dog Park",
+      "note": "This outline is from a GPS trace, so the shape can be improved when new imagery is available",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16863905",
+    "name": "Grand Ravines Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9460165,
+    "longitude": -85.8818892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Jenison",
+      "addr:housenumber": "3991",
+      "addr:postcode": "49428",
+      "addr:state": "MI",
+      "addr:street": "Fillmore",
+      "addr:unit": "Street",
+      "leisure": "dog_park",
+      "name": "Grand Ravines Dog Park",
+      "operator": "Ottawa County",
+      "operator:type": "government",
+      "type": "multipolygon",
+      "website": "https://miottawa.org/park-locations/grand-ravines/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_18266281",
+    "name": "Big Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 43.4695248,
+    "longitude": -88.8174977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Beaver Dam",
+      "addr:housenumber": "203",
+      "addr:postcode": "53916",
+      "addr:state": "WI",
+      "addr:street": "Fletcher Road",
+      "leisure": "dog_park",
+      "name": "Big Dog Park",
+      "opening_hours": "06:00-sunset",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18990851",
+    "name": "Quincy Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.8447094,
+    "longitude": -86.1362216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Holland",
+      "addr:housenumber": "4260",
+      "addr:postcode": "49424",
+      "addr:state": "MI",
+      "addr:street": "144th Avenue",
+      "leisure": "dog_park",
+      "name": "Quincy Dog Park",
+      "operator": "Holland Charter Township",
+      "operator:type": "government",
+      "type": "multipolygon",
+      "website": "https://hct.holland.mi.us/departments/parks/quincy-park-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_20182421",
+    "name": "Dog Park",
+    "formatted_address": ", Michigan, USA",
+    "latitude": 42.9148608,
+    "longitude": -88.1083058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

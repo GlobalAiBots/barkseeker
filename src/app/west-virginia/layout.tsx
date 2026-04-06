@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in West Virginia — 3 Ramps Across 6 Lakes & Waterways | RampSeeker",
-  description: "The most complete boat ramp directory for West Virginia. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "West Virginia Boat Ramps — RampSeeker", url: "https://rampseeker.com/west-virginia", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "West Virginia Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/west-virginia" },
+  title: "Every Dog Park in West Virginia — 1+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for West Virginia. 1+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "West Virginia Dog Parks — BarkSeeker", url: "https://barkseeker.com/west-virginia", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "West Virginia Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/west-virginia" },
 };
 
 export default function WestVirginiaLayout({ children }: { children: React.ReactNode }) {

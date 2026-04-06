@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in Kentucky — 553 Ramps Across 8 Lakes & Waterways | RampSeeker",
-  description: "The most complete boat ramp directory for Kentucky. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "Kentucky Boat Ramps — RampSeeker", url: "https://rampseeker.com/kentucky", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "Kentucky Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/kentucky" },
+  title: "Every Dog Park in Kentucky — 69+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for Kentucky. 69+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "Kentucky Dog Parks — BarkSeeker", url: "https://barkseeker.com/kentucky", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "Kentucky Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/kentucky" },
 };
 
 export default function KentuckyLayout({ children }: { children: React.ReactNode }) {

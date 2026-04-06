@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Every Boat Ramp in South Carolina — 233 Ramps Across 6 Lakes & Waterways | RampSeeker",
-  description: "The most complete boat ramp directory for South Carolina. GPS coordinates, amenities, local tips.",
-  openGraph: { title: "South Carolina Boat Ramps — RampSeeker", url: "https://rampseeker.com/south-carolina", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "South Carolina Boat Ramps | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/south-carolina" },
+  title: "Every Dog Park in South Carolina — 61+ Parks | BarkSeeker",
+  description: "The most complete dog park directory for South Carolina. 61+ parks with GPS coordinates, amenities, and off-leash info.",
+  openGraph: { title: "South Carolina Dog Parks — BarkSeeker", url: "https://barkseeker.com/south-carolina", siteName: "BarkSeeker" },
+  twitter: { card: "summary", title: "South Carolina Dog Parks | BarkSeeker" },
+  alternates: { canonical: "https://barkseeker.com/south-carolina" },
 };
 
 export default function SouthCarolinaLayout({ children }: { children: React.ReactNode }) {

@@ -1,0 +1,696 @@
+[
+  {
+    "place_id": "osm_4276552106",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 46.1380252,
+    "longitude": -67.7802515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5938059574",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.1859005,
+    "longitude": -69.0740339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6184830109",
+    "name": "Fort Williams Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.6216378,
+    "longitude": -70.2121893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Williams Dog Park",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "place_id": "osm_8082713205",
+    "name": "Quarry Run Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.6997411,
+    "longitude": -70.2611579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Quarry Run Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_8651692178",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.2158105,
+    "longitude": -70.890559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12687605477",
+    "name": "Eastport Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.9065871,
+    "longitude": -67.0098553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eastport Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_13376911939",
+    "name": "York Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.1543869,
+    "longitude": -70.6742878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "York",
+      "addr:housenumber": "17",
+      "addr:postcode": "03909",
+      "addr:state": "ME",
+      "addr:street": "Bog Road",
+      "leisure": "dog_park",
+      "name": "York Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_286177511",
+    "name": "Valley Street Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.6481934,
+    "longitude": -70.2771316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Valley Street Dog Park",
+      "note": "This dog park has a sheltered benches, drinking water, shade, and some grassy area, but mostly gravel (no separate small dog area.)",
+      "website": "http://www.doggoes.com/parks/maine/portland/valley-street-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_391756676",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 46.1614938,
+    "longitude": -67.586439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_411697809",
+    "name": "Augusta Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.3240274,
+    "longitude": -69.7716539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Augusta",
+      "addr:postcode": "04330",
+      "addr:state": "ME",
+      "addr:street": "Canal Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Augusta Dog Park",
+      "website": "https://www.facebook.com/Augusta-Dog-Park-255093084514969"
+    }
+  },
+  {
+    "place_id": "osm_482087920",
+    "name": "Belfast Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.4154328,
+    "longitude": -69.017891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Belfast",
+      "addr:housenumber": "122",
+      "addr:postcode": "04915",
+      "addr:state": "ME",
+      "addr:street": "Lincolnville Avenue",
+      "leisure": "dog_park",
+      "name": "Belfast Dog Park",
+      "website": "https://www.cityofbelfast.org/facilities/facility/details/Belfast-Dog-Park-6"
+    }
+  },
+  {
+    "place_id": "osm_484566199",
+    "name": "Public Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.5142381,
+    "longitude": -70.3781611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Public Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_526891073",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.5775959,
+    "longitude": -70.3356332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_606429317",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 47.3673223,
+    "longitude": -68.3185496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_630335662",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.0839081,
+    "longitude": -69.1732766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_698048540",
+    "name": "Westbrook Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.6771607,
+    "longitude": -70.355198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "designated",
+      "leisure": "dog_park",
+      "name": "Westbrook Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_766089862",
+    "name": "Ogunquit Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.2503518,
+    "longitude": -70.6171802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ogunquit Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_766357641",
+    "name": "Federal Street Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.5267496,
+    "longitude": -70.7320002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Federal Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_956442868",
+    "name": "Merrymeeting Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.9200749,
+    "longitude": -69.9518334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "min_age": "4",
+      "name": "Merrymeeting Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1031461825",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.2899496,
+    "longitude": -69.7912825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1034907385",
+    "name": "Saco Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.4971598,
+    "longitude": -70.4404321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Saco Dog Park",
+      "operator": "City of Saco"
+    }
+  },
+  {
+    "place_id": "osm_1074324211",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.5907787,
+    "longitude": -70.3249147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1076205469",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.5516195,
+    "longitude": -70.3039108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1163746217",
+    "name": "Gardiner Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.2231725,
+    "longitude": -69.7849642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Gardiner Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1201821160",
+    "name": "Robin's Garden & Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.1169653,
+    "longitude": -70.2087657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Robin's Garden & Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1214150429",
+    "name": "Sanford Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.448427,
+    "longitude": -70.780043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sanford Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1284142558",
+    "name": "Waterville Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.533287,
+    "longitude": -69.6578455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Waterville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1351118555",
+    "name": "Boothbay Canine Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.9000362,
+    "longitude": -69.6278573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Boothbay",
+      "addr:housenumber": "653",
+      "addr:postcode": "04537",
+      "addr:state": "ME",
+      "addr:street": "Wiscasset Road",
+      "leisure": "dog_park",
+      "name": "Boothbay Canine Dog Park",
+      "operator": "Boothbay Canine Daycare & Boarding"
+    }
+  },
+  {
+    "place_id": "osm_1373228168",
+    "name": "Sincock Street Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 46.8556034,
+    "longitude": -68.0117317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sincock Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1378822932",
+    "name": "Standish Community Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.7298065,
+    "longitude": -70.6179638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Standish Community Dog Park",
+      "operator": "Standish Parks & Recreation",
+      "operator:type": "government",
+      "website": "https://standishme.myrec.com/info/activities/program_details.aspx?ProgramID=29954"
+    }
+  },
+  {
+    "place_id": "osm_1424218527",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.4952344,
+    "longitude": -70.4511025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1426685896",
+    "name": "Jean H. Kislak Communty Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 44.1990056,
+    "longitude": -69.0767829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Rockport",
+      "addr:housenumber": "146",
+      "addr:postcode": "04856",
+      "addr:state": "ME",
+      "addr:street": "Camden Street",
+      "leisure": "dog_park",
+      "name": "Jean H. Kislak Communty Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1431395083",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.4946767,
+    "longitude": -70.4533758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1492662743",
+    "name": "Dog Park",
+    "formatted_address": ", Maine, USA",
+    "latitude": 43.4987108,
+    "longitude": -70.4772243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

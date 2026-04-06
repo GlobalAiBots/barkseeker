@@ -1,0 +1,633 @@
+[
+  {
+    "place_id": "osm_608654462",
+    "name": "Off-Leash Dog Recreation Area",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 42.0068462,
+    "longitude": -97.4219801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Recreation Area"
+    }
+  },
+  {
+    "place_id": "osm_7300586247",
+    "name": "Roper East Dog Run",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8413369,
+    "longitude": -96.7102993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Lincoln",
+      "addr:housenumber": "2620-3098",
+      "addr:postcode": "68521",
+      "addr:state": "NE",
+      "addr:street": "North 7th Street",
+      "leisure": "dog_park",
+      "name": "Roper East Dog Run",
+      "operator": "City of Lincoln Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://lincoln.ne.gov/city/parks/"
+    }
+  },
+  {
+    "place_id": "osm_11084434513",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.1956068,
+    "longitude": -98.0684156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12158650303",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8641439,
+    "longitude": -96.7825896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13602884401",
+    "name": "Geneva Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.5395403,
+    "longitude": -97.5998491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Geneva Dog Park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "place_id": "osm_461398786",
+    "name": "Wayne Bark Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 42.2281417,
+    "longitude": -97.0055641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wayne Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_543831853",
+    "name": "Happy Hound Retreat",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.1534809,
+    "longitude": -100.7637169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "North Platte",
+      "addr:housenumber": "301",
+      "addr:postcode": "69101",
+      "addr:state": "NE",
+      "addr:street": "W 18th Street",
+      "leisure": "dog_park",
+      "name": "Happy Hound Retreat"
+    }
+  },
+  {
+    "place_id": "osm_605458657",
+    "name": "Big Blue Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.2575444,
+    "longitude": -96.747823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Big Blue Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_663953922",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8723126,
+    "longitude": -96.6762995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Northbrook",
+      "operator:type": "private",
+      "surface": "grass",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_682340199",
+    "name": "Mahoney Dog Run (Under 15\")",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8472001,
+    "longitude": -96.607255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Mahoney Dog Run (Under 15\")"
+    }
+  },
+  {
+    "place_id": "osm_682340202",
+    "name": "Mahoney Dog Run (Over 15\")",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8478427,
+    "longitude": -96.6078873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Mahoney Dog Run (Over 15\")"
+    }
+  },
+  {
+    "place_id": "osm_703436263",
+    "name": "Off Leash Dog Bar",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8111065,
+    "longitude": -96.6928692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lincoln",
+      "addr:housenumber": "1975",
+      "addr:postcode": "68510",
+      "addr:state": "Nebraska",
+      "addr:street": "M Street",
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Bar",
+      "website": "https://www.offleashlnk.com/"
+    }
+  },
+  {
+    "place_id": "osm_728932358",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.7589359,
+    "longitude": -96.6581105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_728932362",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.7563717,
+    "longitude": -96.6562404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_728932364",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.7684412,
+    "longitude": -96.6910367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_739455414",
+    "name": "Monument Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.8293588,
+    "longitude": -103.6784784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Gering",
+      "leisure": "dog_park",
+      "name": "Monument Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_816034078",
+    "name": "Dog Island",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8897437,
+    "longitude": -98.3521777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Island"
+    }
+  },
+  {
+    "place_id": "osm_824098504",
+    "name": "Tanglewood Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8183792,
+    "longitude": -96.6605785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tanglewood Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_824098508",
+    "name": "Paws 4 Fun",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8146201,
+    "longitude": -96.6577286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lincoln",
+      "addr:housenumber": "222",
+      "addr:postcode": "68503",
+      "addr:state": "NE",
+      "addr:street": "North 44th Street",
+      "building": "yes",
+      "leisure": "dog_park",
+      "name": "Paws 4 Fun",
+      "phone": "+1-402-802-1738",
+      "website": "https://paws4fun.dog/"
+    }
+  },
+  {
+    "place_id": "osm_836478908",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.7274416,
+    "longitude": -96.6946799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_953832859",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.2221464,
+    "longitude": -103.6575782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1111606914",
+    "name": "Doc Little Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.2194191,
+    "longitude": -96.6318292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Wahoo",
+      "addr:housenumber": "1449",
+      "addr:postcode": "68066",
+      "addr:state": "NE",
+      "addr:street": "North Hackberry Street",
+      "leisure": "dog_park",
+      "name": "Doc Little Dog Park",
+      "operator": "Saunders County Pet Rescue",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_1202644581",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8703335,
+    "longitude": -96.7124196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208392600",
+    "name": "Carol A. Fuller Charity Foundation Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.9395969,
+    "longitude": -103.8160452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carol A. Fuller Charity Foundation Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1233728844",
+    "name": "Seward Community Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.9074669,
+    "longitude": -97.0837996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Seward",
+      "addr:state": "NE",
+      "addr:street": "East Seward Street",
+      "leisure": "dog_park",
+      "name": "Seward Community Dog Park",
+      "operator": "City of Sewaard",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1290514723",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.8750694,
+    "longitude": -96.6742894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1344857628",
+    "name": "Urban Hound",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.7846133,
+    "longitude": -96.6529798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lincoln",
+      "addr:housenumber": "4848",
+      "addr:postcode": "68506",
+      "addr:state": "NE",
+      "addr:street": "Van Dorn Street",
+      "leisure": "dog_park",
+      "name": "Urban Hound",
+      "website": "https://www.urbanhoundne.com/"
+    }
+  },
+  {
+    "place_id": "osm_1413429623",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.1096619,
+    "longitude": -102.9514738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430810",
+    "name": "Dog Park",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 41.4512737,
+    "longitude": -97.0840861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13716394",
+    "name": "Rickman's Run Holmes Park Dog Run",
+    "formatted_address": ", Nebraska, USA",
+    "latitude": 40.7750577,
+    "longitude": -96.623333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence": "yes",
+      "leisure": "dog_park",
+      "name": "Rickman's Run Holmes Park Dog Run",
+      "operator": "City of Lincoln",
+      "operator:type": "government",
+      "source": "bing+knowledge",
+      "type": "multipolygon"
+    }
+  }
+]
