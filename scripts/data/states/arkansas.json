@@ -466,5 +466,427 @@
       "addr:street": "North Honey Locust Bend",
       "leisure": "dog_park"
     }
+  },
+  {
+    "id": 12463083543,
+    "name": "Fourth Ruff Park",
+    "latitude": 35.1482846,
+    "longitude": -90.0532437,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fourth Ruff Park"
+    }
+  },
+  {
+    "id": 12574386184,
+    "name": "Jacksonville Dog Park",
+    "latitude": 34.8793917,
+    "longitude": -92.1274562,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jacksonville Dog Park"
+    }
+  },
+  {
+    "id": 13325524400,
+    "name": "Temporary Dog Park",
+    "latitude": 35.2411911,
+    "longitude": -91.7411982,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "description": "Temporary until construction of new Searcy Dog Park is complete. Construction projected to be complete in Spring 2026, per posted sign.",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Temporary Dog Park",
+      "operator": "City of Searcy"
+    }
+  },
+  {
+    "id": 479628075,
+    "name": "The Barking Lot Dog Park",
+    "latitude": 35.147194,
+    "longitude": -90.05154,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Barking Lot Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 486708709,
+    "name": "Dog Park",
+    "latitude": 34.8102884,
+    "longitude": -92.2252945,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 486801933,
+    "name": "MacArthur Unleashed Dog Park",
+    "latitude": 34.7350215,
+    "longitude": -92.2646155,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "addr:city": "Little Rock",
+      "addr:postcode": "72202",
+      "addr:state": "AR",
+      "addr:street": "Pulaski County Lane",
+      "leisure": "dog_park",
+      "name": "MacArthur Unleashed Dog Park",
+      "operator": "Little Rock Parks and Recreation",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": 486814871,
+    "name": "Paws Park at Murray",
+    "latitude": 34.7844075,
+    "longitude": -92.334187,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paws Park at Murray"
+    }
+  },
+  {
+    "id": 487087186,
+    "name": "Dog Park",
+    "latitude": 34.8531114,
+    "longitude": -92.1304629,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 544855630,
+    "name": "Dog Park",
+    "latitude": 34.7603006,
+    "longitude": -92.2686378,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 579481899,
+    "name": "Dog Park",
+    "latitude": 34.8060484,
+    "longitude": -92.4739358,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 625168506,
+    "name": "Pond Dog Park",
+    "latitude": 34.954942,
+    "longitude": -92.0191897,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pond Dog Park"
+    }
+  },
+  {
+    "id": 779938896,
+    "name": "Dog Park",
+    "latitude": 35.3221511,
+    "longitude": -93.1416009,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Russellville",
+      "addr:housenumber": "3595",
+      "addr:postcode": "72802",
+      "addr:state": "AR",
+      "addr:street": "North Arkansas Avenue",
+      "animal": "dog",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 935876537,
+    "name": "Conway's PetSafe Dog Park",
+    "latitude": 35.1091052,
+    "longitude": -92.4240094,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "description": "Large & Small Dogs Allowed",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Conway's PetSafe Dog Park",
+      "operator": "City of Conway",
+      "operator:type": "government"
+    }
+  },
+  {
+    "id": 1101635742,
+    "name": "Searcy Dog Park",
+    "latitude": 35.2328664,
+    "longitude": -91.7275257,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Searcy Dog Park",
+      "operator": "City of Searcy",
+      "operator:type": "public"
+    }
+  },
+  {
+    "id": 1112682651,
+    "name": "Desoto Dog Park",
+    "latitude": 34.6806506,
+    "longitude": -93.0073967,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "unknown",
+      "addr:city": "Hot Springs Village",
+      "addr:postcode": "71909",
+      "addr:state": "AR",
+      "description": "The dog park has a gate.  I do not know where to place or the full address.  An entrance pass is needed.  I do not know what access that is.  I believe a second fenced area exists to the southeast if satellite imagery was current.  Oh, I was in a differen",
+      "leisure": "dog_park",
+      "name": "Desoto Dog Park"
+    }
+  },
+  {
+    "id": 1122434875,
+    "name": "Dog Park",
+    "latitude": 35.9933569,
+    "longitude": -94.3313631,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1159790712,
+    "name": "Housing Dog Park",
+    "latitude": 34.8904888,
+    "longitude": -92.1636831,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "addr:city": "Jacksonville",
+      "addr:housenumber": "100",
+      "addr:postcode": "72099",
+      "addr:state": "AR",
+      "addr:street": "Iowa Circle",
+      "leisure": "dog_park",
+      "name": "Housing Dog Park"
+    }
+  },
+  {
+    "id": 1225041695,
+    "name": "Arkadelphia Dog Park",
+    "latitude": 34.1314474,
+    "longitude": -93.0663493,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Arkadelphia Dog Park"
+    }
+  },
+  {
+    "id": 1232033954,
+    "name": "Bark Park",
+    "latitude": 34.4857047,
+    "longitude": -93.0466287,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Hot Springs",
+      "addr:housenumber": "410",
+      "addr:postcode": "71901",
+      "addr:state": "AR",
+      "addr:street": "Hollywood Avenue",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "City of Hot Springs, Animal Services",
+      "operator:type": "public/government"
+    }
+  },
+  {
+    "id": 1311321807,
+    "name": "Chaffee Crossing Dog Park",
+    "latitude": 35.3040948,
+    "longitude": -94.3322783,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chaffee Crossing Dog Park"
+    }
+  },
+  {
+    "id": 1324430580,
+    "name": "Dog Park",
+    "latitude": 34.6630112,
+    "longitude": -92.4113854,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1340474751,
+    "name": "Dog Park",
+    "latitude": 35.4598106,
+    "longitude": -93.4810074,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Love's"
+    }
+  },
+  {
+    "id": 1349285988,
+    "name": "Bark Bar & Grill",
+    "latitude": 34.7375378,
+    "longitude": -92.2758707,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Little Rock",
+      "addr:housenumber": "1201",
+      "addr:postcode": "72202",
+      "addr:state": "AR",
+      "addr:street": "South Spring Street",
+      "leisure": "dog_park",
+      "name": "Bark Bar & Grill"
+    }
+  },
+  {
+    "id": 1351697910,
+    "name": "Dog Park",
+    "latitude": 35.781402,
+    "longitude": -90.7046411,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1353025806,
+    "name": "Bark Park",
+    "latitude": 35.8207236,
+    "longitude": -90.710481,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Jonesboro",
+      "addr:housenumber": "408",
+      "addr:postcode": "72401",
+      "addr:state": "ar",
+      "addr:street": "Parkview Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "City of Jonesboro",
+      "operator:type": "public/government"
+    }
+  },
+  {
+    "id": 1353026636,
+    "name": "Midtown Dog Park",
+    "latitude": 35.8318965,
+    "longitude": -90.702335,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Jonesboro",
+      "addr:housenumber": "1115",
+      "addr:postcode": "72401",
+      "addr:state": "ar",
+      "addr:street": "Cobb Street",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Midtown Dog Park",
+      "operator": "City of Jonesboro",
+      "operator:type": "public/government"
+    }
+  },
+  {
+    "id": 1359892871,
+    "name": "Northshore Dog Park",
+    "latitude": 34.7973114,
+    "longitude": -92.3411602,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northshore Dog Park"
+    }
+  },
+  {
+    "id": 1413443530,
+    "name": "Dog Park",
+    "latitude": 34.8158433,
+    "longitude": -91.5675319,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413444293,
+    "name": "Dog Park",
+    "latitude": 33.4632734,
+    "longitude": -94.2043902,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413444613,
+    "name": "Dog Park",
+    "latitude": 33.2623001,
+    "longitude": -94.1522902,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
   }
 ]

@@ -127,5 +127,577 @@
       "brand:wikidata": "Q1872496",
       "leisure": "dog_park"
     }
+  },
+  {
+    "id": 4576438061,
+    "name": "Bark Park",
+    "latitude": 30.0011281,
+    "longitude": -90.2092048,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "id": 4854495717,
+    "name": "Dog Park",
+    "latitude": 30.4285328,
+    "longitude": -91.0256089,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 6202092504,
+    "name": "Dog Park",
+    "latitude": 30.6515415,
+    "longitude": -91.1973138,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 6486853862,
+    "name": "Dog Park",
+    "latitude": 32.515649,
+    "longitude": -93.5974668,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 8185100931,
+    "name": "Sidney Hutchinson Dog Park",
+    "latitude": 30.4983341,
+    "longitude": -90.8506838,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Sidney Hutchinson Dog Park",
+      "operator": "Walker Park and Recreation"
+    }
+  },
+  {
+    "id": 12388198819,
+    "name": "Dog Park",
+    "latitude": 32.2772816,
+    "longitude": -90.0151707,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 12514523311,
+    "name": "Lovett Dog Park",
+    "latitude": 30.5240268,
+    "longitude": -91.0372122,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Central",
+      "addr:housenumber": "13443",
+      "addr:postcode": "70818",
+      "addr:state": "LA",
+      "addr:street": "Lovett Road",
+      "leisure": "dog_park",
+      "name": "Lovett Dog Park",
+      "operator": "BREC",
+      "operator:type": "government"
+    }
+  },
+  {
+    "id": 12514531543,
+    "name": "Raising Cane's Dog Park",
+    "latitude": 30.4346765,
+    "longitude": -91.1692752,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Baton Rouge",
+      "addr:housenumber": "1442",
+      "addr:postcode": "70808",
+      "addr:state": "LA",
+      "addr:street": "City Park Avenue",
+      "leisure": "dog_park",
+      "name": "Raising Cane's Dog Park",
+      "operator": "BREC",
+      "operator:type": "government"
+    }
+  },
+  {
+    "id": 166020096,
+    "name": "Pelican Bark Park",
+    "latitude": 30.3607694,
+    "longitude": -90.0162432,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pelican Bark Park"
+    }
+  },
+  {
+    "id": 231243096,
+    "name": "City Bark Dog Park",
+    "latitude": 29.9952256,
+    "longitude": -90.096559,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "customers",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "City Bark Dog Park"
+    }
+  },
+  {
+    "id": 329151874,
+    "name": "The Dog House",
+    "latitude": 29.9632507,
+    "longitude": -90.0908484,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "addr:city": "New Orleans",
+      "addr:housenumber": "2736",
+      "addr:postcode": "70119",
+      "addr:state": "LA",
+      "addr:street": "Banks Street",
+      "leisure": "dog_park",
+      "name": "The Dog House",
+      "website": "https://doghousenola.com/"
+    }
+  },
+  {
+    "id": 468475056,
+    "name": "Raising Cane's Dog Park",
+    "latitude": 30.0029175,
+    "longitude": -91.8077292,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Raising Cane's Dog Park"
+    }
+  },
+  {
+    "id": 468573437,
+    "name": "The Gates at Citiplace Dog Park",
+    "latitude": 30.4220156,
+    "longitude": -91.124437,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Gates at Citiplace Dog Park"
+    }
+  },
+  {
+    "id": 555034434,
+    "name": "Norman Swanner",
+    "latitude": 29.8027047,
+    "longitude": -90.820315,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "barrier": "fence",
+      "description": "Enclosed dog park. No leash required. 2 areas for dogs to play",
+      "leisure": "dog_park",
+      "name": "Norman Swanner"
+    }
+  },
+  {
+    "id": 556026718,
+    "name": "Dog Park",
+    "latitude": 30.3425418,
+    "longitude": -91.1035386,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 602312981,
+    "name": "Shreveport Dog Park",
+    "latitude": 32.500121,
+    "longitude": -93.7114058,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "leisure_1": "park",
+      "name": "Shreveport Dog Park"
+    }
+  },
+  {
+    "id": 658549599,
+    "name": "Dog Park",
+    "latitude": 32.447358,
+    "longitude": -93.6564157,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 730010981,
+    "name": "Acadia Villas Dog Park",
+    "latitude": 29.7794772,
+    "longitude": -90.7986647,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Acadia Villas Dog Park"
+    }
+  },
+  {
+    "id": 730014667,
+    "name": "Dog Park",
+    "latitude": 29.7901112,
+    "longitude": -90.8687837,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 791423841,
+    "name": "Dog Park",
+    "latitude": 30.1764024,
+    "longitude": -92.0045589,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 801902567,
+    "name": "Dog Park",
+    "latitude": 30.380324,
+    "longitude": -91.0923688,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 801945561,
+    "name": "Pontiff Dog Park",
+    "latitude": 29.9829548,
+    "longitude": -90.1364994,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pontiff Dog Park"
+    }
+  },
+  {
+    "id": 827112265,
+    "name": "Dog Park",
+    "latitude": 30.140268,
+    "longitude": -92.0114238,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Island OaksPlantation HOA"
+    }
+  },
+  {
+    "id": 827402227,
+    "name": "Dog Park",
+    "latitude": 30.1530758,
+    "longitude": -92.0323254,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 949442501,
+    "name": "Dog Park",
+    "latitude": 32.4919128,
+    "longitude": -93.7112278,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1016773906,
+    "name": "Dog Park",
+    "latitude": 32.1912247,
+    "longitude": -90.2620368,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1031455260,
+    "name": "Waterview Dog Park",
+    "latitude": 30.1005757,
+    "longitude": -92.0089959,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Waterview Dog Park"
+    }
+  },
+  {
+    "id": 1056056886,
+    "name": "Dog Park",
+    "latitude": 30.5019219,
+    "longitude": -90.1142948,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1107183376,
+    "name": "Raising Cane's Dog Park",
+    "latitude": 30.5651437,
+    "longitude": -91.1699876,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Raising Cane's Dog Park",
+      "operator": "BREC",
+      "operator:type": "government"
+    }
+  },
+  {
+    "id": 1177691442,
+    "name": "PARDS Dog Park",
+    "latitude": 30.4424674,
+    "longitude": -90.9614041,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PARDS Dog Park"
+    }
+  },
+  {
+    "id": 1184370909,
+    "name": "Dog Park",
+    "latitude": 32.2387273,
+    "longitude": -90.92436,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1346948916,
+    "name": "Dog Park",
+    "latitude": 30.2038779,
+    "longitude": -92.0429324,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Moncus Park"
+    }
+  },
+  {
+    "id": 1364866305,
+    "name": "Fideaux Field",
+    "latitude": 30.2241659,
+    "longitude": -93.3844358,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "addr:city": "Sulphur",
+      "addr:housenumber": "900",
+      "addr:postcode": "70663",
+      "addr:state": "LA",
+      "addr:street": "West Parish Road",
+      "leisure": "dog_park",
+      "name": "Fideaux Field",
+      "operator": "Sulphur Parks and Recreation",
+      "operator:type": "public",
+      "website": "https://sulphurparks.com/"
+    }
+  },
+  {
+    "id": 1413446176,
+    "name": "Dog Park",
+    "latitude": 32.5814653,
+    "longitude": -93.2487117,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413446262,
+    "name": "Dog Park",
+    "latitude": 32.4439702,
+    "longitude": -93.9829774,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413446589,
+    "name": "Dog Park",
+    "latitude": 32.3873391,
+    "longitude": -91.1981474,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413446731,
+    "name": "Dog Park",
+    "latitude": 32.3633591,
+    "longitude": -90.6668689,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413448114,
+    "name": "Dog Park",
+    "latitude": 31.1901012,
+    "longitude": -90.4857675,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413449579,
+    "name": "Dog Park",
+    "latitude": 30.1729565,
+    "longitude": -93.5874132,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413449812,
+    "name": "Dog Park",
+    "latitude": 30.2511438,
+    "longitude": -92.1947407,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1430452108,
+    "name": "West Baton Rouge Dog Park",
+    "latitude": 30.4660305,
+    "longitude": -91.2078748,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Port Allen",
+      "addr:housenumber": "610",
+      "addr:state": "LA",
+      "addr:street": "Rosedale Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "West Baton Rouge Dog Park",
+      "operator": "West Baton Rouge Parish",
+      "operator:type": "public",
+      "website": "https://www.westbatonrougemuseum.com/781/Dog-Park"
+    }
+  },
+  {
+    "id": 1445475881,
+    "name": "Barkaritaville Small Dog Park",
+    "latitude": 30.3273494,
+    "longitude": -91.8186989,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barkaritaville Small Dog Park"
+    }
+  },
+  {
+    "id": 1469024446,
+    "name": "Dog Park",
+    "latitude": 32.4926218,
+    "longitude": -91.9914572,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 20337824,
+    "name": "Dog Park",
+    "latitude": 29.8017097,
+    "longitude": -90.0958236,
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
   }
 ]

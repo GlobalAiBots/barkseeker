@@ -325,5 +325,785 @@
       "brand:wikidata": "Q1872496",
       "leisure": "dog_park"
     }
+  },
+  {
+    "id": 506210664,
+    "name": "Edmond Dog Park",
+    "latitude": 35.6231202,
+    "longitude": -97.4758468,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "designation": "dog_park",
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Edmond Dog Park"
+    }
+  },
+  {
+    "id": 3622681594,
+    "name": "Dog Park",
+    "latitude": 35.6460792,
+    "longitude": -97.4558375,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 3974036725,
+    "name": "Dog Park",
+    "latitude": 35.2432697,
+    "longitude": -101.837739,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 5876714253,
+    "name": "Varsity House Dog Park",
+    "latitude": 35.1788477,
+    "longitude": -97.4175517,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Varsity House Dog Park"
+    }
+  },
+  {
+    "id": 11984820104,
+    "name": "Dog Park",
+    "latitude": 34.6650272,
+    "longitude": -99.292898,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 12062158004,
+    "name": "OnCue Dog Park",
+    "latitude": 35.7262163,
+    "longitude": -97.4139705,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "OnCue Dog Park"
+    }
+  },
+  {
+    "id": 317951695,
+    "name": "OK PAW Park",
+    "latitude": 35.5472185,
+    "longitude": -97.5753759,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "OK PAW Park"
+    }
+  },
+  {
+    "id": 321081072,
+    "name": "Norman Community Dog Park",
+    "latitude": 35.2380792,
+    "longitude": -97.4272596,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Norman Community Dog Park",
+      "operator": "City of Norman"
+    }
+  },
+  {
+    "id": 345055852,
+    "name": "Midtown Mutts",
+    "latitude": 35.4785227,
+    "longitude": -97.5180284,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "addr:city": "Oklahoma City",
+      "addr:housenumber": "301",
+      "addr:postcode": "73103",
+      "addr:state": "OK",
+      "addr:street": "West Park Place",
+      "leisure": "dog_park",
+      "name": "Midtown Mutts"
+    }
+  },
+  {
+    "id": 461409715,
+    "name": "Edmond Dog Park",
+    "latitude": 35.6223039,
+    "longitude": -97.4758004,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Edmond Dog Park"
+    }
+  },
+  {
+    "id": 468238133,
+    "name": "Cokesbury Dog Park",
+    "latitude": 35.495021,
+    "longitude": -97.5452049,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cokesbury Dog Park"
+    }
+  },
+  {
+    "id": 471289887,
+    "name": "Southeast Park Dog Park",
+    "latitude": 34.968298,
+    "longitude": -101.9029421,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Southeast Park Dog Park"
+    }
+  },
+  {
+    "id": 489472188,
+    "name": "Dog Park",
+    "latitude": 35.4549018,
+    "longitude": -97.437733,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 546957664,
+    "name": "Myriad Gardens Dog Park",
+    "latitude": 35.4646641,
+    "longitude": -97.5172483,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Myriad Gardens Dog Park"
+    }
+  },
+  {
+    "id": 584759724,
+    "name": "Dog Park",
+    "latitude": 35.4477377,
+    "longitude": -97.3256386,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 585840151,
+    "name": "Happy Tails Dog Park",
+    "latitude": 35.3496254,
+    "longitude": -97.4629961,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park"
+    }
+  },
+  {
+    "id": 587781875,
+    "name": "Fred Quinn Happy Tails Dog Park",
+    "latitude": 35.4635246,
+    "longitude": -97.3817689,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "addr:city": "Midwest City",
+      "addr:state": "OK",
+      "addr:street": "East Reno Avenue",
+      "leisure": "dog_park",
+      "name": "Fred Quinn Happy Tails Dog Park"
+    }
+  },
+  {
+    "id": 608798939,
+    "name": "Dog Park",
+    "latitude": 34.7696384,
+    "longitude": -96.6907397,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 611635620,
+    "name": "Altus Dog Park",
+    "latitude": 34.6517578,
+    "longitude": -99.3300292,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Altus Dog Park",
+      "waste": "dog_excrement"
+    }
+  },
+  {
+    "id": 614113226,
+    "name": "Dog Park",
+    "latitude": 34.2267862,
+    "longitude": -97.1607901,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 614354158,
+    "name": "Wiggly Bark Dog Park - Small Dogs",
+    "latitude": 35.9866913,
+    "longitude": -96.1104086,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wiggly Bark Dog Park - Small Dogs"
+    }
+  },
+  {
+    "id": 685777436,
+    "name": "Dog Park",
+    "latitude": 35.1586206,
+    "longitude": -101.8074108,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 685777437,
+    "name": "Dog Park",
+    "latitude": 35.159443,
+    "longitude": -101.8087643,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 845775928,
+    "name": "Dog Park",
+    "latitude": 35.6065579,
+    "longitude": -97.6253814,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 868823791,
+    "name": "Dog Park",
+    "latitude": 35.1548615,
+    "longitude": -101.9079751,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1017672921,
+    "name": "Dog Park",
+    "latitude": 35.3734173,
+    "longitude": -97.5281347,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1056686002,
+    "name": "Ruby Grant Dog Park",
+    "latitude": 35.2703926,
+    "longitude": -97.4872,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ruby Grant Dog Park"
+    }
+  },
+  {
+    "id": 1064187122,
+    "name": "Wintersmith Dog Park",
+    "latitude": 34.7640665,
+    "longitude": -96.65078,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Wintersmith Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "id": 1068716361,
+    "name": "Dog Park",
+    "latitude": 35.376758,
+    "longitude": -98.7805618,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1081254610,
+    "name": "Dog Park",
+    "latitude": 35.4584993,
+    "longitude": -97.5190219,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "lit": "yes"
+    }
+  },
+  {
+    "id": 1148636875,
+    "name": "Dog Park",
+    "latitude": 33.739975,
+    "longitude": -96.56513,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Dennison",
+      "addr:housenumber": "1501",
+      "addr:state": "TX",
+      "addr:street": "Waterloo Lake Drive",
+      "description": "Weight limit",
+      "leisure": "dog_park",
+      "maxweight:dog": "29 lbs",
+      "operator": "City of Dennison",
+      "operator:type": "government",
+      "website": "https://www.cityofdenison.com/parksrec/page/waterloo-dog-park"
+    }
+  },
+  {
+    "id": 1155023655,
+    "name": "Wichita Falls Dog Park",
+    "latitude": 33.8496087,
+    "longitude": -98.5601836,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Wichita Falls",
+      "addr:housenumber": "5205",
+      "addr:postcode": "76310",
+      "addr:state": "TX",
+      "addr:street": "Fairway Boulevard",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Wichita Falls Dog Park",
+      "website": "http://www.wichitafallstx.gov/1431/Off-Leash-Dog-Park"
+    }
+  },
+  {
+    "id": 1180076826,
+    "name": "Coody Creek Bark Park",
+    "latitude": 35.7376443,
+    "longitude": -95.3772225,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "addr:city": "Muskogee",
+      "addr:housenumber": "1121",
+      "addr:postcode": "74401",
+      "addr:state": "OK",
+      "addr:street": "South 2nd Street",
+      "leisure": "dog_park",
+      "name": "Coody Creek Bark Park"
+    }
+  },
+  {
+    "id": 1201576179,
+    "name": "Anatole at Norman Dog Park",
+    "latitude": 35.26128,
+    "longitude": -97.4964842,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "private",
+      "addr:city": "Norman",
+      "addr:housenumber": "3700",
+      "addr:postcode": "73072",
+      "addr:state": "OK",
+      "addr:street": "West Tecumseh Road",
+      "leisure": "dog_park",
+      "name": "Anatole at Norman Dog Park",
+      "operator": "Anatole at Norman",
+      "operator:type": "private"
+    }
+  },
+  {
+    "id": 1208968967,
+    "name": "Boulevard at Lakeside Dog Park",
+    "latitude": 35.4494967,
+    "longitude": -97.3305648,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Boulevard at Lakeside Dog Park",
+      "operator": "Boulevard at Lakeside"
+    }
+  },
+  {
+    "id": 1229052336,
+    "name": "Dog Park",
+    "latitude": 35.6816861,
+    "longitude": -97.0550651,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1242094269,
+    "name": "Deep Deuce Dog Park",
+    "latitude": 35.4692116,
+    "longitude": -97.5105622,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Deep Deuce Dog Park"
+    }
+  },
+  {
+    "id": 1309489272,
+    "name": "Bar K",
+    "latitude": 35.4607448,
+    "longitude": -97.4958858,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Oklahoma City",
+      "addr:housenumber": "901",
+      "addr:postcode": "73129",
+      "addr:state": "OK",
+      "addr:street": "Southeast 5th Street",
+      "leisure": "dog_park",
+      "name": "Bar K",
+      "website": "https://barkdogbar.com/locations/oklahoma-city-ok/"
+    }
+  },
+  {
+    "id": 1329089507,
+    "name": "Dog Park",
+    "latitude": 35.0435096,
+    "longitude": -97.9405227,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1390525530,
+    "name": "Dog Park",
+    "latitude": 35.1690704,
+    "longitude": -101.9033383,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413440788,
+    "name": "Dog Park",
+    "latitude": 35.8798463,
+    "longitude": -97.391184,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413441269,
+    "name": "Dog Park",
+    "latitude": 35.5263324,
+    "longitude": -98.3509473,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413441590,
+    "name": "Dog Park",
+    "latitude": 35.4976318,
+    "longitude": -97.9033875,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413441646,
+    "name": "Dog Park",
+    "latitude": 35.5944879,
+    "longitude": -97.43651,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413441687,
+    "name": "Dog Park",
+    "latitude": 35.4061597,
+    "longitude": -97.9381723,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413441825,
+    "name": "Dog Park",
+    "latitude": 35.6361214,
+    "longitude": -95.9624101,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413441867,
+    "name": "Dog Park",
+    "latitude": 35.3960131,
+    "longitude": -97.2659809,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413442134,
+    "name": "Dog Park",
+    "latitude": 35.4861753,
+    "longitude": -95.1495868,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413442248,
+    "name": "Dog Park",
+    "latitude": 35.3057611,
+    "longitude": -95.5877659,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413442386,
+    "name": "Dog Park",
+    "latitude": 34.2922492,
+    "longitude": -99.7586227,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413443176,
+    "name": "Dog Park",
+    "latitude": 34.1734589,
+    "longitude": -98.4980798,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413443688,
+    "name": "Dog Park",
+    "latitude": 33.88045,
+    "longitude": -96.5003085,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1413444067,
+    "name": "Dog Park",
+    "latitude": 33.695603,
+    "longitude": -95.5557348,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1417529316,
+    "name": "Dog Park",
+    "latitude": 35.2027502,
+    "longitude": -101.8721975,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1444593690,
+    "name": "Dog Park",
+    "latitude": 35.304001,
+    "longitude": -97.4884423,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1450839074,
+    "name": "Dog Park",
+    "latitude": 33.8445247,
+    "longitude": -96.5123603,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "id": 1467925983,
+    "name": "Dog Park",
+    "latitude": 34.1118178,
+    "longitude": -97.0273467,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Lake Murray RV Park",
+      "operator:type": "business"
+    }
+  },
+  {
+    "id": 1471853300,
+    "name": "Dog Park",
+    "latitude": 33.985695,
+    "longitude": -98.5399316,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 19482837,
+    "name": "Solo's Park & Pub",
+    "latitude": 35.6046057,
+    "longitude": -97.535621,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "addr:city": "Oklahoma City",
+      "addr:housenumber": "13310",
+      "addr:postcode": "73114",
+      "addr:state": "OK",
+      "addr:street": "Pawnee Drive",
+      "leisure": "dog_park",
+      "name": "Solo's Park & Pub",
+      "type": "multipolygon",
+      "website": "https://solosparkandpub.com/"
+    }
+  },
+  {
+    "id": 19731712,
+    "name": "Dog Park",
+    "latitude": 35.6153944,
+    "longitude": -97.5568251,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
   }
 ]
