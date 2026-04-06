@@ -1,693 +1,1009 @@
 [
   {
-    "id": 142477874,
-    "name": "Boat Ramp",
-    "latitude": 32.5615038,
-    "longitude": -104.389161,
+    "id": 2017381127,
+    "name": "Carlsbad Dog Park",
+    "latitude": 32.4147686,
+    "longitude": -104.2249764,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Carlsbad",
+      "addr:country": "US",
+      "addr:postcode": "88220",
+      "addr:state": "NM",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Carlsbad Dog Park"
     }
   },
   {
-    "id": 142795595,
-    "name": "Boat Ramp",
-    "latitude": 32.5575263,
-    "longitude": -104.3920091,
+    "id": 4643128701,
+    "name": "Dog Park",
+    "latitude": 35.2569591,
+    "longitude": -106.6644729,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 143565622,
-    "name": "Boat Ramp",
-    "latitude": 36.716186,
-    "longitude": -106.8816179,
+    "id": 6615523919,
+    "name": "Dog Park",
+    "latitude": 35.6584282,
+    "longitude": -106.0644053,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 560538662,
-    "name": "Boat Ramp",
-    "latitude": 32.8990515,
-    "longitude": -107.2928209,
+    "id": 11981428931,
+    "name": "Northeast Region Dog Park",
+    "latitude": 31.9341595,
+    "longitude": -106.4029794,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "Yahoo"
+      "leisure": "dog_park",
+      "name": "Northeast Region Dog Park"
     }
   },
   {
-    "id": 589610694,
-    "name": "Boat Ramp",
-    "latitude": 36.2554887,
-    "longitude": -106.4346729,
+    "id": 139042510,
+    "name": "Las Cruces Dog Park",
+    "latitude": 32.3164678,
+    "longitude": -106.7616541,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "canoe": "yes",
-      "leisure": "slipway",
-      "tidal": "no"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Las Cruces Dog Park",
+      "source": "Bing"
     }
   },
   {
-    "id": 1505285403,
-    "name": "Boat Ramp",
-    "latitude": 35.6356479,
-    "longitude": -106.3226351,
+    "id": 167429316,
+    "name": "Dog Park",
+    "latitude": 33.3543435,
+    "longitude": -105.6597613,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "barrier": "fence",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1505286464,
-    "name": "Boat Ramp",
-    "latitude": 35.6443365,
-    "longitude": -106.313516,
+    "id": 172116704,
+    "name": "Ouray Off-leash Dog Park",
+    "latitude": 35.1145398,
+    "longitude": -106.720604,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "bing"
+      "leisure": "dog_park",
+      "name": "Ouray Off-leash Dog Park"
     }
   },
   {
-    "id": 1824718234,
-    "name": "Boat Ramp",
-    "latitude": 36.8179008,
-    "longitude": -107.6135267,
+    "id": 173000901,
+    "name": "Coronado Dog Park",
+    "latitude": 35.1040952,
+    "longitude": -106.6460666,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "301",
+      "addr:postcode": "87102",
+      "addr:state": "NM",
+      "addr:street": "Mc Knight Avenue Northwest",
+      "gnis:feature_id": "887872",
+      "leisure": "dog_park",
+      "name": "Coronado Dog Park",
+      "operator": "City of Albuquerque"
     }
   },
   {
-    "id": 2276387287,
-    "name": "Boat Ramp",
-    "latitude": 35.9790173,
-    "longitude": -105.916383,
+    "id": 264248307,
+    "name": "Dog Park",
+    "latitude": 35.1837493,
+    "longitude": -103.0513739,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
     }
   },
   {
-    "id": 3335073193,
-    "name": "Boat Ramp",
-    "latitude": 32.4252425,
-    "longitude": -104.2207309,
+    "id": 264248659,
+    "name": "Dog Park",
+    "latitude": 35.1749441,
+    "longitude": -103.1030229,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 3351216791,
-    "name": "Boat Ramp",
-    "latitude": 32.4299794,
-    "longitude": -104.2191881,
+    "id": 299678241,
+    "name": "Dog Park",
+    "latitude": 31.8226542,
+    "longitude": -106.4315701,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 4605868131,
-    "name": "Boat Ramp",
-    "latitude": 36.5406793,
-    "longitude": -105.2668776,
+    "id": 387941443,
+    "name": "K-9 Field",
+    "latitude": 35.0063918,
+    "longitude": -106.506944,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "K-9 Field",
+      "operator": "USAF",
+      "operator:type": "military",
+      "source": "Bing"
     }
   },
   {
-    "id": 4605911023,
-    "name": "Boat Ramp",
-    "latitude": 36.5362873,
-    "longitude": -105.2634381,
-    "state": "New Mexico",
-    "stateAbbr": "NM",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5243562757,
-    "name": "Cutter Reservoir Boat Launch",
-    "latitude": 36.6945364,
-    "longitude": -107.6809569,
-    "state": "New Mexico",
-    "stateAbbr": "NM",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Cutter Reservoir Boat Launch"
-    }
-  },
-  {
-    "id": 5929789223,
-    "name": "Taos Junction Bridge Boat Launch",
-    "latitude": 36.3356916,
-    "longitude": -105.733858,
+    "id": 416606879,
+    "name": "Tom Bolack Memorial Dog Park",
+    "latitude": 35.0990499,
+    "longitude": -106.5738136,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
       "access": "yes",
-      "charge": "3 USD",
-      "fee": "yes",
-      "leisure": "slipway",
-      "name": "Taos Junction Bridge Boat Launch",
-      "payment:cash": "yes",
-      "surface": "concrete"
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "2000",
+      "addr:state": "NM",
+      "addr:street": "Dakota Street Northeast",
+      "leisure": "dog_park",
+      "name": "Tom Bolack Memorial Dog Park"
     }
   },
   {
-    "id": 7931029555,
-    "name": "Lone Juniper Boat Takeout",
-    "latitude": 36.2995305,
-    "longitude": -105.7724809,
+    "id": 468606121,
+    "name": "Dog Park",
+    "latitude": 31.7835251,
+    "longitude": -106.347905,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "name": "Lone Juniper Boat Takeout"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 10232186818,
-    "name": "Boat Ramp",
-    "latitude": 34.1388028,
-    "longitude": -108.4958809,
+    "id": 479390551,
+    "name": "Dog Park",
+    "latitude": 34.4080786,
+    "longitude": -103.3259176,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 10232186830,
-    "name": "Boat Ramp",
-    "latitude": 34.1366298,
-    "longitude": -108.4911917,
+    "id": 479413958,
+    "name": "Hillcrest Dog Park",
+    "latitude": 34.4073709,
+    "longitude": -103.1853943,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Hillcrest Dog Park"
     }
   },
   {
-    "id": 10295300313,
-    "name": "Boat Ramp",
-    "latitude": 33.4232196,
-    "longitude": -108.498038,
+    "id": 509633834,
+    "name": "Salvador Perez Dog Park",
+    "latitude": 35.6707359,
+    "longitude": -105.9512894,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "name": "Boat Ramp"
+      "leisure": "dog_park",
+      "name": "Salvador Perez Dog Park"
     }
   },
   {
-    "id": 10552704377,
-    "name": "Boat Ramp",
-    "latitude": 33.1101146,
-    "longitude": -107.2972645,
+    "id": 549772915,
+    "name": "Carol Wheeler Dog Park",
+    "latitude": 33.1290187,
+    "longitude": -107.2501524,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Carol Wheeler Dog Park"
     }
   },
   {
-    "id": 10552704378,
-    "name": "Boat Ramp",
-    "latitude": 33.1076824,
-    "longitude": -107.2971176,
+    "id": 551372108,
+    "name": "Dog Park",
+    "latitude": 35.472961,
+    "longitude": -106.3063735,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1",
+      "leisure": "dog_park",
+      "surface": "gravel"
     }
   },
   {
-    "id": 10552704379,
-    "name": "Boat Ramp",
-    "latitude": 33.1165419,
-    "longitude": -107.2575649,
+    "id": 570388710,
+    "name": "Bark Park",
+    "latitude": 32.9267554,
+    "longitude": -105.9480486,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Bark Park"
     }
   },
   {
-    "id": 10848058318,
-    "name": "Boat Ramp",
-    "latitude": 36.6739952,
-    "longitude": -106.7147002,
+    "id": 599518138,
+    "name": "The Trails Dog Park",
+    "latitude": 35.1801949,
+    "longitude": -106.7365972,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "The Trails Dog Park"
     }
   },
   {
-    "id": 10848058329,
-    "name": "Big Eddy Access",
-    "latitude": 36.3115104,
-    "longitude": -106.5829724,
+    "id": 603575838,
+    "name": "Dog Park",
+    "latitude": 36.7883268,
+    "longitude": -108.1132405,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "canoe": "yes",
-      "leisure": "slipway",
-      "name": "Big Eddy Access",
-      "tidal": "no"
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 10874927593,
-    "name": "Boat Ramp",
-    "latitude": 34.6158188,
-    "longitude": -104.3885172,
+    "id": 611915781,
+    "name": "Del Norte Dog Park",
+    "latitude": 32.7504628,
+    "longitude": -103.1372895,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Del Norte Dog Park"
     }
   },
   {
-    "id": 10874945440,
-    "name": "Boat Ramp",
-    "latitude": 34.615657,
-    "longitude": -104.3768171,
+    "id": 638904598,
+    "name": "Dog Park",
+    "latitude": 35.5484453,
+    "longitude": -105.9008218,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 11769785326,
-    "name": "Boat Ramp",
-    "latitude": 35.0324099,
-    "longitude": -104.6847537,
+    "id": 660852427,
+    "name": "Dog Park",
+    "latitude": 35.5368305,
+    "longitude": -105.889241,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "access": "residents",
+      "dog": "yes",
+      "dog:small": "only",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 11892988174,
-    "name": "Boat Ramp",
-    "latitude": 36.3512413,
-    "longitude": -106.6724658,
+    "id": 672826664,
+    "name": "USS Bullhead Dog Park",
+    "latitude": 35.0516963,
+    "longitude": -106.5801441,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "USS Bullhead Dog Park"
     }
   },
   {
-    "id": 12922620831,
-    "name": "Boat Ramp",
-    "latitude": 32.9102776,
-    "longitude": -107.3063197,
+    "id": 684285695,
+    "name": "Santa Fe Animal Shelter and Dog Park",
+    "latitude": 35.6579128,
+    "longitude": -106.0613819,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Santa Fe",
+      "addr:housenumber": "100",
+      "addr:postcode": "87507",
+      "addr:state": "NM",
+      "addr:street": "Caja del Rio Road",
+      "leisure": "dog_park",
+      "name": "Santa Fe Animal Shelter and Dog Park",
+      "operational_status": "operational",
+      "operator": "Santa Fe Animal Shelter & Humane Society",
+      "operator:type": "private_non_profit",
+      "operator:wikidata": "Q54812659",
+      "wikidata": "Q109336309"
     }
   },
   {
-    "id": 12945587868,
-    "name": "Boat Ramp",
-    "latitude": 34.7944639,
-    "longitude": -106.7249419,
+    "id": 706095621,
+    "name": "Dale Ball Dog Run",
+    "latitude": 35.7107999,
+    "longitude": -105.9006031,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Santa Fe",
+      "addr:state": "NM",
+      "addr:street": "Sierra del Norte",
+      "leisure": "dog_park",
+      "name": "Dale Ball Dog Run"
     }
   },
   {
-    "id": 12947000699,
-    "name": "Boat Ramp",
-    "latitude": 34.8476675,
-    "longitude": -106.7156839,
+    "id": 706820235,
+    "name": "Villas del Cielo Dog Park",
+    "latitude": 35.1190273,
+    "longitude": -106.5942566,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "description": "Apartment-use only.",
+      "leisure": "dog_park",
+      "name": "Villas del Cielo Dog Park"
     }
   },
   {
-    "id": 148537575,
-    "name": "Boat Ramp",
-    "latitude": 33.1612413,
-    "longitude": -107.2455212,
+    "id": 720403450,
+    "name": "Park Plazas Dog Park",
+    "latitude": 35.6343581,
+    "longitude": -105.9873817,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "intermittent": "yes",
-      "leisure": "slipway",
-      "source": "image",
-      "tunnel": "yes",
-      "waterway": "stream"
+      "leisure": "dog_park",
+      "name": "Park Plazas Dog Park"
     }
   },
   {
-    "id": 169258456,
-    "name": "Boat Ramp",
-    "latitude": 33.1520126,
-    "longitude": -107.2041921,
+    "id": 721121686,
+    "name": "Frank Ortiz Dog Run",
+    "latitude": 35.6973322,
+    "longitude": -105.9639954,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "service": "slipway",
-      "source": "image",
-      "surface": "asphalt",
-      "width": "10"
+      "barrier": "fence",
+      "disused:leisure": "pitch",
+      "leisure": "dog_park",
+      "name": "Frank Ortiz Dog Run",
+      "sport": "tennis"
     }
   },
   {
-    "id": 169258457,
-    "name": "Boat Ramp",
-    "latitude": 33.1470821,
-    "longitude": -107.2074565,
+    "id": 759935364,
+    "name": "Dog Park",
+    "latitude": 34.8140875,
+    "longitude": -106.7725549,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 169258460,
-    "name": "Boat Ramp",
-    "latitude": 33.1480467,
-    "longitude": -107.2164197,
+    "id": 783838041,
+    "name": "Westgate Dog Park",
+    "latitude": 35.0458441,
+    "longitude": -106.7436299,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "addr:housenumber": "1901",
+      "addr:state": "NM",
+      "addr:street": "Valley View Drive Southwest",
+      "leisure": "dog_park",
+      "name": "Westgate Dog Park"
     }
   },
   {
-    "id": 169259186,
-    "name": "Boat Ramp",
-    "latitude": 33.1526881,
-    "longitude": -107.1955785,
+    "id": 819209920,
+    "name": "Dog Park",
+    "latitude": 35.0236918,
+    "longitude": -106.9528951,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 169259187,
-    "name": "Boat Ramp",
-    "latitude": 33.1484471,
-    "longitude": -107.2204262,
+    "id": 830469696,
+    "name": "Las Campanas Dog Park",
+    "latitude": 35.7091178,
+    "longitude": -106.0784353,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "imagery",
-      "surface": "dirt",
-      "width": "7"
+      "addr:city": "Santa Fe",
+      "addr:state": "NM",
+      "addr:street": "Las Campanas Drive",
+      "leisure": "dog_park",
+      "name": "Las Campanas Dog Park"
     }
   },
   {
-    "id": 169259188,
-    "name": "Boat Ramp",
-    "latitude": 33.1527667,
-    "longitude": -107.1992172,
+    "id": 833197832,
+    "name": "Dog Park",
+    "latitude": 35.6640654,
+    "longitude": -105.9704636,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 169261235,
-    "name": "Boat Ramp",
-    "latitude": 33.146145,
-    "longitude": -107.2218539,
+    "id": 968862761,
+    "name": "North Domingo Baca Dog Park",
+    "latitude": 35.1796061,
+    "longitude": -106.564638,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "image",
-      "surface": "dirt",
-      "width": "4"
+      "description": "All sizes allowed off leash",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "North Domingo Baca Dog Park"
     }
   },
   {
-    "id": 169261908,
-    "name": "Boat Ramp",
-    "latitude": 33.1331298,
-    "longitude": -107.2268424,
+    "id": 1032805051,
+    "name": "Dog Park",
+    "latitude": 35.0617495,
+    "longitude": -106.5543707,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "image",
-      "surface": "gravel",
-      "width": "10"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 169262192,
-    "name": "Boat Ramp",
-    "latitude": 33.1296945,
-    "longitude": -107.2302813,
+    "id": 1076348017,
+    "name": "Dog Park",
+    "latitude": 36.8865689,
+    "longitude": -104.4334614,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "image",
-      "surface": "gravel",
-      "width": "10"
+      "access": "customers",
+      "leisure": "dog_park",
+      "surface": "rock"
     }
   },
   {
-    "id": 169273653,
-    "name": "Boat Ramp",
-    "latitude": 33.1164824,
-    "longitude": -107.2575646,
+    "id": 1083884580,
+    "name": "Dog Park",
+    "latitude": 35.1498033,
+    "longitude": -106.4916908,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "source": "Bing 2020",
-      "surface": "gravel",
-      "width": "10"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 170164430,
-    "name": "Boat Ramp",
-    "latitude": 33.1071586,
-    "longitude": -107.2975488,
+    "id": 1103901193,
+    "name": "Dog Park",
+    "latitude": 35.1035892,
+    "longitude": -106.7446563,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "image",
-      "surface": "dirt",
-      "width": "5"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 170164950,
-    "name": "Boat Ramp",
-    "latitude": 33.112979,
-    "longitude": -107.2751468,
+    "id": 1119216179,
+    "name": "Dog Park",
+    "latitude": 35.6368972,
+    "longitude": -106.0105049,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "image"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 243489705,
-    "name": "Boat Ramp",
-    "latitude": 33.0304792,
-    "longitude": -108.1575951,
+    "id": 1141855596,
+    "name": "Aperture Bark",
+    "latitude": 34.9860576,
+    "longitude": -106.6140577,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway",
-      "source": "Bing",
-      "vehicle": "yes"
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "5801",
+      "addr:postcode": "87106",
+      "addr:state": "NM",
+      "addr:street": "University Boulevard Southeast",
+      "leisure": "dog_park",
+      "name": "Aperture Bark"
     }
   },
   {
-    "id": 465654474,
-    "name": "Boat Ramp",
-    "latitude": 36.5406416,
-    "longitude": -105.2671445,
+    "id": 1141891908,
+    "name": "Dog Park",
+    "latitude": 35.6801755,
+    "longitude": -105.9655583,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "concrete"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 827812941,
-    "name": "Boat Ramp",
-    "latitude": 36.2530507,
-    "longitude": -106.4297088,
+    "id": 1209308895,
+    "name": "Woof Bowl Dog Park",
+    "latitude": 33.410736,
+    "longitude": -104.5169316,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "addr:city": "Roswell",
+      "addr:housenumber": "1500",
+      "addr:postcode": "88201",
+      "addr:state": "NM",
+      "addr:street": "North Grand Avenue",
+      "leisure": "dog_park",
+      "name": "Woof Bowl Dog Park"
     }
   },
   {
-    "id": 892530408,
-    "name": "Boat Ramp",
-    "latitude": 33.1101213,
-    "longitude": -107.2971698,
+    "id": 1215823534,
+    "name": "Dog Park",
+    "latitude": 35.306693,
+    "longitude": -106.5395324,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "source": "Bing 2020",
-      "surface": "dirt",
-      "width": "4"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 892530409,
-    "name": "Boat Ramp",
-    "latitude": 33.1076929,
-    "longitude": -107.2970685,
+    "id": 1224673977,
+    "name": "Dog Park",
+    "latitude": 35.6756145,
+    "longitude": -105.9550084,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "source": "Bing 2020",
-      "surface": "dirt",
-      "width": "4"
+      "access": "private",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1091346174,
-    "name": "Snow Lake Boat Ramp",
-    "latitude": 33.4234394,
-    "longitude": -108.4981467,
+    "id": 1237461728,
+    "name": "Dog Park",
+    "latitude": 32.2810018,
+    "longitude": -107.7605147,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1250714466,
+    "name": "Dog Park",
+    "latitude": 35.6314884,
+    "longitude": -106.0641541,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1256724165,
+    "name": "Dog Park",
+    "latitude": 34.1749413,
+    "longitude": -103.363828,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1277901966,
+    "name": "Pet Exercise Area",
+    "latitude": 32.3528553,
+    "longitude": -108.7431032,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area",
+      "surface": "rock"
+    }
+  },
+  {
+    "id": 1284275199,
+    "name": "Cottonwood Dog Park",
+    "latitude": 35.2003138,
+    "longitude": -106.6579482,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "10000",
+      "addr:postcode": "87114",
+      "addr:state": "NM",
+      "addr:street": "Coors Boulevard Bypass Northwest",
+      "leisure": "dog_park",
+      "name": "Cottonwood Dog Park",
+      "website": "https://cottonwoodmall.com/store/Cottonwood-Dog-Park/2139000555/"
+    }
+  },
+  {
+    "id": 1293446525,
+    "name": "Dog Park",
+    "latitude": 31.7992471,
+    "longitude": -106.2407918,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1312656415,
+    "name": "Dog Park",
+    "latitude": 35.158143,
+    "longitude": -103.7009937,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1314051463,
+    "name": "River Trail Dog Park",
+    "latitude": 35.6589898,
+    "longitude": -106.024863,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "addr:housenumber": "2100",
+      "addr:street": "Caja del Oro Grant Road",
+      "leisure": "dog_park",
+      "name": "River Trail Dog Park"
+    }
+  },
+  {
+    "id": 1326380713,
+    "name": "Dog Park",
+    "latitude": 35.0166207,
+    "longitude": -106.6063795,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1330129892,
+    "name": "Dog Park",
+    "latitude": 32.7251767,
+    "longitude": -103.1134074,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "id": 1340642543,
+    "name": "MUTTZ El Paso",
+    "latitude": 31.8104652,
+    "longitude": -106.5290387,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "MUTTZ El Paso",
+      "website": "https://muttscantina.com/tx-el-paso/"
+    }
+  },
+  {
+    "id": 1343834623,
+    "name": "Dog Park",
+    "latitude": 31.8670385,
+    "longitude": -106.5628881,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1343834625,
+    "name": "Dog Park",
+    "latitude": 31.8677543,
+    "longitude": -106.5630612,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1351684861,
+    "name": "The Yard",
+    "latitude": 31.8181607,
+    "longitude": -106.1853319,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Yard",
+      "website": "https://theyard915.com/"
+    }
+  },
+  {
+    "id": 1352892383,
+    "name": "Dog Park",
+    "latitude": 35.6957109,
+    "longitude": -105.9363704,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1387152553,
+    "name": "Dog Park",
+    "latitude": 32.3693129,
+    "longitude": -104.2369134,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1387152562,
+    "name": "Dog Park",
+    "latitude": 32.3672709,
+    "longitude": -104.2368726,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1395817334,
+    "name": "Maxey Bark Park",
+    "latitude": 31.3941031,
+    "longitude": -103.5068794,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Pecos",
+      "addr:postcode": "79772",
+      "addr:state": "TX",
+      "addr:street": "Cothrun Street",
+      "dog": "unleashed",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "name": "Maxey Bark Park",
+      "operator": "Town of Pecos City",
+      "operator:type": "community",
+      "website": "https://www.pecostx.gov/Home/Components/FacilityDirectory/FacilityDirectory/18/106"
+    }
+  },
+  {
+    "id": 1431883178,
+    "name": "Park Park",
+    "latitude": 32.8259406,
+    "longitude": -104.4382952,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Park Park"
+    }
+  },
+  {
+    "id": 1431893837,
+    "name": "Big Dawg Park",
+    "latitude": 32.8257494,
+    "longitude": -104.4374491,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Big Dawg Park"
+    }
+  },
+  {
+    "id": 1446822521,
+    "name": "Santa Fe Villiage Dog Park",
+    "latitude": 35.1495447,
+    "longitude": -106.7158511,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Santa Fe Villiage Dog Park",
+      "operator": "City of Albuquerque",
+      "operator:type": "government"
+    }
+  },
+  {
+    "id": 1448500760,
+    "name": "High Range Dog Park",
+    "latitude": 35.2897159,
+    "longitude": -106.6586274,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Rio Rancho",
+      "addr:postcode": "87144",
+      "addr:state": "NM",
+      "barrier": "fence",
+      "description": "​2 zones: ≤25lb & >25lb. Dogs must be 6+ months, spayed/neutered, and have current rabies, core vaccines, and license tags. Max 3 dogs per person. Owners must stay with dogs and clean up waste. Aggressive dogs must leave.",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
       "lit": "no",
-      "name": "Snow Lake Boat Ramp",
-      "service": "slipway",
-      "surface": "concrete"
+      "name": "High Range Dog Park",
+      "opening_hours": "06:00-22:00",
+      "operator": "Parks, Recreation and Community Services Department",
+      "operator:phone": "+1-505-891-5015",
+      "surface": "dirt"
     }
   },
   {
-    "id": 1111696354,
-    "name": "Boat Ramp",
-    "latitude": 33.2251551,
-    "longitude": -107.2041565,
+    "id": 1471850656,
+    "name": "Dog Park",
+    "latitude": 35.2226996,
+    "longitude": -106.6858153,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1111696381,
-    "name": "Boat Ramp",
-    "latitude": 33.1813592,
-    "longitude": -107.2041241,
+    "id": 10436196,
+    "name": "Dog Park",
+    "latitude": 35.6508016,
+    "longitude": -105.9558219,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "type": "multipolygon"
     }
   },
   {
-    "id": 1202567330,
-    "name": "Boat Ramp",
-    "latitude": 35.6358896,
-    "longitude": -106.3228898,
+    "id": 15476126,
+    "name": "East Park Dog Park",
+    "latitude": 35.8829027,
+    "longitude": -106.2842208,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park",
+      "name": "East Park Dog Park",
+      "type": "multipolygon"
     }
   },
   {
-    "id": 1203336273,
-    "name": "Boat Ramp",
-    "latitude": 35.644336,
-    "longitude": -106.3132222,
+    "id": 15987732,
+    "name": "Urban Park Voice Control Area",
+    "latitude": 35.8945344,
+    "longitude": -106.3228757,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park",
+      "name": "Urban Park Voice Control Area",
+      "note": "Unfenced area where dogs are allowed off-leash, provided their owners can control them with voice commands",
+      "type": "multipolygon"
     }
   },
   {
-    "id": 1451364898,
-    "name": "Boat Ramp",
-    "latitude": 33.2962313,
-    "longitude": -107.1775574,
+    "id": 16442385,
+    "name": "North Mesa Dog Park",
+    "latitude": 35.8924187,
+    "longitude": -106.2815403,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park",
+      "name": "North Mesa Dog Park",
+      "type": "multipolygon"
     }
   },
   {
-    "id": 2360735305,
-    "name": "Boat Ramp",
-    "latitude": 35.365134,
-    "longitude": -103.4937757,
+    "id": 16533072,
+    "name": "Manhattan Project National Historic Park Voice Control Area",
+    "latitude": 35.8837383,
+    "longitude": -106.3014268,
     "state": "New Mexico",
     "stateAbbr": "NM",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Manhattan Project National Historic Park Voice Control Area",
+      "note": "Unfenced area where dogs are allowed off-leash, provided their owners can control them with voice commands",
+      "type": "multipolygon",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 19148299,
+    "name": "Los Altos Dog Park",
+    "latitude": 35.0863039,
+    "longitude": -106.5395103,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Los Altos Dog Park",
+      "type": "multipolygon"
     }
   }
 ]

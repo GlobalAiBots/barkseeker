@@ -1,0 +1,4267 @@
+[
+  {
+    "place_id": "osm_462568716",
+    "name": "Lions' Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4675146,
+    "longitude": -114.3486518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lions' Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_476180823",
+    "name": "Large Dog Off-leash Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0929692,
+    "longitude": -114.6288403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Off-leash Park"
+    }
+  },
+  {
+    "place_id": "osm_480764891",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.6456694,
+    "longitude": -114.5828817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_913514639",
+    "name": "Spike's Desert Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8366104,
+    "longitude": -114.6123968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Needles Dog Park",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Spike's Desert Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1020898435",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2272071,
+    "longitude": -114.2200565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1115390396",
+    "name": "Quartzite Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6785227,
+    "longitude": -114.2090942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Quartzite Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1180738592",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.6640678,
+    "longitude": -114.5608992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192587115",
+    "name": "Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.6764505,
+    "longitude": -114.6027806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1282361604",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1490172,
+    "longitude": -114.6208541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1313423155",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6621824,
+    "longitude": -114.2411827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1345263774",
+    "name": "Small Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8364511,
+    "longitude": -114.6127544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "operator": "Needles",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1434505836",
+    "name": "Small Dog Off-leash Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4503087,
+    "longitude": -114.2671873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lake Havasu City",
+      "addr:housenumber": "7200",
+      "addr:postcode": "86406",
+      "addr:state": "AZ",
+      "addr:street": "McCulloch Boulevard South",
+      "leisure": "dog_park",
+      "name": "Small Dog Off-leash Park"
+    }
+  },
+  {
+    "place_id": "osm_1436531168",
+    "name": "Community Park Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1410326,
+    "longitude": -114.5712018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bullhead City",
+      "addr:postcode": "86429",
+      "addr:state": "AZ",
+      "leisure": "dog_park",
+      "name": "Community Park Dog Park",
+      "website": "https://www.bullheadcityaz.gov/recreation-culture/parks/dog-parks/"
+    }
+  },
+  {
+    "place_id": "osm_1441798625",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0644942,
+    "longitude": -114.5689134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1442438403",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1132757,
+    "longitude": -114.5753749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_15816386",
+    "name": "Centennial Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.221783,
+    "longitude": -114.0286534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Centennial Dog Park",
+      "type": "multipolygon",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1802738886",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4614343,
+    "longitude": -112.3278199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_2908236517",
+    "name": "Paseo Vista Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2487197,
+    "longitude": -111.8255311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paseo Vista Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_4162002870",
+    "name": "Big Dogs",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.346546,
+    "longitude": -111.0958937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Big Dogs"
+    }
+  },
+  {
+    "place_id": "osm_5169642635",
+    "name": "Granville Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6082061,
+    "longitude": -112.3574781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Granville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_5481760135",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2569945,
+    "longitude": -111.8826153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8660506091",
+    "name": "All 4 Paws Training",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3920117,
+    "longitude": -111.8935416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Tempe",
+      "addr:housenumber": "3330",
+      "addr:postcode": "85282",
+      "addr:state": "AZ",
+      "addr:street": "South Price Road",
+      "leisure": "dog_park",
+      "name": "All 4 Paws Training",
+      "source": "esri/USA_NAD_Addresses"
+    }
+  },
+  {
+    "place_id": "osm_9936567686",
+    "name": "Dog Park @ SaddleBrooke Two",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.513084,
+    "longitude": -110.904242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Dog Park @ SaddleBrooke Two",
+      "operator": "SaddleBrooke Two",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_11282547074",
+    "name": "Phoenix Schutzhund Club",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.569687,
+    "longitude": -112.2554612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Phoenix Schutzhund Club"
+    }
+  },
+  {
+    "place_id": "osm_11561831123",
+    "name": "Foothills Canine Academy Brenda Dreyer",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4220703,
+    "longitude": -112.0326217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Foothills Canine Academy Brenda Dreyer"
+    }
+  },
+  {
+    "place_id": "osm_12646621391",
+    "name": "Chaparral Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5229046,
+    "longitude": -111.9078938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Scottsdale",
+      "addr:housenumber": "5777",
+      "addr:postcode": "85250",
+      "addr:state": "AZ",
+      "addr:street": "North Hayden Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Chaparral Dog Park",
+      "source": "esri/USA_NAD_Addresses"
+    }
+  },
+  {
+    "place_id": "osm_12847397631",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.593543,
+    "longitude": -112.1031276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12869395089",
+    "name": "Culdesac Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.413234,
+    "longitude": -111.8982762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Culdesac Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_23689843",
+    "name": "Willow Creek Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6045141,
+    "longitude": -112.4541354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "bags": "yes",
+      "leisure": "dog_park",
+      "name": "Willow Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_82163095",
+    "name": "Grovers Basin Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6487563,
+    "longitude": -112.032918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "layer": "1",
+      "leisure": "dog_park",
+      "name": "Grovers Basin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_124782466",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5758292,
+    "longitude": -112.1942417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Glendale",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_153213726",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3237984,
+    "longitude": -111.7348291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_222275118",
+    "name": "PETsMART Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5321811,
+    "longitude": -112.1047658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "PETsMART Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_233336158",
+    "name": "Miko's Corner Playground",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2101621,
+    "longitude": -110.925766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Miko's Corner Playground"
+    }
+  },
+  {
+    "place_id": "osm_272189849",
+    "name": "Purple Heart Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1024515,
+    "longitude": -110.7829688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Purple Heart Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_300842264",
+    "name": "Dutchman Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4212595,
+    "longitude": -111.5453515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Apache Junction",
+      "addr:housenumber": "247",
+      "addr:state": "AZ",
+      "addr:street": "East Superstition Boulevard",
+      "leisure": "dog_park",
+      "min_age:dog": "4 months",
+      "name": "Dutchman Dog Park",
+      "opening_hours": "Mo,Th 13:00-22:00; Tu,We,Fr-Su 06:00-22:00",
+      "operator": "City of Apache Junction",
+      "start_date": "2022-04-30",
+      "website": "https://www.apachejunctionaz.gov/dogpark"
+    }
+  },
+  {
+    "place_id": "osm_308622686",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3041479,
+    "longitude": -111.0082707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_308781755",
+    "name": "Large-Breed Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6296886,
+    "longitude": -112.3725501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large-Breed Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_330176644",
+    "name": "Northern Horizon Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5513855,
+    "longitude": -112.1961748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northern Horizon Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_337245875",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3257888,
+    "longitude": -111.7396822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_339011409",
+    "name": "Cottonwood Riverfront Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7466277,
+    "longitude": -112.0193763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cottonwood Riverfront Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_351937027",
+    "name": "Sedona Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8706126,
+    "longitude": -111.7833335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Sedona",
+      "addr:housenumber": "950",
+      "addr:postcode": "86336",
+      "addr:state": "AZ",
+      "addr:street": "Soldier Pass Road",
+      "leisure": "dog_park",
+      "name": "Sedona Dog Park",
+      "phone": "+1-928-203-5057",
+      "website": "https://www.sedonaaz.gov/sedonacms/index.aspx?page=380"
+    }
+  },
+  {
+    "place_id": "osm_406118465",
+    "name": "SKP Saguaro Members and Guests Dog Run",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.9452483,
+    "longitude": -110.2942087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "SKP Saguaro Members and Guests Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_442840237",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2569167,
+    "longitude": -110.9797776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_450023302",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4559263,
+    "longitude": -110.9445164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_468562396",
+    "name": "Apartment Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5602925,
+    "longitude": -112.1006501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "ele": "368",
+      "leisure": "dog_park",
+      "name": "Apartment Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469231976",
+    "name": "Quail Creek Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.8963477,
+    "longitude": -110.9648383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Quail Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_469282787",
+    "name": "Pocket Park for Pups",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2438674,
+    "longitude": -111.6351554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pocket Park for Pups"
+    }
+  },
+  {
+    "place_id": "osm_470026791",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6013789,
+    "longitude": -112.3200508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_483601035",
+    "name": "909 West",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3530828,
+    "longitude": -111.9529612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "909 West"
+    }
+  },
+  {
+    "place_id": "osm_483603984",
+    "name": "Tempe Sports Complex Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3409973,
+    "longitude": -111.9490363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tempe Sports Complex Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_486671224",
+    "name": "Deem Hills Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7276865,
+    "longitude": -112.1656136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Phoenix",
+      "addr:housenumber": "26606",
+      "addr:postcode": "85083",
+      "addr:state": "AZ",
+      "addr:street": "North Deem Hills Parkway",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Deem Hills Dog Park",
+      "operator": "Phoenix, Arizona",
+      "operator:type": "public",
+      "phone": "+1-602-495-5458",
+      "website": "https://www.phoenix.gov/parks/parks/dog-parks"
+    }
+  },
+  {
+    "place_id": "osm_486671480",
+    "name": "Rose Mofford Large Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5724846,
+    "longitude": -112.1110529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Rose Mofford Large Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_486671481",
+    "name": "Rose Mofford Small Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5731352,
+    "longitude": -112.1114693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Rose Mofford Small Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_492814313",
+    "name": "Paradise Valley Park Small Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6492227,
+    "longitude": -111.9997023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Paradise Valley Park Small Dog Park",
+      "opening_hours": "05:30-23:00"
+    }
+  },
+  {
+    "place_id": "osm_493326317",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4195027,
+    "longitude": -112.5398942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_533263021",
+    "name": "Granville Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6082614,
+    "longitude": -112.3578062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Granville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_544274847",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2420093,
+    "longitude": -111.8612135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544278492",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5224821,
+    "longitude": -111.9077032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544569293",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2979477,
+    "longitude": -111.9468628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_554804298",
+    "name": "Optima Scottsdale Dog Run",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5080243,
+    "longitude": -111.9266129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Optima Scottsdale Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_588272010",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4197974,
+    "longitude": -111.912311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_592188463",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4139221,
+    "longitude": -110.9836599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_603063217",
+    "name": "Sky View Ranch Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.279682,
+    "longitude": -111.6886001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sky View Ranch Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_606160920",
+    "name": "Roper Lake Dog Run",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7536026,
+    "longitude": -109.7075609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Roper Lake Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_608722327",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3906236,
+    "longitude": -111.8489761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_620724197",
+    "name": "Copper Sky Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0374331,
+    "longitude": -112.0464837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Copper Sky Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_630840010",
+    "name": "RJ Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2917784,
+    "longitude": -111.9742368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "RJ Dog Park",
+      "opening_hours": "Mo-Su 06:00-23:00"
+    }
+  },
+  {
+    "place_id": "osm_630840011",
+    "name": "RJ Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2929294,
+    "longitude": -111.9752249,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "RJ Dog Park",
+      "opening_hours": "Mo-Su 06:00-23:00"
+    }
+  },
+  {
+    "place_id": "osm_664291628",
+    "name": "Deuce of Dogs",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2425061,
+    "longitude": -110.0579982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Deuce of Dogs"
+    }
+  },
+  {
+    "place_id": "osm_664897786",
+    "name": "Christopher Columbus Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2842472,
+    "longitude": -111.033381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Tucson",
+      "addr:housenumber": "4300",
+      "addr:postcode": "85745",
+      "addr:state": "AZ",
+      "addr:street": "Silverbell Road",
+      "leisure": "dog_park",
+      "name": "Christopher Columbus Dog Park",
+      "website": "https://www.tucsonaz.gov/parks/ChristopherColumbusPark"
+    }
+  },
+  {
+    "place_id": "osm_674658205",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5064893,
+    "longitude": -111.9302328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "operator": "The Moderne Apartments"
+    }
+  },
+  {
+    "place_id": "osm_683147381",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3419389,
+    "longitude": -111.8685404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_699572122",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.325633,
+    "longitude": -111.5964484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_722850275",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3265129,
+    "longitude": -111.6191141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_729201396",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2164642,
+    "longitude": -110.8474977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_732010325",
+    "name": "Small-Breed Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6295494,
+    "longitude": -112.4436127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small-Breed Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_733801316",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3810734,
+    "longitude": -111.5110841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_734263750",
+    "name": "Bisbee Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.4046007,
+    "longitude": -109.9162408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bisbee Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_737198793",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2683895,
+    "longitude": -110.9903086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_740110400",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.316821,
+    "longitude": -111.6214458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_744282007",
+    "name": "El Mirage Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5741359,
+    "longitude": -112.3251811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "El Mirage Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_751687026",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.8165249,
+    "longitude": -111.6369397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_819218461",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3809196,
+    "longitude": -111.9232407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_822382383",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6843371,
+    "longitude": -112.4551482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Copper Park Dog Park section",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_833712320",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2479948,
+    "longitude": -110.8376673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_835111890",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2528077,
+    "longitude": -110.8300115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_835170222",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2553549,
+    "longitude": -110.8647619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_835435632",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.0983253,
+    "longitude": -110.7665449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_835859547",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1474439,
+    "longitude": -110.7602389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_839987092",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2377212,
+    "longitude": -110.7796521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_841095400",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2478937,
+    "longitude": -110.8028814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_842904910",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.106528,
+    "longitude": -110.8534703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_844687545",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1975814,
+    "longitude": -110.8887211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_846905182",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3103848,
+    "longitude": -111.7042158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_846970183",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2347276,
+    "longitude": -110.8270696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_847264818",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2273386,
+    "longitude": -110.8855438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_848171794",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2494788,
+    "longitude": -110.8223965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_849340598",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2483879,
+    "longitude": -110.9253317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_862788682",
+    "name": "Paloma Dog Parks",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.747979,
+    "longitude": -112.2461512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paloma Dog Parks"
+    }
+  },
+  {
+    "place_id": "osm_867925795",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.0671768,
+    "longitude": -110.7053719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_868525218",
+    "name": "Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6050666,
+    "longitude": -112.260708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Peoria",
+      "addr:postcode": "85381",
+      "addr:state": "AZ",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_889408421",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3049982,
+    "longitude": -110.8971818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_889417503",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4485322,
+    "longitude": -111.9806434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_897383599",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2774493,
+    "longitude": -110.9414041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_900141016",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2823461,
+    "longitude": -110.9382183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_906947645",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4931281,
+    "longitude": -112.0729504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_906967650",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1943115,
+    "longitude": -111.0001774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_909874812",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2748456,
+    "longitude": -110.9604181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_911039095",
+    "name": "Anthem Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8428306,
+    "longitude": -112.1182166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private;permit",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Anthem Dog Park",
+      "opening_hours": "Jan-Apr 06:00-21:45; May-Aug 05:30-21:45; Sep-Dec 06:00-21:45; Jan-Dec We 12:00-21:45",
+      "website": "https://www.onlineatanthem.com/residents/recreations_and_amenities/parks/index.php"
+    }
+  },
+  {
+    "place_id": "osm_924067622",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2870509,
+    "longitude": -110.9583832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_926909387",
+    "name": "Charlie’s Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.03156,
+    "longitude": -112.807398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Charlie’s Park",
+      "operator": "Wickenburg Ranch",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_932591634",
+    "name": "Hance Park Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4624053,
+    "longitude": -112.0784396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Hance Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_934456469",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.227022,
+    "longitude": -111.5774462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_934477315",
+    "name": "Southern Hills Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3607257,
+    "longitude": -112.1144276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southern Hills Dog Park",
+      "operator": "Southern Hills HOA",
+      "operator:type": "association"
+    }
+  },
+  {
+    "place_id": "osm_935621586",
+    "name": "Esteban Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3979894,
+    "longitude": -112.0066206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Esteban Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_953216030",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2944217,
+    "longitude": -111.8960314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_958750408",
+    "name": "K-9 Mine Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4069702,
+    "longitude": -110.7863028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "facebook": "https://www.facebook.com/Globe-Dog-Park-418348302250889/",
+      "leisure": "dog_park",
+      "name": "K-9 Mine Bark Park",
+      "opening_hours": "sunrise-sunset",
+      "start_date": "2021-01-01"
+    }
+  },
+  {
+    "place_id": "osm_963038662",
+    "name": "Pinnacle Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6758821,
+    "longitude": -112.0067418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Pinnacle Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_967620869",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4217971,
+    "longitude": -111.0623705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_967758786",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6706734,
+    "longitude": -112.2241817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_972134414",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1380921,
+    "longitude": -110.9475716,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_973188755",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1613071,
+    "longitude": -110.9586486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_974504759",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.306968,
+    "longitude": -111.0267359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1003265370",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3193972,
+    "longitude": -110.9718127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1004176755",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3233553,
+    "longitude": -110.8939661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1012722878",
+    "name": "Paw Pup Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4474703,
+    "longitude": -112.0773119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "name": "Paw Pup Park"
+    }
+  },
+  {
+    "place_id": "osm_1014921864",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2471214,
+    "longitude": -111.0099685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1018153968",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7474549,
+    "longitude": -112.010166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1043608691",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1977887,
+    "longitude": -110.9940824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1052819482",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3209047,
+    "longitude": -111.0043486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1060098498",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1071745,
+    "longitude": -111.0317491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1069438265",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3773222,
+    "longitude": -110.9683702,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1073705316",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4137493,
+    "longitude": -111.6638387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1084564519",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3463339,
+    "longitude": -111.0210951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1085178834",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3396718,
+    "longitude": -111.0169451,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1092481627",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0370512,
+    "longitude": -109.3231501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1095716950",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5645629,
+    "longitude": -112.2346677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1111122073",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5107466,
+    "longitude": -112.0797836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1112743665",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3344109,
+    "longitude": -112.1170237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1114710077",
+    "name": "Viewpoint Dog Run / Pet Walk",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4227144,
+    "longitude": -111.6449596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Viewpoint Dog Run / Pet Walk"
+    }
+  },
+  {
+    "place_id": "osm_1123750725",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3568906,
+    "longitude": -111.032799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1124284352",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4437379,
+    "longitude": -110.9803405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1126612079",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3810383,
+    "longitude": -110.9616804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1126814521",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4115595,
+    "longitude": -110.941514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1127373361",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3962393,
+    "longitude": -110.9645742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1128302442",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6271595,
+    "longitude": -111.8778952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1135048578",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4334366,
+    "longitude": -111.0822855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1136332815",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.4661651,
+    "longitude": -111.1310514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1137318103",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6874531,
+    "longitude": -112.2882494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1154133526",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.3827375,
+    "longitude": -112.8625253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1154640419",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4211537,
+    "longitude": -111.6303917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1157124034",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2830928,
+    "longitude": -110.787539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1157124036",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2830266,
+    "longitude": -110.7869894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1158558140",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7053,
+    "longitude": -112.3702393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Surprise",
+      "addr:postcode": "85387",
+      "addr:state": "AZ",
+      "addr:street": "North 143rd Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1159557948",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6808469,
+    "longitude": -112.6258262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Buckeye",
+      "addr:postcode": "85396",
+      "addr:state": "AZ",
+      "addr:street": "West Firehawk Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1162647157",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3665266,
+    "longitude": -112.2084664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1164274443",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6591505,
+    "longitude": -112.3803864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1168420874",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2724786,
+    "longitude": -110.9146777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1172643553",
+    "name": "Small Dogs",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6654298,
+    "longitude": -112.3545605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Small Dogs"
+    }
+  },
+  {
+    "place_id": "osm_1172871991",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0995861,
+    "longitude": -113.882192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1176363165",
+    "name": "Thorpe Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2067015,
+    "longitude": -111.658169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Flagstaff",
+      "addr:housenumber": "191",
+      "addr:postcode": "86001",
+      "addr:state": "AZ",
+      "addr:street": "North Thorpe Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Thorpe Bark Park",
+      "operator": "City of Flagstaff",
+      "operator:type": "government",
+      "website": "https://www.flagstaff.az.gov/1923/City-Parks-Ramadas"
+    }
+  },
+  {
+    "place_id": "osm_1176604219",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2821527,
+    "longitude": -111.7586854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1189079888",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6929046,
+    "longitude": -112.4399496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1191524328",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.637251,
+    "longitude": -112.3657787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Surprise",
+      "addr:postcode": "85374",
+      "addr:state": "AZ",
+      "addr:street": "North 141st Avenue",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1191524329",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6372769,
+    "longitude": -112.3617293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Surprise",
+      "addr:postcode": "85374",
+      "addr:state": "AZ",
+      "addr:street": "North 141st Avenue",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192246944",
+    "name": "Large Dogs Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6025664,
+    "longitude": -112.369102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dogs Park"
+    }
+  },
+  {
+    "place_id": "osm_1194926189",
+    "name": "Papago Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4398392,
+    "longitude": -111.9310872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Papago Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1213173913",
+    "name": "Roscoe Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.39996,
+    "longitude": -112.394019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Goodyear",
+      "addr:housenumber": "15600",
+      "addr:postcode": "85338",
+      "addr:state": "AZ",
+      "addr:street": "West Roeser Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Roscoe Dog Park",
+      "opening_hours": "24/7",
+      "operator": "City Of Goodyear",
+      "operator:type": "public",
+      "website": "https://www.goodyearaz.gov/government/departments/parks-recreation/parks/specialty-parks/roscoe-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1217603478",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.9601578,
+    "longitude": -110.9894893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1223913795",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4193626,
+    "longitude": -111.948199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1237965305",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2469208,
+    "longitude": -110.9692131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1252284502",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4548366,
+    "longitude": -111.9124168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1254451366",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3561111,
+    "longitude": -111.8575948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1265410395",
+    "name": "Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.9684161,
+    "longitude": -110.9718424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "Rancho Sahuarita",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1265623631",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3944157,
+    "longitude": -111.7619848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1280396990",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7702911,
+    "longitude": -112.4436169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281242389",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4179211,
+    "longitude": -112.3491771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281356115",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4056703,
+    "longitude": -112.3215256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281812576",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4122048,
+    "longitude": -112.2323387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1282577041",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5681633,
+    "longitude": -112.213174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1282650642",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5897853,
+    "longitude": -112.2594133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1283071140",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6313221,
+    "longitude": -112.310275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1284683769",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4334292,
+    "longitude": -111.9304399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1288177817",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7573578,
+    "longitude": -112.3461676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1289579127",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3997331,
+    "longitude": -112.1084641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1290314436",
+    "name": "Puppy Love",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2950725,
+    "longitude": -112.4293731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Goodyear",
+      "addr:housenumber": "17700",
+      "addr:postcode": "85338",
+      "addr:state": "AZ",
+      "addr:street": "West Star Point Drive",
+      "leisure": "dog_park",
+      "name": "Puppy Love",
+      "source": "esri/USA_NAD_Addresses"
+    }
+  },
+  {
+    "place_id": "osm_1299307209",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6999353,
+    "longitude": -112.4162976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1301865762",
+    "name": "Small",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.508589,
+    "longitude": -112.4658588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small"
+    }
+  },
+  {
+    "place_id": "osm_1304010635",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5590027,
+    "longitude": -112.1865598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "building": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304344369",
+    "name": "Small Dogs",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4717914,
+    "longitude": -112.5126361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "landuse": "leisure",
+      "leisure": "dog_park",
+      "name": "Small Dogs"
+    }
+  },
+  {
+    "place_id": "osm_1304545141",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5649917,
+    "longitude": -112.1720439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1305300114",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.569017,
+    "longitude": -111.874599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1305351614",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6130309,
+    "longitude": -112.1183597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1306023077",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4949114,
+    "longitude": -112.276016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1306275929",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5003105,
+    "longitude": -112.2718319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1306713956",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5030908,
+    "longitude": -112.2719402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1307372426",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.593988,
+    "longitude": -112.3956083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1317043903",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7141124,
+    "longitude": -112.1368253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319694468",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6241489,
+    "longitude": -112.3728421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1329510920",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3243681,
+    "longitude": -112.1175604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1330053024",
+    "name": "A Leash on Life Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.9297821,
+    "longitude": -111.7579582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "A Leash on Life Dog Park",
+      "operator": "City of Casa Grande"
+    }
+  },
+  {
+    "place_id": "osm_1333146742",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5942589,
+    "longitude": -112.3034294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1347353519",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0656368,
+    "longitude": -109.7829914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "check_date": "2024-12-30",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1360814478",
+    "name": "Smiling Dog Ranch Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2762176,
+    "longitude": -110.904763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Smiling Dog Ranch Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1373131831",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.5497548,
+    "longitude": -110.3016694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1376510846",
+    "name": "PetSmart Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6637833,
+    "longitude": -112.115189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Phoenix",
+      "addr:housenumber": "19601",
+      "addr:postcode": "85027",
+      "addr:state": "AZ",
+      "addr:street": "N 27th Ave",
+      "leisure": "dog_park",
+      "name": "PetSmart Bark Park",
+      "operator": "PetSmart Corporate",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_1413438501",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.9546268,
+    "longitude": -110.3105174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419507213",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.345878,
+    "longitude": -111.8898315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1456406453",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.5515742,
+    "longitude": -110.3500136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1456775817",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7005818,
+    "longitude": -112.4490258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1459714230",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7148623,
+    "longitude": -112.3673691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1481612027",
+    "name": "Union Bark Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.72219,
+    "longitude": -112.1051657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Union Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1482076853",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5559305,
+    "longitude": -112.1005589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1491137794",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6139055,
+    "longitude": -112.3158552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12694260",
+    "name": "Cesar Chavez Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.373579,
+    "longitude": -112.1424356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cesar Chavez Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_12704202",
+    "name": "PetSmart Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6645538,
+    "longitude": -112.1006436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PetSmart Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_13008362",
+    "name": "Steele Indian School Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.501395,
+    "longitude": -112.0678501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Dog Park at Steele Indian School Park",
+      "leisure": "dog_park",
+      "name": "Steele Indian School Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "surface": "grass",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_15639440",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.5318321,
+    "longitude": -110.294398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_20309725",
+    "name": "Dog Park",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.1764015,
+    "longitude": -110.8136559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

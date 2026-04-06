@@ -480,5 +480,25 @@
       "leisure": "dog_park",
       "type": "multipolygon"
     }
+  },
+  {
+    "place_id": "osm_1413440449",
+    "name": "Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.1885396,
+    "longitude": -102.0108903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
   }
 ]

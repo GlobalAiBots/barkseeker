@@ -1,0 +1,1541 @@
+[
+  {
+    "place_id": "osm_2017381127",
+    "name": "Carlsbad Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.4147686,
+    "longitude": -104.2249764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Carlsbad",
+      "addr:country": "US",
+      "addr:postcode": "88220",
+      "addr:state": "NM",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Carlsbad Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_4643128701",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.2569591,
+    "longitude": -106.6644729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6615523919",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6584282,
+    "longitude": -106.0644053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11981428931",
+    "name": "Northeast Region Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.9341595,
+    "longitude": -106.4029794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northeast Region Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_139042510",
+    "name": "Las Cruces Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.3164678,
+    "longitude": -106.7616541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Las Cruces Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_167429316",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.3543435,
+    "longitude": -105.6597613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_172116704",
+    "name": "Ouray Off-leash Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1145398,
+    "longitude": -106.720604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ouray Off-leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_173000901",
+    "name": "Coronado Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1040952,
+    "longitude": -106.6460666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "301",
+      "addr:postcode": "87102",
+      "addr:state": "NM",
+      "addr:street": "Mc Knight Avenue Northwest",
+      "gnis:feature_id": "887872",
+      "leisure": "dog_park",
+      "name": "Coronado Dog Park",
+      "operator": "City of Albuquerque"
+    }
+  },
+  {
+    "place_id": "osm_264248307",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1837493,
+    "longitude": -103.0513739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_264248659",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1749441,
+    "longitude": -103.1030229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_299678241",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.8226542,
+    "longitude": -106.4315701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_387941443",
+    "name": "K-9 Field",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0063918,
+    "longitude": -106.506944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "K-9 Field",
+      "operator": "USAF",
+      "operator:type": "military",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_416606879",
+    "name": "Tom Bolack Memorial Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0990499,
+    "longitude": -106.5738136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "2000",
+      "addr:state": "NM",
+      "addr:street": "Dakota Street Northeast",
+      "leisure": "dog_park",
+      "name": "Tom Bolack Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468606121",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.7835251,
+    "longitude": -106.347905,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_479390551",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.4080786,
+    "longitude": -103.3259176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_479413958",
+    "name": "Hillcrest Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.4073709,
+    "longitude": -103.1853943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hillcrest Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_509633834",
+    "name": "Salvador Perez Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6707359,
+    "longitude": -105.9512894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Salvador Perez Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_549772915",
+    "name": "Carol Wheeler Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1290187,
+    "longitude": -107.2501524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carol Wheeler Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_551372108",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.472961,
+    "longitude": -106.3063735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "1",
+      "leisure": "dog_park",
+      "surface": "gravel"
+    }
+  },
+  {
+    "place_id": "osm_570388710",
+    "name": "Bark Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.9267554,
+    "longitude": -105.9480486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_599518138",
+    "name": "The Trails Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1801949,
+    "longitude": -106.7365972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Trails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_603575838",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.7883268,
+    "longitude": -108.1132405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_611915781",
+    "name": "Del Norte Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.7504628,
+    "longitude": -103.1372895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Del Norte Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_638904598",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.5484453,
+    "longitude": -105.9008218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_660852427",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.5368305,
+    "longitude": -105.889241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "residents",
+      "dog": "yes",
+      "dog:small": "only",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_672826664",
+    "name": "USS Bullhead Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0516963,
+    "longitude": -106.5801441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "USS Bullhead Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_684285695",
+    "name": "Santa Fe Animal Shelter and Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6579128,
+    "longitude": -106.0613819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Santa Fe",
+      "addr:housenumber": "100",
+      "addr:postcode": "87507",
+      "addr:state": "NM",
+      "addr:street": "Caja del Rio Road",
+      "leisure": "dog_park",
+      "name": "Santa Fe Animal Shelter and Dog Park",
+      "operational_status": "operational",
+      "operator": "Santa Fe Animal Shelter & Humane Society",
+      "operator:type": "private_non_profit",
+      "operator:wikidata": "Q54812659",
+      "wikidata": "Q109336309"
+    }
+  },
+  {
+    "place_id": "osm_706095621",
+    "name": "Dale Ball Dog Run",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.7107999,
+    "longitude": -105.9006031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Santa Fe",
+      "addr:state": "NM",
+      "addr:street": "Sierra del Norte",
+      "leisure": "dog_park",
+      "name": "Dale Ball Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_706820235",
+    "name": "Villas del Cielo Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1190273,
+    "longitude": -106.5942566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Apartment-use only.",
+      "leisure": "dog_park",
+      "name": "Villas del Cielo Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_720403450",
+    "name": "Park Plazas Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6343581,
+    "longitude": -105.9873817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Park Plazas Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_721121686",
+    "name": "Frank Ortiz Dog Run",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6973322,
+    "longitude": -105.9639954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "disused:leisure": "pitch",
+      "leisure": "dog_park",
+      "name": "Frank Ortiz Dog Run",
+      "sport": "tennis"
+    }
+  },
+  {
+    "place_id": "osm_759935364",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.8140875,
+    "longitude": -106.7725549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_783838041",
+    "name": "Westgate Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0458441,
+    "longitude": -106.7436299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "1901",
+      "addr:state": "NM",
+      "addr:street": "Valley View Drive Southwest",
+      "leisure": "dog_park",
+      "name": "Westgate Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_819209920",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0236918,
+    "longitude": -106.9528951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_830469696",
+    "name": "Las Campanas Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.7091178,
+    "longitude": -106.0784353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Santa Fe",
+      "addr:state": "NM",
+      "addr:street": "Las Campanas Drive",
+      "leisure": "dog_park",
+      "name": "Las Campanas Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_833197832",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6640654,
+    "longitude": -105.9704636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_968862761",
+    "name": "North Domingo Baca Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1796061,
+    "longitude": -106.564638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "All sizes allowed off leash",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "North Domingo Baca Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1032805051",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0617495,
+    "longitude": -106.5543707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1076348017",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.8865689,
+    "longitude": -104.4334614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "surface": "rock"
+    }
+  },
+  {
+    "place_id": "osm_1083884580",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1498033,
+    "longitude": -106.4916908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1103901193",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1035892,
+    "longitude": -106.7446563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1119216179",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6368972,
+    "longitude": -106.0105049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1141855596",
+    "name": "Aperture Bark",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.9860576,
+    "longitude": -106.6140577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "5801",
+      "addr:postcode": "87106",
+      "addr:state": "NM",
+      "addr:street": "University Boulevard Southeast",
+      "leisure": "dog_park",
+      "name": "Aperture Bark"
+    }
+  },
+  {
+    "place_id": "osm_1141891908",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6801755,
+    "longitude": -105.9655583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209308895",
+    "name": "Woof Bowl Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.410736,
+    "longitude": -104.5169316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Roswell",
+      "addr:housenumber": "1500",
+      "addr:postcode": "88201",
+      "addr:state": "NM",
+      "addr:street": "North Grand Avenue",
+      "leisure": "dog_park",
+      "name": "Woof Bowl Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1215823534",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.306693,
+    "longitude": -106.5395324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1224673977",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6756145,
+    "longitude": -105.9550084,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1237461728",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.2810018,
+    "longitude": -107.7605147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1250714466",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6314884,
+    "longitude": -106.0641541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1256724165",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.1749413,
+    "longitude": -103.363828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1277901966",
+    "name": "Pet Exercise Area",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.3528553,
+    "longitude": -108.7431032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area",
+      "surface": "rock"
+    }
+  },
+  {
+    "place_id": "osm_1284275199",
+    "name": "Cottonwood Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.2003138,
+    "longitude": -106.6579482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Albuquerque",
+      "addr:housenumber": "10000",
+      "addr:postcode": "87114",
+      "addr:state": "NM",
+      "addr:street": "Coors Boulevard Bypass Northwest",
+      "leisure": "dog_park",
+      "name": "Cottonwood Dog Park",
+      "website": "https://cottonwoodmall.com/store/Cottonwood-Dog-Park/2139000555/"
+    }
+  },
+  {
+    "place_id": "osm_1293446525",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.7992471,
+    "longitude": -106.2407918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1312656415",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.158143,
+    "longitude": -103.7009937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1314051463",
+    "name": "River Trail Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6589898,
+    "longitude": -106.024863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "2100",
+      "addr:street": "Caja del Oro Grant Road",
+      "leisure": "dog_park",
+      "name": "River Trail Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1326380713",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0166207,
+    "longitude": -106.6063795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1330129892",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.7251767,
+    "longitude": -103.1134074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1340642543",
+    "name": "MUTTZ El Paso",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.8104652,
+    "longitude": -106.5290387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "MUTTZ El Paso",
+      "website": "https://muttscantina.com/tx-el-paso/"
+    }
+  },
+  {
+    "place_id": "osm_1343834623",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.8670385,
+    "longitude": -106.5628881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1343834625",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.8677543,
+    "longitude": -106.5630612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1351684861",
+    "name": "The Yard",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.8181607,
+    "longitude": -106.1853319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Yard",
+      "website": "https://theyard915.com/"
+    }
+  },
+  {
+    "place_id": "osm_1352892383",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6957109,
+    "longitude": -105.9363704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387152553",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.3693129,
+    "longitude": -104.2369134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387152562",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.3672709,
+    "longitude": -104.2368726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1395817334",
+    "name": "Maxey Bark Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 31.3941031,
+    "longitude": -103.5068794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Pecos",
+      "addr:postcode": "79772",
+      "addr:state": "TX",
+      "addr:street": "Cothrun Street",
+      "dog": "unleashed",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "name": "Maxey Bark Park",
+      "operator": "Town of Pecos City",
+      "operator:type": "community",
+      "website": "https://www.pecostx.gov/Home/Components/FacilityDirectory/FacilityDirectory/18/106"
+    }
+  },
+  {
+    "place_id": "osm_1431883178",
+    "name": "Park Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.8259406,
+    "longitude": -104.4382952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Park Park"
+    }
+  },
+  {
+    "place_id": "osm_1431893837",
+    "name": "Big Dawg Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.8257494,
+    "longitude": -104.4374491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Big Dawg Park"
+    }
+  },
+  {
+    "place_id": "osm_1446822521",
+    "name": "Santa Fe Villiage Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.1495447,
+    "longitude": -106.7158511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Santa Fe Villiage Dog Park",
+      "operator": "City of Albuquerque",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1448500760",
+    "name": "High Range Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.2897159,
+    "longitude": -106.6586274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Rio Rancho",
+      "addr:postcode": "87144",
+      "addr:state": "NM",
+      "barrier": "fence",
+      "description": "​2 zones: ≤25lb & >25lb. Dogs must be 6+ months, spayed/neutered, and have current rabies, core vaccines, and license tags. Max 3 dogs per person. Owners must stay with dogs and clean up waste. Aggressive dogs must leave.",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "High Range Dog Park",
+      "opening_hours": "06:00-22:00",
+      "operator": "Parks, Recreation and Community Services Department",
+      "operator:phone": "+1-505-891-5015",
+      "surface": "dirt"
+    }
+  },
+  {
+    "place_id": "osm_1471850656",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.2226996,
+    "longitude": -106.6858153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_10436196",
+    "name": "Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6508016,
+    "longitude": -105.9558219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_15476126",
+    "name": "East Park Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.8829027,
+    "longitude": -106.2842208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "East Park Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_15987732",
+    "name": "Urban Park Voice Control Area",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.8945344,
+    "longitude": -106.3228757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Urban Park Voice Control Area",
+      "note": "Unfenced area where dogs are allowed off-leash, provided their owners can control them with voice commands",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16442385",
+    "name": "North Mesa Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.8924187,
+    "longitude": -106.2815403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "North Mesa Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16533072",
+    "name": "Manhattan Project National Historic Park Voice Control Area",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.8837383,
+    "longitude": -106.3014268,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Manhattan Project National Historic Park Voice Control Area",
+      "note": "Unfenced area where dogs are allowed off-leash, provided their owners can control them with voice commands",
+      "type": "multipolygon",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_19148299",
+    "name": "Los Altos Dog Park",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0863039,
+    "longitude": -106.5395103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Los Altos Dog Park",
+      "type": "multipolygon"
+    }
+  }
+]

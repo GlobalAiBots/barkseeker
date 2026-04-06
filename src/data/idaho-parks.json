@@ -1,0 +1,1829 @@
+[
+  {
+    "place_id": "osm_9403430921",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.3818307,
+    "longitude": -117.0487263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_210236848",
+    "name": "Nampa Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5625066,
+    "longitude": -116.5360644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Nampa Dog Park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_512193070",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.0160219,
+    "longitude": -116.9445396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_636436503",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7439747,
+    "longitude": -117.1504788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_965231791",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6706235,
+    "longitude": -116.7778216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_974791121",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.3098897,
+    "longitude": -116.5375486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_981107309",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6791699,
+    "longitude": -116.6940503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_982390070",
+    "name": "Patricia Simonet Laughing Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6970011,
+    "longitude": -117.0501637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Liberty Lake",
+      "addr:housenumber": "26715",
+      "addr:postcode": "99027",
+      "addr:state": "WA",
+      "addr:street": "East Spokane Bridge Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Patricia Simonet Laughing Dog Park",
+      "website": "https://www.spokanecounty.org/Facilities/Facility/Details/Patricia-Simonet-Laughing-Dog-Park-13",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_991862612",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6732327,
+    "longitude": -117.1778841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_995773325",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6975616,
+    "longitude": -116.8178113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1053537391",
+    "name": "Atlas Waterfront Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6952737,
+    "longitude": -116.8155976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Atlas Waterfront Dog Park",
+      "start_date": "2020"
+    }
+  },
+  {
+    "place_id": "osm_1083616433",
+    "name": "Rathdrum Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7917704,
+    "longitude": -116.8642606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rathdrum Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1089957965",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6698699,
+    "longitude": -117.1818397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1099667567",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6853784,
+    "longitude": -117.1546492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1107612957",
+    "name": "Thayer Farms Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7887559,
+    "longitude": -116.9068913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Thayer Farms Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1123268840",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5847475,
+    "longitude": -116.6217104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1195432393",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6150136,
+    "longitude": -116.6217631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1219930713",
+    "name": "Pawfoot Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.785908,
+    "longitude": -116.8028226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Hayden",
+      "addr:housenumber": "1357",
+      "addr:postcode": "83835",
+      "addr:state": "ID",
+      "addr:street": "West Lancaster",
+      "leisure": "dog_park",
+      "name": "Pawfoot Dog Park",
+      "operator": "City of Hayden",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1283358968",
+    "name": "Central Bark Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7167373,
+    "longitude": -116.8320764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Coeur d'Alene",
+      "addr:housenumber": "3889",
+      "addr:postcode": "83815",
+      "addr:state": "ID",
+      "addr:street": "West Nez Perce Road",
+      "leisure": "dog_park",
+      "name": "Central Bark Dog Park",
+      "operator": "City of Coeur d'Alene",
+      "website": "https://www.cdaid.org/737/departments/parks/all-parks/central-bark-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1305795795",
+    "name": "Paws and Brews",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.7079761,
+    "longitude": -116.8867211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Post Falls",
+      "addr:housenumber": "4565",
+      "addr:postcode": "83854",
+      "addr:state": "ID",
+      "addr:street": "East Seltice Way",
+      "brewery": "post_falls_brewing",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Paws and Brews",
+      "opening_hours": "Mo-Th 12:00-21:00; Fr-Su 11:00-21:00",
+      "outdoor_seating": "yes",
+      "phone": "+1 208-719-9777",
+      "website": "https://www.pawsnbrews.com/"
+    }
+  },
+  {
+    "place_id": "osm_1312469500",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.7485061,
+    "longitude": -117.1543944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419744340",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5464688,
+    "longitude": -116.5684788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Sunnybrook Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_10833432389",
+    "name": "Encore Skyline Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.584966,
+    "longitude": -116.2012954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Encore Skyline Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_11198619091",
+    "name": "The Dog Club",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.2019773,
+    "longitude": -114.317269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Dog Club",
+      "opening_hours": "Mo-Fr 07:00-19:00"
+    }
+  },
+  {
+    "place_id": "osm_11240966549",
+    "name": "Little Rascal Ranch",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.6168903,
+    "longitude": -113.814412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Paul",
+      "addr:housenumber": "19",
+      "addr:postcode": "83347",
+      "addr:state": "ID",
+      "addr:street": "South 750 West",
+      "leisure": "dog_park",
+      "name": "Little Rascal Ranch",
+      "opening_hours": "Mo-Sa 07:00-21:30; Su 13:00-18:00",
+      "payment:cash": "yes",
+      "payment:cheque": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1-208-312-0550",
+      "website": "https://littlerascalranchid.com"
+    }
+  },
+  {
+    "place_id": "osm_12085383094",
+    "name": "Island Park Off-Leash Area",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.1758296,
+    "longitude": -113.9014098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Island Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_127966689",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8855116,
+    "longitude": -113.9985086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "disused:leisure": "pitch",
+      "leisure": "dog_park",
+      "sport": "baseball"
+    }
+  },
+  {
+    "place_id": "osm_212069822",
+    "name": "Snowfill Recreation Area",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.7206482,
+    "longitude": -111.032643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "bags": "yes",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "name": "Snowfill Recreation Area",
+      "waste_disposal": "yes",
+      "water": "trough"
+    }
+  },
+  {
+    "place_id": "osm_247735272",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6048378,
+    "longitude": -116.231496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_289299513",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.8355739,
+    "longitude": -111.799814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_431584145",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 44.6882525,
+    "longitude": -111.217273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_461409894",
+    "name": "Binx Community Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5345408,
+    "longitude": -116.3000636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Binx Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_536528183",
+    "name": "Paws Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.6024297,
+    "longitude": -112.0306478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paws Park"
+    }
+  },
+  {
+    "place_id": "osm_545780138",
+    "name": "Pacific Steel & Recycling Trailside Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.5162678,
+    "longitude": -111.2945328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pacific Steel & Recycling Trailside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_557872120",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6742567,
+    "longitude": -111.0829187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_580581013",
+    "name": "Hamilton Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.2542376,
+    "longitude": -114.171126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Hamilton",
+      "addr:housenumber": "843",
+      "addr:state": "MT",
+      "addr:street": "New York Avenue",
+      "leisure": "dog_park",
+      "name": "Hamilton Dog Park",
+      "website": "https://www.cityofhamilton.net/living/parks_and_recreation/dog_park.html"
+    }
+  },
+  {
+    "place_id": "osm_582722257",
+    "name": "Sterling Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6155028,
+    "longitude": -116.3053599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Sterling Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_616356623",
+    "name": "Hugh Rogers Wag Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4098534,
+    "longitude": -114.3103261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hugh Rogers Wag Park",
+      "note": "http://wagparks.org/"
+    }
+  },
+  {
+    "place_id": "osm_623679330",
+    "name": "Les Mason Off-Leash Area",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.4579721,
+    "longitude": -114.3719248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Les Mason Off-Leash Area",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_734449665",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.1651039,
+    "longitude": -113.864572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_737406310",
+    "name": "Fort Boise Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6169435,
+    "longitude": -116.1842245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Boise Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_783782856",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6970972,
+    "longitude": -111.0197294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fenced": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_816353558",
+    "name": "Travis Dolphin Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6889377,
+    "longitude": -114.179842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Travis Dolphin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_839519138",
+    "name": "Corso Pet Play Area",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8698222,
+    "longitude": -114.0201435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Corso Pet Play Area",
+      "operator": "Corso Apartments"
+    }
+  },
+  {
+    "place_id": "osm_884248514",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6866955,
+    "longitude": -111.0671711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_886817912",
+    "name": "Skyline Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.9861102,
+    "longitude": -112.4834744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Skyline Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_897801883",
+    "name": "Creekside Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8625658,
+    "longitude": -113.9627377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Creekside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_913619093",
+    "name": "Discovery Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5455793,
+    "longitude": -116.3664964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Discovery Dog Park",
+      "operator": "City of Meridian"
+    }
+  },
+  {
+    "place_id": "osm_913631153",
+    "name": "Storey Bark Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6011826,
+    "longitude": -116.3877387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Storey Bark Park",
+      "operator": "City of Meridian",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_935623174",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5470177,
+    "longitude": -116.3480184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Meridian",
+      "addr:housenumber": "6363",
+      "addr:postcode": "83642",
+      "addr:state": "ID",
+      "addr:street": "South Arable Way",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_954105379",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.131336,
+    "longitude": -115.6739783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_964405961",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.5975163,
+    "longitude": -112.0184547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "SkyHi Kennel",
+      "website": "https://www.skyhikennel.com/"
+    }
+  },
+  {
+    "place_id": "osm_979425658",
+    "name": "St. Regis Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.2981199,
+    "longitude": -115.0989275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "St. Regis Dog Park",
+      "operator": "St. Regis Travel Center"
+    }
+  },
+  {
+    "place_id": "osm_982100922",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.632208,
+    "longitude": -116.3707472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_982936773",
+    "name": "Paws to Play Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 48.1780313,
+    "longitude": -114.3113929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Paws to Play Dog Park",
+      "website": "https://www.pawstoplay.org/"
+    }
+  },
+  {
+    "place_id": "osm_983014423",
+    "name": "Jacob's Island Offleash Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8651579,
+    "longitude": -113.979554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jacob's Island Offleash Dog Park",
+      "website": "https://destinationmissoula.org/todo/explore-jacobs-island-bark-park"
+    }
+  },
+  {
+    "place_id": "osm_983014424",
+    "name": "Rail Link Dog Park B.C.",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8495919,
+    "longitude": -114.0276708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Rail Link Dog Park B.C.",
+      "website": "https://www.ci.missoula.mt.us/2234/Montana-Rail-Link-Park"
+    }
+  },
+  {
+    "place_id": "osm_984470406",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5790567,
+    "longitude": -116.2952437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_997964865",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6770882,
+    "longitude": -111.1003378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1006210552",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.5823212,
+    "longitude": -111.9466982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1008276141",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6962582,
+    "longitude": -111.0921038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1018216658",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.3121974,
+    "longitude": -111.3013488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1046737942",
+    "name": "Eagle Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.710755,
+    "longitude": -116.3145617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eagle Dog Park",
+      "website": "https://www.cityofeagle.org/Facilities/Facility/Details/PetIQ-Dog-Park-15"
+    }
+  },
+  {
+    "place_id": "osm_1067752388",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6930131,
+    "longitude": -116.4157312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1083890047",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4792294,
+    "longitude": -115.9349282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1122146493",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6933454,
+    "longitude": -111.0711334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1132018735",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6539195,
+    "longitude": -111.0673682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1134103571",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6800789,
+    "longitude": -116.394728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1203826802",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.963656,
+    "longitude": -114.1313337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1210091634",
+    "name": "Waggin' Tails Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.7025608,
+    "longitude": -116.4961848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Waggin' Tails Dog Park",
+      "website": "https://www.staridaho.org/pm/page/waggin-tails-dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1212816242",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.9696785,
+    "longitude": -112.4760969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "4'",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1239245467",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5476961,
+    "longitude": -116.3623589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1243630020",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5645578,
+    "longitude": -116.3398123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1257639517",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5566499,
+    "longitude": -116.1280577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1257639519",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.5566055,
+    "longitude": -116.1272472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1266657272",
+    "name": "Sgt. Bozo Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8442317,
+    "longitude": -114.0564916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Sgt. Bozo Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1288469516",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.5656419,
+    "longitude": -114.4845436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1305858338",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.9251412,
+    "longitude": -111.599793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1328267402",
+    "name": "Clubhound",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6491444,
+    "longitude": -116.2672313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Garden City",
+      "addr:housenumber": "415",
+      "addr:postcode": "83714",
+      "addr:state": "ID",
+      "addr:street": "East Remington Street",
+      "leisure": "dog_park",
+      "name": "Clubhound",
+      "website": "https://clubhound.com/faqs"
+    }
+  },
+  {
+    "place_id": "osm_1329706028",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.6970108,
+    "longitude": -114.1863431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1330783351",
+    "name": "Eagle Ridge Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.709518,
+    "longitude": -116.4566923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Eagle",
+      "addr:housenumber": "8097",
+      "addr:postcode": "83616",
+      "addr:state": "ID",
+      "addr:street": "West Broken Arrow Street",
+      "leisure": "dog_park",
+      "name": "Eagle Ridge Dog Park",
+      "operator": "Eagle Ridge",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1343084699",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8947768,
+    "longitude": -114.0441864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349499497",
+    "name": "Idaho Pups and Ales",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6043189,
+    "longitude": -116.430528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Meridian",
+      "addr:housenumber": "70",
+      "addr:postcode": "83642",
+      "addr:state": "ID",
+      "addr:street": "South Outpost Lane",
+      "leisure": "dog_park",
+      "name": "Idaho Pups and Ales",
+      "website": "https://idahopupsandales.com/"
+    }
+  },
+  {
+    "place_id": "osm_1349802551",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.0763062,
+    "longitude": -114.7677609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1349802552",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.0733625,
+    "longitude": -114.7642297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1390734751",
+    "name": "Playfair Park Pup Pen",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.8441007,
+    "longitude": -114.0108843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Playfair Park Pup Pen"
+    }
+  },
+  {
+    "place_id": "osm_1413423382",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 47.4746769,
+    "longitude": -111.3610114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413423684",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 42.9239102,
+    "longitude": -114.9413714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413580464",
+    "name": "Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 46.9481802,
+    "longitude": -114.1338499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park",
+      "operator": "Love's",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1455706468",
+    "name": "River Pointe Apartments Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 43.6612922,
+    "longitude": -116.2852117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "River Pointe Apartments Dog Park",
+      "operator": "River Pointe Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1491973783",
+    "name": "Lewis & Bark Dog Park",
+    "formatted_address": ", Idaho, USA",
+    "latitude": 45.6766999,
+    "longitude": -111.0822407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lewis & Bark Dog Park",
+      "operator": "City of Bozeman",
+      "operator:type": "government"
+    }
+  }
+]

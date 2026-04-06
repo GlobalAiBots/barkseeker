@@ -1,0 +1,5006 @@
+[
+  {
+    "place_id": "osm_356542941",
+    "name": "Skallman Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.987334,
+    "longitude": -122.732119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Blaine",
+      "addr:housenumber": "1190",
+      "addr:postcode": "98230",
+      "addr:street": "Yew Avenue",
+      "description": "Skallman Park is the City’s primary “off leash” dog park. The park offers fenced play areas for pets, a gazebo to shelter pet owners, and picnic tables for resting.",
+      "ele": "20",
+      "gnis:feature_id": "1514411",
+      "leisure": "dog_park",
+      "name": "Skallman Park",
+      "operator": "City of Blaine",
+      "source": "Local knowledge, official website",
+      "website": "https://www.ci.blaine.wa.us/Facilities/Facility/Details/Skallman-Park-25"
+    }
+  },
+  {
+    "place_id": "osm_2180692818",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.6394701,
+    "longitude": -122.9647697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_3468525549",
+    "name": "I-5 Colonnade Off-Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6348256,
+    "longitude": -122.3237465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "I-5 Colonnade Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_538126097",
+    "name": "Granite Falls Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.0828664,
+    "longitude": -121.9609278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Granite Falls Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_5262596559",
+    "name": "Tubby's Trail Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2777334,
+    "longitude": -122.5590577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tubby's Trail Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_6598128365",
+    "name": "Freestone Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.515116,
+    "longitude": -122.6846998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Freestone Dog Park",
+      "operator": "HOA"
+    }
+  },
+  {
+    "place_id": "osm_7134240351",
+    "name": "SplashDog",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7788744,
+    "longitude": -122.3620506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "9679",
+      "addr:postcode": "98020",
+      "addr:street": "Firdale Avenue",
+      "leisure": "dog_park",
+      "name": "SplashDog",
+      "website": "https://www.splashdogspa.com/"
+    }
+  },
+  {
+    "place_id": "osm_11477339828",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.3507647,
+    "longitude": -122.9055575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_11478275535",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.3525087,
+    "longitude": -122.9067403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_11478275537",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.3522726,
+    "longitude": -122.9085562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_12279264206",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0791455,
+    "longitude": -122.7501459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12492887445",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.5822394,
+    "longitude": -122.3446217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12513882872",
+    "name": "Pet area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1688117,
+    "longitude": -122.1885628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet area"
+    }
+  },
+  {
+    "place_id": "osm_12526980101",
+    "name": "South Cowichan Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.6867742,
+    "longitude": -123.6047692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South Cowichan Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_12651654138",
+    "name": "Pet Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2322777,
+    "longitude": -119.9550042,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Area"
+    }
+  },
+  {
+    "place_id": "osm_13085229795",
+    "name": "Will Rogers Dog Friendly Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5003772,
+    "longitude": -122.2188244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Will Rogers Dog Friendly Park"
+    }
+  },
+  {
+    "place_id": "osm_13226886446",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5369626,
+    "longitude": -122.2237655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Mercer Island Parks & Recreation Department",
+      "operator:type": "government",
+      "website": "https://www.mercerisland.gov/sites/default/files/fileattachments/parks_and_recreation/page/2571/dog_owners_guide_to_mercer_island_parks_-_updated_5.1.18_-no_bleed.pdf"
+    }
+  },
+  {
+    "place_id": "osm_26398063",
+    "name": "Jose Rizal Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5931845,
+    "longitude": -122.3184367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "contact:website": "http://www.seattle.gov/parks/offleash_detail.asp?id=433",
+      "leisure": "dog_park",
+      "name": "Jose Rizal Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_37114650",
+    "name": "Regrade Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6143293,
+    "longitude": -122.3447531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Regrade Park",
+      "website": "https://www.seattle.gov/parks/allparks/regrade-park"
+    }
+  },
+  {
+    "place_id": "osm_52976197",
+    "name": "Howe Farm Off Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5325211,
+    "longitude": -122.5801459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Port Orchard",
+      "addr:street": "Long Lake Road Southeast",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Howe Farm Off Leash Area",
+      "website": "https://www.kitsapdogparks.org/howe.htm",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_147998254",
+    "name": "Cedar River Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4779801,
+    "longitude": -122.1947652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cedar River Dog Park",
+      "source": "Bing Imagery"
+    }
+  },
+  {
+    "place_id": "osm_156662649",
+    "name": "Chambers Creek Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2004591,
+    "longitude": -122.57869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "designation": "dog_park",
+      "leisure": "dog_park",
+      "name": "Chambers Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_160075093",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5875338,
+    "longitude": -122.1377893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_160980417",
+    "name": "Genesee Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5634041,
+    "longitude": -122.2766742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Genesee Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_196420916",
+    "name": "Off-Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3472704,
+    "longitude": -122.6241538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_199923579",
+    "name": "Three Forks Off Leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5232149,
+    "longitude": -121.8034372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "designated",
+      "leisure": "dog_park",
+      "name": "Three Forks Off Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_220061537",
+    "name": "Somenos Creek Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.7851598,
+    "longitude": -123.685829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Somenos Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_220404009",
+    "name": "Woodland Park Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6700971,
+    "longitude": -122.3444423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Woodland Park Off-Leash Dog Park",
+      "website": "https://www.seattle.gov/parks/offleash_detail.asp?id=292"
+    }
+  },
+  {
+    "place_id": "osm_220751694",
+    "name": "Wiggly Field Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8460179,
+    "longitude": -121.9754214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wiggly Field Off-Leash Dog Park",
+      "website": "http://www.monroewa.gov/Facilities/Facility/Details/Wiggly-Field-OffLeash-Dog-Park-15"
+    }
+  },
+  {
+    "place_id": "osm_227416873",
+    "name": "SpokAnimal Dog Park at High Bridge",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6536117,
+    "longitude": -117.4577727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "SpokAnimal Dog Park at High Bridge"
+    }
+  },
+  {
+    "place_id": "osm_242989246",
+    "name": "Off Leash Area Edmonds",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8039405,
+    "longitude": -122.3939797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Edmonds",
+      "addr:housenumber": "498",
+      "addr:postcode": "98020",
+      "addr:state": "WA",
+      "addr:street": "Admiral Way",
+      "leisure": "dog_park",
+      "name": "Off Leash Area Edmonds",
+      "source": "local knowladge",
+      "website": "https://www.olae.org/"
+    }
+  },
+  {
+    "place_id": "osm_245400063",
+    "name": "Strawberry Fields for Rover",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1287653,
+    "longitude": -122.148037,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Strawberry Fields for Rover",
+      "operator": "City of Marysville",
+      "operator:wikidata": "Q970001"
+    }
+  },
+  {
+    "place_id": "osm_259481069",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5262485,
+    "longitude": -122.0331653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "no",
+      "construction": "dog_park",
+      "leisure": "dog_park",
+      "surface": "woodchips"
+    }
+  },
+  {
+    "place_id": "osm_261972254",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6921983,
+    "longitude": -122.0174869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_277459453",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6912366,
+    "longitude": -122.4004131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_295044076",
+    "name": "Magnolia Manor Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6516008,
+    "longitude": -122.3924115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "3500",
+      "addr:postcode": "98199",
+      "addr:state": "WA",
+      "addr:street": "28th Avenue West",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Magnolia Manor Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_306467141",
+    "name": "Beaver Lake Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.585599,
+    "longitude": -122.0103867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Beaver Lake Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_341362654",
+    "name": "FIDO dog park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4909507,
+    "longitude": -122.6230708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "FIDO dog park"
+    }
+  },
+  {
+    "place_id": "osm_346363333",
+    "name": "Westcrest Small Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5231615,
+    "longitude": -122.3428091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Westcrest Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_346363335",
+    "name": "Westcrest Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5243994,
+    "longitude": -122.341548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Westcrest Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_352426361",
+    "name": "Silverdale Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6668519,
+    "longitude": -122.6822447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Silverdale",
+      "addr:housenumber": "11601",
+      "addr:postcode": "98383",
+      "addr:state": "WA",
+      "addr:street": "Silverdale Way Northwest",
+      "leisure": "dog_park",
+      "name": "Silverdale Dog Park",
+      "phone": "+1-360-381-2700",
+      "website": "https://silverdaledogs.org/"
+    }
+  },
+  {
+    "place_id": "osm_360747609",
+    "name": "Small Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5930105,
+    "longitude": -122.2260603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Area",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_362486894",
+    "name": "South Lake Union Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6194078,
+    "longitude": -122.3410929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South Lake Union Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_364031624",
+    "name": "Woof",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.197789,
+    "longitude": -124.1922933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woof"
+    }
+  },
+  {
+    "place_id": "osm_364240356",
+    "name": "Patmore Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1937133,
+    "longitude": -122.6409695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Coupeville",
+      "addr:housenumber": "497",
+      "addr:postcode": "98239",
+      "addr:state": "WA",
+      "addr:street": "Patmore Road",
+      "leisure": "dog_park",
+      "name": "Patmore Park",
+      "operator": "Island County",
+      "operator:type": "government",
+      "website": "https://www.islandcountywa.gov/PublicWorks/Parks/Pages/patmore-pit.aspx"
+    }
+  },
+  {
+    "place_id": "osm_366416998",
+    "name": "Off Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.302438,
+    "longitude": -122.5324676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_371759423",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1238713,
+    "longitude": -122.7566554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_381490518",
+    "name": "Port Angeles Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1145463,
+    "longitude": -123.4803196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Port Angeles Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_395489128",
+    "name": "Basin Homes Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1449179,
+    "longitude": -119.2987883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Basin Homes Dog Park",
+      "website": "http://www.cityofml.com/index.aspx?nid=521"
+    }
+  },
+  {
+    "place_id": "osm_398955977",
+    "name": "Day 1 Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.615732,
+    "longitude": -122.3398787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Day 1 Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_413493630",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.9008819,
+    "longitude": -123.716775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_426715577",
+    "name": "Tails And Trails Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9465189,
+    "longitude": -122.2922588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tails And Trails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_427473498",
+    "name": "Marymoor Park Off-Leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6574007,
+    "longitude": -122.1152905,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Marymoor Park Off-Leash Dog Area",
+      "website": "https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/marymoor/offleash.aspx"
+    }
+  },
+  {
+    "place_id": "osm_431329626",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8589172,
+    "longitude": -122.2056559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_434710974",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6143687,
+    "longitude": -122.3290269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "height": "1",
+      "leisure": "dog_park",
+      "surface": "gravel",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_440457109",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.768997,
+    "longitude": -122.4996856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fenced": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_444508197",
+    "name": "Reber Ranch Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3450157,
+    "longitude": -122.1653127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Reber Ranch Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_468644000",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.72217,
+    "longitude": -122.3257793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "material": "metal",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_468777106",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8413343,
+    "longitude": -122.1831812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_473252197",
+    "name": "Youngstown Flats Dog Run Feature",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5674446,
+    "longitude": -122.3649711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "75 ft Dog Run",
+      "leisure": "dog_park",
+      "name": "Youngstown Flats Dog Run Feature"
+    }
+  },
+  {
+    "place_id": "osm_474110657",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6339595,
+    "longitude": -122.345037,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_479614921",
+    "name": "Viking Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1839497,
+    "longitude": -122.1771051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bonney Lake",
+      "addr:housenumber": "18950",
+      "addr:postcode": "98391",
+      "addr:state": "WA",
+      "addr:street": "82nd Street East",
+      "leisure": "dog_park",
+      "name": "Viking Park",
+      "opening_hours": "dawn-dusk",
+      "operator": "City of Bonney Lake Parks & Trails Department"
+    }
+  },
+  {
+    "place_id": "osm_481142081",
+    "name": "Blue Dog Pond - Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5890037,
+    "longitude": -122.2984116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Blue Dog Pond - Dog Park",
+      "source": "https://www.seattle.gov/parks/find/parks/blue-dog-pond"
+    }
+  },
+  {
+    "place_id": "osm_486018404",
+    "name": "Jasper's Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7064916,
+    "longitude": -122.1911338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Kirkland",
+      "addr:housenumber": "11225",
+      "addr:postcode": "98034",
+      "addr:street": "Northeast 120th Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Jasper's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_533912019",
+    "name": "Hounds Hollow",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1325564,
+    "longitude": -122.186001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog Park",
+      "leisure": "dog_park",
+      "name": "Hounds Hollow"
+    }
+  },
+  {
+    "place_id": "osm_545337056",
+    "name": "Whimsical Pig Dog park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6721003,
+    "longitude": -117.2237409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Whimsical Pig Dog park"
+    }
+  },
+  {
+    "place_id": "osm_549829301",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6720572,
+    "longitude": -117.2511161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_551983657",
+    "name": "Clark's Creek Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1822389,
+    "longitude": -122.3194792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Clark's Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_558895354",
+    "name": "Mountlake Terrace Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7939497,
+    "longitude": -122.3045487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mountlake Terrace Off-Leash Dog Park",
+      "operator": "City of Mountlake Terrace"
+    }
+  },
+  {
+    "place_id": "osm_559272709",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3370092,
+    "longitude": -122.1807778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_579359018",
+    "name": "Shy Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9776967,
+    "longitude": -122.1269362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shy Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_581366691",
+    "name": "Off-Leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9768071,
+    "longitude": -122.1273062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_582092008",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.199229,
+    "longitude": -122.5832179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_583145295",
+    "name": "Bremerton Bark Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5531604,
+    "longitude": -122.6876883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bremerton Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_583590347",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0986065,
+    "longitude": -122.6482242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_589131170",
+    "name": "The Friendly Bark",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8182463,
+    "longitude": -122.2876547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Lynnwood",
+      "addr:housenumber": "19902",
+      "addr:postcode": "98036",
+      "addr:state": "WA",
+      "addr:street": "40th Avenue West",
+      "amenity": "animal_training",
+      "building": "yes",
+      "fee": "yes",
+      "leisure": "dog_park",
+      "name": "The Friendly Bark",
+      "website": "https://yourfriendlybark.com/"
+    }
+  },
+  {
+    "place_id": "osm_597932922",
+    "name": "Off-leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8615328,
+    "longitude": -122.2380251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Off-leash Dog Area",
+      "sport": "multi",
+      "sport_1": "soccer",
+      "sport_2": "lacrosse",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_611738415",
+    "name": "Vance Creek Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.9969292,
+    "longitude": -123.4157574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Elma",
+      "addr:postcode": "98541",
+      "addr:state": "WA",
+      "addr:street": "Wenzel Slough Road",
+      "leisure": "dog_park",
+      "name": "Vance Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_618190051",
+    "name": "Upper Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1979448,
+    "longitude": -122.4533474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Upper Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_618190075",
+    "name": "Small Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1970673,
+    "longitude": -122.4539576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Small Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_619855387",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2332002,
+    "longitude": -122.4144802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_622177528",
+    "name": "Woodbridge Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.66693,
+    "longitude": -122.674615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woodbridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_631971995",
+    "name": "Grandview Off Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3983674,
+    "longitude": -122.2849816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Grandview Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_633523734",
+    "name": "Kinnear Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.626935,
+    "longitude": -122.3676761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kinnear Dog Park",
+      "operator": "Seattle Parks Department",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_660845179",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4683036,
+    "longitude": -122.2252708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Walker's Renton Subaru"
+    }
+  },
+  {
+    "place_id": "osm_670994779",
+    "name": "Mount Vernon Dog Park Small Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4316726,
+    "longitude": -122.3004431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Mount Vernon Dog Park Small Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_677178341",
+    "name": "Burien Toyota & Chevrolet Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4608639,
+    "longitude": -122.3413408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Burien",
+      "addr:housenumber": "15820",
+      "addr:postcode": "98166",
+      "addr:state": "WA",
+      "addr:street": "6th Avenue Southwest",
+      "leisure": "dog_park",
+      "name": "Burien Toyota & Chevrolet Dog Park",
+      "website": "https://www.burienwa.gov/residents/parks__recreation___cultural_services/city_parks_and_trails/burien_toyota___chevrolet_dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_677572704",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9949122,
+    "longitude": -122.4590664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_683057781",
+    "name": "Orting Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0895266,
+    "longitude": -122.2101147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Orting Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_691107207",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1414958,
+    "longitude": -122.785169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_692436738",
+    "name": "Fort Steilacoom Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1715633,
+    "longitude": -122.5565829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Steilacoom Dog Park",
+      "operator": "City of Lakewood Parks and Recreation",
+      "website": "https://cityoflakewood.us/off-leash-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_700918854",
+    "name": "Randall Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.5785247,
+    "longitude": -120.570082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Randall Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_703806691",
+    "name": "Dog Park at Summit Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3551446,
+    "longitude": -122.0211923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dog Park at Summit Park",
+      "source": "City of Maple Valley;GIS Dept"
+    }
+  },
+  {
+    "place_id": "osm_704406037",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4322882,
+    "longitude": -123.381837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_708649896",
+    "name": "Ce Ce's Off-Leash Playground",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3846465,
+    "longitude": -122.1645873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ce Ce's Off-Leash Playground"
+    }
+  },
+  {
+    "place_id": "osm_708681224",
+    "name": "Eaglemont Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8753903,
+    "longitude": -121.9654287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eaglemont Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_712568165",
+    "name": "CGSFO Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1408713,
+    "longitude": -123.4118196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "CGSFO Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_721324905",
+    "name": "Shoreview Park Off Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.750968,
+    "longitude": -122.3640456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Shoreview Park Off Leash Area",
+      "website": "https://www.cityofshoreline.com/government/departments/parks-recreation-cultural-services/parks-and-facilities/off-leash-dog-areas"
+    }
+  },
+  {
+    "place_id": "osm_727173482",
+    "name": "Duvall Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7481096,
+    "longitude": -121.985125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Duvall Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_729421587",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4341565,
+    "longitude": -123.3435917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_733344454",
+    "name": "Morrill Meadows Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3811294,
+    "longitude": -122.1959546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Morrill Meadows Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_738365389",
+    "name": "Strawberry Hill Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6380217,
+    "longitude": -122.5509914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Offleash dog park with fenced areas for big dogs and little dogs. This park is mainly dirt, so can be muddy or dusty. Water and hose for rinsing dirty dogs is provided.",
+      "leisure": "dog_park",
+      "name": "Strawberry Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_767770164",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.819955,
+    "longitude": -122.2384606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "Gated dog park, usable only by residents of Highland Court Neighborhood.",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_767777181",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.238957,
+    "longitude": -122.2916691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_767797238",
+    "name": "Carrie Blake Off leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.0807608,
+    "longitude": -123.0816466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park",
+      "name": "Carrie Blake Off leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_769446077",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.9907375,
+    "longitude": -123.8100244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_772562341",
+    "name": "Denny Substation Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6191148,
+    "longitude": -122.3326644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "alt_name": "Seattle City Light Off-leash Area",
+      "leisure": "dog_park",
+      "name": "Denny Substation Dog Park",
+      "opening_hours": "05:00-22:00"
+    }
+  },
+  {
+    "place_id": "osm_782500390",
+    "name": "Small Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0879747,
+    "longitude": -122.2647123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "operator": "Sunrise HOA",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_799252942",
+    "name": "Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0661411,
+    "longitude": -122.7625077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_800484814",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0187696,
+    "longitude": -120.5390611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_813305806",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5317031,
+    "longitude": -122.5972628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_821987446",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.5154889,
+    "longitude": -122.6102382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "fence": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_828185943",
+    "name": "Bark Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4462834,
+    "longitude": -122.1587638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_828674693",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6825697,
+    "longitude": -122.1035038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_829879466",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1370332,
+    "longitude": -122.518363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_842894602",
+    "name": "Willis Tucker Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8654324,
+    "longitude": -122.1367623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Willis Tucker Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_845567704",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2714376,
+    "longitude": -122.2191888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_847034000",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.8545992,
+    "longitude": -123.5111191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "A fenced play areas for large and small dogs in the Rainbow Road Park",
+      "leisure": "dog_park",
+      "operator": "CRD"
+    }
+  },
+  {
+    "place_id": "osm_850015940",
+    "name": "Hale Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4129762,
+    "longitude": -120.2989177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hale Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_869951496",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3183058,
+    "longitude": -122.2874838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_873437563",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.6200133,
+    "longitude": -122.7772749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Thousand Trails",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_884572169",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6529716,
+    "longitude": -117.5642348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_899083154",
+    "name": "Portsmith Apartment's Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8900187,
+    "longitude": -122.2512416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Portsmith Apartment's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_899083310",
+    "name": "Lake Stickney Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8779846,
+    "longitude": -122.2607507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lake Stickney Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_909788856",
+    "name": "Dog Yard Bar",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6639174,
+    "longitude": -122.3781636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Seattle",
+      "addr:housenumber": "1546",
+      "addr:postcode": "98107",
+      "addr:state": "WA",
+      "addr:street": "Northwest Leary Way",
+      "bar": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Dog Yard Bar",
+      "outdoor_seating": "yes",
+      "website": "https://www.dogyardbar.com"
+    }
+  },
+  {
+    "place_id": "osm_918351767",
+    "name": "Small Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7170701,
+    "longitude": -122.1592719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_922972294",
+    "name": "Loganberry Lane Off Leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9147919,
+    "longitude": -122.2581963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Everett",
+      "addr:housenumber": "9200",
+      "addr:postcode": "98204",
+      "addr:state": "WA",
+      "addr:street": "18th Avenue West",
+      "leisure": "dog_park",
+      "name": "Loganberry Lane Off Leash Dog Area",
+      "website": "https://www.bringfido.com/attraction/9778"
+    }
+  },
+  {
+    "place_id": "osm_923237647",
+    "name": "Olin Fields Bark Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9046161,
+    "longitude": -122.2489811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Olin Fields Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_924947991",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2974227,
+    "longitude": -122.3927998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_927002700",
+    "name": "Sedro-Woolley Off Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4920644,
+    "longitude": -122.2224806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Sedro-Woolley Off Leash Dog Park",
+      "name:en": "Bark Park",
+      "operator": "City of Sedro Woolley",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_928636466",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.554957,
+    "longitude": -121.9980183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_951295349",
+    "name": "Mirabella Dog Park and Agility Course",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8975447,
+    "longitude": -122.2218764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Mirabella Dog Park and Agility Course"
+    }
+  },
+  {
+    "place_id": "osm_951299083",
+    "name": "Wildreed Bark Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9068803,
+    "longitude": -122.2223143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Wildreed Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_984979889",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.5167245,
+    "longitude": -122.4091885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_989246593",
+    "name": "Woodside Community Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8961972,
+    "longitude": -122.225984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Woodside Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1004616256",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3868919,
+    "longitude": -119.4991077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1007185279",
+    "name": "Paws for a Beer",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.7203899,
+    "longitude": -122.5101882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Bellingham",
+      "addr:country": "US",
+      "addr:housenumber": "501",
+      "addr:postcode": "98225",
+      "addr:state": "WA",
+      "addr:street": "Harris Avenue",
+      "leisure": "dog_park",
+      "name": "Paws for a Beer"
+    }
+  },
+  {
+    "place_id": "osm_1021494376",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3110526,
+    "longitude": -119.5501409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1024370545",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8959571,
+    "longitude": -122.2030798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1025923487",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1226665,
+    "longitude": -122.2952901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1047303235",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5500256,
+    "longitude": -122.1859541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1054961747",
+    "name": "Technical Drive Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.3152618,
+    "longitude": -122.642467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Technical Drive Dog Park",
+      "operator": "City of Oak Harbor",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1056816524",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5452941,
+    "longitude": -122.1618112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1061206129",
+    "name": "IRRP Off Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.9924206,
+    "longitude": -120.5776587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "IRRP Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_1061456632",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.7215797,
+    "longitude": -122.9797469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1065734354",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7226412,
+    "longitude": -122.1937123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1089609605",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.6038688,
+    "longitude": -122.9066891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1092481713",
+    "name": "Lake Padden Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.6980826,
+    "longitude": -122.4419937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Lake Padden Dog Park",
+      "operator": "City of Bellingham",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1096163191",
+    "name": "Hovander Homestead Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.8403153,
+    "longitude": -122.5891502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Hovander Homestead Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1098976066",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3166346,
+    "longitude": -122.3180214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1099633116",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6211107,
+    "longitude": -117.2205478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1103968304",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.3351029,
+    "longitude": -119.2787408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1106437349",
+    "name": "The Langford Station Off-Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4460383,
+    "longitude": -123.5020717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "The Langford Station Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_1120461370",
+    "name": "Happy Tails Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.5395293,
+    "longitude": -117.9097367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1129368638",
+    "name": "Off-leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8307848,
+    "longitude": -122.3350138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Off-leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1149256054",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2497197,
+    "longitude": -119.6122408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1151677415",
+    "name": "Carnation Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6431548,
+    "longitude": -121.9117799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carnation Off-Leash Dog Park",
+      "operator": "City of Carnation"
+    }
+  },
+  {
+    "place_id": "osm_1153379369",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1416152,
+    "longitude": -119.2841132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1160972374",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4703647,
+    "longitude": -123.5375967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1171026540",
+    "name": "Heritage Park Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.2464432,
+    "longitude": -122.3608338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Heritage Park Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1176483046",
+    "name": "Medina Park Off Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6200839,
+    "longitude": -122.2299569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Medina",
+      "addr:state": "WA",
+      "addr:street": "82nd Avenue Northeast",
+      "leisure": "dog_park",
+      "name": "Medina Park Off Leash Area",
+      "operator": "City of Medina",
+      "operator:type": "government",
+      "website": "https://www.medina-wa.gov/publicworks/page/medina-park"
+    }
+  },
+  {
+    "place_id": "osm_1193468463",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.7508308,
+    "longitude": -122.4390388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "City of Bellingham",
+      "operator:type": "government",
+      "operator:wikidata": "Q430267",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1207208052",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6077786,
+    "longitude": -122.1749381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1211906173",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.785204,
+    "longitude": -122.4732091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "surface": "fine_gravel"
+    }
+  },
+  {
+    "place_id": "osm_1216377848",
+    "name": "Sudden Valley Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.7203375,
+    "longitude": -122.3231732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sudden Valley Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1216688944",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1659709,
+    "longitude": -122.2614981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225346323",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6299265,
+    "longitude": -117.6657401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1225790798",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3960603,
+    "longitude": -123.1926063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1227068427",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0903852,
+    "longitude": -122.63105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1227732473",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4038089,
+    "longitude": -123.1422477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1235702657",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.5835044,
+    "longitude": -118.2191887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1240074930",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5821546,
+    "longitude": -122.2227378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1244277444",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.5240396,
+    "longitude": -123.0224673,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1253082033",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4772347,
+    "longitude": -117.5961183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "source": "survey"
+    }
+  },
+  {
+    "place_id": "osm_1254209013",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.500019,
+    "longitude": -122.2016304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1257534309",
+    "name": "Construction Site Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6082518,
+    "longitude": -122.3034362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "description": "Future construction site currently used as a fenced dog park.",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Construction Site Dog Park",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "place_id": "osm_1257625893",
+    "name": "Maple Bay Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.8170043,
+    "longitude": -123.6158149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Maple Bay Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1263621895",
+    "name": "Under 20 Pound Dogs",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1790249,
+    "longitude": -122.5293839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Under 20 Pound Dogs"
+    }
+  },
+  {
+    "place_id": "osm_1270575494",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4114111,
+    "longitude": -119.517678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1273183016",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.759777,
+    "longitude": -122.1711027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "fence_type": "bars",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1278386746",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2397337,
+    "longitude": -122.5285603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281373684",
+    "name": "Large Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4078417,
+    "longitude": -123.1758351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1281373685",
+    "name": "Small Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4074526,
+    "longitude": -123.1755742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "description": "Also for eldery and anxious dogs",
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1282027892",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0549919,
+    "longitude": -122.8327133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1287562350",
+    "name": "Sunrise Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0948689,
+    "longitude": -122.2663046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sunrise Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1293323275",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2314144,
+    "longitude": -122.3613488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1293529078",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6793096,
+    "longitude": -122.1231877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1297728829",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2478816,
+    "longitude": -122.1995739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1298327525",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.746508,
+    "longitude": -122.3280369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1299698537",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.197148,
+    "longitude": -122.253453,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1301261921",
+    "name": "Luke McRedmond Pop-Up Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6729562,
+    "longitude": -122.1315762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Luke McRedmond Pop-Up Dog Park",
+      "name:etymology:wikidata": "Q135178367",
+      "opening_hours": "2024 Apr 01-2024 Oct 31 Su-Sa,PH dawn-dusk",
+      "operator": "City of Redmond",
+      "operator:type": "public",
+      "website": "https://www.letsconnectredmond.com/dogpark",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1302392836",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7324646,
+    "longitude": -122.2944982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "building": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1305782659",
+    "name": "Shy Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.79636,
+    "longitude": -122.3385473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shy Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1308863464",
+    "name": "Off-Lease Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8618203,
+    "longitude": -121.8079321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off-Lease Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1308866927",
+    "name": "\"Dogs on First\" Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8687955,
+    "longitude": -121.8215465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "\"Dogs on First\" Off-Leash Dog Park",
+      "opening_hours": "dawn-dusk",
+      "website": "https://ci.sultan.wa.us/Facilities/Facility/Details/Dogs-on-First-OffLeash-Dog-Park-2"
+    }
+  },
+  {
+    "place_id": "osm_1311310607",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.0219647,
+    "longitude": -122.7875358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1311383327",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1517069,
+    "longitude": -122.2649995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fence": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1311915960",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0042626,
+    "longitude": -122.8726051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1315842691",
+    "name": "Swan Creek Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2134956,
+    "longitude": -122.3993726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Swan Creek Off-Leash Dog Park",
+      "operator": "Metro Parks Tacoma",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1316064773",
+    "name": "Small Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3902021,
+    "longitude": -122.6771054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1316064774",
+    "name": "All Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3902693,
+    "longitude": -122.6776348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "All Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1320213420",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2089856,
+    "longitude": -122.2339792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1321735234",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7964892,
+    "longitude": -117.4062426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1321737603",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7883946,
+    "longitude": -117.406944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1329966664",
+    "name": "Dogwood Play Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7211531,
+    "longitude": -122.2918699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Seattle",
+      "addr:housenumber": "12568",
+      "addr:postcode": "98125",
+      "addr:state": "WA",
+      "addr:street": "33rd Avenue Northeast",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Dogwood Play Park",
+      "name:en": "Dogwood Play Park",
+      "website": "https://www.dogwoodplaypark.com/"
+    }
+  },
+  {
+    "place_id": "osm_1340468647",
+    "name": "Martin Family Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.9973875,
+    "longitude": -123.435329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Martin Family Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1342227489",
+    "name": "Mountain View Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.1144689,
+    "longitude": -122.7731431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mountain View Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1342768116",
+    "name": "Yelm Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.9501614,
+    "longitude": -122.599284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Yelm",
+      "addr:housenumber": "902",
+      "addr:postcode": "98597",
+      "addr:state": "WA",
+      "addr:street": "Northwest Rhoton Road",
+      "leisure": "dog_park",
+      "name": "Yelm Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1343674542",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5129091,
+    "longitude": -122.362101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1344942752",
+    "name": "Juanita Beach Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7067023,
+    "longitude": -122.2143075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Kirkland",
+      "addr:country": "US",
+      "addr:housenumber": "9703",
+      "addr:postcode": "98034",
+      "addr:state": "WA",
+      "addr:street": "Northeast Juanita Drive",
+      "leisure": "dog_park",
+      "name": "Juanita Beach Off-Leash Dog Park",
+      "website": "https://kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Parks-Trails-and-Beaches/Off-Leash-Dog-Areas"
+    }
+  },
+  {
+    "place_id": "osm_1347171623",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.4090752,
+    "longitude": -123.5329425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "place_id": "osm_1351742306",
+    "name": "Kamp K9",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.6218428,
+    "longitude": -123.9557999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "brand": "KOA",
+      "brand:wikidata": "Q16988635",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Kamp K9",
+      "operator": "Bay Center KOA",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_1356604836",
+    "name": "Eagledale Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6073492,
+    "longitude": -122.5227736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "description": "Offleash dog park.",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Eagledale Dog Park",
+      "website": "https://biparks.org/dog-parks/"
+    }
+  },
+  {
+    "place_id": "osm_1356610242",
+    "name": "City Hall Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6149726,
+    "longitude": -122.1918504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "City Hall Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1357066520",
+    "name": "Growlerz Seattle",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5540051,
+    "longitude": -122.2816213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Growlerz Seattle"
+    }
+  },
+  {
+    "place_id": "osm_1359247620",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.9708945,
+    "longitude": -124.1406449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "fixme": "approximate location.  Fence and gates need better info.",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1359699785",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2021388,
+    "longitude": -121.9544972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1366021686",
+    "name": "Lowell Riverfront Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.9491359,
+    "longitude": -122.192684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Lowell Riverfront Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1375462075",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1918606,
+    "longitude": -122.1666972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1375884462",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6003938,
+    "longitude": -122.631488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1376915438",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3054638,
+    "longitude": -122.3355347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377031843",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2992839,
+    "longitude": -122.347813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1377031858",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.314813,
+    "longitude": -122.3586697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1385154360",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7664347,
+    "longitude": -120.7923192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Pet exercise area",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1386383890",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2580476,
+    "longitude": -122.1968464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1387131368",
+    "name": "Rotary Park Off-Leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 46.9954382,
+    "longitude": -120.5634923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Ellensburg",
+      "addr:housenumber": "1200",
+      "addr:postcode": "98926",
+      "addr:state": "WA",
+      "addr:street": "West 5th Avenue",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Rotary Park Off-Leash Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_1390252318",
+    "name": "Wildwood Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6084107,
+    "longitude": -122.2050413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Bellevue",
+      "addr:housenumber": "201",
+      "addr:postcode": "98004",
+      "addr:state": "WA",
+      "addr:street": "101st Avenue Southeast",
+      "alt_name": "Wildwood Pop-up Dog Park",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Wildwood Dog Park",
+      "operator": "City of Bellevue",
+      "operator:type": "government",
+      "operator:wikidata": "Q214164",
+      "operator:wikipedia": "en:Bellevue, Washington",
+      "start_date": "2024-06-01",
+      "surface": "woodchips"
+    }
+  },
+  {
+    "place_id": "osm_1413252444",
+    "name": "The Bark Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2059978,
+    "longitude": -121.9645287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "The Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1413422884",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.112937,
+    "longitude": -118.3667194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413422959",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1022377,
+    "longitude": -119.3408179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427733491",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.1528879,
+    "longitude": -122.4162667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1431439928",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.417241,
+    "longitude": -122.2476918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Centerpoint Office Park"
+    }
+  },
+  {
+    "place_id": "osm_1431441587",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.4644466,
+    "longitude": -122.2212816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1453607638",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6635758,
+    "longitude": -122.6697472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1453798630",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0975252,
+    "longitude": -122.3697856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1455091030",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0116591,
+    "longitude": -120.5437503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1456773993",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.8245578,
+    "longitude": -122.2376917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1463469078",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.6868398,
+    "longitude": -118.1212256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1463640626",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7104504,
+    "longitude": -122.1548019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1473748494",
+    "name": "McLane Off-Leash Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.0437971,
+    "longitude": -122.9739187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Olympia",
+      "addr:housenumber": "4421",
+      "addr:postcode": "98502",
+      "addr:state": "WA",
+      "addr:street": "Mud Bay Road Northwest",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "McLane Off-Leash Dog Park",
+      "operator": "City of Olympia",
+      "operator:type": "government",
+      "website": "https://www.olympiawa.gov/services/parks___recreation/parks___trails/mclane_dog_park.php"
+    }
+  },
+  {
+    "place_id": "osm_1475144330",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2568031,
+    "longitude": -122.3220211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1475452932",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.5018239,
+    "longitude": -122.6516101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1476362469",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.2424289,
+    "longitude": -122.2099605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1476715987",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.3082038,
+    "longitude": -122.3085363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1482786146",
+    "name": "Dog Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.7300775,
+    "longitude": -122.1593736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1070497",
+    "name": "Magnuson Park Off-Leash Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6836126,
+    "longitude": -122.252881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Magnuson Park Off-Leash Area",
+      "type": "multipolygon",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_2658762",
+    "name": "Cy Hampson Park",
+    "formatted_address": ", Washington, USA",
+    "latitude": 48.6209563,
+    "longitude": -123.406302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cy Hampson Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_18211904",
+    "name": "Snyder’s Corner Park Off-Leash Dog Area",
+    "formatted_address": ", Washington, USA",
+    "latitude": 47.6661847,
+    "longitude": -122.1633532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Snyder’s Corner Park Off-Leash Dog Area",
+      "type": "multipolygon",
+      "website": "https://kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Find-a-Park/Snyder%E2%80%99s-Corner-Park"
+    }
+  }
+]

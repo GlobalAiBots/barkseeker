@@ -1,0 +1,20 @@
+[
+  {
+    "place_id": "osm_1451404365",
+    "name": "Dog Park",
+    "formatted_address": ", Nevada, USA",
+    "latitude": 40.7322917,
+    "longitude": -114.0741289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

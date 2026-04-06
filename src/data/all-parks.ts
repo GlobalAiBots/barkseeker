@@ -44,6 +44,7 @@ export const amenityLabels: Record<string, { icon: string; label: string }> = {
 };
 
 const stateMap: Record<string, { code: string; prefix: string }> = {
+  "california": { code: "CA", prefix: "ca" },
   "florida": { code: "FL", prefix: "fl" },
   "maryland": { code: "MD", prefix: "md" },
   "new-york": { code: "NY", prefix: "ny" },
@@ -51,17 +52,24 @@ const stateMap: Record<string, { code: string; prefix: string }> = {
   "north-carolina": { code: "NC", prefix: "nc" },
   "michigan": { code: "MI", prefix: "mi" },
   "illinois": { code: "IL", prefix: "il" },
+  "colorado": { code: "CO", prefix: "co" },
   "georgia": { code: "GA", prefix: "ga" },
+  "washington": { code: "WA", prefix: "wa" },
+  "oregon": { code: "OR", prefix: "or" },
   "ohio": { code: "OH", prefix: "oh" },
+  "arizona": { code: "AZ", prefix: "az" },
   "minnesota": { code: "MN", prefix: "mn" },
   "massachusetts": { code: "MA", prefix: "ma" },
   "indiana": { code: "IN", prefix: "in" },
   "tennessee": { code: "TN", prefix: "tn" },
   "alabama": { code: "AL", prefix: "al" },
   "pennsylvania": { code: "PA", prefix: "pa" },
+  "utah": { code: "UT", prefix: "ut" },
   "kansas": { code: "KS", prefix: "ks" },
+  "idaho": { code: "ID", prefix: "id" },
   "virginia": { code: "VA", prefix: "va" },
   "iowa": { code: "IA", prefix: "ia" },
+  "new-mexico": { code: "NM", prefix: "nm" },
   "kentucky": { code: "KY", prefix: "ky" },
   "connecticut": { code: "CT", prefix: "ct" },
   "missouri": { code: "MO", prefix: "mo" },
@@ -70,15 +78,18 @@ const stateMap: Record<string, { code: string; prefix: string }> = {
   "maine": { code: "ME", prefix: "me" },
   "nebraska": { code: "NE", prefix: "ne" },
   "south-dakota": { code: "SD", prefix: "sd" },
-  "delaware": { code: "DE", prefix: "de" },
   "oklahoma": { code: "OK", prefix: "ok" },
+  "delaware": { code: "DE", prefix: "de" },
   "new-hampshire": { code: "NH", prefix: "nh" },
+  "montana": { code: "MT", prefix: "mt" },
+  "wyoming": { code: "WY", prefix: "wy" },
   "north-dakota": { code: "ND", prefix: "nd" },
   "hawaii": { code: "HI", prefix: "hi" },
   "mississippi": { code: "MS", prefix: "ms" },
   "louisiana": { code: "LA", prefix: "la" },
-  "colorado": { code: "CO", prefix: "co" },
-  "west-virginia": { code: "WV", prefix: "wv" }
+  "texas": { code: "TX", prefix: "tx" },
+  "west-virginia": { code: "WV", prefix: "wv" },
+  "nevada": { code: "NV", prefix: "nv" }
 };
 
 // eslint-disable-next-line @typescript-eslint/no-require-imports

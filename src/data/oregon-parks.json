@@ -1,0 +1,4670 @@
+[
+  {
+    "place_id": "osm_2474781998",
+    "name": "Pet exercise area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.875442,
+    "longitude": -122.6559645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet exercise area"
+    }
+  },
+  {
+    "place_id": "osm_3967337812",
+    "name": "Doggie Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3306181,
+    "longitude": -121.6618153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Doggie Park"
+    }
+  },
+  {
+    "place_id": "osm_4324633230",
+    "name": "Alberta Park Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.564905,
+    "longitude": -122.6437414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "unfenced off-leash area designated on unpaved path along NE 22nd Ave only",
+      "leisure": "dog_park",
+      "name": "Alberta Park Off-Leash Area",
+      "operator": "City of Portland",
+      "operator:type": "public",
+      "operator:wikidata": "Q6106"
+    }
+  },
+  {
+    "place_id": "osm_4365457604",
+    "name": "Pet Relief Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5885894,
+    "longitude": -122.5953043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Relief Area"
+    }
+  },
+  {
+    "place_id": "osm_4570366202",
+    "name": "Central Bark Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9191094,
+    "longitude": -123.302811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Central Bark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_4578000695",
+    "name": "Frazer Park off-leash dog area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5306219,
+    "longitude": -122.6121147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Open area/unfenced",
+      "leisure": "dog_park",
+      "name": "Frazer Park off-leash dog area"
+    }
+  },
+  {
+    "place_id": "osm_4795829447",
+    "name": "Pet Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.250044,
+    "longitude": -123.8585418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Area"
+    }
+  },
+  {
+    "place_id": "osm_5301301768",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.2378491,
+    "longitude": -123.0620782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6327625806",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5415591,
+    "longitude": -122.8873734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6328068994",
+    "name": "Prineville RV Park Dog Pen/Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.2975732,
+    "longitude": -120.8272728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Prineville RV Park Dog Pen/Park"
+    }
+  },
+  {
+    "place_id": "osm_6750950129",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5406091,
+    "longitude": -122.6278233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7259131585",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.3159395,
+    "longitude": -122.9707537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_7428491951",
+    "name": "Dog Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.572452,
+    "longitude": -123.3326617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_9905044104",
+    "name": "Council Crest Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4981011,
+    "longitude": -122.7063781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Council Crest Off-Leash Area",
+      "operator": "City of Portland",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_11140138698",
+    "name": "Pilkington Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3875408,
+    "longitude": -122.7354011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Lake Oswego",
+      "addr:housenumber": "19043",
+      "addr:postcode": "97035",
+      "addr:state": "OR",
+      "addr:street": "Pilkington Road",
+      "leisure": "dog_park",
+      "name": "Pilkington Dog Park",
+      "operator": "Lake Oswego Parks & Recreation",
+      "operator:type": "public",
+      "website": "https://www.ci.oswego.or.us/parksrec/off-leash-dog-areas"
+    }
+  },
+  {
+    "place_id": "osm_11976784744",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.0787676,
+    "longitude": -123.0513106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12793727376",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0308341,
+    "longitude": -123.5849476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13206004291",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.8642252,
+    "longitude": -123.1727115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13242247309",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3941383,
+    "longitude": -122.6916903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13342033656",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5185536,
+    "longitude": -123.0078651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_39799548",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5469509,
+    "longitude": -122.6576395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fenced": "no",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_93031873",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4853038,
+    "longitude": -122.5716291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_99256833",
+    "name": "Fernhill City Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5667229,
+    "longitude": -122.6226061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fernhill City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_123503986",
+    "name": "Amazon Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0253275,
+    "longitude": -123.0835436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "name": "Amazon Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_130791864",
+    "name": "Ash Avenue Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4284272,
+    "longitude": -122.7694394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Tigard",
+      "addr:housenumber": "9025",
+      "addr:postcode": "97223",
+      "addr:state": "OR",
+      "addr:street": "Southwest Burnham Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ash Avenue Dog Park",
+      "operator": "City of Tigard",
+      "operator:type": "public",
+      "operator:wikidata": "Q1444136"
+    }
+  },
+  {
+    "place_id": "osm_131770319",
+    "name": "East Delta Park Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5995597,
+    "longitude": -122.6758547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "East Delta Park Off-Leash Area",
+      "operator": "City of Portland",
+      "operator:type": "public",
+      "operator:wikidata": "Q6106"
+    }
+  },
+  {
+    "place_id": "osm_141679144",
+    "name": "Fort Walla Walla Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.0461155,
+    "longitude": -118.3600479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fort Walla Walla Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_146690542",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4707667,
+    "longitude": -122.7205208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_146690543",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4730691,
+    "longitude": -122.7223887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_149066507",
+    "name": "Potso Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4255206,
+    "longitude": -122.7600681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Potso Dog Park",
+      "operator": "City of Tigard",
+      "operator:type": "public",
+      "operator:wikidata": "Q1444136"
+    }
+  },
+  {
+    "place_id": "osm_150258784",
+    "name": "Stevenson Off Leash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5771158,
+    "longitude": -122.341461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Stevenson Off Leash Dog Park",
+      "operator": "Washougal"
+    }
+  },
+  {
+    "place_id": "osm_177199275",
+    "name": "Medford Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.3164216,
+    "longitude": -122.8507709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Medford",
+      "addr:housenumber": "1275",
+      "addr:postcode": "97504",
+      "addr:state": "OR",
+      "addr:street": "East Barnett Road",
+      "leisure": "dog_park",
+      "name": "Medford Dog Park",
+      "note": "Bear Creek Dog Park is located at 1275 Barnett Road and is an enclosed 2 acre site with a granite walking path, small covered area and water.",
+      "operator": "City of Medford",
+      "operator:type": "public",
+      "website": "https://www.medfordoregon.gov/Government/Departments/Parks-Recreation-and-Facilities/City-Parks-and-Facilities/Bear-Creek-Park_"
+    }
+  },
+  {
+    "place_id": "osm_203033389",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5585969,
+    "longitude": -122.6720834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "source": "survey",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_203513655",
+    "name": "Alton Baker Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0554487,
+    "longitude": -123.0715614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Alton Baker Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_220672714",
+    "name": "Bark Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2388184,
+    "longitude": -122.7785739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Talent",
+      "addr:housenumber": "604",
+      "addr:postcode": "97540",
+      "addr:state": "OR",
+      "addr:street": "Talent Avenue",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "opening_hours": "06:00-sunset",
+      "operator": "City of Talent",
+      "operator:type": "public",
+      "website": "https://www.cityoftalent.org/publicworks/page/city-parks"
+    }
+  },
+  {
+    "place_id": "osm_231531948",
+    "name": "Firehouse Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5982872,
+    "longitude": -121.1351389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Firehouse Park"
+    }
+  },
+  {
+    "place_id": "osm_264634439",
+    "name": "Ashland Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2134065,
+    "longitude": -122.7124748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ashland Dog Park",
+      "note": "The Dog Park is a two-acre fenced in area where dogs can run off leash and socialize with other dogs. Park hours are from dawn to dusk, seven days a week, throughout the year. Water and scoopers are available on site.",
+      "opening_hours": "sunrise-sunset",
+      "operator": "Ashland Parks and Recreation Comission",
+      "operator:type": "public",
+      "website": "https://www.ashland.or.us/Page.asp?NavID=9290",
+      "wikidata": "Q49473049"
+    }
+  },
+  {
+    "place_id": "osm_272505205",
+    "name": "Arbor Lodge Park Off Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.573122,
+    "longitude": -122.6942373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Arbor Lodge Park Off Leash Area",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_272505253",
+    "name": "Portland International Raceway Off Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5985868,
+    "longitude": -122.6882946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Portland International Raceway Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_276897862",
+    "name": "Overturf Butte Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.054497,
+    "longitude": -121.3418431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Overturf Butte Off-Leash Area",
+      "source": "From memory, needs improvement"
+    }
+  },
+  {
+    "place_id": "osm_279278182",
+    "name": "Happy Tails Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.2064359,
+    "longitude": -123.3564764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Happy Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_281372468",
+    "name": "Wishire Off Leash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5529265,
+    "longitude": -122.6262147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wishire Off Leash Dog Park",
+      "website": "https://www.portland.gov/parks/wilshire-park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_304914089",
+    "name": "Weigand Family Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.2779886,
+    "longitude": -121.1837341,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Weigand Family Dog Park",
+      "source": "http://www.ci.redmond.or.us/Home/Components/FacilityDirectory/FacilityDirectory/22/339"
+    }
+  },
+  {
+    "place_id": "osm_345128600",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5336318,
+    "longitude": -122.6820862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_348386362",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.9433133,
+    "longitude": -123.2932492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_359205769",
+    "name": "Pet Exercise Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.742852,
+    "longitude": -123.1868625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area"
+    }
+  },
+  {
+    "place_id": "osm_365800640",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.552741,
+    "longitude": -122.9104562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "pebblestone"
+    }
+  },
+  {
+    "place_id": "osm_386836668",
+    "name": "Dakota Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6347334,
+    "longitude": -122.5005408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dakota Dog Park",
+      "operator": "DOGPAW"
+    }
+  },
+  {
+    "place_id": "osm_403363696",
+    "name": "Wallace Park Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5336159,
+    "longitude": -122.7031798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wallace Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_421561465",
+    "name": "Ridgefield Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.8067755,
+    "longitude": -122.7329908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ridgefield Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_430883479",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.5355069,
+    "longitude": -121.2825873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_431480365",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3841977,
+    "longitude": -122.7425551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_436364980",
+    "name": "Ike Memorial Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6585034,
+    "longitude": -122.6550074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ike Memorial Dog Park",
+      "old_name": "Ross Dog Park",
+      "operator": "DOGPAW"
+    }
+  },
+  {
+    "place_id": "osm_437695507",
+    "name": "Off Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5869568,
+    "longitude": -122.7597781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_438076175",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.5005101,
+    "longitude": -121.177498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_440427850",
+    "name": "Gold Hill Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4355725,
+    "longitude": -123.0424054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gold Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_442078906",
+    "name": "Lulu's Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.7978051,
+    "longitude": -123.0561886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Cottage Grove",
+      "addr:housenumber": "1118",
+      "addr:postcode": "97424",
+      "addr:state": "OR",
+      "addr:street": "East Main Street",
+      "bicycle": "no",
+      "dog": "designated",
+      "leisure": "dog_park",
+      "name": "Lulu's Dog Park",
+      "opening_hours": "05:00-22:00",
+      "operator": "City of Cottage Grove",
+      "operator:type": "government",
+      "smoking": "no",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_454587214",
+    "name": "Gerhart Gardens Off-Leash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.1085112,
+    "longitude": -122.8944772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Gerhart Gardens Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_455569779",
+    "name": "Ewing Young Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.2912553,
+    "longitude": -122.97667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ewing Young Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_458940380",
+    "name": "Camp Canines - Training and Indoor Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9295986,
+    "longitude": -124.0174671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lincoln City",
+      "addr:housenumber": "4787",
+      "addr:postcode": "97367",
+      "addr:state": "OR",
+      "addr:street": "Southwest Highway 101",
+      "building": "retail",
+      "contact:facebook": "CampCanines",
+      "contact:yelp": "https://www.yelp.com/biz/camp-canines-lincoln-city-2",
+      "leisure": "dog_park",
+      "name": "Camp Canines - Training and Indoor Dog Park",
+      "phone": "+1 541 994 0065",
+      "website": "https://campcanineslincolncity.com/"
+    }
+  },
+  {
+    "place_id": "osm_461654694",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.3294221,
+    "longitude": -122.8686406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_466581155",
+    "name": "Tualatin Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3890227,
+    "longitude": -122.7640287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Tualatin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_470461889",
+    "name": "3rd Street Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.5579661,
+    "longitude": -123.2636471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "3rd Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_471865175",
+    "name": "PCC Rock Creek Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5636207,
+    "longitude": -122.8566203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "PCC Rock Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_472411469",
+    "name": "Winkelman Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4471078,
+    "longitude": -122.8576536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Winkelman Dog Park",
+      "operator": "Tualatin Hills Park & Recreation District",
+      "operator:short": "THPRD",
+      "operator:type": "public",
+      "operator:wikidata": "Q7850598",
+      "website": "https://www.thprd.org/parks-and-trails/dog-parks",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_473249739",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3128453,
+    "longitude": -122.7677576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_474954216",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.8937188,
+    "longitude": -122.8110892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_479748565",
+    "name": "Summerlake Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4365482,
+    "longitude": -122.8094023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Summerlake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_480936825",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9587779,
+    "longitude": -123.0612178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_482738147",
+    "name": "Fido's Indoor Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.48729,
+    "longitude": -122.6410445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Portland",
+      "addr:housenumber": "4949",
+      "addr:postcode": "97202",
+      "addr:state": "OR",
+      "addr:street": "Southeast 25th Avenue",
+      "building": "yes",
+      "building:levels": "1",
+      "contact:facebook": "http://www.facebook.com/pg/Fidos-Indoor-Dog-Park-126855807339935/",
+      "ele": "18.2",
+      "height": "8.9",
+      "leisure": "dog_park",
+      "name": "Fido's Indoor Dog Park",
+      "opening_hours": "06:30-20:00",
+      "phone": "+1-503-477-6318",
+      "website": "http://www.fidosindoordogpark.com/"
+    }
+  },
+  {
+    "place_id": "osm_483865089",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4576814,
+    "longitude": -123.3286272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_484233543",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0100738,
+    "longitude": -121.3445594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_484238927",
+    "name": "Riverbend Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0429956,
+    "longitude": -121.3176957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Riverbend Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_494926163",
+    "name": "Chimney Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6068463,
+    "longitude": -122.7578745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Chimney Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_497965288",
+    "name": "Orenco Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5325083,
+    "longitude": -122.9129679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orenco Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_507824616",
+    "name": "Normandale Park Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.531518,
+    "longitude": -122.6062136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Three fenced-in areas for dogs",
+      "leisure": "dog_park",
+      "name": "Normandale Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_511374082",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6300579,
+    "longitude": -122.4781717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_511410495",
+    "name": "Coquille Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.1785031,
+    "longitude": -124.1856545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Coquille Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_544013338",
+    "name": "Thatcher Park Off Leash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5388388,
+    "longitude": -123.13373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Thatcher Park Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_544053803",
+    "name": "Riverside Drive Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.2153768,
+    "longitude": -123.1789713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Riverside Drive Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_544299114",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.6387732,
+    "longitude": -123.0547296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_544811411",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4280485,
+    "longitude": -123.3036797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_546012076",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0351314,
+    "longitude": -121.3008311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_549819014",
+    "name": "Ponderosa Park Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0468664,
+    "longitude": -121.2854734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ponderosa Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_551331359",
+    "name": "Lucky Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.7281182,
+    "longitude": -122.5689315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lucky Dog Park",
+      "operator": "DOGPAW",
+      "website": "http://clarkdogpaw.org/brush-prairie-lucky-dog-park/"
+    }
+  },
+  {
+    "place_id": "osm_552217119",
+    "name": "Big Sky Offleash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0706704,
+    "longitude": -121.2355945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Big Sky Offleash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_553349199",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0933867,
+    "longitude": -121.2613888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_558299142",
+    "name": "Carruthers Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.1907809,
+    "longitude": -123.9297241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Carruthers Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_563966371",
+    "name": "Keizer Rapids Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9961239,
+    "longitude": -123.0558248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Keizer Rapids Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_568861152",
+    "name": "Fernhill Dogpark",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5676361,
+    "longitude": -122.6230927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fernhill Dogpark"
+    }
+  },
+  {
+    "place_id": "osm_581312666",
+    "name": "Sacajawea Dog Park Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.559715,
+    "longitude": -122.5860352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Sacajawea Dog Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_602188625",
+    "name": "Crooked River Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.288976,
+    "longitude": -120.842953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Crooked River Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_606624592",
+    "name": "Stout Park Dog Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.0552643,
+    "longitude": -124.2803799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stout Park Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_609825374",
+    "name": "Dog Run",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5093392,
+    "longitude": -122.6743019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_610894222",
+    "name": "Lively Park Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0573734,
+    "longitude": -122.9177189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Springfield",
+      "addr:housenumber": "6100",
+      "addr:postcode": "97478",
+      "addr:state": "OR",
+      "addr:street": "Thurston Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Lively Park Dog Park",
+      "operator": "Willamalane Park and Recreation District",
+      "operator:type": "community",
+      "website": "https://www.willamalane.org/lively_park.php"
+    }
+  },
+  {
+    "place_id": "osm_612099131",
+    "name": "Dog Run",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2707193,
+    "longitude": -119.2012747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_622918640",
+    "name": "Discovery Park Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0595031,
+    "longitude": -121.3621001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Bend",
+      "addr:housenumber": "1315",
+      "addr:postcode": "97703",
+      "addr:state": "OR",
+      "addr:street": "Northwest Discovery Park Drive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Discovery Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_651851594",
+    "name": "Wilder Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.6032941,
+    "longitude": -124.0439292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "South Beach",
+      "addr:housenumber": "755",
+      "addr:postcode": "97366",
+      "addr:state": "OR",
+      "addr:street": "Southeast College Way",
+      "leisure": "dog_park",
+      "name": "Wilder Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_675530316",
+    "name": "Ecco Apartments Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.085628,
+    "longitude": -123.1246249,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ecco Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_675755055",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.449668,
+    "longitude": -122.71134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_700005480",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.5283212,
+    "longitude": -123.5506336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_705315445",
+    "name": "Clark County Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.619225,
+    "longitude": -122.6248976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Clark County Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_723283998",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5651273,
+    "longitude": -122.9235372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "landuse": "grass",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_727916088",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4227362,
+    "longitude": -122.5004541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_728149872",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4289768,
+    "longitude": -122.5010061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_728149895",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4493158,
+    "longitude": -122.5224105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_732398670",
+    "name": "Stayton Community Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.7962447,
+    "longitude": -122.7908857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Stayton Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_757484077",
+    "name": "Silverton Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9995996,
+    "longitude": -122.7940052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Silverton Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_757913410",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6965857,
+    "longitude": -122.5489202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_772487587",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5115346,
+    "longitude": -122.8550411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_805346716",
+    "name": "RR Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.1339127,
+    "longitude": -123.3972261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "RR Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_829450663",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0708482,
+    "longitude": -123.1838497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_836678285",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4867801,
+    "longitude": -122.7363034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_836937218",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.8246859,
+    "longitude": -119.7995317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_837644000",
+    "name": "Schiffler Park Dog Run",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4793294,
+    "longitude": -122.8156424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "wire",
+      "leisure": "dog_park",
+      "name": "Schiffler Park Dog Run",
+      "operator": "Tualatin Hills Park & Recreation District",
+      "operator:short": "THPRD",
+      "operator:type": "public",
+      "operator:wikidata": "Q7850598",
+      "start_date": "2019-08",
+      "surface": "grass",
+      "website": "https://www.thprd.org/parks-and-trails/dog-parks"
+    }
+  },
+  {
+    "place_id": "osm_837645388",
+    "name": "Hazeldale Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4725947,
+    "longitude": -122.8765006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "wire",
+      "leisure": "dog_park",
+      "name": "Hazeldale Dog Park",
+      "operator": "Tualatin Hills Park & Recreation District",
+      "operator:short": "THPRD",
+      "operator:type": "public",
+      "operator:wikidata": "Q7850598",
+      "surface": "grass",
+      "website": "https://www.thprd.org/parks-and-trails/dog-parks"
+    }
+  },
+  {
+    "place_id": "osm_837651621",
+    "name": "Sellwood Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4665237,
+    "longitude": -122.6634184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "no",
+      "leisure": "dog_park",
+      "name": "Sellwood Dog Park",
+      "operator": "City of Portland",
+      "operator:type": "public",
+      "operator:wikidata": "Q6106",
+      "surface": "grass",
+      "website": "https://www.portland.gov/parks/sellwood-riverfront-park"
+    }
+  },
+  {
+    "place_id": "osm_860517804",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4976755,
+    "longitude": -122.9090028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_871467931",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4795477,
+    "longitude": -122.9013496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Has separate fenced areas for large and small dogs. Small dog area has artificial turf.",
+      "leisure": "dog_park",
+      "operator": "City of Hillsboro",
+      "operator:type": "public",
+      "operator:wikidata": "Q81824"
+    }
+  },
+  {
+    "place_id": "osm_871501303",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3034604,
+    "longitude": -122.7537251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_872050489",
+    "name": "Armitage Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.1091155,
+    "longitude": -123.0522549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "incline": "no",
+      "leisure": "dog_park",
+      "name": "Armitage Dog Park",
+      "surface": "dirt"
+    }
+  },
+  {
+    "place_id": "osm_872155330",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0960434,
+    "longitude": -123.0597923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_882595655",
+    "name": "Off Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3805866,
+    "longitude": -122.6292663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_888793809",
+    "name": "Durham Park Off-leash dog area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3958611,
+    "longitude": -122.7636424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Portland",
+      "addr:housenumber": "17095",
+      "addr:postcode": "97224",
+      "addr:state": "OR",
+      "addr:street": "Southwest Arkenstone Drive",
+      "leisure": "dog_park",
+      "name": "Durham Park Off-leash dog area"
+    }
+  },
+  {
+    "place_id": "osm_916110863",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4908834,
+    "longitude": -122.8996724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Small breed area",
+      "leisure": "dog_park",
+      "surface": "artificial_turf",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_924704307",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3517535,
+    "longitude": -122.83534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_926856800",
+    "name": "Luuwit View Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5489306,
+    "longitude": -122.5324365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Luuwit View Dog Park",
+      "operator": "City of Portland",
+      "operator:type": "public",
+      "operator:wikidata": "Q6106"
+    }
+  },
+  {
+    "place_id": "osm_950257570",
+    "name": "Koles Landing Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6703209,
+    "longitude": -122.5977967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Koles Landing Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_953862041",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0248635,
+    "longitude": -123.0924621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Eugene",
+      "addr:postcode": "97405",
+      "addr:state": "OR",
+      "leisure": "dog_park",
+      "operator": "Pacific Retirement Services, Inc.",
+      "operator:type": "private_non_profit",
+      "social_facility": "nursing_home",
+      "social_facility:for": "senior",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_954822857",
+    "name": "Kane Memorial Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.7037416,
+    "longitude": -122.5069653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Kane Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_978569793",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4959605,
+    "longitude": -122.8985863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_981057970",
+    "name": "LaPine State Park Pet Exercise Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.7709359,
+    "longitude": -121.5444053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "LaPine State Park Pet Exercise Area",
+      "operator": "LaPine State Park",
+      "operator:type": "government",
+      "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=32"
+    }
+  },
+  {
+    "place_id": "osm_981877307",
+    "name": "Pet Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4515606,
+    "longitude": -122.7790712,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Area"
+    }
+  },
+  {
+    "place_id": "osm_988788383",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4276048,
+    "longitude": -122.609016,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_992477625",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2068186,
+    "longitude": -121.7511514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_996143834",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4973969,
+    "longitude": -122.9182181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Dog's Day Out"
+    }
+  },
+  {
+    "place_id": "osm_996143839",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4976757,
+    "longitude": -122.9183881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "description": "Outdoor kennel area for dogs",
+      "leisure": "dog_park",
+      "surface": "artificial_turf"
+    }
+  },
+  {
+    "place_id": "osm_999981468",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.636843,
+    "longitude": -122.5544384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_999981470",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6391392,
+    "longitude": -122.5535005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1002103839",
+    "name": "Castle Rock Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2732252,
+    "longitude": -122.9141633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Castle Rock Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1012572678",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4952199,
+    "longitude": -122.9295517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "area": "yes",
+      "leisure": "dog_park",
+      "source": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/27630/637751540568670000"
+    }
+  },
+  {
+    "place_id": "osm_1016687396",
+    "name": "Monmouth Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.85277,
+    "longitude": -123.2214044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Monmouth Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1016687819",
+    "name": "Independence Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.8576916,
+    "longitude": -123.1829015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Independence Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1029104326",
+    "name": "Eulalona Small Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2371165,
+    "longitude": -121.7780974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "maxweight:dog": "30 lbs",
+      "name": "Eulalona Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1036451402",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6547721,
+    "longitude": -122.5990155,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1039425417",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4961364,
+    "longitude": -122.9076245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1042088916",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5656101,
+    "longitude": -122.5892783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1042791603",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.3533144,
+    "longitude": -122.8343823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1045976015",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5285056,
+    "longitude": -122.8807501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1050452989",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2650229,
+    "longitude": -122.8160879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1062425486",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5434611,
+    "longitude": -122.8837172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1067038725",
+    "name": "Jackie Husen Dog Run",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5291805,
+    "longitude": -122.7889684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Jackie Husen Dog Run",
+      "operator": "Tualatin Hills Park & Recreation District",
+      "operator:short": "THPRD",
+      "operator:type": "public",
+      "operator:wikidata": "Q7850598",
+      "start_date": "2019-12"
+    }
+  },
+  {
+    "place_id": "osm_1073262251",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4343035,
+    "longitude": -122.487213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1073262282",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.425034,
+    "longitude": -122.4872393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1077781601",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5140844,
+    "longitude": -122.5056067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "proposed:leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1078912877",
+    "name": "South Waterfront Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4980211,
+    "longitude": -122.6681921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "Requires membership to get access to the gated dog park.",
+      "leisure": "dog_park",
+      "name": "South Waterfront Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1078939335",
+    "name": "Hassler Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.8261038,
+    "longitude": -122.7869093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Sublimity",
+      "addr:postcode": "97385",
+      "addr:street": "SE Oak Grove Avenue",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "height": "2",
+      "leisure": "dog_park",
+      "name": "Hassler Dog Park",
+      "operator": "City of Sublimity",
+      "website": "https://www.cityofsublimity.org/parks"
+    }
+  },
+  {
+    "place_id": "osm_1080143786",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4336602,
+    "longitude": -123.3738305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1082259929",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3972366,
+    "longitude": -122.7856203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "operator": "City of Tualatin",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1092753542",
+    "name": "Love's Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.6991133,
+    "longitude": -123.0544017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Love's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1101872601",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4442815,
+    "longitude": -122.8283014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1117294201",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.0166019,
+    "longitude": -121.2876415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1123555794",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.3129289,
+    "longitude": -122.5707507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1126170368",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.1932904,
+    "longitude": -119.2550284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1130836459",
+    "name": "Lincoln City Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9799933,
+    "longitude": -124.0070521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Lincoln City Dog Park",
+      "operator": "City of Lincoln City",
+      "website": "https://www.lincolncity.org/departments/parks-recreation/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_1177982443",
+    "name": "Villas Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6404278,
+    "longitude": -122.54805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "Villas Dog Park",
+      "operator": "Villas at 28th",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1181902791",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6445508,
+    "longitude": -122.6916308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1183774186",
+    "name": "Pet Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.1688063,
+    "longitude": -122.6537802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Area",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1183776407",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4109427,
+    "longitude": -123.1282839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1190298287",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.5403366,
+    "longitude": -121.2543174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192407246",
+    "name": "Bandon Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.1126038,
+    "longitude": -124.4290391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bandon Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1193883925",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4702761,
+    "longitude": -122.8027647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1194529766",
+    "name": "Train Mountain Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.5577648,
+    "longitude": -121.8878156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "name": "Train Mountain Dog Park",
+      "operator": "Train Mountain Railroad Museum",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1204266546",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6013069,
+    "longitude": -122.5014216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1205423358",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6611507,
+    "longitude": -122.5843584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1205423368",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.657562,
+    "longitude": -122.6039923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1207915907",
+    "name": "Waluga Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4114013,
+    "longitude": -122.7291895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lake Oswego",
+      "addr:housenumber": "15775",
+      "addr:postcode": "97035",
+      "addr:state": "OR",
+      "addr:street": "Waluga Drive",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Waluga Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1208419470",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.691134,
+    "longitude": -122.6548352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209258283",
+    "name": "Singing Pines Off Leash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.9790958,
+    "longitude": -124.1083386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Singing Pines Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1211344075",
+    "name": "Pet Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.5324198,
+    "longitude": -119.3210853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Area",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1212433430",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5257293,
+    "longitude": -122.9274286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1212918226",
+    "name": "Minto Brown Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.9230721,
+    "longitude": -123.0691049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Minto Brown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1214622693",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6249174,
+    "longitude": -122.4717548,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1214963835",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6034242,
+    "longitude": -122.4753965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216388944",
+    "name": "Mountain View Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6978534,
+    "longitude": -121.5322055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mountain View Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1218592012",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.1749915,
+    "longitude": -119.2171869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1221939454",
+    "name": "Brentwood Dog Off-Leash Area",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4723399,
+    "longitude": -122.6003658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Brentwood Dog Off-Leash Area",
+      "operator": "City of Portland"
+    }
+  },
+  {
+    "place_id": "osm_1228549831",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6772584,
+    "longitude": -122.6312674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1228976952",
+    "name": "Off Leash Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4800931,
+    "longitude": -122.625466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1233754176",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5888279,
+    "longitude": -122.3764494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1233757071",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.615751,
+    "longitude": -122.4847335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1233920735",
+    "name": "East Holladay Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5320806,
+    "longitude": -122.5292088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "East Holladay Dog Park",
+      "operator": "City of Portland"
+    }
+  },
+  {
+    "place_id": "osm_1274717900",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.9262078,
+    "longitude": -122.7517452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1298673558",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 43.7127209,
+    "longitude": -121.4736103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1298905304",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4270978,
+    "longitude": -123.0361739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1298905307",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4279729,
+    "longitude": -123.0375242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304366987",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6147782,
+    "longitude": -122.614689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304372691",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.425107,
+    "longitude": -122.8716946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1304372722",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4216055,
+    "longitude": -122.849598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1334466079",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.593148,
+    "longitude": -122.3800387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1342772284",
+    "name": "Tiny Tranquility Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.3942541,
+    "longitude": -124.0839745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fenced": "yes",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "name": "Tiny Tranquility Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1349897036",
+    "name": "Paws-abilities Place",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2376476,
+    "longitude": -119.2783237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paws-abilities Place",
+      "operator": "City of Richland",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1361580899",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2772504,
+    "longitude": -119.2164121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1376526190",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2362181,
+    "longitude": -119.2867002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1381315054",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.3899847,
+    "longitude": -122.9114793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "operator": "Southern Oregon RV Park",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1396706996",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.1566955,
+    "longitude": -121.0548693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "earth",
+      "waste_basket": "yes",
+      "water": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1408411674",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.1579215,
+    "longitude": -121.0388572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1408411675",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.1571057,
+    "longitude": -121.0370323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1413423123",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2199484,
+    "longitude": -119.7937913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413423208",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2641153,
+    "longitude": -119.083246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413423316",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.6134039,
+    "longitude": -121.1369967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413423416",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2587319,
+    "longitude": -121.7987781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419446832",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.7224386,
+    "longitude": -122.6574488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419446833",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.7227271,
+    "longitude": -122.6574481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1421301079",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5738384,
+    "longitude": -122.8296315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1423123124",
+    "name": "Greenwood Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.430318,
+    "longitude": -123.3414875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Greenwood Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1423126281",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5330412,
+    "longitude": -122.9181645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1423129160",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.4312635,
+    "longitude": -123.3517172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429164425",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 42.2435884,
+    "longitude": -122.7790409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "image": "https://img1.wsimg.com/isteam/ip/4cbc53f0-178a-4ee2-bb8d-2f03daec196d/newest%20dog%20park.jpg",
+      "leisure": "dog_park",
+      "operator": "Mountain View Estates of Talent, LLC",
+      "operator:type": "community",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1435781574",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.4936947,
+    "longitude": -124.0819963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "operator": "Seal Rocks RV Cove",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1444104112",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.8402999,
+    "longitude": -119.6868342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1453220147",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.5471102,
+    "longitude": -124.0696025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "South Beach",
+      "addr:housenumber": "50",
+      "addr:postcode": "97366",
+      "addr:state": "OR",
+      "addr:street": "Southeast 123rd Street",
+      "addr:unit": "Dog Run",
+      "fenced": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1455069291",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.6415956,
+    "longitude": -123.0393663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1471791849",
+    "name": "Julie Rockwell Memorial Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 44.6136508,
+    "longitude": -123.9305557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Toledo",
+      "addr:postcode": "97391",
+      "addr:state": "OR",
+      "addr:street": "Southeast Fir Street",
+      "fenced": "yes",
+      "leisure": "dog_park",
+      "name": "Julie Rockwell Memorial Dog Park",
+      "nohousenumber": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1479077722",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.4268548,
+    "longitude": -122.8521473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1482110525",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6412396,
+    "longitude": -122.4448314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1486455045",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.6204296,
+    "longitude": -122.4835074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1490248888",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5062679,
+    "longitude": -122.7633842,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "description": "Sloping hill with grass and dirt, flat gravel area with agility structures.",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "operator": "Haven at Golf Creek",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_12507543",
+    "name": "Memorial Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.2994145,
+    "longitude": -122.7559212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Memorial Dog Park",
+      "operator": "City of Wilsonville",
+      "operator:type": "public",
+      "type": "multipolygon",
+      "website": "https://www.wilsonvilleparksandrec.com/parksrec/page/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_14645956",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.477378,
+    "longitude": -122.6705353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16952000",
+    "name": "Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 45.5929289,
+    "longitude": -122.3743599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19801120",
+    "name": "Columbia River Dog Park",
+    "formatted_address": ", Oregon, USA",
+    "latitude": 46.2186476,
+    "longitude": -119.1409854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Columbia River Dog Park",
+      "type": "multipolygon"
+    }
+  }
+]

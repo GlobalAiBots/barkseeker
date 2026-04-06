@@ -1,0 +1,329 @@
+[
+  {
+    "place_id": "osm_873358612",
+    "name": "Lions Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.8034599,
+    "longitude": -106.9489482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Lions Clubs International",
+      "brand:wikidata": "Q270029",
+      "leisure": "dog_park",
+      "name": "Lions Dog Park",
+      "operator": "Lions Clubs International"
+    }
+  },
+  {
+    "place_id": "osm_1146124379",
+    "name": "Huntington Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.7861408,
+    "longitude": -106.9618608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Huntington Dog Park",
+      "operator": "City of Sheridan"
+    }
+  },
+  {
+    "place_id": "osm_1363349134",
+    "name": "West 16th Street Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 44.8191788,
+    "longitude": -106.9606158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West 16th Street Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_8805128774",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.7717137,
+    "longitude": -108.6003337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_468481520",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.8261676,
+    "longitude": -108.5032928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_547118796",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.7588753,
+    "longitude": -108.6296988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_550738779",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.6831899,
+    "longitude": -108.7010514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_686502027",
+    "name": "Moja Campbell Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.6677125,
+    "longitude": -110.5406018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Located on the bank of the river",
+      "leisure": "dog_park",
+      "name": "Moja Campbell Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_851930688",
+    "name": "Heights Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.8296701,
+    "longitude": -108.5258273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Heights Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1082780308",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 47.3252818,
+    "longitude": -106.1708635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1179859716",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.5979517,
+    "longitude": -109.0652615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1230225639",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.8404912,
+    "longitude": -108.4834975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Lake Elmo State Park",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_1276658535",
+    "name": "Park City Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.6333928,
+    "longitude": -108.9173966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Park City Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1366025128",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 47.7225043,
+    "longitude": -104.184533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1366025628",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 47.7110043,
+    "longitude": -104.1607985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1375460005",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 45.7596883,
+    "longitude": -108.6148517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Billings",
+      "addr:postcode": "59102",
+      "addr:state": "MT",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_17682679",
+    "name": "Dog Park",
+    "formatted_address": ", Montana, USA",
+    "latitude": 47.8263156,
+    "longitude": -110.6641524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon",
+      "wheelchair": "limited"
+    }
+  }
+]

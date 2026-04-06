@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1451404365,
+    "name": "Dog Park",
+    "latitude": 40.7322917,
+    "longitude": -114.0741289,
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  }
+]

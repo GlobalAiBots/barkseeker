@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "osm_230256215",
+    "name": "Hogan Small Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.0362966,
+    "longitude": -102.0732645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hogan Small Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_478179202",
+    "name": "Waggin Tails Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 31.9666571,
+    "longitude": -102.1369837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Waggin Tails Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_960800218",
+    "name": "Campgrounds Dog Park #1",
+    "formatted_address": ", Texas, USA",
+    "latitude": 31.9611863,
+    "longitude": -102.1258426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Campgrounds Dog Park #1"
+    }
+  }
+]

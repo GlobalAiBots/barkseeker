@@ -1,2926 +1,2727 @@
 [
   {
-    "id": 54247805,
-    "name": "Boat Ramp",
-    "latitude": 33.6030361,
-    "longitude": -114.5339739,
+    "id": 462568716,
+    "name": "Lions' Dog Park",
+    "latitude": 34.4675146,
+    "longitude": -114.3486518,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Lions' Dog Park"
     }
   },
   {
-    "id": 174625347,
-    "name": "Boat Ramp",
-    "latitude": 34.2333161,
-    "longitude": -114.1856121,
+    "id": 476180823,
+    "name": "Large Dog Off-leash Park",
+    "latitude": 35.0929692,
+    "longitude": -114.6288403,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Large Dog Off-leash Park"
     }
   },
   {
-    "id": 175212822,
-    "name": "Boat Ramp",
-    "latitude": 35.1203542,
-    "longitude": -114.6085508,
+    "id": 480764891,
+    "name": "Dog Park",
+    "latitude": 32.6456694,
+    "longitude": -114.5828817,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 318725489,
-    "name": "Boat Ramp",
-    "latitude": 33.8613199,
-    "longitude": -114.525924,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 602063179,
-    "name": "Boat Ramp",
-    "latitude": 35.2191171,
-    "longitude": -114.5658146,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 602481075,
-    "name": "Boat Ramp",
-    "latitude": 34.4909341,
-    "longitude": -114.3613707,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 826010022,
-    "name": "Boat Ramp",
-    "latitude": 32.8867832,
-    "longitude": -114.4582676,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2071427083,
-    "name": "Boat Ramp",
-    "latitude": 36.2983206,
-    "longitude": -114.4040409,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2607671126,
-    "name": "Boat Ramp",
-    "latitude": 34.7288357,
-    "longitude": -114.5111393,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2692956339,
-    "name": "Boat Ramp",
-    "latitude": 34.8367592,
-    "longitude": -114.5899332,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
+      "leisure": "dog_park",
+      "name": "Dog Park",
       "source": "Bing"
     }
   },
   {
-    "id": 2692956554,
-    "name": "Boat Ramp",
-    "latitude": 34.8702716,
-    "longitude": -114.633692,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2694657974,
-    "name": "Boat Ramp",
-    "latitude": 34.9247616,
-    "longitude": -114.632232,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2706593753,
-    "name": "Boat Ramp",
-    "latitude": 35.1700837,
-    "longitude": -114.5704918,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3202643941,
-    "name": "Boat Ramp",
-    "latitude": 35.4927595,
-    "longitude": -114.6856836,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3224155435,
-    "name": "Boat Ramp",
-    "latitude": 35.2189462,
-    "longitude": -114.5656979,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4541929237,
-    "name": "Boat Ramp",
-    "latitude": 33.0296441,
-    "longitude": -114.6367885,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4542057750,
-    "name": "Boat Ramp",
-    "latitude": 33.0239745,
-    "longitude": -114.6113044,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4689121489,
-    "name": "Boat Ramp",
-    "latitude": 33.0261826,
-    "longitude": -114.6174292,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4698216812,
-    "name": "Boat Ramp",
-    "latitude": 35.090181,
-    "longitude": -114.62474,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Boat Ramp"
-    }
-  },
-  {
-    "id": 4698216864,
-    "name": "Boat Ramp",
-    "latitude": 35.0948795,
-    "longitude": -114.6353129,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4890088351,
-    "name": "Takeoff Point Boat Ramp",
-    "latitude": 34.3007327,
-    "longitude": -114.1367151,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Takeoff Point Boat Ramp"
-    }
-  },
-  {
-    "id": 5224220385,
-    "name": "Hemenway Harbor Launch Ramp",
-    "latitude": 36.0304528,
-    "longitude": -114.774504,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Hemenway Harbor Launch Ramp"
-    }
-  },
-  {
-    "id": 5224220387,
-    "name": "Hemenway Harbor Launch Ramp",
-    "latitude": 36.0303935,
-    "longitude": -114.774432,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Hemenway Harbor Launch Ramp"
-    }
-  },
-  {
-    "id": 5245019904,
-    "name": "Boat Ramp",
-    "latitude": 35.8696556,
-    "longitude": -114.6606236,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5245019906,
-    "name": "Boat Ramp",
-    "latitude": 35.8697947,
-    "longitude": -114.6605969,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5272655066,
-    "name": "Boat Ramp",
-    "latitude": 32.7206385,
-    "longitude": -114.5992919,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5272674489,
-    "name": "Boat Ramp",
-    "latitude": 32.7323238,
-    "longitude": -114.5355881,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5527124930,
-    "name": "Boat Ramp",
-    "latitude": 33.6092426,
-    "longitude": -114.524975,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5527124941,
-    "name": "Boat Ramp",
-    "latitude": 33.6119161,
-    "longitude": -114.5211482,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5684002240,
-    "name": "Boat Ramp",
-    "latitude": 35.1403094,
-    "longitude": -114.5719099,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5857883603,
-    "name": "Boat Ramp",
-    "latitude": 34.4532883,
-    "longitude": -114.3614232,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5857883606,
-    "name": "Boat Ramp",
-    "latitude": 34.453314,
-    "longitude": -114.3613525,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5862578151,
-    "name": "Boat Ramp",
-    "latitude": 34.4629393,
-    "longitude": -114.3504671,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5877128253,
-    "name": "Boat Ramp",
-    "latitude": 34.4516656,
-    "longitude": -114.3634866,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5939705086,
-    "name": "Boat Ramp",
-    "latitude": 34.3510337,
-    "longitude": -114.1698521,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 5939705097,
-    "name": "Boat Ramp",
-    "latitude": 34.3509823,
-    "longitude": -114.1697615,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 6979190825,
-    "name": "Boat Ramp",
-    "latitude": 33.3880216,
-    "longitude": -114.7116405,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7044518409,
-    "name": "Boat Ramp",
-    "latitude": 34.2196987,
-    "longitude": -114.2058873,
+    "id": 913514639,
+    "name": "Spike's Desert Dog Park",
+    "latitude": 34.8366104,
+    "longitude": -114.6123968,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
       "access": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "surface": "asphalt"
+      "alt_name": "Needles Dog Park",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Spike's Desert Dog Park"
     }
   },
   {
-    "id": 7967172445,
-    "name": "Boat Ramp",
-    "latitude": 34.4943291,
-    "longitude": -114.3625593,
+    "id": 1020898435,
+    "name": "Dog Park",
+    "latitude": 35.2272071,
+    "longitude": -114.2200565,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 7967172467,
-    "name": "Boat Ramp",
-    "latitude": 34.4895957,
-    "longitude": -114.3599509,
+    "id": 1115390396,
+    "name": "Quartzite Dog Park",
+    "latitude": 33.6785227,
+    "longitude": -114.2090942,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Quartzite Dog Park",
+      "wheelchair": "yes"
     }
   },
   {
-    "id": 7967172471,
-    "name": "Boat Ramp",
-    "latitude": 34.4894926,
-    "longitude": -114.3600676,
+    "id": 1180738592,
+    "name": "Dog Park",
+    "latitude": 36.6640678,
+    "longitude": -114.5608992,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 8364600033,
-    "name": "Boat Ramp",
-    "latitude": 34.2344341,
-    "longitude": -114.1840555,
+    "id": 1192587115,
+    "name": "Bark Park",
+    "latitude": 32.6764505,
+    "longitude": -114.6027806,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "leisure": "dog_park",
+      "name": "Bark Park"
     }
   },
   {
-    "id": 8364600034,
-    "name": "Boat Ramp",
-    "latitude": 34.2042062,
-    "longitude": -114.2272897,
+    "id": 1282361604,
+    "name": "Dog Park",
+    "latitude": 35.1490172,
+    "longitude": -114.6208541,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 8364600037,
-    "name": "Boat Ramp",
-    "latitude": 34.186117,
-    "longitude": -114.2337321,
+    "id": 1313423155,
+    "name": "Dog Park",
+    "latitude": 33.6621824,
+    "longitude": -114.2411827,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 8364600040,
-    "name": "Boat Ramp",
-    "latitude": 34.1632208,
-    "longitude": -114.2977508,
+    "id": 1345263774,
+    "name": "Small Dog Park",
+    "latitude": 34.8364511,
+    "longitude": -114.6127544,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Small Dog Park",
+      "operator": "Needles",
+      "operator:type": "government"
     }
   },
   {
-    "id": 8364600043,
-    "name": "Boat Ramp",
-    "latitude": 34.2224083,
-    "longitude": -114.1965889,
+    "id": 1434505836,
+    "name": "Small Dog Off-leash Park",
+    "latitude": 34.4503087,
+    "longitude": -114.2671873,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "addr:city": "Lake Havasu City",
+      "addr:housenumber": "7200",
+      "addr:postcode": "86406",
+      "addr:state": "AZ",
+      "addr:street": "McCulloch Boulevard South",
+      "leisure": "dog_park",
+      "name": "Small Dog Off-leash Park"
     }
   },
   {
-    "id": 8364600046,
-    "name": "Boat Ramp",
-    "latitude": 34.2446766,
-    "longitude": -114.1751205,
+    "id": 1436531168,
+    "name": "Community Park Dog Park",
+    "latitude": 35.1410326,
+    "longitude": -114.5712018,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "addr:city": "Bullhead City",
+      "addr:postcode": "86429",
+      "addr:state": "AZ",
+      "leisure": "dog_park",
+      "name": "Community Park Dog Park",
+      "website": "https://www.bullheadcityaz.gov/recreation-culture/parks/dog-parks/"
     }
   },
   {
-    "id": 8442139703,
-    "name": "Boat Ramp",
-    "latitude": 34.4823028,
-    "longitude": -114.4053768,
+    "id": 1441798625,
+    "name": "Dog Park",
+    "latitude": 35.0644942,
+    "longitude": -114.5689134,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 8463159190,
-    "name": "Boat Ramp",
-    "latitude": 34.1776235,
-    "longitude": -114.2503578,
+    "id": 1442438403,
+    "name": "Dog Park",
+    "latitude": 35.1132757,
+    "longitude": -114.5753749,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "source": "EsriWorldImageryClarity"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 9467371028,
-    "name": "Boat Ramp",
-    "latitude": 34.8675651,
-    "longitude": -114.632,
+    "id": 15816386,
+    "name": "Centennial Dog Park",
+    "latitude": 35.221783,
+    "longitude": -114.0286534,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Centennial Dog Park",
+      "type": "multipolygon",
+      "wheelchair": "no"
     }
   },
   {
-    "id": 9819414626,
-    "name": "Boat Ramp",
-    "latitude": 34.8478872,
-    "longitude": -114.6042501,
+    "id": 1802738886,
+    "name": "Dog Park",
+    "latitude": 33.4614343,
+    "longitude": -112.3278199,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 10114365140,
-    "name": "Boat Ramp",
-    "latitude": 33.6011313,
-    "longitude": -114.5323477,
+    "id": 2908236517,
+    "name": "Paseo Vista Dog Park",
+    "latitude": 33.2487197,
+    "longitude": -111.8255311,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Paseo Vista Dog Park"
     }
   },
   {
-    "id": 10120279711,
-    "name": "Boat Ramp",
-    "latitude": 34.8710294,
-    "longitude": -114.6340983,
+    "id": 4162002870,
+    "name": "Big Dogs",
+    "latitude": 32.346546,
+    "longitude": -111.0958937,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Big Dogs"
     }
   },
   {
-    "id": 10120289918,
-    "name": "Boat Ramp",
-    "latitude": 34.8704041,
-    "longitude": -114.633766,
+    "id": 5169642635,
+    "name": "Granville Dog Park",
+    "latitude": 34.6082061,
+    "longitude": -112.3574781,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Granville Dog Park"
     }
   },
   {
-    "id": 10120289920,
-    "name": "Boat Ramp",
-    "latitude": 34.8686619,
-    "longitude": -114.6329426,
+    "id": 5481760135,
+    "name": "Dog Park",
+    "latitude": 33.2569945,
+    "longitude": -111.8826153,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "access": "private",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 10120289924,
-    "name": "Boat Ramp",
-    "latitude": 34.8654896,
-    "longitude": -114.6305243,
+    "id": 8660506091,
+    "name": "All 4 Paws Training",
+    "latitude": 33.3920117,
+    "longitude": -111.8935416,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Tempe",
+      "addr:housenumber": "3330",
+      "addr:postcode": "85282",
+      "addr:state": "AZ",
+      "addr:street": "South Price Road",
+      "leisure": "dog_park",
+      "name": "All 4 Paws Training",
+      "source": "esri/USA_NAD_Addresses"
     }
   },
   {
-    "id": 10312677989,
-    "name": "Boat Ramp",
-    "latitude": 33.6059295,
-    "longitude": -114.5318816,
+    "id": 9936567686,
+    "name": "Dog Park @ SaddleBrooke Two",
+    "latitude": 32.513084,
+    "longitude": -110.904242,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "access": "permit",
+      "leisure": "dog_park",
+      "name": "Dog Park @ SaddleBrooke Two",
+      "operator": "SaddleBrooke Two",
+      "operator:type": "community"
     }
   },
   {
-    "id": 10604828062,
-    "name": "Boat Ramp",
-    "latitude": 32.9017266,
-    "longitude": -114.4767912,
+    "id": 11282547074,
+    "name": "Phoenix Schutzhund Club",
+    "latitude": 33.569687,
+    "longitude": -112.2554612,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Phoenix Schutzhund Club"
     }
   },
   {
-    "id": 11331657368,
-    "name": "Boat Ramp",
-    "latitude": 35.1273883,
-    "longitude": -114.5789625,
+    "id": 11561831123,
+    "name": "Foothills Canine Academy Brenda Dreyer",
+    "latitude": 33.4220703,
+    "longitude": -112.0326217,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "access": "customers",
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Foothills Canine Academy Brenda Dreyer"
     }
   },
   {
-    "id": 11331678393,
-    "name": "Boat Ramp",
-    "latitude": 35.1249824,
-    "longitude": -114.5817771,
+    "id": 12646621391,
+    "name": "Chaparral Dog Park",
+    "latitude": 33.5229046,
+    "longitude": -111.9078938,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Scottsdale",
+      "addr:housenumber": "5777",
+      "addr:postcode": "85250",
+      "addr:state": "AZ",
+      "addr:street": "North Hayden Road",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Chaparral Dog Park",
+      "source": "esri/USA_NAD_Addresses"
     }
   },
   {
-    "id": 11333292785,
-    "name": "Boat Ramp",
-    "latitude": 34.4780037,
-    "longitude": -114.3553277,
+    "id": 12847397631,
+    "name": "Dog Park",
+    "latitude": 33.593543,
+    "longitude": -112.1031276,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 11406414480,
-    "name": "Nelson'S Landing",
-    "latitude": 35.7074156,
-    "longitude": -114.707463,
+    "id": 12869395089,
+    "name": "Culdesac Dog Park",
+    "latitude": 33.413234,
+    "longitude": -111.8982762,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "informal": "yes",
-      "leisure": "slipway",
-      "mobile_reception": "limited",
-      "name": "Nelson's Landing",
-      "surface": "ground"
+      "leisure": "dog_park",
+      "name": "Culdesac Dog Park"
     }
   },
   {
-    "id": 13429580204,
-    "name": "Boat Ramp",
-    "latitude": 34.7153176,
-    "longitude": -114.4827172,
+    "id": 23689843,
+    "name": "Willow Creek Dog Park",
+    "latitude": 34.6045141,
+    "longitude": -112.4541354,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "bags": "yes",
+      "leisure": "dog_park",
+      "name": "Willow Creek Dog Park"
     }
   },
   {
-    "id": 13438339708,
-    "name": "Boat Ramp",
-    "latitude": 32.8200209,
-    "longitude": -114.4698381,
+    "id": 82163095,
+    "name": "Grovers Basin Dog Park",
+    "latitude": 33.6487563,
+    "longitude": -112.032918,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "barrier": "fence",
+      "layer": "1",
+      "leisure": "dog_park",
+      "name": "Grovers Basin Dog Park"
     }
   },
   {
-    "id": 13438429849,
-    "name": "Boat Ramp",
-    "latitude": 32.8298006,
-    "longitude": -114.4483359,
+    "id": 124782466,
+    "name": "Dog Park",
+    "latitude": 33.5758292,
+    "longitude": -112.1942417,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "addr:city": "Glendale",
+      "barrier": "fence",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 14288039,
-    "name": "Boat Ramp",
-    "latitude": 36.3055422,
-    "longitude": -114.4185687,
+    "id": 153213726,
+    "name": "Dog Park",
+    "latitude": 33.3237984,
+    "longitude": -111.7348291,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "surface": "asphalt",
-      "tiger:cfcc": "A41",
-      "tiger:county": "Clark, NV",
-      "tiger:name_base": "Echo Bay",
-      "tiger:name_type": "Rd",
-      "tiger:reviewed": "no"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
     }
   },
   {
-    "id": 133084866,
-    "name": "Boat Ramp",
-    "latitude": 35.1500061,
-    "longitude": -114.5741618,
+    "id": 222275118,
+    "name": "PETsMART Dog Park",
+    "latitude": 33.5321811,
+    "longitude": -112.1047658,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "man_made": "pier"
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "PETsMART Dog Park"
     }
   },
   {
-    "id": 172682539,
-    "name": "Boat Ramp",
-    "latitude": 36.036296,
-    "longitude": -114.7087721,
+    "id": 233336158,
+    "name": "Miko's Corner Playground",
+    "latitude": 32.2101621,
+    "longitude": -110.925766,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "access": "yes",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Miko's Corner Playground"
     }
   },
   {
-    "id": 173793375,
-    "name": "Boat Ramp",
-    "latitude": 34.719243,
-    "longitude": -114.4827521,
+    "id": 272189849,
+    "name": "Purple Heart Dog Park",
+    "latitude": 32.1024515,
+    "longitude": -110.7829688,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "oneway": "no",
-      "service": "slipway",
-      "surface": "concrete"
+      "leisure": "dog_park",
+      "name": "Purple Heart Dog Park"
     }
   },
   {
-    "id": 196851060,
-    "name": "Boat Ramp",
-    "latitude": 36.2987354,
-    "longitude": -114.4043346,
+    "id": 300842264,
+    "name": "Dutchman Dog Park",
+    "latitude": 33.4212595,
+    "longitude": -111.5453515,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
+      "addr:city": "Apache Junction",
+      "addr:housenumber": "247",
+      "addr:state": "AZ",
+      "addr:street": "East Superstition Boulevard",
+      "leisure": "dog_park",
+      "min_age:dog": "4 months",
+      "name": "Dutchman Dog Park",
+      "opening_hours": "Mo,Th 13:00-22:00; Tu,We,Fr-Su 06:00-22:00",
+      "operator": "City of Apache Junction",
+      "start_date": "2022-04-30",
+      "website": "https://www.apachejunctionaz.gov/dogpark"
+    }
+  },
+  {
+    "id": 308622686,
+    "name": "Dog Park",
+    "latitude": 32.3041479,
+    "longitude": -111.0082707,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 308781755,
+    "name": "Large-Breed Dog Park",
+    "latitude": 33.6296886,
+    "longitude": -112.3725501,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large-Breed Dog Park"
+    }
+  },
+  {
+    "id": 330176644,
+    "name": "Northern Horizon Dog Park",
+    "latitude": 33.5513855,
+    "longitude": -112.1961748,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northern Horizon Dog Park"
+    }
+  },
+  {
+    "id": 337245875,
+    "name": "Dog Park",
+    "latitude": 33.3257888,
+    "longitude": -111.7396822,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 339011409,
+    "name": "Cottonwood Riverfront Dog Park",
+    "latitude": 34.7466277,
+    "longitude": -112.0193763,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cottonwood Riverfront Dog Park"
+    }
+  },
+  {
+    "id": 351937027,
+    "name": "Sedona Dog Park",
+    "latitude": 34.8706126,
+    "longitude": -111.7833335,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "addr:city": "Sedona",
+      "addr:housenumber": "950",
+      "addr:postcode": "86336",
+      "addr:state": "AZ",
+      "addr:street": "Soldier Pass Road",
+      "leisure": "dog_park",
+      "name": "Sedona Dog Park",
+      "phone": "+1-928-203-5057",
+      "website": "https://www.sedonaaz.gov/sedonacms/index.aspx?page=380"
+    }
+  },
+  {
+    "id": 406118465,
+    "name": "SKP Saguaro Members and Guests Dog Run",
+    "latitude": 31.9452483,
+    "longitude": -110.2942087,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "SKP Saguaro Members and Guests Dog Run"
+    }
+  },
+  {
+    "id": 442840237,
+    "name": "Dog Park",
+    "latitude": 32.2569167,
+    "longitude": -110.9797776,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 450023302,
+    "name": "Dog Park",
+    "latitude": 32.4559263,
+    "longitude": -110.9445164,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
       "source": "Bing"
     }
   },
   {
-    "id": 200128906,
-    "name": "Boat Ramp",
-    "latitude": 34.8702859,
-    "longitude": -114.6347518,
+    "id": 468562396,
+    "name": "Apartment Dog Park",
+    "latitude": 33.5602925,
+    "longitude": -112.1006501,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "ele": "368",
+      "leisure": "dog_park",
+      "name": "Apartment Dog Park"
     }
   },
   {
-    "id": 255013565,
-    "name": "Boat Ramp",
-    "latitude": 34.7286522,
-    "longitude": -114.5112091,
+    "id": 469231976,
+    "name": "Quail Creek Dog Park",
+    "latitude": 31.8963477,
+    "longitude": -110.9648383,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "concrete"
+      "leisure": "dog_park",
+      "name": "Quail Creek Dog Park"
     }
   },
   {
-    "id": 256808418,
-    "name": "Boat Ramp",
-    "latitude": 32.7312574,
-    "longitude": -114.6353795,
+    "id": 469282787,
+    "name": "Pocket Park for Pups",
+    "latitude": 33.2438674,
+    "longitude": -111.6351554,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Pocket Park for Pups"
     }
   },
   {
-    "id": 263815951,
-    "name": "Boat Ramp",
-    "latitude": 34.9245952,
-    "longitude": -114.6321905,
+    "id": 470026791,
+    "name": "Dog Park",
+    "latitude": 34.6013789,
+    "longitude": -112.3200508,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 316171618,
-    "name": "Boat Ramp",
-    "latitude": 35.1756285,
-    "longitude": -114.568212,
+    "id": 483601035,
+    "name": "909 West",
+    "latitude": 33.3530828,
+    "longitude": -111.9529612,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "909 West"
     }
   },
   {
-    "id": 316306233,
-    "name": "Boat Ramp",
-    "latitude": 35.2652124,
-    "longitude": -114.5822605,
+    "id": 483603984,
+    "name": "Tempe Sports Complex Dog Park",
+    "latitude": 33.3409973,
+    "longitude": -111.9490363,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "surface": "asphalt"
+      "leisure": "dog_park",
+      "name": "Tempe Sports Complex Dog Park"
     }
   },
   {
-    "id": 358443686,
-    "name": "Boat Ramp",
-    "latitude": 34.128882,
-    "longitude": -114.3585736,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "oneway": "no",
-      "smoothness": "excellent",
-      "surface": "concrete"
-    }
-  },
-  {
-    "id": 358564354,
-    "name": "Boat Ramp",
-    "latitude": 33.8555683,
-    "longitude": -114.5235962,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "oneway": "no",
-      "service": "slipway",
-      "smoothness": "intermediate",
-      "surface": "compacted"
-    }
-  },
-  {
-    "id": 358741871,
-    "name": "Aha Quin Road",
-    "latitude": 33.883273,
-    "longitude": -114.5143938,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "residential",
-      "lanes": "2",
-      "leisure": "slipway",
-      "name": "Aha Quin Road",
-      "oneway": "no",
-      "smoothness": "good",
-      "surface": "asphalt"
-    }
-  },
-  {
-    "id": 443100329,
-    "name": "Boat Ramp",
-    "latitude": 32.7084606,
-    "longitude": -114.7255237,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 454591773,
-    "name": "Boat Ramp",
-    "latitude": 32.7327866,
-    "longitude": -114.6497813,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 501703588,
-    "name": "Boat Ramp",
-    "latitude": 34.8359083,
-    "longitude": -114.5892086,
+    "id": 486671224,
+    "name": "Deem Hills Dog Park",
+    "latitude": 33.7276865,
+    "longitude": -112.1656136,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
       "access": "yes",
-      "fee": "yes",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "source": "Bing",
-      "surface": "concrete"
-    }
-  },
-  {
-    "id": 597175921,
-    "name": "Boat Ramp",
-    "latitude": 35.1240232,
-    "longitude": -114.6321895,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "destination",
-      "highway": "service",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 597175925,
-    "name": "Boat Ramp",
-    "latitude": 35.124024,
-    "longitude": -114.6320886,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "destination",
-      "highway": "service",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 619934221,
-    "name": "Boat Ramp",
-    "latitude": 34.4532383,
-    "longitude": -114.3613938,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 619934222,
-    "name": "Boat Ramp",
-    "latitude": 34.4532661,
-    "longitude": -114.361327,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 620523458,
-    "name": "Boat Ramp",
-    "latitude": 34.462936,
-    "longitude": -114.350369,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "lanes": "14",
-      "leisure": "slipway",
-      "width": "23"
-    }
-  },
-  {
-    "id": 622155008,
-    "name": "Boat Ramp",
-    "latitude": 34.4516611,
-    "longitude": -114.3634717,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 861118564,
-    "name": "Boat Ramp",
-    "latitude": 34.3544736,
-    "longitude": -114.1722829,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "asphalt"
-    }
-  },
-  {
-    "id": 924649960,
-    "name": "Boat Ramp",
-    "latitude": 36.0902515,
-    "longitude": -114.103644,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "tiger:cfcc": "A41",
-      "tiger:county": "Mohave, AZ",
-      "tiger:reviewed": "no"
-    }
-  },
-  {
-    "id": 1026866122,
-    "name": "Boat Ramp",
-    "latitude": 34.8675621,
-    "longitude": -114.6324207,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "private",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1069871890,
-    "name": "Boat Ramp",
-    "latitude": 34.8358613,
-    "longitude": -114.589125,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1069871891,
-    "name": "Boat Ramp",
-    "latitude": 34.8358864,
-    "longitude": -114.5893013,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1069871892,
-    "name": "Boat Ramp",
-    "latitude": 34.8387792,
-    "longitude": -114.5911623,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1069873501,
-    "name": "Boat Ramp",
-    "latitude": 34.8477793,
-    "longitude": -114.60435,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1087501365,
-    "name": "Boat Ramp",
-    "latitude": 33.8557479,
-    "longitude": -114.5235578,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "oneway": "no",
-      "service": "slipway",
-      "smoothness": "intermediate",
-      "surface": "compacted"
-    }
-  },
-  {
-    "id": 1095082135,
-    "name": "Boat Ramp",
-    "latitude": 33.6011043,
-    "longitude": -114.5322947,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "private",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1102799283,
-    "name": "Boat Ramp",
-    "latitude": 34.4920543,
-    "longitude": -114.4054959,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1105237943,
-    "name": "Boat Ramp",
-    "latitude": 34.4823056,
-    "longitude": -114.405429,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1105259924,
-    "name": "Boat Ramp",
-    "latitude": 33.6030796,
-    "longitude": -114.5340825,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "tiger:cfcc": "A41",
-      "tiger:county": "Riverside, CA",
-      "tiger:reviewed": "no"
-    }
-  },
-  {
-    "id": 1105972689,
-    "name": "Boat Ramp",
-    "latitude": 34.8707787,
-    "longitude": -114.6350926,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1105972690,
-    "name": "Boat Ramp",
-    "latitude": 34.8703517,
-    "longitude": -114.6339306,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1105972691,
-    "name": "Boat Ramp",
-    "latitude": 34.8687042,
-    "longitude": -114.6332241,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1105972693,
-    "name": "Boat Ramp",
-    "latitude": 34.8654372,
-    "longitude": -114.6307264,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1127976803,
-    "name": "Boat Ramp",
-    "latitude": 33.6058766,
-    "longitude": -114.5320516,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1183857047,
-    "name": "Boat Ramp",
-    "latitude": 35.139038,
-    "longitude": -114.5717431,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "destination",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1183857048,
-    "name": "Boat Ramp",
-    "latitude": 35.139142,
-    "longitude": -114.5717778,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "destination",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1183857613,
-    "name": "Boat Ramp",
-    "latitude": 35.1700592,
-    "longitude": -114.5705106,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1218178310,
-    "name": "Boat Ramp",
-    "latitude": 36.1373497,
-    "longitude": -114.7126985,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "yes",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1230152342,
-    "name": "Boat Ramp",
-    "latitude": 35.0142493,
-    "longitude": -114.6387629,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1271022221,
-    "name": "Big River Boat Ramp",
-    "latitude": 34.1222613,
-    "longitude": -114.3712346,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "customers",
-      "addr:city": "Big River",
-      "addr:housenumber": "150351",
-      "addr:postcode": "92242",
-      "addr:state": "CA",
-      "addr:street": "Del Rey Drive",
-      "bin": "yes",
-      "boat": "yes",
-      "canoe": "yes",
-      "charge": "$25.00",
-      "covered": "no",
-      "description": "Big River Park Boat Ramp\nPublic concrete boat ramp in Big River Park providing access to the Colorado River, with nearby parking and picnic areas.",
+      "addr:city": "Phoenix",
+      "addr:housenumber": "26606",
+      "addr:postcode": "85083",
+      "addr:state": "AZ",
+      "addr:street": "North Deem Hills Parkway",
+      "barrier": "fence",
       "dog": "yes",
-      "fee": "yes",
-      "fishing": "yes",
-      "highway": "service",
-      "lanes": "1",
-      "leisure": "slipway",
-      "motorboat": "yes",
-      "name": "Big River Boat Ramp",
-      "opening_hours": "Mo-Su 08:00am-7:00pm",
-      "payment:cash": "yes",
-      "picnic_table": "yes",
-      "service": "slipway",
-      "surface": "concrete",
-      "swimming": "yes",
-      "toilets": "yes",
-      "trailer": "yes",
-      "website": "https://www.bigrivercsd.org/"
+      "leisure": "dog_park",
+      "name": "Deem Hills Dog Park",
+      "operator": "Phoenix, Arizona",
+      "operator:type": "public",
+      "phone": "+1-602-495-5458",
+      "website": "https://www.phoenix.gov/parks/parks/dog-parks"
     }
   },
   {
-    "id": 1303359429,
-    "name": "Boat Ramp",
-    "latitude": 32.9058146,
-    "longitude": -114.4857263,
+    "id": 486671480,
+    "name": "Rose Mofford Large Dog Park",
+    "latitude": 33.5724846,
+    "longitude": -112.1110529,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Rose Mofford Large Dog Park",
+      "wheelchair": "yes"
     }
   },
   {
-    "id": 1303359431,
-    "name": "Boat Ramp",
-    "latitude": 32.9059136,
-    "longitude": -114.4858229,
+    "id": 486671481,
+    "name": "Rose Mofford Small Dog Park",
+    "latitude": 33.5731352,
+    "longitude": -112.1114693,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Rose Mofford Small Dog Park",
+      "wheelchair": "yes"
     }
   },
   {
-    "id": 1358282821,
-    "name": "Boat Ramp",
-    "latitude": 35.1498842,
-    "longitude": -114.5741265,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1358282823,
-    "name": "Boat Ramp",
-    "latitude": 35.1546167,
-    "longitude": -114.5723098,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1358282824,
-    "name": "Boat Ramp",
-    "latitude": 35.1543846,
-    "longitude": -114.5723674,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 1360648910,
-    "name": "Boat Ramp",
-    "latitude": 35.1228695,
-    "longitude": -114.6236709,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 1436574210,
-    "name": "Boat Ramp",
-    "latitude": 35.0903311,
-    "longitude": -114.6246624,
+    "id": 492814313,
+    "name": "Paradise Valley Park Small Dog Park",
+    "latitude": 33.6492227,
+    "longitude": -111.9997023,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
       "access": "yes",
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "concrete"
+      "leisure": "dog_park",
+      "name": "Paradise Valley Park Small Dog Park",
+      "opening_hours": "05:30-23:00"
     }
   },
   {
-    "id": 1443133156,
-    "name": "Boat Ramp",
-    "latitude": 35.0792857,
-    "longitude": -114.607153,
+    "id": 493326317,
+    "name": "Dog Park",
+    "latitude": 33.4195027,
+    "longitude": -112.5398942,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 174827387,
-    "name": "Boat Ramp",
-    "latitude": 34.2377304,
-    "longitude": -113.5845701,
+    "id": 533263021,
+    "name": "Granville Dog Park",
+    "latitude": 34.6082614,
+    "longitude": -112.3578062,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Granville Dog Park"
     }
   },
   {
-    "id": 616122817,
-    "name": "Boat Ramp",
-    "latitude": 35.0639965,
-    "longitude": -111.5011865,
+    "id": 544274847,
+    "name": "Dog Park",
+    "latitude": 33.2420093,
+    "longitude": -111.8612135,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 825901849,
-    "name": "Boat Ramp",
-    "latitude": 34.5929438,
-    "longitude": -112.4186724,
+    "id": 544278492,
+    "name": "Dog Park",
+    "latitude": 33.5224821,
+    "longitude": -111.9077032,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 826330482,
-    "name": "Boat Ramp",
-    "latitude": 35.1189928,
-    "longitude": -112.0147749,
+    "id": 544569293,
+    "name": "Dog Park",
+    "latitude": 33.2979477,
+    "longitude": -111.9468628,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 914051609,
-    "name": "Wahweap Marina Main Boat Launch",
-    "latitude": 36.9942614,
-    "longitude": -111.4842091,
+    "id": 554804298,
+    "name": "Optima Scottsdale Dog Run",
+    "latitude": 33.5080243,
+    "longitude": -111.9266129,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "name": "Wahweap Marina Main boat launch"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Optima Scottsdale Dog Run"
     }
   },
   {
-    "id": 951535811,
-    "name": "Boat Ramp",
-    "latitude": 33.5495749,
-    "longitude": -111.9224888,
+    "id": 588272010,
+    "name": "Dog Park",
+    "latitude": 33.4197974,
+    "longitude": -111.912311,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "wheelchair": "yes"
     }
   },
   {
-    "id": 1025281570,
-    "name": "Lees Ferry Boat Launch",
-    "latitude": 36.8657627,
-    "longitude": -111.5864575,
+    "id": 592188463,
+    "name": "Dog Park",
+    "latitude": 32.4139221,
+    "longitude": -110.9836599,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "access": "yes",
-      "description": "Launch for upstream access only.",
-      "leisure": "slipway",
-      "name": "Lees Ferry Boat Launch",
-      "source": "https://www.nps.gov/places/lees-ferry-boat-launch.htm",
-      "surface": "concrete"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1249443453,
-    "name": "Boat Ramp",
-    "latitude": 36.966058,
-    "longitude": -111.4422428,
+    "id": 603063217,
+    "name": "Sky View Ranch Dog Park",
+    "latitude": 33.279682,
+    "longitude": -111.6886001,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Sky View Ranch Dog Park"
     }
   },
   {
-    "id": 1340739232,
-    "name": "Boat Ramp",
-    "latitude": 33.6164921,
-    "longitude": -112.2485312,
+    "id": 606160920,
+    "name": "Roper Lake Dog Run",
+    "latitude": 32.7536026,
+    "longitude": -109.7075609,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Roper Lake Dog Run"
     }
   },
   {
-    "id": 1341401217,
-    "name": "Boat Ramp",
-    "latitude": 33.6110182,
-    "longitude": -112.2762514,
+    "id": 608722327,
+    "name": "Dog Park",
+    "latitude": 33.3906236,
+    "longitude": -111.8489761,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1341431505,
-    "name": "Boat Ramp",
-    "latitude": 33.6067388,
-    "longitude": -112.2818657,
+    "id": 620724197,
+    "name": "Copper Sky Dog Park",
+    "latitude": 33.0374331,
+    "longitude": -112.0464837,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Copper Sky Dog Park"
     }
   },
   {
-    "id": 1393953362,
-    "name": "Boat Ramp",
-    "latitude": 33.5879181,
-    "longitude": -112.1197367,
+    "id": 630840010,
+    "name": "RJ Dog Park",
+    "latitude": 33.2917784,
+    "longitude": -111.9742368,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "RJ Dog Park",
+      "opening_hours": "Mo-Su 06:00-23:00"
     }
   },
   {
-    "id": 2008628976,
-    "name": "Boat Ramp",
-    "latitude": 36.9909039,
-    "longitude": -111.486952,
+    "id": 630840011,
+    "name": "RJ Dog Park",
+    "latitude": 33.2929294,
+    "longitude": -111.9752249,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "RJ Dog Park",
+      "opening_hours": "Mo-Su 06:00-23:00"
     }
   },
   {
-    "id": 2211939400,
-    "name": "Boat Ramp",
-    "latitude": 34.0490832,
-    "longitude": -109.1880029,
+    "id": 664291628,
+    "name": "Deuce of Dogs",
+    "latitude": 34.2425061,
+    "longitude": -110.0579982,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "Deuce of Dogs"
     }
   },
   {
-    "id": 2224634399,
-    "name": "Boat Ramp",
-    "latitude": 35.0711211,
-    "longitude": -111.5221243,
+    "id": 664897786,
+    "name": "Christopher Columbus Dog Park",
+    "latitude": 32.2842472,
+    "longitude": -111.033381,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2224634427,
-    "name": "Boat Ramp",
-    "latitude": 35.0727567,
-    "longitude": -111.5243894,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2224686198,
-    "name": "Boat Ramp",
-    "latitude": 35.1119465,
-    "longitude": -111.5827626,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2623005179,
-    "name": "Boat Ramp",
-    "latitude": 33.3762812,
-    "longitude": -111.747866,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2730516201,
-    "name": "Castle Creek Boat Ramp",
-    "latitude": 33.9060273,
-    "longitude": -112.3083017,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Castle Creek Boat Ramp"
-    }
-  },
-  {
-    "id": 2738927045,
-    "name": "Boat Ramp",
-    "latitude": 33.8553985,
-    "longitude": -112.2897925,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2747449862,
-    "name": "Boat Ramp",
-    "latitude": 33.8765788,
-    "longitude": -112.296463,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 2915597803,
-    "name": "Boat Ramp",
-    "latitude": 33.4322109,
-    "longitude": -111.9375742,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3077653348,
-    "name": "Boat Ramp",
-    "latitude": 33.8483281,
-    "longitude": -112.2585382,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3077653433,
-    "name": "Boat Ramp",
-    "latitude": 33.852351,
-    "longitude": -112.2573339,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3077653580,
-    "name": "Boat Ramp",
-    "latitude": 33.8556596,
-    "longitude": -112.2551994,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3213300565,
-    "name": "Boat Ramp",
-    "latitude": 34.2309215,
-    "longitude": -111.3428677,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3213300576,
-    "name": "Boat Ramp",
-    "latitude": 34.2310661,
-    "longitude": -111.3466109,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3296237853,
-    "name": "Boat Ramp",
-    "latitude": 32.7545142,
-    "longitude": -109.7009844,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3345299128,
-    "name": "Boat Ramp",
-    "latitude": 33.8358255,
-    "longitude": -111.6376278,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3442097364,
-    "name": "Boat Ramp",
-    "latitude": 33.5731767,
-    "longitude": -111.5374386,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3442097369,
-    "name": "Boat Ramp",
-    "latitude": 33.5761454,
-    "longitude": -111.5340019,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3443093649,
-    "name": "Boat Ramp",
-    "latitude": 33.5760232,
-    "longitude": -111.2572123,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3443093652,
-    "name": "Boat Ramp",
-    "latitude": 33.5769404,
-    "longitude": -111.2546852,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3450461250,
-    "name": "Boat Ramp",
-    "latitude": 33.9869135,
-    "longitude": -111.7215674,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3462148461,
-    "name": "Boat Ramp",
-    "latitude": 34.7537852,
-    "longitude": -112.0055377,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3462208688,
-    "name": "Boat Ramp",
-    "latitude": 34.7513451,
-    "longitude": -112.0175325,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 3610814858,
-    "name": "Boat Ramp",
-    "latitude": 34.3135457,
-    "longitude": -110.8783617,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4053795882,
-    "name": "Boat Ramp",
-    "latitude": 33.3744452,
-    "longitude": -111.9215301,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4241063564,
-    "name": "Boat Ramp",
-    "latitude": 36.9608375,
-    "longitude": -111.4278072,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4243937355,
-    "name": "Boat Ramp",
-    "latitude": 36.9622619,
-    "longitude": -111.4263491,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4243939542,
-    "name": "Boat Ramp",
-    "latitude": 36.9636289,
-    "longitude": -111.4291574,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 4684612927,
-    "name": "Pearce Ferry Take-Out",
-    "latitude": 36.1258863,
-    "longitude": -113.9821908,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "permit",
-      "alt_name": "Pearce Ferry Boat Ramp",
-      "canoe": "permit",
-      "canoe:put_in": "private",
-      "description": "Generally the furthest downstream takeout point for Grand Canyon boat trips. Launching here by the general public is not allowed, but those coming from upstream may continue downriver. Beware class 6 Pearce Ferry Rapid 0.5 miles downstream.",
-      "leisure": "slipway",
-      "name": "Pearce Ferry Take-Out",
-      "parking": "yes",
-      "put_in": "private",
-      "start_date": "2010-03",
-      "surface": "concrete",
-      "toilets": "yes"
-    }
-  },
-  {
-    "id": 5173973894,
-    "name": "Boat Ramp",
-    "latitude": 34.5157115,
-    "longitude": -112.3843316,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Boat Ramp",
-      "operator": "Lynx Lake Recreational Area"
-    }
-  },
-  {
-    "id": 6789122372,
-    "name": "Boat Ramp",
-    "latitude": 34.5868765,
-    "longitude": -112.4232465,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "yes",
-      "leisure": "slipway",
-      "surface": "concrete"
-    }
-  },
-  {
-    "id": 6993789160,
-    "name": "Boat Ramp",
-    "latitude": 33.6249171,
-    "longitude": -111.2039686,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7179956800,
-    "name": "Boat Ramp",
-    "latitude": 33.3817783,
-    "longitude": -111.8859552,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7624434699,
-    "name": "Boat Ramp",
-    "latitude": 33.8721794,
-    "longitude": -111.6153887,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 7731709562,
-    "name": "Boat Ramp",
-    "latitude": 33.8762261,
-    "longitude": -109.4155806,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8386041509,
-    "name": "Kearny Lake Launch",
-    "latitude": 33.0521413,
-    "longitude": -110.8988768,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Kearny Lake Launch"
-    }
-  },
-  {
-    "id": 8429793023,
-    "name": "Boat Ramp",
-    "latitude": 33.6206849,
-    "longitude": -112.2539241,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8597402617,
-    "name": "Boat Ramp",
-    "latitude": 33.170219,
-    "longitude": -111.4733865,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 8645434863,
-    "name": "Salt River Rafter Boat Ramp",
-    "latitude": 33.6193575,
-    "longitude": -110.9227666,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Salt River Rafter Boat Ramp"
-    }
-  },
-  {
-    "id": 8719243814,
-    "name": "Boat Ramp",
-    "latitude": 33.3733715,
-    "longitude": -112.1356959,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9441126235,
-    "name": "Boat Ramp",
-    "latitude": 33.7716659,
-    "longitude": -111.6640353,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9761636199,
-    "name": "Boat Ramp",
-    "latitude": 34.1276806,
-    "longitude": -109.9525831,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9900079432,
-    "name": "Boat Ramp",
-    "latitude": 33.1304485,
-    "longitude": -109.3610313,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 9989781697,
-    "name": "Boat Ramp",
-    "latitude": 36.8656578,
-    "longitude": -111.5869618,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "permit",
-      "canoe": "put_in",
-      "description": "Launch for downstream access only.",
-      "leisure": "slipway",
-      "source": "https://www.nps.gov/places/lees-ferry-boat-launch.htm",
-      "surface": "gravel"
-    }
-  },
-  {
-    "id": 10036505114,
-    "name": "Boat Ramp",
-    "latitude": 33.2571862,
-    "longitude": -111.7276756,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10086229534,
-    "name": "Boat Ramp",
-    "latitude": 31.4021587,
-    "longitude": -111.086993,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10198051310,
-    "name": "Boat Ramp",
-    "latitude": 34.9733386,
-    "longitude": -110.6431426,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10537056924,
-    "name": "Boat Ramp",
-    "latitude": 33.3543886,
-    "longitude": -112.4302371,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10905158440,
-    "name": "Boat Ramp",
-    "latitude": 34.5545353,
-    "longitude": -111.1959943,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 10934040675,
-    "name": "Boat Ramp",
-    "latitude": 34.2736045,
-    "longitude": -110.0713212,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11169584052,
-    "name": "Boat Ramp",
-    "latitude": 34.3268734,
-    "longitude": -110.7019632,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11430276693,
-    "name": "Boat Ramp",
-    "latitude": 33.0782036,
-    "longitude": -113.0220431,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11751780736,
-    "name": "Boat Ramp",
-    "latitude": 33.5759364,
-    "longitude": -111.5362873,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 11751780738,
-    "name": "Boat Ramp",
-    "latitude": 33.576108,
-    "longitude": -111.5339631,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 12584344046,
-    "name": "Diamond Creek Boat Ramp",
-    "latitude": 35.7661303,
-    "longitude": -113.3730719,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "permit",
-      "alt_name": "Diamond Creek Take-Out",
-      "canoe": "permit",
-      "leisure": "slipway",
-      "name": "Diamond Creek Boat Ramp"
-    }
-  },
-  {
-    "id": 12755638185,
-    "name": "Boat Ramp",
-    "latitude": 34.6088534,
-    "longitude": -112.439134,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 13639422796,
-    "name": "Boat Ramp",
-    "latitude": 33.4743163,
-    "longitude": -111.9138036,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 205442051,
-    "name": "Boat Ramp",
-    "latitude": 31.4936297,
-    "longitude": -110.8555793,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "paved"
-    }
-  },
-  {
-    "id": 205450284,
-    "name": "Boat Ramp",
-    "latitude": 31.495834,
-    "longitude": -110.855998,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "maxspeed": "10 mph",
-      "service": "slipway",
-      "surface": "paved"
-    }
-  },
-  {
-    "id": 263844731,
-    "name": "Windy Hill",
-    "latitude": 33.6705425,
-    "longitude": -111.0931961,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Windy Hill"
-    }
-  },
-  {
-    "id": 288006952,
-    "name": "Boat Launch",
-    "latitude": 33.4334001,
-    "longitude": -111.931223,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "area": "yes",
-      "leisure": "slipway",
-      "name": "Boat Launch"
-    }
-  },
-  {
-    "id": 288006953,
-    "name": "Boat Launch",
-    "latitude": 33.4345205,
-    "longitude": -111.937893,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "area": "yes",
-      "highway": "service",
-      "leisure": "slipway",
-      "name": "Boat Launch",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 320534792,
-    "name": "Boat Ramp",
-    "latitude": 33.6709888,
-    "longitude": -111.1419538,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "private",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 337976249,
-    "name": "Boat Ramp",
-    "latitude": 33.9867931,
-    "longitude": -111.7219068,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
-    }
-  },
-  {
-    "id": 387889817,
-    "name": "Boat Ramp",
-    "latitude": 34.2709909,
-    "longitude": -110.0743231,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 425593596,
-    "name": "Boat Ramp",
-    "latitude": 33.8739445,
-    "longitude": -109.4281835,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 442978201,
-    "name": "Schoolhouse",
-    "latitude": 33.6506654,
-    "longitude": -111.0125145,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway",
-      "name": "Schoolhouse"
-    }
-  },
-  {
-    "id": 535074140,
-    "name": "Boat Ramp",
-    "latitude": 34.6170523,
-    "longitude": -112.5486236,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 637928255,
-    "name": "Boat Ramp",
-    "latitude": 35.2512297,
-    "longitude": -112.2145333,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "area": "yes",
-      "leisure": "slipway"
-    }
-  },
-  {
-    "id": 651207427,
-    "name": "Boat Ramp",
-    "latitude": 33.5110858,
-    "longitude": -111.906749,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "yes",
-      "highway": "service",
-      "lanes": "2",
-      "leisure": "slipway",
-      "oneway": "no",
-      "service": "parking_aisle",
-      "smoothness": "excellent",
-      "surface": "concrete"
-    }
-  },
-  {
-    "id": 664897796,
-    "name": "Silverbell Lake Slipway",
-    "latitude": 32.2855623,
-    "longitude": -111.0337411,
-    "state": "Arizona",
-    "stateAbbr": "AZ",
-    "tags": {
-      "access": "yes",
-      "fee": "no",
-      "leisure": "slipway",
-      "name": "Silverbell Lake Slipway",
+      "addr:city": "Tucson",
+      "addr:housenumber": "4300",
+      "addr:postcode": "85745",
+      "addr:state": "AZ",
+      "addr:street": "Silverbell Road",
+      "leisure": "dog_park",
+      "name": "Christopher Columbus Dog Park",
       "website": "https://www.tucsonaz.gov/parks/ChristopherColumbusPark"
     }
   },
   {
-    "id": 664897798,
-    "name": "Silverbell Lake Slipway South",
-    "latitude": 32.282001,
-    "longitude": -111.0313951,
+    "id": 674658205,
+    "name": "Dog Park",
+    "latitude": 33.5064893,
+    "longitude": -111.9302328,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "fee": "no",
-      "leisure": "slipway",
-      "name": "Silverbell Lake Slipway South"
+      "access": "permissive",
+      "leisure": "dog_park",
+      "operator": "The Moderne Apartments"
     }
   },
   {
-    "id": 777299008,
-    "name": "Boat Ramp",
-    "latitude": 33.3544289,
-    "longitude": -112.43034,
+    "id": 683147381,
+    "name": "Dog Park",
+    "latitude": 33.3419389,
+    "longitude": -111.8685404,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 808872224,
-    "name": "Boat Ramp",
-    "latitude": 33.3752036,
-    "longitude": -111.9418608,
+    "id": 699572122,
+    "name": "Dog Park",
+    "latitude": 33.325633,
+    "longitude": -111.5964484,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 814626238,
-    "name": "Boat Ramp",
-    "latitude": 35.0210129,
-    "longitude": -111.4073571,
+    "id": 722850275,
+    "name": "Dog Park",
+    "latitude": 33.3265129,
+    "longitude": -111.6191141,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 816366233,
-    "name": "JoJoba Boating Launch",
-    "latitude": 33.8378572,
-    "longitude": -111.6361711,
+    "id": 729201396,
+    "name": "Dog Park",
+    "latitude": 32.2164642,
+    "longitude": -110.8474977,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "alt_name": "Bartlett Lake Launch",
-      "highway": "service",
-      "leisure": "slipway",
-      "name": "JoJoba Boating Launch",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 816545506,
-    "name": "Bobcat Boat Launch",
-    "latitude": 33.6666848,
-    "longitude": -111.0859562,
+    "id": 732010325,
+    "name": "Small-Breed Dog Park",
+    "latitude": 33.6295494,
+    "longitude": -112.4436127,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "name": "Bobcat Boat Launch"
+      "leisure": "dog_park",
+      "name": "Small-Breed Dog Park"
     }
   },
   {
-    "id": 816545508,
-    "name": "Grapevine",
-    "latitude": 33.6476076,
-    "longitude": -111.0468652,
+    "id": 733801316,
+    "name": "Dog Park",
+    "latitude": 33.3810734,
+    "longitude": -111.5110841,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "name": "Grapevine",
-      "tiger:cfcc": "A41",
-      "tiger:county": "Gila, AZ",
-      "tiger:name_base": "Grapevine Group Site",
-      "tiger:reviewed": "yes"
+      "access": "private",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 816550855,
-    "name": "Indian Point",
-    "latitude": 33.7625433,
-    "longitude": -111.2360882,
+    "id": 734263750,
+    "name": "Bisbee Dog Park",
+    "latitude": 31.4046007,
+    "longitude": -109.9162408,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "name": "Indian Point"
+      "leisure": "dog_park",
+      "name": "Bisbee Dog Park"
     }
   },
   {
-    "id": 847007592,
-    "name": "Boat Ramp",
-    "latitude": 33.3170357,
-    "longitude": -111.8729079,
+    "id": 737198793,
+    "name": "Dog Park",
+    "latitude": 32.2683895,
+    "longitude": -110.9903086,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 938552061,
-    "name": "Boat Ramp",
-    "latitude": 34.5929138,
-    "longitude": -112.4187436,
+    "id": 740110400,
+    "name": "Dog Park",
+    "latitude": 33.316821,
+    "longitude": -111.6214458,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "concrete"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 952437321,
-    "name": "Boat Ramp",
-    "latitude": 33.6692732,
-    "longitude": -111.0869181,
+    "id": 744282007,
+    "name": "El Mirage Dog Park",
+    "latitude": 33.5741359,
+    "longitude": -112.3251811,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway"
+      "leisure": "dog_park",
+      "name": "El Mirage Dog Park"
     }
   },
   {
-    "id": 1017494318,
-    "name": "Cholla Boat Launch",
-    "latitude": 33.7247079,
-    "longitude": -111.2006857,
+    "id": 751687026,
+    "name": "Dog Park",
+    "latitude": 32.8165249,
+    "longitude": -111.6369397,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "name": "Cholla Boat Launch"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1023415996,
-    "name": "Boat Ramp",
-    "latitude": 34.3338443,
-    "longitude": -110.9438099,
+    "id": 819218461,
+    "name": "Dog Park",
+    "latitude": 33.3809196,
+    "longitude": -111.9232407,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1054813086,
-    "name": "Boat Ramp",
-    "latitude": 33.6728347,
-    "longitude": -111.0907782,
+    "id": 822382383,
+    "name": "Dog Park",
+    "latitude": 33.6843371,
+    "longitude": -112.4551482,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "description": "Copper Park Dog Park section",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1054813087,
-    "name": "Boat Ramp",
-    "latitude": 33.6704923,
-    "longitude": -111.0932189,
+    "id": 833712320,
+    "name": "Dog Park",
+    "latitude": 32.2479948,
+    "longitude": -110.8376673,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1062591292,
-    "name": "Boat Ramp",
-    "latitude": 34.1277339,
-    "longitude": -109.9525618,
+    "id": 835111890,
+    "name": "Dog Park",
+    "latitude": 32.2528077,
+    "longitude": -110.8300115,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1096391392,
-    "name": "Boat Ramp",
-    "latitude": 33.761914,
-    "longitude": -110.5178404,
+    "id": 835170222,
+    "name": "Dog Park",
+    "latitude": 32.2553549,
+    "longitude": -110.8647619,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1102268550,
-    "name": "Boat Ramp",
-    "latitude": 31.4021563,
-    "longitude": -111.0870721,
+    "id": 835435632,
+    "name": "Dog Park",
+    "latitude": 32.0983253,
+    "longitude": -110.7665449,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "lanes": "1",
-      "leisure": "slipway",
-      "service": "slipway",
-      "surface": "asphalt"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1108068874,
-    "name": "Boat Ramp",
-    "latitude": 33.3469255,
-    "longitude": -112.4414986,
+    "id": 835859547,
+    "name": "Dog Park",
+    "latitude": 32.1474439,
+    "longitude": -110.7602389,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1115020644,
-    "name": "Boat Ramp",
-    "latitude": 34.973361,
-    "longitude": -110.6435574,
+    "id": 839987092,
+    "name": "Dog Park",
+    "latitude": 32.2377212,
+    "longitude": -110.7796521,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1144266371,
-    "name": "Boat Ramp",
-    "latitude": 34.1743838,
-    "longitude": -109.9610047,
+    "id": 841095400,
+    "name": "Dog Park",
+    "latitude": 32.2478937,
+    "longitude": -110.8028814,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1163930749,
-    "name": "Laguna Boat Launch",
-    "latitude": 33.5339576,
-    "longitude": -111.4169796,
+    "id": 842904910,
+    "name": "Dog Park",
+    "latitude": 32.106528,
+    "longitude": -110.8534703,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "name": "Laguna Boat Launch"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1173682032,
-    "name": "Boat Ramp",
-    "latitude": 34.5545372,
-    "longitude": -111.1970191,
+    "id": 844687545,
+    "name": "Dog Park",
+    "latitude": 32.1975814,
+    "longitude": -110.8887211,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1215205254,
-    "name": "Boat Ramp",
-    "latitude": 31.4936419,
-    "longitude": -110.8554727,
+    "id": 846905182,
+    "name": "Dog Park",
+    "latitude": 33.3103848,
+    "longitude": -111.7042158,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "access": "private",
+      "landuse": "grass",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1237334773,
-    "name": "Boat Ramp",
-    "latitude": 31.5261347,
-    "longitude": -111.2540584,
+    "id": 846970183,
+    "name": "Dog Park",
+    "latitude": 32.2347276,
+    "longitude": -110.8270696,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "surface": "concrete"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1265004641,
-    "name": "Boat Ramp",
-    "latitude": 33.5760626,
-    "longitude": -111.5362969,
+    "id": 847264818,
+    "name": "Dog Park",
+    "latitude": 32.2273386,
+    "longitude": -110.8855438,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1265004642,
-    "name": "Boat Ramp",
-    "latitude": 33.5761959,
-    "longitude": -111.5340279,
+    "id": 848171794,
+    "name": "Dog Park",
+    "latitude": 32.2494788,
+    "longitude": -110.8223965,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1316508501,
-    "name": "Boat Ramp",
-    "latitude": 35.283584,
-    "longitude": -112.1584276,
+    "id": 849340598,
+    "name": "Dog Park",
+    "latitude": 32.2483879,
+    "longitude": -110.9253317,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1316987677,
-    "name": "Marina Launch",
-    "latitude": 33.5355718,
-    "longitude": -111.4233324,
+    "id": 862788682,
+    "name": "Paloma Dog Parks",
+    "latitude": 33.747979,
+    "longitude": -112.2461512,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "name": "Marina Launch"
+      "leisure": "dog_park",
+      "name": "Paloma Dog Parks"
     }
   },
   {
-    "id": 1316987939,
-    "name": "Palo Verde Boat Launch",
-    "latitude": 33.5375733,
-    "longitude": -111.4290823,
+    "id": 867925795,
+    "name": "Dog Park",
+    "latitude": 32.0671768,
+    "longitude": -110.7053719,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway",
-      "name": "Palo Verde Boat Launch"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1343295294,
-    "name": "Boat Ramp",
-    "latitude": 34.7514138,
-    "longitude": -112.0175133,
+    "id": 868525218,
+    "name": "Bark Park",
+    "latitude": 33.6050666,
+    "longitude": -112.260708,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "addr:city": "Peoria",
+      "addr:postcode": "85381",
+      "addr:state": "AZ",
+      "leisure": "dog_park",
+      "name": "Bark Park"
     }
   },
   {
-    "id": 1376464465,
-    "name": "Boat Ramp",
-    "latitude": 34.9366484,
-    "longitude": -110.2904098,
+    "id": 889408421,
+    "name": "Dog Park",
+    "latitude": 32.3049982,
+    "longitude": -110.8971818,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1377613448,
-    "name": "Boat Ramp",
-    "latitude": 34.6091016,
-    "longitude": -112.4390995,
+    "id": 889417503,
+    "name": "Dog Park",
+    "latitude": 33.4485322,
+    "longitude": -111.9806434,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "access": "private",
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1413450986,
-    "name": "Boat Ramp",
-    "latitude": 33.5759536,
-    "longitude": -111.5363205,
+    "id": 897383599,
+    "name": "Dog Park",
+    "latitude": 32.2774493,
+    "longitude": -110.9414041,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1431358530,
-    "name": "Boat Ramp",
-    "latitude": 35.2113794,
-    "longitude": -112.1253326,
+    "id": 900141016,
+    "name": "Dog Park",
+    "latitude": 32.2823461,
+    "longitude": -110.9382183,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "leisure": "slipway"
+      "leisure": "dog_park"
     }
   },
   {
-    "id": 1487785927,
-    "name": "Boat Ramp",
-    "latitude": 33.4744373,
-    "longitude": -111.9137197,
+    "id": 906947645,
+    "name": "Dog Park",
+    "latitude": 33.4931281,
+    "longitude": -112.0729504,
     "state": "Arizona",
     "stateAbbr": "AZ",
     "tags": {
-      "highway": "service",
-      "leisure": "slipway",
-      "service": "slipway"
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 906967650,
+    "name": "Dog Park",
+    "latitude": 32.1943115,
+    "longitude": -111.0001774,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 909874812,
+    "name": "Dog Park",
+    "latitude": 32.2748456,
+    "longitude": -110.9604181,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 911039095,
+    "name": "Anthem Dog Park",
+    "latitude": 33.8428306,
+    "longitude": -112.1182166,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private;permit",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Anthem Dog Park",
+      "opening_hours": "Jan-Apr 06:00-21:45; May-Aug 05:30-21:45; Sep-Dec 06:00-21:45; Jan-Dec We 12:00-21:45",
+      "website": "https://www.onlineatanthem.com/residents/recreations_and_amenities/parks/index.php"
+    }
+  },
+  {
+    "id": 924067622,
+    "name": "Dog Park",
+    "latitude": 32.2870509,
+    "longitude": -110.9583832,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 926909387,
+    "name": "Charlie’s Park",
+    "latitude": 34.03156,
+    "longitude": -112.807398,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Charlie’s Park",
+      "operator": "Wickenburg Ranch",
+      "operator:type": "private"
+    }
+  },
+  {
+    "id": 932591634,
+    "name": "Hance Park Dog Park",
+    "latitude": 33.4624053,
+    "longitude": -112.0784396,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Hance Park Dog Park"
+    }
+  },
+  {
+    "id": 934456469,
+    "name": "Dog Park",
+    "latitude": 35.227022,
+    "longitude": -111.5774462,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 934477315,
+    "name": "Southern Hills Dog Park",
+    "latitude": 33.3607257,
+    "longitude": -112.1144276,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southern Hills Dog Park",
+      "operator": "Southern Hills HOA",
+      "operator:type": "association"
+    }
+  },
+  {
+    "id": 935621586,
+    "name": "Esteban Dog Park",
+    "latitude": 33.3979894,
+    "longitude": -112.0066206,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park",
+      "name": "Esteban Dog Park"
+    }
+  },
+  {
+    "id": 953216030,
+    "name": "Dog Park",
+    "latitude": 33.2944217,
+    "longitude": -111.8960314,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 958750408,
+    "name": "K-9 Mine Bark Park",
+    "latitude": 33.4069702,
+    "longitude": -110.7863028,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "facebook": "https://www.facebook.com/Globe-Dog-Park-418348302250889/",
+      "leisure": "dog_park",
+      "name": "K-9 Mine Bark Park",
+      "opening_hours": "sunrise-sunset",
+      "start_date": "2021-01-01"
+    }
+  },
+  {
+    "id": 963038662,
+    "name": "Pinnacle Dog Park",
+    "latitude": 33.6758821,
+    "longitude": -112.0067418,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Pinnacle Dog Park"
+    }
+  },
+  {
+    "id": 967620869,
+    "name": "Dog Park",
+    "latitude": 32.4217971,
+    "longitude": -111.0623705,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 967758786,
+    "name": "Dog Park",
+    "latitude": 33.6706734,
+    "longitude": -112.2241817,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 972134414,
+    "name": "Dog Park",
+    "latitude": 32.1380921,
+    "longitude": -110.9475716,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 973188755,
+    "name": "Dog Park",
+    "latitude": 32.1613071,
+    "longitude": -110.9586486,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 974504759,
+    "name": "Dog Park",
+    "latitude": 32.306968,
+    "longitude": -111.0267359,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1003265370,
+    "name": "Dog Park",
+    "latitude": 32.3193972,
+    "longitude": -110.9718127,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1004176755,
+    "name": "Dog Park",
+    "latitude": 32.3233553,
+    "longitude": -110.8939661,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1012722878,
+    "name": "Paw Pup Park",
+    "latitude": 33.4474703,
+    "longitude": -112.0773119,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "landuse": "grass",
+      "leisure": "dog_park",
+      "name": "Paw Pup Park"
+    }
+  },
+  {
+    "id": 1014921864,
+    "name": "Dog Park",
+    "latitude": 32.2471214,
+    "longitude": -111.0099685,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1018153968,
+    "name": "Dog Park",
+    "latitude": 34.7474549,
+    "longitude": -112.010166,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1043608691,
+    "name": "Dog Park",
+    "latitude": 32.1977887,
+    "longitude": -110.9940824,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1052819482,
+    "name": "Dog Park",
+    "latitude": 32.3209047,
+    "longitude": -111.0043486,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1060098498,
+    "name": "Dog Park",
+    "latitude": 35.1071745,
+    "longitude": -111.0317491,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1069438265,
+    "name": "Dog Park",
+    "latitude": 32.3773222,
+    "longitude": -110.9683702,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1073705316,
+    "name": "Dog Park",
+    "latitude": 33.4137493,
+    "longitude": -111.6638387,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1084564519,
+    "name": "Dog Park",
+    "latitude": 32.3463339,
+    "longitude": -111.0210951,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1085178834,
+    "name": "Dog Park",
+    "latitude": 32.3396718,
+    "longitude": -111.0169451,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1092481627,
+    "name": "Dog Park",
+    "latitude": 33.0370512,
+    "longitude": -109.3231501,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1095716950,
+    "name": "Dog Park",
+    "latitude": 33.5645629,
+    "longitude": -112.2346677,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1111122073,
+    "name": "Dog Park",
+    "latitude": 33.5107466,
+    "longitude": -112.0797836,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1112743665,
+    "name": "Dog Park",
+    "latitude": 34.3344109,
+    "longitude": -112.1170237,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1114710077,
+    "name": "Viewpoint Dog Run / Pet Walk",
+    "latitude": 33.4227144,
+    "longitude": -111.6449596,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Viewpoint Dog Run / Pet Walk"
+    }
+  },
+  {
+    "id": 1123750725,
+    "name": "Dog Park",
+    "latitude": 32.3568906,
+    "longitude": -111.032799,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1124284352,
+    "name": "Dog Park",
+    "latitude": 32.4437379,
+    "longitude": -110.9803405,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1126612079,
+    "name": "Dog Park",
+    "latitude": 32.3810383,
+    "longitude": -110.9616804,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1126814521,
+    "name": "Dog Park",
+    "latitude": 32.4115595,
+    "longitude": -110.941514,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1127373361,
+    "name": "Dog Park",
+    "latitude": 32.3962393,
+    "longitude": -110.9645742,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1128302442,
+    "name": "Dog Park",
+    "latitude": 33.6271595,
+    "longitude": -111.8778952,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes"
+    }
+  },
+  {
+    "id": 1135048578,
+    "name": "Dog Park",
+    "latitude": 32.4334366,
+    "longitude": -111.0822855,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1136332815,
+    "name": "Dog Park",
+    "latitude": 32.4661651,
+    "longitude": -111.1310514,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1137318103,
+    "name": "Dog Park",
+    "latitude": 33.6874531,
+    "longitude": -112.2882494,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1154133526,
+    "name": "Dog Park",
+    "latitude": 32.3827375,
+    "longitude": -112.8625253,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1154640419,
+    "name": "Dog Park",
+    "latitude": 33.4211537,
+    "longitude": -111.6303917,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "id": 1157124034,
+    "name": "Dog Park",
+    "latitude": 32.2830928,
+    "longitude": -110.787539,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1157124036,
+    "name": "Dog Park",
+    "latitude": 32.2830266,
+    "longitude": -110.7869894,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1158558140,
+    "name": "Dog Park",
+    "latitude": 33.7053,
+    "longitude": -112.3702393,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "addr:city": "Surprise",
+      "addr:postcode": "85387",
+      "addr:state": "AZ",
+      "addr:street": "North 143rd Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1159557948,
+    "name": "Dog Park",
+    "latitude": 33.6808469,
+    "longitude": -112.6258262,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "addr:city": "Buckeye",
+      "addr:postcode": "85396",
+      "addr:state": "AZ",
+      "addr:street": "West Firehawk Drive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1162647157,
+    "name": "Dog Park",
+    "latitude": 33.3665266,
+    "longitude": -112.2084664,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1164274443,
+    "name": "Dog Park",
+    "latitude": 33.6591505,
+    "longitude": -112.3803864,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1168420874,
+    "name": "Dog Park",
+    "latitude": 32.2724786,
+    "longitude": -110.9146777,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1172643553,
+    "name": "Small Dogs",
+    "latitude": 33.6654298,
+    "longitude": -112.3545605,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Small Dogs"
+    }
+  },
+  {
+    "id": 1172871991,
+    "name": "Dog Park",
+    "latitude": 35.0995861,
+    "longitude": -113.882192,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1176363165,
+    "name": "Thorpe Bark Park",
+    "latitude": 35.2067015,
+    "longitude": -111.658169,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Flagstaff",
+      "addr:housenumber": "191",
+      "addr:postcode": "86001",
+      "addr:state": "AZ",
+      "addr:street": "North Thorpe Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Thorpe Bark Park",
+      "operator": "City of Flagstaff",
+      "operator:type": "government",
+      "website": "https://www.flagstaff.az.gov/1923/City-Parks-Ramadas"
+    }
+  },
+  {
+    "id": 1176604219,
+    "name": "Dog Park",
+    "latitude": 33.2821527,
+    "longitude": -111.7586854,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1189079888,
+    "name": "Dog Park",
+    "latitude": 33.6929046,
+    "longitude": -112.4399496,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1191524328,
+    "name": "Dog Park",
+    "latitude": 33.637251,
+    "longitude": -112.3657787,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "addr:city": "Surprise",
+      "addr:postcode": "85374",
+      "addr:state": "AZ",
+      "addr:street": "North 141st Avenue",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1191524329,
+    "name": "Dog Park",
+    "latitude": 33.6372769,
+    "longitude": -112.3617293,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "addr:city": "Surprise",
+      "addr:postcode": "85374",
+      "addr:state": "AZ",
+      "addr:street": "North 141st Avenue",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1192246944,
+    "name": "Large Dogs Park",
+    "latitude": 33.6025664,
+    "longitude": -112.369102,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Large Dogs Park"
+    }
+  },
+  {
+    "id": 1194926189,
+    "name": "Papago Dog Park",
+    "latitude": 33.4398392,
+    "longitude": -111.9310872,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Papago Dog Park"
+    }
+  },
+  {
+    "id": 1213173913,
+    "name": "Roscoe Dog Park",
+    "latitude": 33.39996,
+    "longitude": -112.394019,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Goodyear",
+      "addr:housenumber": "15600",
+      "addr:postcode": "85338",
+      "addr:state": "AZ",
+      "addr:street": "West Roeser Road",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Roscoe Dog Park",
+      "opening_hours": "24/7",
+      "operator": "City Of Goodyear",
+      "operator:type": "public",
+      "website": "https://www.goodyearaz.gov/government/departments/parks-recreation/parks/specialty-parks/roscoe-dog-park"
+    }
+  },
+  {
+    "id": 1217603478,
+    "name": "Dog Park",
+    "latitude": 31.9601578,
+    "longitude": -110.9894893,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1223913795,
+    "name": "Dog Park",
+    "latitude": 33.4193626,
+    "longitude": -111.948199,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1237965305,
+    "name": "Dog Park",
+    "latitude": 32.2469208,
+    "longitude": -110.9692131,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1252284502,
+    "name": "Dog Park",
+    "latitude": 33.4548366,
+    "longitude": -111.9124168,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1254451366,
+    "name": "Dog Park",
+    "latitude": 33.3561111,
+    "longitude": -111.8575948,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1265410395,
+    "name": "Bark Park",
+    "latitude": 31.9684161,
+    "longitude": -110.9718424,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "Rancho Sahuarita",
+      "operator:type": "private"
+    }
+  },
+  {
+    "id": 1265623631,
+    "name": "Dog Park",
+    "latitude": 33.3944157,
+    "longitude": -111.7619848,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1280396990,
+    "name": "Dog Park",
+    "latitude": 34.7702911,
+    "longitude": -112.4436169,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1281242389,
+    "name": "Dog Park",
+    "latitude": 33.4179211,
+    "longitude": -112.3491771,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1281356115,
+    "name": "Dog Park",
+    "latitude": 33.4056703,
+    "longitude": -112.3215256,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1281812576,
+    "name": "Dog Park",
+    "latitude": 33.4122048,
+    "longitude": -112.2323387,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1282577041,
+    "name": "Dog Park",
+    "latitude": 33.5681633,
+    "longitude": -112.213174,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1282650642,
+    "name": "Dog Park",
+    "latitude": 33.5897853,
+    "longitude": -112.2594133,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1283071140,
+    "name": "Dog Park",
+    "latitude": 33.6313221,
+    "longitude": -112.310275,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1284683769,
+    "name": "Dog Park",
+    "latitude": 33.4334292,
+    "longitude": -111.9304399,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1288177817,
+    "name": "Dog Park",
+    "latitude": 33.7573578,
+    "longitude": -112.3461676,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1289579127,
+    "name": "Dog Park",
+    "latitude": 33.3997331,
+    "longitude": -112.1084641,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1290314436,
+    "name": "Puppy Love",
+    "latitude": 33.2950725,
+    "longitude": -112.4293731,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "addr:city": "Goodyear",
+      "addr:housenumber": "17700",
+      "addr:postcode": "85338",
+      "addr:state": "AZ",
+      "addr:street": "West Star Point Drive",
+      "leisure": "dog_park",
+      "name": "Puppy Love",
+      "source": "esri/USA_NAD_Addresses"
+    }
+  },
+  {
+    "id": 1299307209,
+    "name": "Dog Park",
+    "latitude": 33.6999353,
+    "longitude": -112.4162976,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1301865762,
+    "name": "Small",
+    "latitude": 33.508589,
+    "longitude": -112.4658588,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Small"
+    }
+  },
+  {
+    "id": 1304010635,
+    "name": "Dog Park",
+    "latitude": 33.5590027,
+    "longitude": -112.1865598,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "building": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1304344369,
+    "name": "Small Dogs",
+    "latitude": 33.4717914,
+    "longitude": -112.5126361,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "landuse": "leisure",
+      "leisure": "dog_park",
+      "name": "Small Dogs"
+    }
+  },
+  {
+    "id": 1304545141,
+    "name": "Dog Park",
+    "latitude": 33.5649917,
+    "longitude": -112.1720439,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1305300114,
+    "name": "Dog Park",
+    "latitude": 34.569017,
+    "longitude": -111.874599,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1305351614,
+    "name": "Dog Park",
+    "latitude": 33.6130309,
+    "longitude": -112.1183597,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1306023077,
+    "name": "Dog Park",
+    "latitude": 33.4949114,
+    "longitude": -112.276016,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1306275929,
+    "name": "Dog Park",
+    "latitude": 33.5003105,
+    "longitude": -112.2718319,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1306713956,
+    "name": "Dog Park",
+    "latitude": 33.5030908,
+    "longitude": -112.2719402,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1307372426,
+    "name": "Dog Park",
+    "latitude": 33.593988,
+    "longitude": -112.3956083,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1317043903,
+    "name": "Dog Park",
+    "latitude": 33.7141124,
+    "longitude": -112.1368253,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1319694468,
+    "name": "Dog Park",
+    "latitude": 33.6241489,
+    "longitude": -112.3728421,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1329510920,
+    "name": "Dog Park",
+    "latitude": 34.3243681,
+    "longitude": -112.1175604,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1330053024,
+    "name": "A Leash on Life Dog Park",
+    "latitude": 32.9297821,
+    "longitude": -111.7579582,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "A Leash on Life Dog Park",
+      "operator": "City of Casa Grande"
+    }
+  },
+  {
+    "id": 1333146742,
+    "name": "Dog Park",
+    "latitude": 33.5942589,
+    "longitude": -112.3034294,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1347353519,
+    "name": "Dog Park",
+    "latitude": 35.0656368,
+    "longitude": -109.7829914,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "check_date": "2024-12-30",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1360814478,
+    "name": "Smiling Dog Ranch Dog Park",
+    "latitude": 32.2762176,
+    "longitude": -110.904763,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Smiling Dog Ranch Dog Park"
+    }
+  },
+  {
+    "id": 1373131831,
+    "name": "Dog Park",
+    "latitude": 31.5497548,
+    "longitude": -110.3016694,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 1376510846,
+    "name": "PetSmart Bark Park",
+    "latitude": 33.6637833,
+    "longitude": -112.115189,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "addr:city": "Phoenix",
+      "addr:housenumber": "19601",
+      "addr:postcode": "85027",
+      "addr:state": "AZ",
+      "addr:street": "N 27th Ave",
+      "leisure": "dog_park",
+      "name": "PetSmart Bark Park",
+      "operator": "PetSmart Corporate",
+      "operator:type": "business"
+    }
+  },
+  {
+    "id": 1413438501,
+    "name": "Dog Park",
+    "latitude": 34.9546268,
+    "longitude": -110.3105174,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1419507213,
+    "name": "Dog Park",
+    "latitude": 33.345878,
+    "longitude": -111.8898315,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1456406453,
+    "name": "Dog Park",
+    "latitude": 31.5515742,
+    "longitude": -110.3500136,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1456775817,
+    "name": "Dog Park",
+    "latitude": 33.7005818,
+    "longitude": -112.4490258,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1459714230,
+    "name": "Dog Park",
+    "latitude": 33.7148623,
+    "longitude": -112.3673691,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1481612027,
+    "name": "Union Bark Park",
+    "latitude": 33.72219,
+    "longitude": -112.1051657,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Union Bark Park"
+    }
+  },
+  {
+    "id": 1482076853,
+    "name": "Dog Park",
+    "latitude": 33.5559305,
+    "longitude": -112.1005589,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 1491137794,
+    "name": "Dog Park",
+    "latitude": 33.6139055,
+    "longitude": -112.3158552,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "id": 12694260,
+    "name": "Cesar Chavez Dog Park",
+    "latitude": 33.373579,
+    "longitude": -112.1424356,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cesar Chavez Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": 12704202,
+    "name": "PetSmart Dog Park",
+    "latitude": 33.6645538,
+    "longitude": -112.1006436,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PetSmart Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": 13008362,
+    "name": "Steele Indian School Dog Park",
+    "latitude": 33.501395,
+    "longitude": -112.0678501,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Dog Park at Steele Indian School Park",
+      "leisure": "dog_park",
+      "name": "Steele Indian School Dog Park",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "surface": "grass",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": 15639440,
+    "name": "Dog Park",
+    "latitude": 31.5318321,
+    "longitude": -110.294398,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": 20309725,
+    "name": "Dog Park",
+    "latitude": 32.1764015,
+    "longitude": -110.8136559,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
     }
   }
 ]

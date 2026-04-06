@@ -1,0 +1,317 @@
+[
+  {
+    "place_id": "osm_10865423512",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2094634,
+    "longitude": -104.8257688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_491654004",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.261454,
+    "longitude": -105.5002372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "College Park Townhomes",
+      "source": "survey",
+      "website": "https://www.collegeparktownhomes.com/"
+    }
+  },
+  {
+    "place_id": "osm_524817454",
+    "name": "The Oh-SO-Fun Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.299848,
+    "longitude": -105.5007403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "description": "Off leash dog park with one section for small dogs and another for large dogs.",
+      "fee": "no",
+      "leisure": "dog_park",
+      "name": "The Oh-SO-Fun Dog Park",
+      "source": "survey",
+      "website": "https://www.theosofundogpark.org/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_547344378",
+    "name": "Nancy Mockler Community Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.1117938,
+    "longitude": -104.8459266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Cheyenne",
+      "addr:housenumber": "800",
+      "addr:postcode": "82007",
+      "addr:state": "WY",
+      "addr:street": "Southwest Drive",
+      "leisure": "dog_park",
+      "name": "Nancy Mockler Community Dog Park",
+      "website": "https://www.facebook.com/pages/The-Nancy-Mockler-Dog-Park/201552279869906"
+    }
+  },
+  {
+    "place_id": "osm_700605884",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3183346,
+    "longitude": -105.5652015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_742027507",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.1628192,
+    "longitude": -104.8679039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_792581269",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8466023,
+    "longitude": -106.2143186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_957699234",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2288959,
+    "longitude": -109.0095638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1098374412",
+    "name": "Dacey's Place Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.0141417,
+    "longitude": -108.3897389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dacey's Place Dog Park",
+      "surface": "mulch"
+    }
+  },
+  {
+    "place_id": "osm_1123936679",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3099123,
+    "longitude": -105.6036285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1146135717",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3289305,
+    "longitude": -105.6101817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1146135718",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3107303,
+    "longitude": -105.6168347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1190298459",
+    "name": "Sunridge Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8406225,
+    "longitude": -106.2743848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sunridge Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1268365604",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.6509965,
+    "longitude": -108.2023684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1290264422",
+    "name": "Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9137197,
+    "longitude": -106.3409132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429041008",
+    "name": "Watch Dog Park",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.2583285,
+    "longitude": -104.7417544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Watch Dog Park"
+    }
+  }
+]

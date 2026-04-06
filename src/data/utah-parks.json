@@ -1,0 +1,2069 @@
+[
+  {
+    "place_id": "osm_2750875004",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.111362,
+    "longitude": -112.001771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_3032912444",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7614256,
+    "longitude": -111.90041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "website": "http://www.slcgov.com/node/768",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_3121477129",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9761482,
+    "longitude": -111.9077308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_6247352604",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7604067,
+    "longitude": -111.845508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "Bridgerland Meadows"
+    }
+  },
+  {
+    "place_id": "osm_8600675443",
+    "name": "600 Lofts Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7556911,
+    "longitude": -111.88983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "leashed",
+      "internet_access": "no",
+      "leisure": "dog_park",
+      "name": "600 Lofts Dog Park",
+      "operator": "600 Lofts"
+    }
+  },
+  {
+    "place_id": "osm_30659738",
+    "name": "Roy Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1584735,
+    "longitude": -112.0582773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Roy Dog Park",
+      "source": "survey",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_32099067",
+    "name": "South Ogden Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.187134,
+    "longitude": -111.9797798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "South Ogden Dog Park",
+      "source": "survey",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_74460336",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.0917059,
+    "longitude": -113.5786844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "drinking_water": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_120052028",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7787159,
+    "longitude": -111.9374516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Salt Lake City",
+      "addr:postcode": "84116",
+      "addr:state": "UT",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_121201581",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1386279,
+    "longitude": -113.6243304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_134168617",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.77781,
+    "longitude": -111.8649965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_165260726",
+    "name": "Dog Town Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1241106,
+    "longitude": -113.5066029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Town Park",
+      "operator": "Washington City",
+      "operator:type": "public",
+      "source": "Local Knowledge"
+    }
+  },
+  {
+    "place_id": "osm_176874991",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7496999,
+    "longitude": -111.8069959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_240709901",
+    "name": "West Jordan Off-Leash Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.590713,
+    "longitude": -112.0319026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Two large dog areas, and 1 small dog area",
+      "leisure": "dog_park",
+      "name": "West Jordan Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_459214251",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.4881944,
+    "longitude": -112.0240193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_465021856",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2788942,
+    "longitude": -111.6791123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_472651954",
+    "name": "Pup Club",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7428115,
+    "longitude": -111.8972361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pup Club"
+    }
+  },
+  {
+    "place_id": "osm_476574318",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7057219,
+    "longitude": -111.8498163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_482363475",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9931019,
+    "longitude": -110.1525152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_489089584",
+    "name": "Kay's Crossing Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.0583979,
+    "longitude": -111.9662187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "fixme": "fence present?",
+      "leisure": "dog_park",
+      "name": "Kay's Crossing Dog Park",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_502759649",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7402371,
+    "longitude": -111.8691256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "website": "http://www.slcgov.com/cityparks/parks-herman-franks-park"
+    }
+  },
+  {
+    "place_id": "osm_525469233",
+    "name": "Bark Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.5682693,
+    "longitude": -109.5481513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Separate areas for small and large dogs.",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "website": "https://moabcity.org/"
+    }
+  },
+  {
+    "place_id": "osm_540252491",
+    "name": "The Barking Lot",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5086174,
+    "longitude": -112.0320956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Barking Lot"
+    }
+  },
+  {
+    "place_id": "osm_543309873",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2138438,
+    "longitude": -111.6319205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_565185355",
+    "name": "Millrace Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6538519,
+    "longitude": -111.9246448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Millrace Dog Park",
+      "opening_hours": "sunrise-sunset open; Tu off; PH sunrise-sunset",
+      "operator": "City of Taylorsville",
+      "website": "https://www.taylorsvilleut.gov/our-city/parks-and-recreation/dog-park"
+    }
+  },
+  {
+    "place_id": "osm_568803038",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5808272,
+    "longitude": -112.0444061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_629953310",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1019964,
+    "longitude": -111.9393888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_636193606",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5944228,
+    "longitude": -111.9706937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_637632880",
+    "name": "Hurricane Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1875179,
+    "longitude": -113.2952428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hurricane Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_661061891",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5697502,
+    "longitude": -111.8829467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_709679459",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6228467,
+    "longitude": -111.9818335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "loc_name": "Woodgate Dog park"
+    }
+  },
+  {
+    "place_id": "osm_711076525",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7754561,
+    "longitude": -111.9047547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_718230440",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.3063375,
+    "longitude": -111.9528591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "opening_hours": "Mo-Su 06:00-22:00"
+    }
+  },
+  {
+    "place_id": "osm_719543144",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.207585,
+    "longitude": -112.0308617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "survey"
+    }
+  },
+  {
+    "place_id": "osm_728241863",
+    "name": "Bark Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5900886,
+    "longitude": -111.8699198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_731916551",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.1995472,
+    "longitude": -112.0356241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "survey",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_731924905",
+    "name": "Ogden Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.2217278,
+    "longitude": -111.9889856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Ogden Dog Park",
+      "source": "survey",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_745410546",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.366346,
+    "longitude": -111.747575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_749965205",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.366995,
+    "longitude": -111.7735004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_808841788",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.628904,
+    "longitude": -111.9833991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "loc_name": "North Renaissance dog run"
+    }
+  },
+  {
+    "place_id": "osm_826621199",
+    "name": "Spanish Fork Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.1040032,
+    "longitude": -111.6432304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spanish Fork Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_865431696",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.627842,
+    "longitude": -111.8142521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_918456933",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.316916,
+    "longitude": -111.7015572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_962317193",
+    "name": "Lions Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7178461,
+    "longitude": -111.8805756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "South Salt Lake",
+      "addr:housenumber": "311",
+      "addr:postcode": "84115",
+      "addr:state": "UT",
+      "addr:street": "East Robert Avenue",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Lions Dog Park",
+      "opening_hours": "08:00-20:00",
+      "operator": "South Salt Lake Parks & Recreation",
+      "operator:type": "public"
+    }
+  },
+  {
+    "place_id": "osm_963261334",
+    "name": "Fairmont Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7201756,
+    "longitude": -111.8612514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fairmont Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1002140933",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7864106,
+    "longitude": -111.8973714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1011977637",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5303471,
+    "longitude": -111.4686043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1018362589",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6486373,
+    "longitude": -111.9356194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1022090610",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.8000758,
+    "longitude": -111.9238626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1051851576",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.5987597,
+    "longitude": -109.4794793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1052254731",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.5268502,
+    "longitude": -109.5029844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1059345379",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9957972,
+    "longitude": -110.1758547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1085207664",
+    "name": "Eagle Mountain Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3127336,
+    "longitude": -112.0313162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Eagle Mountain",
+      "addr:housenumber": "4447",
+      "addr:postcode": "84005",
+      "addr:state": "UT",
+      "addr:street": "North Major Street",
+      "barrier": "fence",
+      "fence_type": "wire",
+      "leisure": "dog_park",
+      "name": "Eagle Mountain Dog Park",
+      "operator": "Eagle Mountain City",
+      "operator:type": "government",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1106155656",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6063973,
+    "longitude": -112.0303937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1113183166",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5250619,
+    "longitude": -111.9109261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1134207784",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6088677,
+    "longitude": -111.913936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "ParcView Apartments"
+    }
+  },
+  {
+    "place_id": "osm_1137083338",
+    "name": "Ivins Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1817051,
+    "longitude": -113.6924667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Ivins",
+      "addr:postcode": "84738",
+      "addr:state": "UT",
+      "leisure": "dog_park",
+      "name": "Ivins Dog Park",
+      "operator": "Ivins CIty",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1174013887",
+    "name": "Auburn Fields North Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5395362,
+    "longitude": -111.8747495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Auburn Fields North Dog Park",
+      "operator": "Auburn Fields",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1185318274",
+    "name": "Sweetwater Events Complex Dog Park (Lower)",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.6358027,
+    "longitude": -109.2369588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Rock Springs",
+      "addr:housenumber": "3320",
+      "addr:postcode": "82901",
+      "addr:state": "WY",
+      "addr:street": "Yellowstone Road",
+      "leisure": "dog_park",
+      "name": "Sweetwater Events Complex Dog Park (Lower)"
+    }
+  },
+  {
+    "place_id": "osm_1185319100",
+    "name": "Sweetwater Events Complex Dog Park (Upper)",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.6387051,
+    "longitude": -109.2489214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Rock Springs",
+      "addr:housenumber": "3320",
+      "addr:postcode": "82901",
+      "addr:state": "WY",
+      "addr:street": "Yellowstone Road",
+      "leisure": "dog_park",
+      "name": "Sweetwater Events Complex Dog Park (Upper)"
+    }
+  },
+  {
+    "place_id": "osm_1186854306",
+    "name": "Draper Dayland Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5074118,
+    "longitude": -111.8830775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Draper Dayland Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1228433117",
+    "name": "Bitter Creek Bark Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5738988,
+    "longitude": -109.2372849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bitter Creek Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1238388434",
+    "name": "Willow Park Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3934728,
+    "longitude": -111.9010186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Willow Park Dog Park",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1240250730",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7358414,
+    "longitude": -111.891722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1250152386",
+    "name": "Daybreak Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5504978,
+    "longitude": -112.0134935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Daybreak Dog Park",
+      "operator": "Daybreak Community Assocation"
+    }
+  },
+  {
+    "place_id": "osm_1292551023",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.5925283,
+    "longitude": -109.5682989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1315724760",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6268301,
+    "longitude": -111.9828883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permit",
+      "dog": "leashed",
+      "leisure": "dog_park",
+      "loc_name": "South Valence on-leash Dog run"
+    }
+  },
+  {
+    "place_id": "osm_1317414301",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6212259,
+    "longitude": -111.9829889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "loc_name": "South Woodgate Dog run"
+    }
+  },
+  {
+    "place_id": "osm_1354502972",
+    "name": "Scarsborough Lane dog run",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6295184,
+    "longitude": -111.9879556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "loc_name": "Scarsborough Lane Dog Run",
+      "name": "Scarsborough Lane dog run"
+    }
+  },
+  {
+    "place_id": "osm_1328860916",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7124249,
+    "longitude": -112.0716379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1338483600",
+    "name": "Brickyard Bark Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.8774516,
+    "longitude": -111.8869532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Bountiful",
+      "addr:housenumber": "1050",
+      "addr:postcode": "84010",
+      "addr:state": "UT",
+      "addr:street": "200 West",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Brickyard Bark Park",
+      "operator": "Bountiful City",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_1339287128",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6380604,
+    "longitude": -111.9904098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "loc_name": "Westbrook Stake Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_1352853128",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2662684,
+    "longitude": -111.6675263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1352853129",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2656204,
+    "longitude": -111.6671639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1354127194",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6328497,
+    "longitude": -111.9856532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "loc_name": "Skyview Basin Dog Run"
+    }
+  },
+  {
+    "place_id": "osm_1356802078",
+    "name": "Northshore Apartments Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3651233,
+    "longitude": -111.8939469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Northshore Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1356802458",
+    "name": "Dock Park Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3691245,
+    "longitude": -111.8899583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "addr:city": "Saratoga Springs",
+      "addr:housenumber": "1041",
+      "addr:postcode": "84045",
+      "addr:state": "UT",
+      "addr:street": "Dogwatch Drive",
+      "leisure": "dog_park",
+      "name": "Dock Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1359716236",
+    "name": "Art Dye Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.3996523,
+    "longitude": -111.7826532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Art Dye Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1375978306",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.2238826,
+    "longitude": -111.65335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1380364455",
+    "name": "Deer Ridge Off-Leash Area",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.470148,
+    "longitude": -111.8546137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Deer Ridge Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_1409556672",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5290189,
+    "longitude": -111.8769516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "loc_name": "Parc at Day Dairy Dog Park",
+      "operator": "Parc at Day Dairy"
+    }
+  },
+  {
+    "place_id": "osm_1413424116",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.5599236,
+    "longitude": -109.5406316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413424852",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9494313,
+    "longitude": -112.3531859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413425039",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9314462,
+    "longitude": -111.853648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413429537",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9950931,
+    "longitude": -110.1861743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413429636",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.7260888,
+    "longitude": -113.0515525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1443100826",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6850745,
+    "longitude": -111.915105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1444413628",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.2980847,
+    "longitude": -111.404438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1448344215",
+    "name": "Hidden Valley Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.4696998,
+    "longitude": -111.9276043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hidden Valley Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1448526063",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.5697511,
+    "longitude": -111.8824353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1450183600",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.9886973,
+    "longitude": -111.9074711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1454074404",
+    "name": "Pet Exercise Area",
+    "formatted_address": ", Utah, USA",
+    "latitude": 38.9517324,
+    "longitude": -109.6847688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pet Exercise Area",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_1462610873",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7721871,
+    "longitude": -111.9097761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1472076497",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7367443,
+    "longitude": -111.8526321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1487527766",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 37.1429374,
+    "longitude": -112.5597372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1491655606",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6818726,
+    "longitude": -111.8437038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_14899313",
+    "name": "East Off-Leash Dog Area",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7103192,
+    "longitude": -111.8034909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "East Off-Leash Dog Area",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_14899315",
+    "name": "Central Off-Leash Dog Area",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7109355,
+    "longitude": -111.8083336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Central Off-Leash Dog Area",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_14949305",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7536004,
+    "longitude": -111.5941934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16090726",
+    "name": "Orem City Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.325507,
+    "longitude": -111.6459184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orem City Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_16855941",
+    "name": "Park City Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.6801915,
+    "longitude": -111.4672523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Park City Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_17479466",
+    "name": "Trailside Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 40.7125364,
+    "longitude": -111.5042569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Trailside Dog Park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19768213",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 41.7611271,
+    "longitude": -111.8232663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "place_id": "osm_19876171",
+    "name": "Dog Park",
+    "formatted_address": ", Utah, USA",
+    "latitude": 39.9501164,
+    "longitude": -111.2169096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "type": "multipolygon"
+    }
+  }
+]

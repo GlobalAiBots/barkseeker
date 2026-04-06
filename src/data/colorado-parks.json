@@ -74,5 +74,5842 @@
     "tags": {
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "osm_1832759396",
+    "name": "Conifer Community Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.505886,
+    "longitude": -105.3007108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Conifer Community Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_2984142172",
+    "name": "Westminster Hills Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8880349,
+    "longitude": -105.1295244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Westminster Hills Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_3725559907",
+    "name": "Future Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9023994,
+    "longitude": -105.091999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Future Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_4538894465",
+    "name": "The Great Bark Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.004461,
+    "longitude": -105.0754081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Great Bark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_4792323729",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.793699,
+    "longitude": -104.8051503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_4913756053",
+    "name": "USMC CPL David M. Sonka Dog Park and Westcreek Disc Golf Course",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5449477,
+    "longitude": -104.7815303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "17855",
+      "addr:postcode": "80134",
+      "addr:state": "CO",
+      "addr:street": "Pine Lane",
+      "description": "Dog park and Westcreek Disc Golf Course",
+      "leisure": "dog_park",
+      "name": "USMC CPL David M. Sonka Dog Park and Westcreek Disc Golf Course",
+      "website": "http://parkerrec.com/947/Dog-Park-and-Disc-Golf-Course"
+    }
+  },
+  {
+    "place_id": "osm_5866275156",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7618685,
+    "longitude": -104.9002231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog park area for the Aster apartment residents.",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_8630106687",
+    "name": "Mountain View Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.7372144,
+    "longitude": -105.1944363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mountain View Dog Park",
+      "operator": "Cripple Creek Parks & Recreation",
+      "website": "https://ccparksandrecreation.com/"
+    }
+  },
+  {
+    "place_id": "osm_9438419761",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.878471,
+    "longitude": -105.1315429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_9952010216",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7100296,
+    "longitude": -104.67002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11471338970",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7872858,
+    "longitude": -104.7962152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11809508138",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7206659,
+    "longitude": -104.8176244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_11921526723",
+    "name": "Superior large dog park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9509496,
+    "longitude": -105.1566052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "image": "https://content.govdelivery.com/attachments/fancy_images/COSUPERIOR/2024/02/9068699/map-of-dog-parks_original.png",
+      "leisure": "dog_park",
+      "name": "Superior large dog park"
+    }
+  },
+  {
+    "place_id": "osm_12213289609",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5961537,
+    "longitude": -105.1069253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "dog": "outside",
+      "leisure": "dog_park",
+      "operator": "Coal Mine Ave Brewing Company",
+      "operator:type": "business"
+    }
+  },
+  {
+    "place_id": "osm_12485207224",
+    "name": "Denver Beer Co.",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7582067,
+    "longitude": -105.007355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Denver",
+      "addr:housenumber": "1695",
+      "addr:postcode": "80202",
+      "addr:state": "CO",
+      "addr:street": "Platte Street",
+      "leisure": "dog_park",
+      "name": "Denver Beer Co."
+    }
+  },
+  {
+    "place_id": "osm_12669205302",
+    "name": "Digger's at Dad Clark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5365799,
+    "longitude": -104.9523966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Digger's at Dad Clark Park"
+    }
+  },
+  {
+    "place_id": "osm_12692491597",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4566595,
+    "longitude": -108.0500384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_12793584632",
+    "name": "All Breed Rescue & Training",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8748871,
+    "longitude": -104.8143125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Colorado Springs",
+      "addr:housenumber": "410",
+      "addr:postcode": "80907",
+      "addr:state": "CO",
+      "addr:street": "East Fillmore Street",
+      "leisure": "dog_park",
+      "name": "All Breed Rescue & Training"
+    }
+  },
+  {
+    "place_id": "osm_12870832313",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.542433,
+    "longitude": -104.7733805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13064671519",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9173123,
+    "longitude": -104.9846274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_13143299466",
+    "name": "Falcon Regional Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9920876,
+    "longitude": -104.5651259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Falcon Regional Dog Park",
+      "opening_hours": "05:00-20:30; PH open",
+      "panoramax": "7ca245ef-fd88-4202-8721-e27fa3d5c047",
+      "panoramax:0": "e2812e29-65c4-4926-9f63-d2d01bf66275",
+      "small_dog": "separate",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_13387990227",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.0708513,
+    "longitude": -108.4376121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_31551533",
+    "name": "Forsberg Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6791821,
+    "longitude": -105.166767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Forsberg Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_34686666",
+    "name": "Davidson Mesa Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9783579,
+    "longitude": -105.168562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Louisville",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Davidson Mesa Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_35743334",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8721978,
+    "longitude": -104.763227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_44660645",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8894708,
+    "longitude": -104.9627032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_45159554",
+    "name": "Hound Hill Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5376234,
+    "longitude": -104.9182003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hound Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_45859542",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.4429679,
+    "longitude": -107.8709329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "ele": "0.0",
+      "leisure": "dog_park",
+      "nhd:reach_code": "14020006004464",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_51064202",
+    "name": "Off Leash Dog Area",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8520061,
+    "longitude": -104.8817026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Off Leash Dog Area",
+      "opening_hours": "dawn,dusk",
+      "website": "https://redrockcanyonopenspace.org/recreation/trails/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_53332161",
+    "name": "Louisville Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9709327,
+    "longitude": -105.1302799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Louisville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_99615989",
+    "name": "Valmont Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0304526,
+    "longitude": -105.22959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Boulder",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Valmont Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_121242076",
+    "name": "Foothills Community Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0595876,
+    "longitude": -105.290326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Foothills Community Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_162654908",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5063625,
+    "longitude": -105.0589356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_191997291",
+    "name": "East Boulder Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.991481,
+    "longitude": -105.2219193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Boulder",
+      "leisure": "dog_park",
+      "name": "East Boulder Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_200235123",
+    "name": "Glendale Open Space Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.488822,
+    "longitude": -104.8704003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Glendale Open Space Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_208626152",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5690012,
+    "longitude": -105.072647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Bing",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_209778358",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8050216,
+    "longitude": -105.0765995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_217179626",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9519962,
+    "longitude": -104.7749687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_219596384",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8005696,
+    "longitude": -104.7588626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "bing"
+    }
+  },
+  {
+    "place_id": "osm_219863298",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7795354,
+    "longitude": -104.751209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "bing"
+    }
+  },
+  {
+    "place_id": "osm_220970745",
+    "name": "Wiggly Field",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.3999029,
+    "longitude": -104.9050113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Wiggly Field",
+      "operator": "Town of Castle Rock",
+      "operator:type": "government",
+      "source": "bing"
+    }
+  },
+  {
+    "place_id": "osm_221532857",
+    "name": "Autrey Park Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9371534,
+    "longitude": -105.1416126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Autrey Park Dog Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_230750298",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.866475,
+    "longitude": -105.0490711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "surface": "gravel"
+    }
+  },
+  {
+    "place_id": "osm_251439069",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.0246825,
+    "longitude": -107.6737756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_252574726",
+    "name": "Dog Park #1",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1951503,
+    "longitude": -105.1156487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "area": "yes",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Dog Park #1"
+    }
+  },
+  {
+    "place_id": "osm_256925457",
+    "name": "Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6700159,
+    "longitude": -104.8710976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "source": "knowledge;Bing"
+    }
+  },
+  {
+    "place_id": "osm_270483687",
+    "name": "Kennedy Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.649236,
+    "longitude": -104.8747543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kennedy Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_276670977",
+    "name": "Lowry Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7186588,
+    "longitude": -104.8816628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lowry Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_278146736",
+    "name": "Fuller Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.757626,
+    "longitude": -104.9677326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fuller Dog Park",
+      "source": "Bing",
+      "surface": "sand"
+    }
+  },
+  {
+    "place_id": "osm_280667667",
+    "name": "Stapleton Off-Leash Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7496893,
+    "longitude": -104.8974706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stapleton Off-Leash Dog Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_281099870",
+    "name": "First Creek Off-Leash Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8796804,
+    "longitude": -104.8629231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "First Creek Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_284372670",
+    "name": "Englewood Unleashed Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6282205,
+    "longitude": -105.0050913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "4848",
+      "addr:postcode": "80110",
+      "addr:state": "CO",
+      "addr:street": "South Windermere Street",
+      "leisure": "dog_park",
+      "name": "Englewood Unleashed Dog Park",
+      "phone": "+1-303-694-7485",
+      "source": "Bing",
+      "website": "https://www.englewoodunleashed.org/"
+    }
+  },
+  {
+    "place_id": "osm_297121552",
+    "name": "Werlin Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7104184,
+    "longitude": -105.6946408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Georgetown",
+      "addr:housenumber": "1014",
+      "addr:postcode": "80444",
+      "addr:state": "CO",
+      "addr:street": "Taos Street",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Werlin Park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_297459142",
+    "name": "Broomfield County Commons Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9395246,
+    "longitude": -105.0502081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Broomfield County Commons Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_305505024",
+    "name": "Dog Run Area",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8837389,
+    "longitude": -104.7761213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "landuse": "recreation_ground",
+      "leisure": "dog_park",
+      "name": "Dog Run Area"
+    }
+  },
+  {
+    "place_id": "osm_311776908",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7585874,
+    "longitude": -104.9880488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_326333215",
+    "name": "Benedict Park Place Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7501933,
+    "longitude": -104.9785337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Benedict Park Place Dog Park",
+      "surface": "sand"
+    }
+  },
+  {
+    "place_id": "osm_949238353",
+    "name": "Litterbox Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9272867,
+    "longitude": -105.1427086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "name": "Litterbox Dog Park",
+      "opening_hours": "Mo-Su",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1206243365",
+    "name": "Barnum Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7239271,
+    "longitude": -105.0303265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barnum Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_337438647",
+    "name": "Big Dry Creek Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.927953,
+    "longitude": -105.007902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Westminister",
+      "addr:housenumber": "1700",
+      "addr:postcode": "80234",
+      "addr:state": "CO",
+      "addr:street": "West 128th Avenue",
+      "leisure": "dog_park",
+      "name": "Big Dry Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_340495195",
+    "name": "Bayou Gulch Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4306447,
+    "longitude": -104.7332227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Parker",
+      "addr:housenumber": "4728",
+      "addr:postcode": "80134",
+      "addr:state": "CO",
+      "addr:street": "Fox Sparrow Road",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Bayou Gulch Dog Park",
+      "operator": "Douglas County Parks and Recreation",
+      "operator:type": "government",
+      "source": "esri/USA_NAD_Addresses",
+      "website": "https://www.douglas.co.us/dcoutdoors/parks/regional-parks/bayou-gulch-regional-park/"
+    }
+  },
+  {
+    "place_id": "osm_353675220",
+    "name": "Lyons Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.2142071,
+    "longitude": -105.2680611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Lyons Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_360209044",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.739638,
+    "longitude": -105.0659439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_364828963",
+    "name": "Bicentennial Park Off Leash Dog Area (Trial)",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7145268,
+    "longitude": -104.8319926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "13600",
+      "addr:postcode": "80012",
+      "addr:state": "CO",
+      "addr:street": "East Alameda Avenue",
+      "leisure": "dog_park",
+      "name": "Bicentennial Park Off Leash Dog Area (Trial)"
+    }
+  },
+  {
+    "place_id": "osm_364829237",
+    "name": "Large Dog Area",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6368603,
+    "longitude": -104.7849138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Aurora",
+      "addr:housenumber": "17500",
+      "addr:postcode": "80015",
+      "addr:state": "CO",
+      "addr:street": "East Quincy Avenue",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Large Dog Area",
+      "opening_hours": "Mo-Su 06:00-20:00",
+      "phone": "+1-303-739-7147",
+      "website": "https://www.auroragov.org/things_to_do/parks__open_space___trails/dog_parks"
+    }
+  },
+  {
+    "place_id": "osm_365338756",
+    "name": "West Arvada Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8174396,
+    "longitude": -105.205238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Arvada",
+      "addr:housenumber": "17975",
+      "addr:postcode": "80007",
+      "addr:state": "CO",
+      "addr:street": "West 64th Parkway",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "West Arvada Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_365351036",
+    "name": "Cherry Creek State Park Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.614921,
+    "longitude": -104.8222837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Aurora",
+      "addr:housenumber": "4201",
+      "addr:state": "CO",
+      "addr:street": "South Parker Road",
+      "leisure": "dog_park",
+      "name": "Cherry Creek State Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_366061459",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5555285,
+    "longitude": -104.7667241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_368960355",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9045362,
+    "longitude": -105.0917272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_385191857",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8309367,
+    "longitude": -104.782203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_398726160",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5233119,
+    "longitude": -104.772946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_415414837",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6570935,
+    "longitude": -104.8607574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_417615536",
+    "name": "Soft Gold Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.6068266,
+    "longitude": -105.0864093,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Soft Gold Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_417755943",
+    "name": "Berkeley Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7823033,
+    "longitude": -105.0525101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Berkeley Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_433142260",
+    "name": "Bear Creek Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8264564,
+    "longitude": -104.8616527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Bear Creek Dog Park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_436616567",
+    "name": "Canyon View Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.113367,
+    "longitude": -108.6042302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Canyon View Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_436971749",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4205816,
+    "longitude": -104.8844536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_450912293",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7492504,
+    "longitude": -104.9943105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_453641794",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9093244,
+    "longitude": -105.0846402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "note": "Private"
+    }
+  },
+  {
+    "place_id": "osm_458204722",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.038894,
+    "longitude": -105.2565243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_464181497",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.1018715,
+    "longitude": -108.5952957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_466563648",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.7142516,
+    "longitude": -105.0110914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_479645950",
+    "name": "Rover's Run",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5475621,
+    "longitude": -105.0221167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Rover's Run"
+    }
+  },
+  {
+    "place_id": "osm_479646403",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5346798,
+    "longitude": -104.9986239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_480780090",
+    "name": "Chatfield Park Dog Off-Leash Area",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.563187,
+    "longitude": -105.0538321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Chatfield's Dog Off-Leash Area provides 69 acres of, completely fenced, open space for your dogs to exercise, including two ponds and miles of paved and unpaved walking trails.",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Chatfield Park Dog Off-Leash Area",
+      "website": "https://cpw.state.co.us/placestogo/parks/Chatfield/Pages/DogOff-LeashArea.aspx"
+    }
+  },
+  {
+    "place_id": "osm_511577476",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.5423009,
+    "longitude": -106.9181172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_517846548",
+    "name": "Willow Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7943949,
+    "longitude": -104.8969168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Willow Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_532114594",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6384183,
+    "longitude": -104.888459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_539878543",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8801594,
+    "longitude": -104.9770426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_542147215",
+    "name": "City Park Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.2609469,
+    "longitude": -104.6606695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "City Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_543424162",
+    "name": "Dog Run",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6955258,
+    "longitude": -104.8436076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Run",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "place_id": "osm_544824806",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6512593,
+    "longitude": -105.0647574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_554206781",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7564317,
+    "longitude": -105.0209062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "2711",
+      "addr:postcode": "80211",
+      "addr:state": "CO",
+      "addr:street": "West 27th Avenue",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_556171047",
+    "name": "Belleview Station Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6261975,
+    "longitude": -104.9071861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Belleview Station Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_559596395",
+    "name": "Waggin' Tails Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.3216046,
+    "longitude": -104.7300765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Waggin' Tails Dog Park",
+      "natural": "grass"
+    }
+  },
+  {
+    "place_id": "osm_570828949",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6863843,
+    "longitude": -104.8843498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_573000745",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6930259,
+    "longitude": -104.8688806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_579786738",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6905465,
+    "longitude": -104.8834939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_581480210",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6883022,
+    "longitude": -104.8684971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_584098536",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6544251,
+    "longitude": -104.8915772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_584828540",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6570567,
+    "longitude": -104.8966671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_592883904",
+    "name": "Deerfield Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6858682,
+    "longitude": -104.8938577,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Deerfield Dog Park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_589524092",
+    "name": "Wynetka Ponds Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6101491,
+    "longitude": -105.0388051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wynetka Ponds Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_594479096",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.751689,
+    "longitude": -108.0791915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_604735002",
+    "name": "Granby Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0957769,
+    "longitude": -105.9603604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Granby Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_610124513",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.656607,
+    "longitude": -104.781147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "place_id": "osm_617485848",
+    "name": "Northwest Greenbelt Off-Leash Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6694692,
+    "longitude": -105.0133754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Park with bike and pedestrian trail, playground. Dogs allowed off-leash with supervision.",
+      "leisure": "dog_park",
+      "name": "Northwest Greenbelt Off-Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_643936664",
+    "name": "Rita Valentine Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4709342,
+    "longitude": -106.8173527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "1010",
+      "addr:state": "CO",
+      "addr:street": "Anglers Drive",
+      "leisure": "dog_park",
+      "name": "Rita Valentine Park",
+      "operator": "City of Steamboat Springs",
+      "operator:type": "government",
+      "website": "https://steamboatsprings.net/ImageRepository/Document?documentId=14200"
+    }
+  },
+  {
+    "place_id": "osm_662407764",
+    "name": "Dargen of the Dogs",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8741608,
+    "longitude": -104.869956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dargen of the Dogs",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "place_id": "osm_663900710",
+    "name": "Carla Madison Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7413472,
+    "longitude": -104.9587879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carla Madison Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_667796017",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6986446,
+    "longitude": -104.9275458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_677170888",
+    "name": "Uptown Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9004407,
+    "longitude": -105.086294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Uptown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_677696762",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.3783749,
+    "longitude": -104.8762122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_683816881",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1829945,
+    "longitude": -105.0619871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_683817308",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1951811,
+    "longitude": -105.0892841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_700379557",
+    "name": "The Modern Apartments dog run",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.65479,
+    "longitude": -105.065612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Modern Apartments dog run"
+    }
+  },
+  {
+    "place_id": "osm_706095109",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4175446,
+    "longitude": -105.1240915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "place_id": "osm_718667039",
+    "name": "The Boneyard",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.056713,
+    "longitude": -105.0482196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "The Boneyard"
+    }
+  },
+  {
+    "place_id": "osm_729149772",
+    "name": "Freedom Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.3709135,
+    "longitude": -104.7127821,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:housenumber": "2095",
+      "addr:street": "42nd Street",
+      "leisure": "dog_park",
+      "name": "Freedom Park",
+      "website": "https://www.evanscolorado.gov/departments/parksdivision/FreedomPark"
+    }
+  },
+  {
+    "place_id": "osm_730017196",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.4726195,
+    "longitude": -107.8844352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_733773619",
+    "name": "Douglas County Off-leash Area",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.3598268,
+    "longitude": -104.8499018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Douglas County Off-leash Area"
+    }
+  },
+  {
+    "place_id": "osm_737680825",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8716057,
+    "longitude": -105.0554188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_751435549",
+    "name": "Pet Spa / Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5443241,
+    "longitude": -105.0696601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Pet Spa / Bark Park",
+      "operator": "Cycle Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_757231686",
+    "name": "Craig Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5167191,
+    "longitude": -107.5234102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Craig Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_759365216",
+    "name": "Little Dry Creek Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8234835,
+    "longitude": -105.0351931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Little Dry Creek Dog Park",
+      "operator": "City of Westminster",
+      "operator:type": "government"
+    }
+  },
+  {
+    "place_id": "osm_765465116",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6072307,
+    "longitude": -104.7020926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_766017641",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4546187,
+    "longitude": -104.7599346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_769175576",
+    "name": "Devon's Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.1788134,
+    "longitude": -104.8523346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Larkspur",
+      "addr:housenumber": "1532",
+      "addr:postcode": "80118",
+      "addr:state": "CO",
+      "addr:street": "Noe Road",
+      "leisure": "dog_park",
+      "name": "Devon's Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_769442351",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8674631,
+    "longitude": -104.6950198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_771761879",
+    "name": "Fox Run Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.0581452,
+    "longitude": -104.7866791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fox Run Dog Park",
+      "note": "Location approximate",
+      "source": "gps"
+    }
+  },
+  {
+    "place_id": "osm_771761887",
+    "name": "Fox Run Small Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.0570864,
+    "longitude": -104.7876692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Fox Run Small Dog Park",
+      "note": "Location approximate",
+      "source": "gps"
+    }
+  },
+  {
+    "place_id": "osm_791694325",
+    "name": "Midtown East Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8196007,
+    "longitude": -105.0015594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Midtown East Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_793326201",
+    "name": "Tangent Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6373203,
+    "longitude": -104.9108851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "4300",
+      "addr:postcode": "80237",
+      "addr:state": "CO",
+      "addr:street": "S Monaco St",
+      "leisure": "dog_park",
+      "name": "Tangent Dog Park",
+      "operator": "Tangent Apartments"
+    }
+  },
+  {
+    "place_id": "osm_799184140",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.3850841,
+    "longitude": -105.0802726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_807424969",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5898229,
+    "longitude": -105.0531958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_810608792",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7794643,
+    "longitude": -104.8049983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_814032555",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1676549,
+    "longitude": -104.9370785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_814277468",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1496282,
+    "longitude": -104.9247524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_815079078",
+    "name": "Edge DTC Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6374627,
+    "longitude": -104.9010157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Edge DTC Bark Park",
+      "operator": "Edge DTC Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_828854637",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0028511,
+    "longitude": -104.9915797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_840243325",
+    "name": "Murphey's Mountain Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.3380281,
+    "longitude": -105.5766106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "name": "Murphey's Mountain Park",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_847043653",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6755791,
+    "longitude": -104.9113904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_851045082",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.001411,
+    "longitude": -105.0158103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_851341768",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.2454341,
+    "longitude": -104.0549261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_852378946",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5377463,
+    "longitude": -104.8460245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_856815197",
+    "name": "Midtown Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8176687,
+    "longitude": -105.01607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Midtown Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_871051324",
+    "name": "Fox Hill Apartments Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7425333,
+    "longitude": -105.197853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fox Hill Apartments Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_874450486",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9417112,
+    "longitude": -104.9262001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_899264272",
+    "name": "HSBV Play Yard",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0223167,
+    "longitude": -105.2261179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Boulder",
+      "addr:housenumber": "2323",
+      "addr:postcode": "80301",
+      "addr:state": "CO",
+      "addr:street": "55th Street",
+      "leisure": "dog_park",
+      "name": "HSBV Play Yard",
+      "operator": "HSBV",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_899264598",
+    "name": "HSBV Agility Yard",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0225495,
+    "longitude": -105.2260761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "name": "HSBV Agility Yard",
+      "operator": "HSBV",
+      "operator:type": "private_non_profit"
+    }
+  },
+  {
+    "place_id": "osm_900996097",
+    "name": "Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6343562,
+    "longitude": -104.7390637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "COPPERLEAF METROPOLITAN DISTRICT 2",
+      "operator:type": "public",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_930254740",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8919883,
+    "longitude": -104.8066857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_940780475",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.6142968,
+    "longitude": -105.1085465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_959162059",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9568363,
+    "longitude": -104.7834638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_959172621",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9857288,
+    "longitude": -104.7544517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_963759487",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9660085,
+    "longitude": -104.8114098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_977648479",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8995331,
+    "longitude": -104.743388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_977972870",
+    "name": "Pub Dog",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.840448,
+    "longitude": -104.863358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Colorado Springs",
+      "addr:housenumber": "2207",
+      "addr:postcode": "80904",
+      "addr:state": "CO",
+      "addr:street": "Bott Avenue",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Pub Dog",
+      "operator": "Pub Dog",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_989186329",
+    "name": "Homer’s Run",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7337149,
+    "longitude": -105.1976974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "description": "Off leash dog park",
+      "leisure": "dog_park",
+      "name": "Homer’s Run"
+    }
+  },
+  {
+    "place_id": "osm_995955595",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.699949,
+    "longitude": -104.8993052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "source": "Bing"
+    }
+  },
+  {
+    "place_id": "osm_996598268",
+    "name": "Terrain Dog Bone Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.3833236,
+    "longitude": -104.821415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "lit": "no",
+      "name": "Terrain Dog Bone Park",
+      "operator": "Castle Oaks Estates HOA",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_999716643",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0334698,
+    "longitude": -105.2475225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1008949205",
+    "name": "Garden of the Dogs",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8246379,
+    "longitude": -104.6938531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Garden of the Dogs"
+    }
+  },
+  {
+    "place_id": "osm_1024123196",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5103593,
+    "longitude": -105.0134528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "survey:date": "2025-11-24"
+    }
+  },
+  {
+    "place_id": "osm_1026499027",
+    "name": "Severance Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5168991,
+    "longitude": -104.8517339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Severance",
+      "addr:housenumber": "525",
+      "addr:postcode": "80550",
+      "addr:state": "CO",
+      "addr:street": "Vivian Street",
+      "leisure": "dog_park",
+      "name": "Severance Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1035911568",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.943423,
+    "longitude": -105.1223113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1046527037",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5516327,
+    "longitude": -105.0995416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "The Habitat at Fort Collins",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1052177672",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7151645,
+    "longitude": -104.7870994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "For dogs > 30 lbs.",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1066986601",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1910088,
+    "longitude": -105.070969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park",
+      "operator": "Ute Creek Apartments",
+      "operator:type": "private",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "place_id": "osm_1067066779",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.915505,
+    "longitude": -105.0598497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "dog": "yes",
+      "leisure": "dog_park",
+      "operator": "Marquis at Town Centre",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1072458461",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7610812,
+    "longitude": -104.8042186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "operator": "City of Aurora"
+    }
+  },
+  {
+    "place_id": "osm_1074657872",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9535793,
+    "longitude": -104.6964222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1086441880",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5913361,
+    "longitude": -104.7192237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1094369553",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5827731,
+    "longitude": -104.9841165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1095526699",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 37.616339,
+    "longitude": -104.7569534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1106668820",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7141402,
+    "longitude": -105.138126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1107004900",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5045609,
+    "longitude": -104.760825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1109083174",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9532241,
+    "longitude": -104.9804448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Thornton",
+      "addr:housenumber": "14130",
+      "addr:postcode": "80023",
+      "addr:state": "CO",
+      "addr:street": "Grant Street",
+      "leisure": "dog_park",
+      "operator": "Par"
+    }
+  },
+  {
+    "place_id": "osm_1110445885",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6363203,
+    "longitude": -104.9066077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "no",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1118635655",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6016247,
+    "longitude": -104.7221454,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1126538409",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7302623,
+    "longitude": -104.9206452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1126763473",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5578423,
+    "longitude": -104.9186595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1136459346",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6369147,
+    "longitude": -104.73607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1155866646",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0220732,
+    "longitude": -105.2551083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "permissive",
+      "dog": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1162493048",
+    "name": "Carbondale Nature Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4057432,
+    "longitude": -107.2120539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Carbondale Nature Park"
+    }
+  },
+  {
+    "place_id": "osm_1167289693",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.5372873,
+    "longitude": -106.1750284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1170429168",
+    "name": "Tony Grampsas Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7793117,
+    "longitude": -105.1873303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tony Grampsas Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1177662202",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5749327,
+    "longitude": -104.9943549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1181027072",
+    "name": "Las Colonias Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.055212,
+    "longitude": -108.551118,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Las Colonias Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1184248898",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8345382,
+    "longitude": -104.8175021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "check_date": "2025-09-22",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1192581884",
+    "name": "Crown Mountain Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.392566,
+    "longitude": -107.0974197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "El Jebel",
+      "addr:housenumber": "501",
+      "addr:postcode": "81623",
+      "addr:state": "CO",
+      "addr:street": "Eagle Count Drive",
+      "leisure": "dog_park",
+      "name": "Crown Mountain Park"
+    }
+  },
+  {
+    "place_id": "osm_1201075154",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6341051,
+    "longitude": -104.8231407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1203839941",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7284089,
+    "longitude": -104.7301814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1204344495",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0677673,
+    "longitude": -105.1989739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "opening_hours": "24/7",
+      "operator": "Meadow Creek Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1205352370",
+    "name": "Elsie Duncan Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6290614,
+    "longitude": -104.9814997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Elsie Duncan Dog Park",
+      "opening_hours": "sunrise-sunset",
+      "operator": "City of Englewood",
+      "operator:type": "government",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1207358377",
+    "name": "Leadville Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.2458544,
+    "longitude": -106.3008168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Leadville Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1207699541",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7784633,
+    "longitude": -104.7980439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208482531",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.768187,
+    "longitude": -104.7007221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1208907481",
+    "name": "Inspiration Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5622778,
+    "longitude": -104.7083521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Inspiration Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_1209502396",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5900159,
+    "longitude": -104.8011657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1209542633",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9311659,
+    "longitude": -104.6631909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1212742322",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6067406,
+    "longitude": -104.811158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216328106",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7568701,
+    "longitude": -105.0133161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1216500145",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5543782,
+    "longitude": -105.0413567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "opening_hours": "Mo-Su 06:00-24:00",
+      "surface": "fine_gravel",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1220075671",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0173689,
+    "longitude": -104.9852149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1223910066",
+    "name": "Dundee Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.1341837,
+    "longitude": -105.4388034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dundee Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1245972610",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.686798,
+    "longitude": -104.8804131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "source": "Esri"
+    }
+  },
+  {
+    "place_id": "osm_1255292729",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5833298,
+    "longitude": -104.8225436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1256013739",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5787874,
+    "longitude": -104.820799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1260588240",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5801759,
+    "longitude": -104.8079065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1261880481",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5606786,
+    "longitude": -104.7794977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1262290486",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5554941,
+    "longitude": -104.8078983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1263577897",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.551924,
+    "longitude": -104.8631295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "barrier": "fence",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1266783737",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5804049,
+    "longitude": -104.8040311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1267221428",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4149331,
+    "longitude": -104.9856735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1272941409",
+    "name": "Larry L. Levin Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5199659,
+    "longitude": -104.864418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lone Tree",
+      "addr:housenumber": "10890",
+      "addr:postcode": "80124",
+      "addr:state": "CO",
+      "addr:street": "Rail Way",
+      "leisure": "dog_park",
+      "name": "Larry L. Levin Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1273037978",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8160067,
+    "longitude": -104.5166005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1281212096",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8038941,
+    "longitude": -104.7880052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1283358491",
+    "name": "Antlers Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8341308,
+    "longitude": -104.8271224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Antlers Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1285950661",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.564542,
+    "longitude": -104.6980881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1290812372",
+    "name": "Candelas Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8677261,
+    "longitude": -105.1919484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Candelas Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1292491514",
+    "name": "Camden Flatirons Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.917186,
+    "longitude": -105.1007599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Camden Flatirons Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1296447952",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5772567,
+    "longitude": -104.7199438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1296615013",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5777141,
+    "longitude": -104.7205721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1301201010",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4036909,
+    "longitude": -104.8876499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "addr:city": "Castle Rock",
+      "addr:housenumber": "2355",
+      "addr:postcode": "80109",
+      "addr:state": "CO",
+      "addr:street": "Mercantile Street",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "operator": "Talus Flats",
+      "operator:type": "private",
+      "website": "https://www.talusflats.com/amenities"
+    }
+  },
+  {
+    "place_id": "osm_1302358179",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5401218,
+    "longitude": -104.8740674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1307949190",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5858379,
+    "longitude": -104.7127847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1309967896",
+    "name": "Elizabeth Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.3646343,
+    "longitude": -104.5866379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park",
+      "name": "Elizabeth Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1313881045",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7048254,
+    "longitude": -104.8092309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1314838999",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5865393,
+    "longitude": -104.8031931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1315343996",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8477753,
+    "longitude": -105.0501627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "dog": "unleashed",
+      "fence_type": "bars",
+      "height": "4'0\"",
+      "leisure": "dog_park",
+      "source:height": "ARCore"
+    }
+  },
+  {
+    "place_id": "osm_1316814484",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8512314,
+    "longitude": -105.0525538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1317474239",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4012453,
+    "longitude": -104.9867724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1319272029",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7113072,
+    "longitude": -104.794806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1324120635",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6109595,
+    "longitude": -104.7138482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1328642316",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5186909,
+    "longitude": -105.0019064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1328642820",
+    "name": "Springs Pet Playground",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9960804,
+    "longitude": -104.8000315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Springs Pet Playground"
+    }
+  },
+  {
+    "place_id": "osm_1329968295",
+    "name": "Skiptown",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7697005,
+    "longitude": -104.9559748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Denver",
+      "addr:housenumber": "3833",
+      "addr:postcode": "80205",
+      "addr:state": "CO",
+      "addr:street": "N. Steele St",
+      "addr:unit": "Ste 1332",
+      "branch": "Denver",
+      "leisure": "dog_park",
+      "name": "Skiptown",
+      "website": "https://skiptown.io/co/denver/"
+    }
+  },
+  {
+    "place_id": "osm_1334612055",
+    "name": "Southshore Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5908161,
+    "longitude": -104.6698451,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southshore Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1341664510",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.995714,
+    "longitude": -104.8063911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1341937059",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.4204287,
+    "longitude": -104.8805703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Alana Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1346450141",
+    "name": "21 Fitzsimmons Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7495715,
+    "longitude": -104.8390672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "21 Fitzsimmons Dog Park",
+      "website": "https://my.matterport.com/show/?m=MhSqXA9XdeX"
+    }
+  },
+  {
+    "place_id": "osm_1351258510",
+    "name": "David Lorenz Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5626916,
+    "longitude": -104.9282472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "David Lorenz Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1354706566",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9924218,
+    "longitude": -105.9330006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1355021232",
+    "name": "Mountair Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7376918,
+    "longitude": -105.0587471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "addr:city": "Lakewood",
+      "addr:housenumber": "5620",
+      "addr:postcode": "80214",
+      "addr:state": "CO",
+      "addr:street": "W 14th Ave",
+      "leisure": "dog_park",
+      "name": "Mountair Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1355726795",
+    "name": "Lakeview Towers/ Belmar Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7044909,
+    "longitude": -105.0768971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "unknown",
+      "dog": "unleashed",
+      "leisure": "dog_park",
+      "name": "Lakeview Towers/ Belmar Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1356906960",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5396435,
+    "longitude": -104.8673773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1357556409",
+    "name": "Bark Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.714868,
+    "longitude": -104.9477913,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Bark Park",
+      "operator": "The Seasons of Cherry Creek",
+      "operator:type": "private",
+      "surface": "sand"
+    }
+  },
+  {
+    "place_id": "osm_1362822145",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9293162,
+    "longitude": -105.1223734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "barrier": "fence",
+      "leisure": "dog_park",
+      "lit": "yes",
+      "opening_hours": "24/7",
+      "surface": "artificial_turf",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "place_id": "osm_1370428525",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6991013,
+    "longitude": -104.8142951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1371184850",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5193455,
+    "longitude": -105.0624719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1372170524",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.245031,
+    "longitude": -104.9909012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1380980747",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.8170571,
+    "longitude": -104.7463429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Nash Apartments",
+      "operator:type": "community"
+    }
+  },
+  {
+    "place_id": "osm_1387306738",
+    "name": "Westminster Hills Open Space",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8836923,
+    "longitude": -105.1383642,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "dog": "yes",
+      "leisure": "dog_park",
+      "name": "Westminster Hills Open Space"
+    }
+  },
+  {
+    "place_id": "osm_1391220486",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9417363,
+    "longitude": -104.7057814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "description": "Dog run for apartment residents. Not open to public.",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1393667782",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.879468,
+    "longitude": -104.8446584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1395078424",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9853435,
+    "longitude": -105.2518399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Boulder Creek Apartments",
+      "operator:type": "private"
+    }
+  },
+  {
+    "place_id": "osm_1409119010",
+    "name": "Jasper Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9843696,
+    "longitude": -104.7947267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "Jasper Dog Park",
+      "operator": "Jasper at Victory Ridge"
+    }
+  },
+  {
+    "place_id": "osm_1412987610",
+    "name": "The Argonne Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7986885,
+    "longitude": -104.7671161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "name": "The Argonne Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1413250248",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5457649,
+    "longitude": -104.7773206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413429703",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.3051397,
+    "longitude": -104.9849184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430372",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0770373,
+    "longitude": -104.649274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1413430984",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.741819,
+    "longitude": -104.4350485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "brand": "Love's",
+      "brand:wikidata": "Q1872496",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1414752889",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5327236,
+    "longitude": -105.0804232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "customers",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1414762327",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5179495,
+    "longitude": -105.0794607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1417644608",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5007536,
+    "longitude": -105.0425457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419222647",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5248478,
+    "longitude": -105.0746353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419254299",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.5270742,
+    "longitude": -105.0723928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1419740148",
+    "name": "Spring creek dog park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4886944,
+    "longitude": -106.8085392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spring creek dog park"
+    }
+  },
+  {
+    "place_id": "osm_1420169005",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5525233,
+    "longitude": -104.778097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1420169006",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5524114,
+    "longitude": -104.7784451,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1421432715",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.9619297,
+    "longitude": -104.795628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1425490081",
+    "name": "Discovery Park Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.7907099,
+    "longitude": -104.7070373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Discovery Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_1425929887",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.995548,
+    "longitude": -104.7944021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1427551512",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4886439,
+    "longitude": -104.9032151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1429282400",
+    "name": "Kamp K9",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 38.0805836,
+    "longitude": -107.7079306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kamp K9"
+    }
+  },
+  {
+    "place_id": "osm_1445858810",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.1443833,
+    "longitude": -104.9273615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1445931707",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.8463316,
+    "longitude": -105.0516138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1448727850",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.3786929,
+    "longitude": -105.0704345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1455898191",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5613255,
+    "longitude": -104.8677636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1457356984",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4497478,
+    "longitude": -104.942075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1457356988",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4469895,
+    "longitude": -104.9419442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1459367030",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6100625,
+    "longitude": -105.0693693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "leisure": "dog_park",
+      "operator": "Fairways at Raccoon Creek Apartments",
+      "operator:type": "private",
+      "surface": "grass"
+    }
+  },
+  {
+    "place_id": "osm_1459367031",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.6104854,
+    "longitude": -105.0748935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "leisure": "dog_park",
+      "operator": "Fairways at Raccoon Creek Apartments",
+      "operator:type": "private",
+      "surface": "gravel"
+    }
+  },
+  {
+    "place_id": "osm_1467690187",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.860629,
+    "longitude": -104.9394965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Thornton Police Department"
+    }
+  },
+  {
+    "place_id": "osm_1474227603",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.5765275,
+    "longitude": -104.8215861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1474904019",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.525123,
+    "longitude": -105.0243684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "check_date": "2026-02-06",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1490423792",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9093089,
+    "longitude": -105.0893064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1491139502",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.4009367,
+    "longitude": -104.6674469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1492933314",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 39.9998285,
+    "longitude": -105.0097402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "private",
+      "leisure": "dog_park",
+      "operator": "Park 40",
+      "operator:type": "park_40"
+    }
+  },
+  {
+    "place_id": "osm_1492961194",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.3740821,
+    "longitude": -105.4985437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_1494456051",
+    "name": "Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.0614243,
+    "longitude": -105.2014243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "access": "yes",
+      "leisure": "dog_park"
+    }
+  },
+  {
+    "place_id": "osm_5355886",
+    "name": "Spring Creek Dog Park",
+    "formatted_address": ", Colorado, USA",
+    "latitude": 40.538767,
+    "longitude": -105.1276053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "designation": "dog_park",
+      "leisure": "dog_park",
+      "name": "Spring Creek Dog Park",
+      "type": "multipolygon"
+    }
   }
 ]
