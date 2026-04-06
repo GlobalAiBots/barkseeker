@@ -1,0 +1,7201 @@
+[
+  {
+    "place_id": "ChIJpSiTdQ9Dt4cR5XZ1vaLezZA",
+    "name": "Wah Sha She Boat Ramp",
+    "formatted_address": "Unnamed Road, Copan, OK 74022, USA",
+    "latitude": 36.9217853,
+    "longitude": -96.10619229999999,
+    "city": "Copan",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9395323428",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.9142172,
+    "longitude": -96.1094172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJv43L22Nut4cRfXW_ZChu3qI",
+    "name": "Washington Cove Park Campground",
+    "formatted_address": "396120, 10 Highway, Copan, OK 74022, USA",
+    "latitude": 36.9106503,
+    "longitude": -95.9394415,
+    "city": "Copan",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 177,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzWLtim9vt4cRWVKWZjQ51_g",
+    "name": "Post Oak Recreation Area",
+    "formatted_address": "OK-10, Copan, OK 74022, USA",
+    "latitude": 36.8987568,
+    "longitude": -95.9689487,
+    "city": "Copan",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 68,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJa6fPK4Nut4cRYDdpnsN-tzs",
+    "name": "Copan Point",
+    "formatted_address": "Copan, OK 74022, USA",
+    "latitude": 36.892789,
+    "longitude": -95.9541091,
+    "city": "Copan",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 64,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJh2Dt9dQVyIcRqcB0KlbZ3kc",
+    "name": "Hwy 10 Boat Ramp",
+    "formatted_address": "62300 OK-10, Miami, OK 74354, USA",
+    "latitude": 36.87137450000001,
+    "longitude": -94.76554809999999,
+    "city": "Miami",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 12,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1346174148",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.8479274,
+    "longitude": -102.8678737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1346174123",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.8478439,
+    "longitude": -102.8794935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6YJydH2TsIcRCLEmqX4OTto",
+    "name": "Washunga Bay Campground",
+    "formatted_address": "Unnamed Road, Kaw City, OK 74641, USA",
+    "latitude": 36.7916008,
+    "longitude": -96.8366582,
+    "city": "Kaw City",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 31,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11509572772",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.7858205,
+    "longitude": -96.9176758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ13bvUUOVsIcRv9x6zrJMN2w",
+    "name": "Sarge Creek Boat Ramp",
+    "formatted_address": "Burbank, OK 74633, USA",
+    "latitude": 36.7638114,
+    "longitude": -96.8124758,
+    "city": "Burbank",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 15,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJP4A3VxqSsIcReOlWiY7FpQA",
+    "name": "Bear Creek Cove Boat Ramp",
+    "formatted_address": "101 Marina Dr, Kaw City, OK 74641, USA",
+    "latitude": 36.7576599,
+    "longitude": -96.8567267,
+    "city": "Newkirk",
+    "county": "",
+    "rating": 3,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJpY8ZXQCTsIcRjFzdU92HMyg",
+    "name": "Pioneer Cove Boat Ramp",
+    "formatted_address": "101 Marina Dr, Kaw City, OK 74641, USA",
+    "latitude": 36.7576599,
+    "longitude": -96.8567267,
+    "city": "Kaw City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9864406475",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.7525305,
+    "longitude": -98.1641988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12426529841",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.7430724,
+    "longitude": -98.1385693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJldG-j8T0sIcRj2lleXnhK2E",
+    "name": "Windmill Cove Boat Ramp",
+    "formatted_address": "1-79 Snake Rd, Ponca City, OK 74604, USA",
+    "latitude": 36.7315369,
+    "longitude": -97.0367486,
+    "city": "Ponca City",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 14,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJyYONHgA5yIcRop3OAgxWQVo",
+    "name": "Boat Ramp 2",
+    "formatted_address": "60999 E 200 Rd, Fairland, OK 74343, USA",
+    "latitude": 36.7304277,
+    "longitude": -94.7842943,
+    "city": "Fairland",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJiSX8XV27t4cRqjGdhQOgA-8",
+    "name": "big creek boat ramp⚓️",
+    "formatted_address": "Nowata, OK 74048, USA",
+    "latitude": 36.72992929999999,
+    "longitude": -95.5410708,
+    "city": "Nowata",
+    "county": "",
+    "rating": 3.8,
+    "total_ratings": 15,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJo92wVatzqIcRheRqnpfTv-s",
+    "name": "Lake Evans Chambers",
+    "formatted_address": "Lake Evans Chambers, Oklahoma 73848, USA",
+    "latitude": 36.729832,
+    "longitude": -100.2098153,
+    "city": "Oklahoma 73848",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJKWdILpj0sIcRlQUPf9Qj5iw",
+    "name": "Pageant Area Ramp",
+    "formatted_address": "Ponca City, OK 74604, USA",
+    "latitude": 36.7237124,
+    "longitude": -97.0170091,
+    "city": "Ponca City",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJTyx4uJ_tsIcRP85OypvHqOs",
+    "name": "Osage Cove Boat Ramp Restrooms",
+    "formatted_address": "Burbank, OK 74633, USA",
+    "latitude": 36.7099149,
+    "longitude": -96.9013032,
+    "city": "Burbank",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJe8rVUZ7tsIcR4DJG3K_f3dI",
+    "name": "Osage Cove Boat Ramp",
+    "formatted_address": "Osage Park Rd, Burbank, OK 74633, USA",
+    "latitude": 36.709053,
+    "longitude": -96.90114589999999,
+    "city": "Burbank",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSwG2l2TysIcRVP7k5z3FDBQ",
+    "name": "Mc Fadden Cove Boat Ramp",
+    "formatted_address": "Kaw Lake, Ponca City, OK 74604, USA",
+    "latitude": 36.7032088,
+    "longitude": -96.9330751,
+    "city": "Ponca City",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJvze0qrPLsIcRnBRJzkRZy10",
+    "name": "Bluestem Lake 3rd Cove Boat Ramp",
+    "formatted_address": "PH2J+5Q, Pawhuska, OK 74056, USA",
+    "latitude": 36.7003831,
+    "longitude": -96.4180494,
+    "city": "Pawhuska",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1573898028",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.6961431,
+    "longitude": -96.9264874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJY8tK88Uzt4cRKcey2UxNifE",
+    "name": "Pawhuska Lake Bluestem",
+    "formatted_address": "W Of City , Pawhuska, OK 74056, Pawhuska, OK 74056, USA",
+    "latitude": 36.6937942,
+    "longitude": -96.41035459999999,
+    "city": "Pawhuska",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 22,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_RcwUS-lt4cR5SMAwGAM1Ek",
+    "name": "Boat Ramp",
+    "formatted_address": "Nowata County, OK 74048, USA",
+    "latitude": 36.6621212,
+    "longitude": -95.6087964,
+    "city": "Nowata County",
+    "county": "Nowata County",
+    "rating": 4.2,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJEy29_a83yIcRgpaweQogPNc",
+    "name": "Lee's Grand Lake Resort",
+    "formatted_address": "24800 S 630 Rd, Grove, OK 74344, USA",
+    "latitude": 36.653536,
+    "longitude": -94.75913299999999,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 658,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJE0e8cgAvyIcRDBXt2Uk0m0Y",
+    "name": "Bernice Area at Grand Lake State Park Boat Ramp",
+    "formatted_address": "Bernice, OK 74331, USA",
+    "latitude": 36.6252374,
+    "longitude": -94.9047478,
+    "city": "Bernice",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ163vDUwxyIcR-Lt8X1RRw24",
+    "name": "Cedar Oaks Dock",
+    "formatted_address": "Neosho River, Grove, OK 74344, USA",
+    "latitude": 36.6127777,
+    "longitude": -94.8137969,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 11,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJR6yiR77CsIcRPS_oFw5ylec",
+    "name": "Fairfax City Lake",
+    "formatted_address": "Fairfax City Lake, Oklahoma 74637, USA",
+    "latitude": 36.6102132,
+    "longitude": -96.7313362,
+    "city": "Oklahoma 74637",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJC7eK-Tk3yIcRfxwvvklTBos",
+    "name": "Wolf creek boat ramp",
+    "formatted_address": "963 16th St, Grove, OK 74344, USA",
+    "latitude": 36.6046726,
+    "longitude": -94.7834936,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 78,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ0d07Ev83yIcRtuOmlujLMyg",
+    "name": "Wolf Creek Park and Boating Facility",
+    "formatted_address": "963 N 16th St, Grove, OK 74344, USA",
+    "latitude": 36.6044863,
+    "longitude": -94.7829812,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 206,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJNamtMCIyyIcRMflWcbpgsD8",
+    "name": "The Landings on Monkey Island",
+    "formatted_address": "56551 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5824403,
+    "longitude": -94.8615456,
+    "city": "Afton",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 44,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ31WcG0c0yIcRumbRuTy48zQ",
+    "name": "Honey Creek State Park Ramp",
+    "formatted_address": "901-903 State Park Rd, Grove, OK 74344, USA",
+    "latitude": 36.5761498,
+    "longitude": -94.78292479999999,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 77,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJF0mlGU00yIcRWalVlhXkAYY",
+    "name": "Honey Creek Landing Marina",
+    "formatted_address": "2530 S Main St, Grove, OK 74344, USA",
+    "latitude": 36.5695587,
+    "longitude": -94.7729318,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 117,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJp20h3hI3yIcRCm-HLTcPsKY",
+    "name": "Public Boat Ramp",
+    "formatted_address": "31501 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5600471,
+    "longitude": -94.8451595,
+    "city": "Grove",
+    "county": "",
+    "rating": 4.9,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAcVINAsxyIcRgYnmE1i8kR4",
+    "name": "Public Boat Ramp",
+    "formatted_address": "31501 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5600471,
+    "longitude": -94.8451595,
+    "city": "Afton",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_Qn0K7EvyIcRREinQ6LyxQk",
+    "name": "Public Boat Ramp",
+    "formatted_address": "31501 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5600471,
+    "longitude": -94.8451595,
+    "city": "Delaware County",
+    "county": "Delaware County",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ8RdbPsMtyIcRBaB92wYZHF8",
+    "name": "Public Boat Ramp",
+    "formatted_address": "31501 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5600471,
+    "longitude": -94.8451595,
+    "city": "Cleora",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 12,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJyQB8W2UzyIcRsg2RlNdQEEc",
+    "name": "Public Boat Ramp",
+    "formatted_address": "31501 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5600471,
+    "longitude": -94.8451595,
+    "city": "Afton",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJKwmhCVIryIcROsO0nM-SAGI",
+    "name": "Public Boat Ramp",
+    "formatted_address": "31501 OK-125, Afton, OK 74331, USA",
+    "latitude": 36.5600471,
+    "longitude": -94.8451595,
+    "city": "Cleora",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJrT8FagI1yIcRfWUi7FF0H8I",
+    "name": "Little Lake Boat Ramp",
+    "formatted_address": "Grove, OK 74344, USA",
+    "latitude": 36.5576052,
+    "longitude": -94.7730557,
+    "city": "Grove",
+    "county": "",
+    "rating": 3,
+    "total_ratings": 6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ24XlOgA1yIcRjI-npu9-VS8",
+    "name": "Boat Ramp",
+    "formatted_address": "Grove, OK 74344, USA",
+    "latitude": 36.5562225,
+    "longitude": -94.76370779999999,
+    "city": "Grove",
+    "county": "",
+    "rating": 2,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJsTlDf_mrt4cRjzH6qO7Ugs4",
+    "name": "Vada Point",
+    "formatted_address": "Ew 320 Rd, Talala, OK 74080, USA",
+    "latitude": 36.554051,
+    "longitude": -95.65079209999999,
+    "city": "Talala",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 33,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9453956961",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.5438663,
+    "longitude": -99.5552197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJLft6rqEmt4cRx_Xcc90IxBk",
+    "name": "Twin Coves Boat Ramp",
+    "formatted_address": "Barnsdall, OK 74002, USA",
+    "latitude": 36.5332143,
+    "longitude": -96.1717898,
+    "city": "Barnsdall",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ14gUoaKtt4cR9d2G35nh6O4",
+    "name": "Sunny side boat ramp",
+    "formatted_address": "G9F9+M2, Talala, OK 74080, USA",
+    "latitude": 36.52413689999999,
+    "longitude": -95.6324539,
+    "city": "Talala",
+    "county": "",
+    "rating": 3.9,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJtdQVhpUmt4cREDafOTkl5yE",
+    "name": "Birch Cove Public Boat Dock",
+    "formatted_address": "Unnamed Road, Barnsdall, OK 74002, USA",
+    "latitude": 36.5179942,
+    "longitude": -96.17343559999999,
+    "city": "Barnsdall",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 19,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJy-uZZ2yt4cRF_3cbuLLOkg",
+    "name": "Spencer Creek Campground",
+    "formatted_address": "6998 S 4180 Rd, Claremore, OK 74017, USA",
+    "latitude": 36.5106087,
+    "longitude": -95.5612069,
+    "city": "Claremore",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ3Z9Ld84qyIcRWfZ2IYd7vg8",
+    "name": "Hammerhead Ramp",
+    "formatted_address": "Creek Rd, Vinita, OK 74301, USA",
+    "latitude": 36.5093174,
+    "longitude": -95.0305339,
+    "city": "Vinita",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 19,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB-BV2ufUyYcRX0d3X2kdOso",
+    "name": "Cherokee State Park Boat Ramp",
+    "formatted_address": "12 OK-28, Jay, OK 74346, USA",
+    "latitude": 36.4810822,
+    "longitude": -95.0083275,
+    "city": "Jay",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 43,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPQ3LBVdUtocRpOJ1Rz2x_o4",
+    "name": "Dam Site West Public Use Area",
+    "formatted_address": "8377 OK-88, Oologah, OK 74053, USA",
+    "latitude": 36.430264,
+    "longitude": -95.6809358,
+    "city": "Oologah",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 341,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ2W5qSQBVtocR832LqQyasLk",
+    "name": "Redbud boat launch",
+    "formatted_address": "C8CP+95, Sequoyah, OK 74017, USA",
+    "latitude": 36.4208805,
+    "longitude": -95.6645897,
+    "city": "Sequoyah",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJNQab9k1UtocRKkHzF7XRnFI",
+    "name": "Oologah Dam Verdigris River Boat Ramp",
+    "formatted_address": "Claremore, OK 74017, USA",
+    "latitude": 36.4201723,
+    "longitude": -95.6835701,
+    "city": "Claremore",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 151,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJpVMXYzDYtocR6oCkcupy_Vk",
+    "name": "Bull Creek Peninsula Boat Ramp",
+    "formatted_address": "Skiatook, OK 74070, USA",
+    "latitude": 36.4142342,
+    "longitude": -96.224531,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 30,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442877317",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.4080985,
+    "longitude": -97.0211605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11639490929",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.4076826,
+    "longitude": -96.423715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11510862854",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.4068499,
+    "longitude": -97.0518407,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJrR8G1u7ZtocRQZ-5Y_oNTZE",
+    "name": "Twin Points Recreation Area",
+    "formatted_address": "Skiatook, OK 74070, USA",
+    "latitude": 36.3902831,
+    "longitude": -96.2189805,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 24,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ0xVjSbPetocRtHynX2U79LU",
+    "name": "Osage Park Boat Ramp",
+    "formatted_address": "Skiatook, OK 74070, USA",
+    "latitude": 36.37986679999999,
+    "longitude": -96.1523528,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 80,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJseB2BJ7ZtocRdwqa9u6r7e8",
+    "name": "Black Dog Park",
+    "formatted_address": "Skiatook, OK 74070, USA",
+    "latitude": 36.379223,
+    "longitude": -96.19547899999999,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 136,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_250228975",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.3768387,
+    "longitude": -96.2268298,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6d3g9kPXtocRjxPEoqCuaVc",
+    "name": "Hominy Landing",
+    "formatted_address": "Skiatook, OK 74070, USA",
+    "latitude": 36.37649529999999,
+    "longitude": -96.2524795,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 16,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1400370724",
+    "name": "BO2 LP1",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.3712219,
+    "longitude": -96.1699914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJW4Zi7pDetocRjeR3W6GwNYU",
+    "name": "Crystal Bay Marina",
+    "formatted_address": "14774 Crystal Bay Dr, Skiatook, OK 74070, USA",
+    "latitude": 36.3707709,
+    "longitude": -96.1314883,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 83,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPw1Wb1vJyYcRBlcygsQZqd0",
+    "name": "Boat Ramp - Upper Spavinaw Recreation Area",
+    "formatted_address": "468 Rd, Jay, OK 74346, USA",
+    "latitude": 36.355334,
+    "longitude": -94.79825430000001,
+    "city": "Jay",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ61-7NUzPyYcR9hX8vHZFgLk",
+    "name": "Eucha Boat Ramp",
+    "formatted_address": "Jay, OK 74346, USA",
+    "latitude": 36.35344389999999,
+    "longitude": -94.8145833,
+    "city": "Jay",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 32,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJGXWEhMzdtocRtjllq6DaM-Y",
+    "name": "Skiatook Point Recreation Area",
+    "formatted_address": "Skiatook Point, Skiatook, OK 74070, USA",
+    "latitude": 36.351249,
+    "longitude": -96.10816799999999,
+    "city": "Skiatook",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 84,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJTTmnJC_lqIcR1xrdeF2nhNA",
+    "name": "Oklahoma 15",
+    "formatted_address": "OK-15, Oklahoma, USA",
+    "latitude": 36.336646,
+    "longitude": -99.698421,
+    "city": "Oklahoma",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJhw6npK_dtocRsghVlKfV7_k",
+    "name": "CrossTimbers Marina",
+    "formatted_address": "12301 Crosstimbers Marina Dr, Sperry, OK 74073, USA",
+    "latitude": 36.3328486,
+    "longitude": -96.1002608,
+    "city": "Sperry",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 1360,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ0QoWPxFQtocREKyz4lsBjig",
+    "name": "Claremore Lake",
+    "formatted_address": "Mickey Perry Ln, Claremore, OK 74017, USA",
+    "latitude": 36.3299116,
+    "longitude": -95.5822706,
+    "city": "Claremore",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 374,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJjVZU_o9Ct4cRzv7smJuHR1Q",
+    "name": "Quarry Cove",
+    "formatted_address": "Sperry, OK 74073, USA",
+    "latitude": 36.3217588,
+    "longitude": -96.1115272,
+    "city": "Oklahoma",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJeVHCx__ctocRnQPMBZvIamQ",
+    "name": "Tall Chief Cove Boat Ramp",
+    "formatted_address": "Sperry, OK 74073, USA",
+    "latitude": 36.3217588,
+    "longitude": -96.1115272,
+    "city": "Sperry",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 34,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ1U_-CcQltocRiAK4BjRHbwc",
+    "name": "Launch 1 Hudson Lake",
+    "formatted_address": "647 N Grace St, Salina, OK 74365, USA",
+    "latitude": 36.2983158,
+    "longitude": -95.1579094,
+    "city": "Salina",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 83,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJdUkoomwtsYcRJZ1nNUC9Ss4",
+    "name": "Feyodi Boat Ramp",
+    "formatted_address": "51131 US-64, Cleveland, OK 74020, USA",
+    "latitude": 36.2839672,
+    "longitude": -96.4347009,
+    "city": "Cleveland",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 21,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147615809",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2829085,
+    "longitude": -96.5778299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1490007546",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2673569,
+    "longitude": -97.2779729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ25VH3vcntocRZ79ZoF90484",
+    "name": "Northwest Boat Launch",
+    "formatted_address": "7W43+F7, Pump Back, OK 74365, USA",
+    "latitude": 36.2562377,
+    "longitude": -95.0968608,
+    "city": "Pump Back",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147637317",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2543481,
+    "longitude": -96.3609214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-RaX5iEZsYcRnYbGPQ8VgyY",
+    "name": "Lone Chimney Lake Boat Ramp",
+    "formatted_address": "16101 E0530 Rd, Glencoe, OK 74032, USA",
+    "latitude": 36.2483748,
+    "longitude": -96.82696729999999,
+    "city": "Glencoe",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJBX9ie2AZsYcRpbkCbtLrzkk",
+    "name": "Lone Chimney Lake South Boat Ramp",
+    "formatted_address": "16101 E0530 Rd, Glencoe, OK 74032, USA",
+    "latitude": 36.2483748,
+    "longitude": -96.82696729999999,
+    "city": "Glencoe",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3700499430",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2466386,
+    "longitude": -96.2783529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3700499537",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2403246,
+    "longitude": -96.2683957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ89qjK7UntocRKLxKrXEoenA",
+    "name": "Lake Hudson old boat launch",
+    "formatted_address": "6VQ5+W8, Salina, OK 74365, USA",
+    "latitude": 36.2398575,
+    "longitude": -95.1416596,
+    "city": "Salina",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 10,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3700498961",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2388631,
+    "longitude": -96.2771675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ4wX5vsPNtocREkSjLRjfetM",
+    "name": "Old Keystone Rd Boat Ramp",
+    "formatted_address": "Cleveland, OK 74020, USA",
+    "latitude": 36.22980760000001,
+    "longitude": -96.37408959999999,
+    "city": "Cleveland",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1507833705",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2280173,
+    "longitude": -96.3845111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3700498960",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2275955,
+    "longitude": -96.235647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3700499536",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.2083991,
+    "longitude": -96.229089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJL1BGf3rPtocRijsKAMUOkKI",
+    "name": "Edgewater Boat Ramp",
+    "formatted_address": "Cleveland, OK 74020, USA",
+    "latitude": 36.1981057,
+    "longitude": -96.31866959999999,
+    "city": "Cleveland",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJe7RSB0jPtocR3ZbUGCMrDQs",
+    "name": "Washington Irving South Recreation Area",
+    "formatted_address": "2600 E Bears Glen Rd, Cleveland, OK 74020, USA",
+    "latitude": 36.1979929,
+    "longitude": -96.25890059999999,
+    "city": "Cleveland",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 401,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYWMT2TLJtocR9jr9ztxZxs8",
+    "name": "Appalachia Bay Recreation Area lago",
+    "formatted_address": "W Appalachia Bay Rd, Shady Grove, OK 74020, USA",
+    "latitude": 36.1856369,
+    "longitude": -96.2938892,
+    "city": "Shady Grove",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 557,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_efLsH6msYcRnZ2ms49d_TU",
+    "name": "Lake McMurtry East Recreation Area",
+    "formatted_address": "29180 Chisholm Curv, Stillwater, OK 74075, USA",
+    "latitude": 36.1831079,
+    "longitude": -97.1746302,
+    "city": "Stillwater",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 80,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJoWJyHZrGtocRw9-rS_lzLR4",
+    "name": "Shell Lake Boat Ramp",
+    "formatted_address": "16280 Shell Creek Rd, Sand Springs, OK 74063, USA",
+    "latitude": 36.1806801,
+    "longitude": -96.1793046,
+    "city": "Sand Springs",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 105,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzbiYPy6ksYcRXvTaFZ9LVso",
+    "name": "Lake McMurtry West Recreation Area",
+    "formatted_address": "30285 Bronco Curve, Stillwater, OK 74075, USA",
+    "latitude": 36.1706994,
+    "longitude": -97.1884553,
+    "city": "Stillwater",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 186,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4584260252",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.159861,
+    "longitude": -97.0612498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq21cXx7JtocRGqmceuyTFvM",
+    "name": "Keystone Ramp",
+    "formatted_address": "OK-51, Sand Springs, OK 74063, USA",
+    "latitude": 36.1597698,
+    "longitude": -96.28271649999999,
+    "city": "Sand Springs",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 137,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJITsVhbtdtocR4x84voqU_2Q",
+    "name": "33 Landing",
+    "formatted_address": "12000-12068 E 590 Rd, Inola, OK 74036, USA",
+    "latitude": 36.1592368,
+    "longitude": -95.61959329999999,
+    "city": "Inola",
+    "county": "",
+    "rating": 3.8,
+    "total_ratings": 20,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13309835048",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1522917,
+    "longitude": -96.2825233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJgZ53jHn7rocRB6Sn7zDWeQo",
+    "name": "Fairview Boat Dock",
+    "formatted_address": "Longdale, OK 73755, USA",
+    "latitude": 36.1519759,
+    "longitude": -98.61282589999999,
+    "city": "Longdale",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2196929522",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1467147,
+    "longitude": -97.0675444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13305552559",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1429748,
+    "longitude": -96.275772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJxyb_kNHHtocRauiH4kNn-nw",
+    "name": "Swift Park / Boat Launch / Public Access",
+    "formatted_address": "Sand Springs, OK 74063, USA",
+    "latitude": 36.1383259,
+    "longitude": -96.2383588,
+    "city": "Sand Springs",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 21,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13309834985",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1353977,
+    "longitude": -96.2761775,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8536122482",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.135288,
+    "longitude": -96.3238393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJOdNrIBsWtocRZy_b3voHivE",
+    "name": "Mazie Landing Marina",
+    "formatted_address": "60 Mazie Lndg Dr, Chouteau, OK 74337, USA",
+    "latitude": 36.1347885,
+    "longitude": -95.2961278,
+    "city": "Chouteau",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 125,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_396630692",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1337568,
+    "longitude": -95.9966782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ4-jLOxbLtocR59KJ95xmPy4",
+    "name": "Prairie View Point Boat Ramp",
+    "formatted_address": "1955 Basin Rd, Mannford, OK 74044, USA",
+    "latitude": 36.13284549999999,
+    "longitude": -96.341562,
+    "city": "Mannford",
+    "county": "",
+    "rating": 4.9,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJXZ-z1zXKtocR8KvzNcSbgbE",
+    "name": "Keystone Harbor Marina",
+    "formatted_address": "1989 CrossTimbers Harbor Ln, Mannford, OK 74044, USA",
+    "latitude": 36.1327506,
+    "longitude": -96.33906859999999,
+    "city": "Mannford",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 621,
+    "types": [
+      "campground",
+      "establishment",
+      "food",
+      "lodging",
+      "point_of_interest",
+      "restaurant",
+      "rv_park",
+      "storage"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfx23EE3KtocR4rt6G1EXjLI",
+    "name": "New Mannford Ramp",
+    "formatted_address": "1955 Basin Rd, Mannford, OK 74044, USA",
+    "latitude": 36.1312553,
+    "longitude": -96.3459464,
+    "city": "Mannford",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 59,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8536122483",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1311767,
+    "longitude": -96.3302122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJVVVVlanwrocRL2XqrNAlGuI",
+    "name": "Longdale Recreation Area",
+    "formatted_address": "Longdale, OK 73755, USA",
+    "latitude": 36.12755629999999,
+    "longitude": -98.5789696,
+    "city": "Longdale",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJL95StOfBtocRo_oGhsJyKHg",
+    "name": "Boat Ramp at Case Community Park",
+    "formatted_address": "4VGF+WR, Sand Springs, OK 74063, USA",
+    "latitude": 36.1273151,
+    "longitude": -96.1254958,
+    "city": "Sand Springs",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJNxpy3n3wrocRHbJx6HYOv4A",
+    "name": "Big Bend",
+    "formatted_address": "Canton, OK 73724, USA",
+    "latitude": 36.1204353,
+    "longitude": -98.617547,
+    "city": "Canton",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 181,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJEcR5VbqjsYcRwhUG7Dwq38A",
+    "name": "OSU Lake Carl Blackwell",
+    "formatted_address": "4Q9R+W6, Stillwater, OK 74074, USA",
+    "latitude": 36.1197529,
+    "longitude": -97.20944039999999,
+    "city": "Stillwater",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 299,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7722294582",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.1117756,
+    "longitude": -98.6135837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJW6P1R_vwrocRFYU3scs4YUY",
+    "name": "Canadian Campground",
+    "formatted_address": "39VR+2V, Canadian Recreation Area, HC 65 BOX120, Canton, OK 73724, USA",
+    "latitude": 36.0905556,
+    "longitude": -98.6058333,
+    "city": "Canton",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 191,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1906181674",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.0704705,
+    "longitude": -95.9823768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJVX1XJKBotocR3ciLtSD-nf8",
+    "name": "Bluff Landing Public Use Area",
+    "formatted_address": "Broken Arrow, OK 74014, USA",
+    "latitude": 36.0687926,
+    "longitude": -95.55992309999999,
+    "city": "Broken Arrow",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 450,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_470023090",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.0644287,
+    "longitude": -95.9668939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJlTtxZhc7qYcRNlYO44Jj9v4",
+    "name": "South Turkey Creek",
+    "formatted_address": "South Turkey Creek, Oklahoma, USA",
+    "latitude": 36.0401964,
+    "longitude": -99.478042,
+    "city": "Oklahoma",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJWwKKzfwTtocR1G14W6ZnIK4",
+    "name": "Rocky Point Public Boat Ramp",
+    "formatted_address": "Wagoner, OK 74467, USA",
+    "latitude": 36.0341377,
+    "longitude": -95.31871029999999,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 36,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJcy2sjD8TtocRVEZTMWvA8So",
+    "name": "Rocky Point boat ramp",
+    "formatted_address": "Wagoner, OK 74467, USA",
+    "latitude": 36.0341377,
+    "longitude": -95.31871029999999,
+    "city": "Rocky Point",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJqbPEudwTtocRU5VOzQF5b_U",
+    "name": "Rocky Point",
+    "formatted_address": "Wagoner, OK 74467, USA",
+    "latitude": 36.0341377,
+    "longitude": -95.31871029999999,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 146,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6388612649",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 36.0219156,
+    "longitude": -95.9056586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ75sq9YYRtocRLSbivQ-v-wQ",
+    "name": "Snug Harbor Public Use Area",
+    "formatted_address": "69681 S 324 Rd, Wagoner, OK 74467, USA",
+    "latitude": 36.0138198,
+    "longitude": -95.3043392,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 72,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJj4XOw4EMtocREZUz6tIBRPs",
+    "name": "Whitehorn Cove Marina",
+    "formatted_address": "34561 E 700 Rd, Wagoner, OK 74467, USA",
+    "latitude": 36.0060769,
+    "longitude": -95.26379,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 190,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJA8CKdfoNtocRkRrLaO3wXIo",
+    "name": "Toppers Public Use Area",
+    "formatted_address": "2345 E 720 Dr, Wagoner, OK 74467, USA",
+    "latitude": 35.9742641,
+    "longitude": -95.3093892,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 92,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13028428008",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9734948,
+    "longitude": -95.5617685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13174013096",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.97092,
+    "longitude": -95.3039064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_145580007",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9594127,
+    "longitude": -96.307111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCQueUPOxtocR3hWt2M7b5JI",
+    "name": "Sheppard Point Corps of Engineers Campground",
+    "formatted_address": "Bristow, OK 74010, USA",
+    "latitude": 35.9554058,
+    "longitude": -96.313554,
+    "city": "Bristow",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 50,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzar5pgsOtocRX-Q-01xcV50",
+    "name": "Long Bay Marina",
+    "formatted_address": "73314 Murray Cir, Wagoner, OK 74467, USA",
+    "latitude": 35.953527,
+    "longitude": -95.307532,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 53,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJkT65-paxtocRqnUXGgiZGcc",
+    "name": "Heyburn Lake",
+    "formatted_address": "29980 W 141st St S, Bristow, OK 74010, USA",
+    "latitude": 35.951511,
+    "longitude": -96.3239365,
+    "city": "Kellyville",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJm2TDYOVxtocRhRQDnTUuXOo",
+    "name": "Afton Landing Boat Ramp",
+    "formatted_address": "S 221 Rd, Wagoner, OK 74467, USA",
+    "latitude": 35.9456018,
+    "longitude": -95.48518109999999,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 31,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJxZDSk5OxtocRSeUEZ37jcd4",
+    "name": "Heyburn Park Public Use Area",
+    "formatted_address": "28381 Heyburn Lake Road, Kellyville, OK 74039, USA",
+    "latitude": 35.9455231,
+    "longitude": -96.30772309999999,
+    "city": "Kellyville",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 182,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJhQGXKWkPtocRay1Z15GniRg",
+    "name": "Taylor Ferry North Boat Ramp",
+    "formatted_address": "34073 E 740 Rd, Wagoner, OK 74467, USA",
+    "latitude": 35.9437224,
+    "longitude": -95.277209,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 12,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2514629442",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9436571,
+    "longitude": -98.4235961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1573145882",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9197098,
+    "longitude": -95.2099012,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1573145467",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9181954,
+    "longitude": -95.2211317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_72oTXUMtocRX4OFvHwCo04",
+    "name": "Sequoyah Bay State Park",
+    "formatted_address": "17131 Park 10, Hulbert, OK 74441, USA",
+    "latitude": 35.91637910000001,
+    "longitude": -95.2501602,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 620,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1578456858",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9133541,
+    "longitude": -95.2368662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ2R828QsPtocRCxU_ihJxngk",
+    "name": "Jackson Bay Boat Ramp",
+    "formatted_address": "N 50th St E, Wagoner, OK 74467, USA",
+    "latitude": 35.9097908,
+    "longitude": -95.2938729,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 3.9,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_148362214",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.9076176,
+    "longitude": -95.2996223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1578456854",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.903997,
+    "longitude": -95.238575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6336193995",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8960686,
+    "longitude": -95.798138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB9Qp9XJztocRKiWSIb5ouAY",
+    "name": "Verdigris River Boat Launch",
+    "formatted_address": "Tullahassee, OK 74454, USA",
+    "latitude": 35.8909585,
+    "longitude": -95.44834010000001,
+    "city": "Tullahassee",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1578456853",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8892374,
+    "longitude": -95.2397683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7149330154",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8856311,
+    "longitude": -95.270244,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13256705322",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8814677,
+    "longitude": -97.9883747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJrQd6vmsJtocRlUR1Kowf4sY",
+    "name": "Wahoo Bay Boat Ramp",
+    "formatted_address": "Wahoo Bay, Wagoner, OK 74467, USA",
+    "latitude": 35.8794739,
+    "longitude": -95.27812229999999,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 14,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13131207876",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8794457,
+    "longitude": -95.2725851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2047453596",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.876736,
+    "longitude": -97.3821689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10927147383",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8750048,
+    "longitude": -95.2177471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJBywE3EwJtocR90Iqpv-iiTI",
+    "name": "Ft. Gibson Dam Boat Ramp",
+    "formatted_address": "OK-251A, Wagoner, OK 74467, USA",
+    "latitude": 35.8709844,
+    "longitude": -95.2367871,
+    "city": "Wagoner",
+    "county": "",
+    "rating": 3.7,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1535624821",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8640194,
+    "longitude": -95.228836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJhStuHO35yYcRDvnFwpselsA",
+    "name": "Horseshoe Bend Public Use Area",
+    "formatted_address": "Park Hill, OK 74451, USA",
+    "latitude": 35.8220937,
+    "longitude": -94.90317859999999,
+    "city": "Park Hill",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 18,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJS79O-rECyocRtNgusv1HxRM",
+    "name": "Etta Bend",
+    "formatted_address": "Welling, OK 74471, USA",
+    "latitude": 35.8042164,
+    "longitude": -94.89918180000001,
+    "city": "Welling",
+    "county": "",
+    "rating": 3.5,
+    "total_ratings": 8,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_145461797",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8021729,
+    "longitude": -96.6052574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12398369534",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.8020184,
+    "longitude": -95.2647915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_145322837",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.7978432,
+    "longitude": -96.598984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147249683",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.7679368,
+    "longitude": -95.2982495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420942751",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.7676656,
+    "longitude": -95.2919636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJn0DhejsDyocRhNdjarvJSnU",
+    "name": "Cherokee Landing State Park",
+    "formatted_address": "28610 Park 20, Park Hill, OK 74451, USA",
+    "latitude": 35.7582026,
+    "longitude": -94.90929109999999,
+    "city": "Park Hill",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 1003,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJuTeCgbwDyocRhShFj7RkTRg",
+    "name": "Pettit Bay",
+    "formatted_address": "RT 1 BOX 259,, Park Hill, OK 74451, USA",
+    "latitude": 35.75361110000001,
+    "longitude": -94.9477778,
+    "city": "Park Hill",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 60,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6xxUwDcDyocRaDGKcum1ig8",
+    "name": "Elk Creek Landing Public Use Area",
+    "formatted_address": "RT 1 BOX 259,, Park Hill, OK 74451, USA",
+    "latitude": 35.75138889999999,
+    "longitude": -94.90249999999999,
+    "city": "Park Hill",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 83,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_146491142",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.7384999,
+    "longitude": -96.9056317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYXkfhbdisYcRslrl4tD95v0",
+    "name": "Chandler Lake Boat Ramp",
+    "formatted_address": "88019 N Post Rd, Chandler, OK 74834, USA",
+    "latitude": 35.7368621,
+    "longitude": -96.9107446,
+    "city": "Chandler",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJE--1j98FyocRW0JnS875DBA",
+    "name": "Sizemore Landing",
+    "formatted_address": "31133 S Sizemore Rd, Park Hill, OK 74451, USA",
+    "latitude": 35.7242067,
+    "longitude": -94.9679724,
+    "city": "Park Hill",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 21,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJHW_fYuQFyocRsm8QFpBUg0c",
+    "name": "Carlisle Cove boat ramp",
+    "formatted_address": "20508 Carlile Cove Rd, Cookson, OK 74427, USA",
+    "latitude": 35.7239936,
+    "longitude": -94.9403806,
+    "city": "Cookson",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYyFE0OwEyocRqLYJFcSIHLw",
+    "name": "Cookson Bend Resort & Marina",
+    "formatted_address": "19644 W Cookson Bend Rd, Cookson, OK 74427, USA",
+    "latitude": 35.7069196,
+    "longitude": -94.955309,
+    "city": "Cookson",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 170,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1530690352",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.706722,
+    "longitude": -101.5557375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJg8dfwUQEyocROoZm0XIlvgs",
+    "name": "Sixshooter Marina & Cabins",
+    "formatted_address": "20144 W Six Shooter Rd, Cookson, OK 74427, USA",
+    "latitude": 35.6977455,
+    "longitude": -94.9462959,
+    "city": "Cookson",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 180,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1530635231",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.6876212,
+    "longitude": -101.593113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAV4xED4FyocRiAGvARIOxnA",
+    "name": "Chicken Creek Boat Ramp",
+    "formatted_address": "S 520 Rd, Cookson, OK 74427, USA",
+    "latitude": 35.6774221,
+    "longitude": -94.9611798,
+    "city": "Cookson",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_VQHXkchsocRZzypKiL_FLg",
+    "name": "Boat Ramp - Central State Park - 2nd Street",
+    "formatted_address": "Unnamed Road, Edmond, OK 73034, USA",
+    "latitude": 35.6477493,
+    "longitude": -97.3771189,
+    "city": "Edmond",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJx_Wh_HUhsocR6uLN0ogaMH8",
+    "name": "Arcadia Lake Boat Ramp",
+    "formatted_address": "Edmond, OK 73034, USA",
+    "latitude": 35.6477003,
+    "longitude": -97.37710539999999,
+    "city": "Edmond",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 25,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJK7fPkPwFyocRY52uMMjsLoM",
+    "name": "Snake Creek Campground",
+    "formatted_address": "RT 1 BOX 259, Cookson, OK 74427, USA",
+    "latitude": 35.6475,
+    "longitude": -94.97222219999999,
+    "city": "Cookson",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 65,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ9RxgbbUhsocRqdX3zz4QMhQ",
+    "name": "Edmond Park Boat Ramp",
+    "formatted_address": "Edmond, OK 73013, USA",
+    "latitude": 35.6470486,
+    "longitude": -97.38632989999999,
+    "city": "Edmond",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq6qqWhsGyocRrl0MreZEIsI",
+    "name": "Blackgum Landing Public Use Area",
+    "formatted_address": "Vian, OK 74962, USA",
+    "latitude": 35.6438282,
+    "longitude": -94.9876989,
+    "city": "Vian",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJl5s-XVshsocRSt5LMg-RBgM",
+    "name": "Spring Creek Park Boat Ramp",
+    "formatted_address": "Edmond, OK 73013, USA",
+    "latitude": 35.642668,
+    "longitude": -97.3843139,
+    "city": "Edmond",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq_3ORqEhsocR7FZ_F18gJjI",
+    "name": "Spring Creek Park",
+    "formatted_address": "Edmond, OK 73013, USA",
+    "latitude": 35.642668,
+    "longitude": -97.3843139,
+    "city": "Edmond",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 678,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJe9WWQgCBrocRYcWm7-WPW4k",
+    "name": "Boat Ramp",
+    "formatted_address": "JFJV+2F, Hydro, OK 73040, USA",
+    "latitude": 35.630095,
+    "longitude": -98.50633289999999,
+    "city": "Hydro",
+    "county": "",
+    "rating": 3,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147406104",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.6224116,
+    "longitude": -96.0664506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ7a6bp-X6tYcRXIj8qYftdzY",
+    "name": "Greenleaf State Park",
+    "formatted_address": "12022 Greenleaf Rd, Braggs, OK 74423, USA",
+    "latitude": 35.6215958,
+    "longitude": -95.1796954,
+    "city": "Braggs",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 1045,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_8NQYOH3tYcRxLaVsbWJtpA",
+    "name": "Strayhorn Marina Tenkiller",
+    "formatted_address": "446547 East 965 Road, Gore, OK 74435, USA",
+    "latitude": 35.6180393,
+    "longitude": -95.0634668,
+    "city": "Gore",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 228,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJR96S9m3xtYcRVSFVptZOVGQ",
+    "name": "Highway 10 Landing",
+    "formatted_address": "9637 S OK-10, Muskogee, OK 74403, USA",
+    "latitude": 35.6158641,
+    "longitude": -95.1765878,
+    "city": "Muskogee",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPdIz6nQYtIcRP9rYnwkpGfU",
+    "name": "Okmulgee Lake & Recreation Area",
+    "formatted_address": "16830 Dripping Springs Rd, Okmulgee, OK 74447, USA",
+    "latitude": 35.6117507,
+    "longitude": -96.068805,
+    "city": "Okmulgee",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 691,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB6VcwRAMyocRvun_vcm2DMs",
+    "name": "Pine Cove Marina - Lake Tenkiller",
+    "formatted_address": "97724 S 4485 Rd, Vian, OK 74962, USA",
+    "latitude": 35.60561,
+    "longitude": -95.0284044,
+    "city": "Vian",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 243,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJGRsTLV8JyocRzdZTyA7duU8",
+    "name": "Hickory Flats Boat Ramp",
+    "formatted_address": "S 4485 Rd, Vian, OK 74962, USA",
+    "latitude": 35.6046437,
+    "longitude": -95.03360239999999,
+    "city": "Vian",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ53jM6eoJyocR8QwRjkb3zak",
+    "name": "Fisherman’s Point Boat Ramp",
+    "formatted_address": "E 975 Lp, Vian, OK 74962, USA",
+    "latitude": 35.6042228,
+    "longitude": -95.0382758,
+    "city": "Vian",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJb7AFmeUYsocR6WBFPixIwYw",
+    "name": "Deep Fork",
+    "formatted_address": "Deep Fork, Oklahoma City, OK, USA",
+    "latitude": 35.6034619,
+    "longitude": -97.4131262,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYVvQPw4YtIcRVbQGpCex4Po",
+    "name": "Hickory Point",
+    "formatted_address": "Okmulgee, OK 74447, USA",
+    "latitude": 35.6026805,
+    "longitude": -96.077317,
+    "city": "Okmulgee",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 56,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2839775621",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.6001488,
+    "longitude": -95.2702943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2839772380",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5952373,
+    "longitude": -95.2623845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_227883340",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5876448,
+    "longitude": -101.7081401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJt8spC7FVqYcRX_WxpqHDb7c",
+    "name": "Cutberth Boat Ramp",
+    "formatted_address": "Butler, OK 73625, USA",
+    "latitude": 35.5816044,
+    "longitude": -99.21150209999999,
+    "city": "Butler",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJ386GAFVqYcRhRULm2xdFIQ",
+    "name": "Buffalo Bend Boat Ramp",
+    "formatted_address": "Foss Reservoir, Butler, OK 73625, USA",
+    "latitude": 35.5778258,
+    "longitude": -99.2177971,
+    "city": "Butler",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9984438276",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5773136,
+    "longitude": -99.2530486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6475701103",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5738926,
+    "longitude": -95.1799469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_228874450",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5612217,
+    "longitude": -97.5771019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9984468157",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5566563,
+    "longitude": -99.2295108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_583390100",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5504255,
+    "longitude": -97.5857854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_227992788",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.5499747,
+    "longitude": -97.5979164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJPwVK42j_q4cR9ZaeeqQkS9U",
+    "name": "Sandy Beach Boat Ramp",
+    "formatted_address": "Foss Reservoir, Butler, OK 73625, USA",
+    "latitude": 35.5453619,
+    "longitude": -99.2081506,
+    "city": "Butler",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJTTFIxc7_q4cR5Au0SSO83uY",
+    "name": "Cedar Point Boat Ramp",
+    "formatted_address": "Foss Reservoir, Clinton, OK 73601, USA",
+    "latitude": 35.5356581,
+    "longitude": -99.19442389999999,
+    "city": "Clinton",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJEQMKB7b1tYcRGQfp19TYq54",
+    "name": "Gore Landing",
+    "formatted_address": "Gore, OK 74435, USA",
+    "latitude": 35.5235204,
+    "longitude": -95.0962132,
+    "city": "Gore",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 119,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10013812536",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.522496,
+    "longitude": -96.3188956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ5Q9IaHo0tIcROouFgytlMGc",
+    "name": "Graves Creek Boat Ramp",
+    "formatted_address": "Henryetta, OK 74437, USA",
+    "latitude": 35.5076405,
+    "longitude": -95.78142729999999,
+    "city": "Henryetta",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 23,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ0clyJb_LtYcRBbO6-FrQ8LY",
+    "name": "N EUFAULA BOAT RAMP",
+    "formatted_address": "Unnamed Road, Council Hill, OK 74428, USA",
+    "latitude": 35.4943237,
+    "longitude": -95.6712951,
+    "city": "Council Hill",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 21,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5278903229",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.4879149,
+    "longitude": -97.6866455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5278903254",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.4862434,
+    "longitude": -97.6704104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzfYkTt4WsocRLWy7M1lUGtI",
+    "name": "Oklahoma River Cruises - Bricktown Landing",
+    "formatted_address": "334 Centennial Dr, Oklahoma City, OK 73129, USA",
+    "latitude": 35.4628818,
+    "longitude": -97.5046556,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 37,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "travel_agency"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1878694806",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.4609802,
+    "longitude": -97.4958515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJjwwG4t0WsocRmPASOYp0qIk",
+    "name": "Oklahoma River Cruises - Regatta Park Landing",
+    "formatted_address": "701 S Lincoln Blvd, Oklahoma City, OK 73129, USA",
+    "latitude": 35.4583348,
+    "longitude": -97.504041,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 42,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJGcGzmPkRsocRxAKBJLYTzJg",
+    "name": "Oklahoma River Cruises - Stockyards Landing",
+    "formatted_address": "800 S Agnew Ave, Oklahoma City, OK 73108, USA",
+    "latitude": 35.4582864,
+    "longitude": -97.554558,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 16,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJmzcdpSYRsocRjs2fhkIqjuc",
+    "name": "Oklahoma River Cruises - Exchange Landing",
+    "formatted_address": "1503 Exchange Ave, Oklahoma City, OK 73108, USA",
+    "latitude": 35.457999,
+    "longitude": -97.540719,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 69,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJA5YZMyx1yocRMH-xc04cTHA",
+    "name": "Stoney Point Ramp",
+    "formatted_address": "Stigler, OK 74462, USA",
+    "latitude": 35.4569763,
+    "longitude": -95.02582849999999,
+    "city": "Stigler",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJWVlSZ7ARsocRpqdXHD0ZFao",
+    "name": "Boat Ramp and Oklahoma River Trails Access at 15th and Portland",
+    "formatted_address": "Unnamed Road, Oklahoma City, OK 73108, USA",
+    "latitude": 35.4493923,
+    "longitude": -97.5812567,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 34,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJk-uSKcYRsocRAlHtPSArtf4",
+    "name": "Oklahoma River Cruises - Meridian Landing",
+    "formatted_address": "4345 SW 15th St, Oklahoma City, OK 73108, USA",
+    "latitude": 35.4479451,
+    "longitude": -97.59541499999999,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJDU4kRTxJyocRqPotLWtcKsU",
+    "name": "Muldrow Lake Ramp",
+    "formatted_address": "Lake Rd, Muldrow, OK 74948, USA",
+    "latitude": 35.4460284,
+    "longitude": -94.5614532,
+    "city": "Muldrow",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 8,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJI9nK6Z7zs4cRWg834eU-msM",
+    "name": "Highway 99",
+    "formatted_address": "OK-99, Oklahoma, USA",
+    "latitude": 35.4355396,
+    "longitude": -96.6652605,
+    "city": "Oklahoma",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11133073408",
+    "name": "Reeve'S Slough Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.4345978,
+    "longitude": -95.007754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11133041273",
+    "name": "Tuff Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.4332946,
+    "longitude": -94.973324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJs7EY00A1socRSkK9-PlGxzw",
+    "name": "Wes Watkins Lake, East Boat Ramp",
+    "formatted_address": "McLoud, OK 74851, USA",
+    "latitude": 35.4078755,
+    "longitude": -97.10827359999999,
+    "city": "McLoud",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 10,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJm7pfp1G2tYcRP65jxoyVGWg",
+    "name": "Lake Eufaula State Park",
+    "formatted_address": "111563 OK-150, Checotah, OK 74426, USA",
+    "latitude": 35.4000907,
+    "longitude": -95.60518789999999,
+    "city": "Checotah",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 1236,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1820431397",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.3730033,
+    "longitude": -97.3697733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ922FFnnvq4cRkIVFxwLZuLg",
+    "name": "Elk City Lake Park campground",
+    "formatted_address": "D1137 Rd, Elk City, OK 73644, USA",
+    "latitude": 35.366042,
+    "longitude": -99.4154983,
+    "city": "Elk City",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 337,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJA38ed04_socRoPIyOAvoKeM",
+    "name": "Lake Stanley Draper Marina",
+    "formatted_address": "8301 SE 104th St, Oklahoma City, OK 73165, USA",
+    "latitude": 35.3656886,
+    "longitude": -97.37659649999999,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 579,
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "meal_takeaway",
+      "park",
+      "point_of_interest",
+      "restaurant",
+      "storage",
+      "store"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1378630633",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.365335,
+    "longitude": -94.8270165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJF6-9lv2VtYcReUefyWH7kWA",
+    "name": "Porum Landing Recreation Area",
+    "formatted_address": "102 E BK 200 Rd, Stigler, OK 74462, USA",
+    "latitude": 35.3594519,
+    "longitude": -95.3894467,
+    "city": "Stigler",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 96,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJy_MLAgGvtYcRDbv0TLObJ7I",
+    "name": "Oak Ridge Recreation Area",
+    "formatted_address": "102 E BK 200 Rd, Stigler, OK 74462, USA",
+    "latitude": 35.3594519,
+    "longitude": -95.3894467,
+    "city": "Eufaula",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 68,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJTyiLxRi1s4cR7v7MV0X6Qu8",
+    "name": "Shawnee Twin Lakes Boat Ramp Lake #2",
+    "formatted_address": "No 2 Dam Rd, Shawnee, OK 74804, USA",
+    "latitude": 35.3520889,
+    "longitude": -97.07003019999999,
+    "city": "Shawnee",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 19,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJw7rCKFW3tYcRHYdCL7mAhG8",
+    "name": "Indian Springs Boat Ramp",
+    "formatted_address": "Indian Springs Boat Ramp, Oklahoma 74432, USA",
+    "latitude": 35.3509071,
+    "longitude": -95.5641891,
+    "city": "Oklahoma 74432",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 16,
+    "types": [
+      "establishment",
+      "natural_feature"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJBaEes8O1s4cR7rIdGz1IVzQ",
+    "name": "Shawnee Twin Lakes Boat Ramp Lake #1",
+    "formatted_address": "33702 Belcher Rd, Shawnee, OK 74801, USA",
+    "latitude": 35.3464342,
+    "longitude": -97.06086490000001,
+    "city": "Shawnee",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 16,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1820858340",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.3425485,
+    "longitude": -97.3641469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_351416982",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.3288287,
+    "longitude": -95.5912838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJjWHsewC7tYcR3Q34TsDUeFw",
+    "name": "Belle Starr Boat Ramp",
+    "formatted_address": "8FH7+84, Texanna, OK 74432, USA",
+    "latitude": 35.3283019,
+    "longitude": -95.53714730000002,
+    "city": "Texanna",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJva_pVFlFyocRrXxphariuHA",
+    "name": "Boat Ramp Above WD Mayo Dam",
+    "formatted_address": "Spiro, OK 74959, USA",
+    "latitude": 35.3208456,
+    "longitude": -94.5673872,
+    "city": "Spiro",
+    "county": "",
+    "rating": 3.7,
+    "total_ratings": 19,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_SxPmThpyocRFoFFs3LzoHY",
+    "name": "Short Mountain Cove Boat Ramp",
+    "formatted_address": "Spiro, OK 74959, USA",
+    "latitude": 35.3204446,
+    "longitude": -94.7847094,
+    "city": "Spiro",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 17,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJf-TZC6XtYcR8sRsmGJKcYU",
+    "name": "Ladybird Landing Corps of Engineers Recreation Area",
+    "formatted_address": "126 W BK 100 Rd, Stigler, OK 74462, USA",
+    "latitude": 35.3028504,
+    "longitude": -95.3771874,
+    "city": "Stigler",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 44,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJOxpeogC7tYcRNWQ4G0bFpdM",
+    "name": "Eufaula Cove Marina Boat Ramp",
+    "formatted_address": "Eufaula, OK 74432, USA",
+    "latitude": 35.2832663,
+    "longitude": -95.5738611,
+    "city": "Eufaula",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJvWKgDhSwtYcRC-u0jMFc6GM",
+    "name": "Boat Ramp",
+    "formatted_address": "400 Lakeshore Dr, Eufaula, OK 74432, USA",
+    "latitude": 35.2796595,
+    "longitude": -95.5778816,
+    "city": "Eufaula",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 16,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJLflQC1S9tYcR_ZmIPumSAnE",
+    "name": "Brooken Cove",
+    "formatted_address": "Brooken Cove, Oklahoma 74462, USA",
+    "latitude": 35.27840339999999,
+    "longitude": -95.40180869999999,
+    "city": "Oklahoma 74462",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 43,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-23y7B2xtYcRAWh0yQmTJoA",
+    "name": "Nichols Point Boat Ramp",
+    "formatted_address": "Dabbs Rd, Eufaula, OK 74432, USA",
+    "latitude": 35.276712,
+    "longitude": -95.5751992,
+    "city": "Eufaula",
+    "county": "",
+    "rating": 4.9,
+    "total_ratings": 8,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10286644210",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2592477,
+    "longitude": -94.9379854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1740518656",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2498799,
+    "longitude": -97.239651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJVTXSgCltYcRW5pMc0aMhrU",
+    "name": "Boat ramp",
+    "formatted_address": "479 Kiamichi Rd, Eufaula, OK 74432, USA",
+    "latitude": 35.2461608,
+    "longitude": -95.528178,
+    "city": "Eufaula",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJXWQYXzultYcRpHm09Nrr_Wo",
+    "name": "Highway 9 North Boat Ramp",
+    "formatted_address": "Stigler, OK 74462, USA",
+    "latitude": 35.2440089,
+    "longitude": -95.49255959999999,
+    "city": "Stigler",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJVVtd9d9OsocRG8hWdlsmHHI",
+    "name": "Post Oak RV Park",
+    "formatted_address": "Norman, OK 73026, USA",
+    "latitude": 35.2437207,
+    "longitude": -97.2222391,
+    "city": "Norman",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 141,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ9TzgAhZPsocR3vslfjFV5qo",
+    "name": "Lake Thunderbird BoatHouse",
+    "formatted_address": "1312 Indian Point Rd, Norman, OK 73026, USA",
+    "latitude": 35.2393417,
+    "longitude": -97.2375869,
+    "city": "Norman",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 38,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJwUX7PDmltYcRi1apcXDS0po",
+    "name": "Highway 9 South Boat Ramp",
+    "formatted_address": "Quinton, OK 74561, USA",
+    "latitude": 35.2381782,
+    "longitude": -95.49647069999999,
+    "city": "Quinton",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1740491331",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2379783,
+    "longitude": -97.27837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJn28_RfaltYcR9ggcVQz2IDE",
+    "name": "Highway 9 east Boat Ramp",
+    "formatted_address": "Stigler, OK 74462, USA",
+    "latitude": 35.2374701,
+    "longitude": -95.4863823,
+    "city": "Stigler",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJj9Qy07VPsocR3iEEMlF3w5I",
+    "name": "Little Axe Boat Ramp",
+    "formatted_address": "Unnamed Road, Norman, OK 73026, USA",
+    "latitude": 35.2368407,
+    "longitude": -97.2230659,
+    "city": "Norman",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 33,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJZ7ZrbU1EsocRjmOx-R2nib0",
+    "name": "North Sentinel Campground",
+    "formatted_address": "13101 Alameda Dr, Norman, OK 73026, USA",
+    "latitude": 35.23640750000001,
+    "longitude": -97.2518004,
+    "city": "Norman",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 66,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1739295992",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2316949,
+    "longitude": -97.3095078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfcI5Kl9CsocRG2CA2Lw5shA",
+    "name": "Little River Marina",
+    "formatted_address": "13801 Marina Rd, Norman, OK 73026, USA",
+    "latitude": 35.2314033,
+    "longitude": -97.2378005,
+    "city": "Norman",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 202,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3889824643",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2288278,
+    "longitude": -97.2469676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1740491086",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2261262,
+    "longitude": -97.2809041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9970514151",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.218258,
+    "longitude": -98.4850535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9970514152",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2169437,
+    "longitude": -98.5000826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6699759421",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.213056,
+    "longitude": -100.8724216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJz31hj9GFs4cROko9_ZcbmZY",
+    "name": "Sportsman Lake Boat Ramp",
+    "formatted_address": "Wewoka, OK 74884, USA",
+    "latitude": 35.2114011,
+    "longitude": -96.55252399999999,
+    "city": "Wewoka",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 29,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJD3_1xldPsocRzogIIJjRBbc",
+    "name": "Calypso Boat Launch",
+    "formatted_address": "Discovery Cove Nature Center, 1201 Clear Bay Ave, Norman, OK 73026, USA",
+    "latitude": 35.2101567,
+    "longitude": -97.2523906,
+    "city": "Norman",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9970514153",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.2060949,
+    "longitude": -98.5002469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYVB6QU6ltYcRWNHaiZhub8c",
+    "name": "Carlton Landing Marina Store",
+    "formatted_address": "Carlton Landing Dr, Canadian, OK 74425, USA",
+    "latitude": 35.2039222,
+    "longitude": -95.5425415,
+    "city": "Carlton Landing",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJc09ZCJaltYcRJ91f4yCE1T4",
+    "name": "Carlton Landing Boat Dock",
+    "formatted_address": "Carlton Landing Dr, Canadian, OK 74425, USA",
+    "latitude": 35.2039222,
+    "longitude": -95.5425415,
+    "city": "Canadian",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJwSIxM7G0rYcRUrCts3ap880",
+    "name": "Lemmon Landing Boat Ramp",
+    "formatted_address": "Lemmon Landing Rd, Fort Cobb, OK 73038, USA",
+    "latitude": 35.1976032,
+    "longitude": -98.47693199999999,
+    "city": "Fort Cobb",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10285064294",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.1839522,
+    "longitude": -95.6155112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJS54oDwCzrYcRx1tEsVeJc90",
+    "name": "Blackjack Boat Ramp",
+    "formatted_address": "5GJG+35, Fort Cobb, OK 73038, USA",
+    "latitude": 35.180218,
+    "longitude": -98.474583,
+    "city": "Fort Cobb",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJrW3wSVyzrYcRRTrRFMoHuw0",
+    "name": "Fort Cobb State Park",
+    "formatted_address": "27022 Copperhead Rd, Fort Cobb, OK 73038, USA",
+    "latitude": 35.1738602,
+    "longitude": -98.4402815,
+    "city": "Fort Cobb",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 1102,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ_373fDuzrYcRGnmCNlKbwmk",
+    "name": "Sunset Cove Boat Ramp",
+    "formatted_address": "Copperhead Rd, Fort Cobb, OK 73038, USA",
+    "latitude": 35.1699273,
+    "longitude": -98.4501205,
+    "city": "Fort Cobb",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147970832",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.1628179,
+    "longitude": -98.8246953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10104585506",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.1472392,
+    "longitude": -98.1304914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJAWf5NXm9rYcRVpKq9xT2tQg",
+    "name": "Lake Chickasha",
+    "formatted_address": "Verden, OK 73092, USA",
+    "latitude": 35.1326542,
+    "longitude": -98.1277089,
+    "city": "Verden",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 210,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147871183",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.1223165,
+    "longitude": -95.6127542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7939121823",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.120742,
+    "longitude": -95.6771183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147876167",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.1105455,
+    "longitude": -95.68543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147873399",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.1083653,
+    "longitude": -95.6980365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147876203",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.108254,
+    "longitude": -95.6911966,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-fDo84yqtYcRym_gtHR24Gk",
+    "name": "Crowder Point Family Campground",
+    "formatted_address": "Rock Creek Rd, McAlester, OK 74501, USA",
+    "latitude": 35.1029034,
+    "longitude": -95.69031249999999,
+    "city": "McAlester",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 152,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_227940861",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.0489689,
+    "longitude": -101.7769855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_147838386",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.0431717,
+    "longitude": -95.6660047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1532785355",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.032054,
+    "longitude": -96.3696549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_835157423",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.0319782,
+    "longitude": -95.6896501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3999613399",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 35.002559,
+    "longitude": -95.361835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3999612909",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.9956377,
+    "longitude": -95.3549708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4024179801",
+    "name": "Carlton Dam",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.9776209,
+    "longitude": -95.3599645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJS6a_Ke10s4cRJAH3bGdM1ms",
+    "name": "Lake Konawa",
+    "formatted_address": "Lake Konawa, Oklahoma 74849, USA",
+    "latitude": 34.9652029,
+    "longitude": -96.7079287,
+    "city": "Oklahoma 74849",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 70,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1357615722",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.9612097,
+    "longitude": -95.6507575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJiXYuExR9tYcRuuJlzOUnvSc",
+    "name": "Red Oak",
+    "formatted_address": "Red Oak, OK 74563, USA",
+    "latitude": 34.950932,
+    "longitude": -95.0802398,
+    "city": "Red Oak",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJQ-XbzyOyocRR2mpCm49G_0",
+    "name": "Lake Wister State Park",
+    "formatted_address": "25679 US-270, Wister, OK 74966, USA",
+    "latitude": 34.9481094,
+    "longitude": -94.7156546,
+    "city": "Wister",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 466,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJR4RLEQDtyocRChcvAyDvROY",
+    "name": "Lake Wister Boat Ramp - East (Dam)",
+    "formatted_address": "W7PH+9H, Poteau, OK 74940, USA",
+    "latitude": 34.9359861,
+    "longitude": -94.7210389,
+    "city": "Poteau",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377930530",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.8935367,
+    "longitude": -99.2961063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJq8rSOS2Cq4cRaQCP7X83DLw",
+    "name": "Quartz Mountain State Park",
+    "formatted_address": "14722 OK-44A, Lone Wolf, OK 73655, USA",
+    "latitude": 34.8852947,
+    "longitude": -99.3065166,
+    "city": "Lone Wolf",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 1656,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ0ZSl8y8FrYcRU125JHeNMB8",
+    "name": "Collier's Landing",
+    "formatted_address": "Fishermans Dr, Apache, OK 73006, USA",
+    "latitude": 34.8329607,
+    "longitude": -98.34314529999999,
+    "city": "Apache",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 42,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJURjNOAAFrYcRUIehasuvR2Q",
+    "name": "Fisherman Cove Boat ramp",
+    "formatted_address": "2252 NE Fisherman's Cove Dr, Elgin, OK 73538, USA",
+    "latitude": 34.8110591,
+    "longitude": -98.34598969999999,
+    "city": "Elgin",
+    "county": "",
+    "rating": 4,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7884935347",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.7826675,
+    "longitude": -94.6945153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJISCpTFL9rIcR-Vf3N7usvmU",
+    "name": "Robinson Landing Boat Dock",
+    "formatted_address": "QFG9+QG6, Medicine Park, OK 73507, USA",
+    "latitude": 34.7769125,
+    "longitude": -98.5312344,
+    "city": "Medicine Park",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13444621514",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.7693981,
+    "longitude": -95.065665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJt9ZL0tTlsocRv6Nmels9zO4",
+    "name": "Pauls Valley City Lake",
+    "formatted_address": "E County Rd 1550, Pauls Valley, OK 73075, USA",
+    "latitude": 34.7682243,
+    "longitude": -97.20671379999999,
+    "city": "Pauls Valley",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 111,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090883094",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.7581871,
+    "longitude": -97.0558639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJMyDog2iPrIcR9J2TSgNwHeQ",
+    "name": "Tom Steed Reservoir",
+    "formatted_address": "Mountain Park, OK 73559, USA",
+    "latitude": 34.749904,
+    "longitude": -98.98039299999999,
+    "city": "Oklahoma",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 78,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJd9LC56ePrIcRjMNqJzqdP4I",
+    "name": "Tom Steed Boat Ramp",
+    "formatted_address": "Mountain Park, OK 73559, USA",
+    "latitude": 34.749904,
+    "longitude": -98.98039299999999,
+    "city": "Mountain Park",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 27,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9991821672",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.749772,
+    "longitude": -97.0369165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJW1bCLcD9rIcR0S07cSnh2XY",
+    "name": "Sunken Bridge Yacht Club",
+    "formatted_address": "Lawton, OK 73507, USA",
+    "latitude": 34.7489471,
+    "longitude": -98.4874079,
+    "city": "Lawton",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIwxvwqrirIcRwc7wDUZGCQQ",
+    "name": "Lake Lawtonka Boat Ramp",
+    "formatted_address": "Lawton, OK 73507, USA",
+    "latitude": 34.7419776,
+    "longitude": -98.48661799999999,
+    "city": "Lawton",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 100,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJpcvoUGbjrIcRX3KjKXR6_qU",
+    "name": "Boat Ramp Lake Elmer Thomas",
+    "formatted_address": "Comanche County, OK 73557, USA",
+    "latitude": 34.7333021,
+    "longitude": -98.52014249999999,
+    "city": "Comanche County",
+    "county": "Comanche County",
+    "rating": 5,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1133155463",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.7222455,
+    "longitude": -98.5133392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ4cH_jGs_tYcRb6O7INtAmVA",
+    "name": "Narrows Boat Ramp",
+    "formatted_address": "Clayton, OK 74536, USA",
+    "latitude": 34.6730422,
+    "longitude": -95.4657821,
+    "city": "Clayton",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJX-K_ApJBtYcRPmFC_KJySxo",
+    "name": "Potato Hill South Boat Ramp",
+    "formatted_address": "Clayton, OK 74536, USA",
+    "latitude": 34.6576848,
+    "longitude": -95.3349676,
+    "city": "Clayton",
+    "county": "",
+    "rating": 3.5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCWSXCbE5tYcRXQSsTaciISk",
+    "name": "Sardis Cove Boat Ramp",
+    "formatted_address": "Clayton, OK 74536, USA",
+    "latitude": 34.6500091,
+    "longitude": -95.4550781,
+    "city": "Clayton",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 14,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11001724439",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.6455272,
+    "longitude": -98.3430417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2128057882",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.6322561,
+    "longitude": -95.2982301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzcFMxw-isocR96__7wKCit0",
+    "name": "Fuqua Lake",
+    "formatted_address": "Fuqua Lake, Duncan, OK 73055, USA",
+    "latitude": 34.6161526,
+    "longitude": -97.68601369999999,
+    "city": "Duncan",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 50,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIwYqdCNerYcRm1xbZyy-xCo",
+    "name": "Clear Creek Lake",
+    "formatted_address": "Clear Creek Lake, Duncan, OK 73055, USA",
+    "latitude": 34.600432,
+    "longitude": -97.8463149,
+    "city": "Duncan",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 118,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2130676337",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5975797,
+    "longitude": -97.6792134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJuTE4FZJdrYcRnGHbFzcDMJ0",
+    "name": "Lake Humphreys",
+    "formatted_address": "Lake Humphreys, Duncan, OK 73055, USA",
+    "latitude": 34.5970908,
+    "longitude": -97.8980146,
+    "city": "Duncan",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 102,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10296960478",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5787454,
+    "longitude": -96.0152448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452389280",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5785437,
+    "longitude": -96.229318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2301950624",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5449418,
+    "longitude": -101.4422608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_222612088",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5447862,
+    "longitude": -101.4505338,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJx9x2_xy3tIcR9c49AufuF2s",
+    "name": "Atoka Lake",
+    "formatted_address": "State Hwy 43, Atoka, OK 74525, USA",
+    "latitude": 34.5414338,
+    "longitude": -96.0412935,
+    "city": "Atoka",
+    "county": "",
+    "rating": 3.4,
+    "total_ratings": 5,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJNY2nOTNPtYcRM-kM9muhq1s",
+    "name": "Clayton Lake State Park",
+    "formatted_address": "US-271, Clayton, OK 74536, USA",
+    "latitude": 34.5400124,
+    "longitude": -95.3072225,
+    "city": "Clayton",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 248,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1083882101",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5236557,
+    "longitude": -97.8131543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2130649944",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.5186918,
+    "longitude": -98.888922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1076668111",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.4945451,
+    "longitude": -100.983311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1481665818",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.4930831,
+    "longitude": -96.0727114,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822295796",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.4910782,
+    "longitude": -96.9836248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1453309557",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.4716018,
+    "longitude": -96.2262204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJbVK7qMcos4cRLGjY5fqv424",
+    "name": "The Point Campground",
+    "formatted_address": "Point Campground Rd, Sulphur, OK 73086, USA",
+    "latitude": 34.4594509,
+    "longitude": -97.01911659999999,
+    "city": "Sulphur",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 68,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJxwcLYfYos4cRzKARX7wwcxw",
+    "name": "Guy Sandy Boat Launch",
+    "formatted_address": "Sulphur, OK 73086, USA",
+    "latitude": 34.45362,
+    "longitude": -97.04758,
+    "city": "Sulphur",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10298510221",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.4512553,
+    "longitude": -96.0772053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJt0mhtdoos4cRmeMxpnAh3MU",
+    "name": "Point Boat Ramp",
+    "formatted_address": "Sulphur, OK 73086, USA",
+    "latitude": 34.4510099,
+    "longitude": -97.01933,
+    "city": "Sulphur",
+    "county": "",
+    "rating": 4.9,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ767on64ps4cREnnLYc9kZ78",
+    "name": "Buckhorn Boat Ramp, Lake of the Arbuckles",
+    "formatted_address": "Unnamed Road, Sulphur, OK 73086, USA",
+    "latitude": 34.438504,
+    "longitude": -97.0078568,
+    "city": "Sulphur",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2302018952",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.4146314,
+    "longitude": -101.0647876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13482356512",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.3675852,
+    "longitude": -96.7201691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1654394252",
+    "name": "Mountain Lake Boat Launch",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.3660391,
+    "longitude": -97.2845832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1475632829",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.3618483,
+    "longitude": -95.8666482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9273679474",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.345317,
+    "longitude": -99.7331503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12122819606",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.3326612,
+    "longitude": -95.9077064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIYp3LE8tS4YRKnsPEjLxkyk",
+    "name": "Buster Hight Swim Beach",
+    "formatted_address": "849C+HG, Lane, OK 74569, USA",
+    "latitude": 34.318933,
+    "longitude": -95.8787353,
+    "city": "Lane",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ559E4VxKrYcR8G2Selbtmq0",
+    "name": "Witchita Ridge Boat Ramp/ Dock",
+    "formatted_address": "Comanche, OK 73529, USA",
+    "latitude": 34.2937374,
+    "longitude": -98.1090042,
+    "city": "Comanche",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 51,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJBYKrMForTYYRtApG5ZRM2-0",
+    "name": "Jean Neustadt Boat Ramp",
+    "formatted_address": "Springer, OK 73458, USA",
+    "latitude": 34.2855342,
+    "longitude": -97.17263899999999,
+    "city": "Springer",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 23,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9456765528",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.2645885,
+    "longitude": -98.039921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJVVVVFbBMrYcRjSizFQEirpA",
+    "name": "Chisholm Trail Ridge Park",
+    "formatted_address": "Comanche, OK 73529, USA",
+    "latitude": 34.2548156,
+    "longitude": -98.03424509999999,
+    "city": "Comanche",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3559956167",
+    "name": "Kiamichi River Launch Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.2488609,
+    "longitude": -95.6060629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJC1VKYCBLrYcRsA0qsz9xi-w",
+    "name": "Waurika Lake Marina and Camprounds",
+    "formatted_address": "Kiowa Park Rd II, Waurika, OK 73573, USA",
+    "latitude": 34.2449245,
+    "longitude": -98.07827069999999,
+    "city": "Waurika",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 232,
+    "types": [
+      "campground",
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzdQ9HACzUoYRgtzQVCu8IJA",
+    "name": "Waurika Dam Boat Ramp",
+    "formatted_address": "6XJ7+CG, Waurika, OK 73573, USA",
+    "latitude": 34.231089,
+    "longitude": -98.03613299999999,
+    "city": "Waurika",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJB7ZZsBmmSoYRHwba-FNc8mU",
+    "name": "Turkey Creek Landing",
+    "formatted_address": "Pine Creek Park Rd, Ringold, OK 74754, USA",
+    "latitude": 34.2150314,
+    "longitude": -95.1255006,
+    "city": "Ringold",
+    "county": "",
+    "rating": 3.8,
+    "total_ratings": 31,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9918197731",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1982905,
+    "longitude": -95.4844831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_146196122",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1972632,
+    "longitude": -96.609856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJwSxuZYbqyocRb8uF1WKTQ5M",
+    "name": "Cedar Lake Recreation Site",
+    "formatted_address": "Broken Bow, OK 74728, USA",
+    "latitude": 34.195698,
+    "longitude": -94.7397586,
+    "city": "Hodgen",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 178,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJqQM5_mFHNYYRv8x4yFqIjNQ",
+    "name": "Cedar Creek Launch",
+    "formatted_address": "Broken Bow, OK 74728, USA",
+    "latitude": 34.195698,
+    "longitude": -94.7397586,
+    "city": "Broken Bow",
+    "county": "",
+    "rating": 3.7,
+    "total_ratings": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8674418835",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1888132,
+    "longitude": -96.6475772,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1294631630",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1842115,
+    "longitude": -94.7295295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293970827",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1811657,
+    "longitude": -94.7213395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJw3IxU1M5NYYR5EegF9BVi2s",
+    "name": "Burke's Landing",
+    "formatted_address": "Unnamed Road, Eagletown, OK 74734, USA",
+    "latitude": 34.1793899,
+    "longitude": -94.6632523,
+    "city": "Eagletown",
+    "county": "",
+    "rating": 3.7,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIWJqx_-mSoYRqLue5vtOqY4",
+    "name": "Lost Rapids Park",
+    "formatted_address": "LOST RAPIDS, RT 1 BOX 400, 9615, Valliant, OK 74764, USA",
+    "latitude": 34.1789616,
+    "longitude": -95.1027538,
+    "city": "Valliant",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 24,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJM7FhJxFHNYYRFnkPG6Ek7G0",
+    "name": "Carson Creek Boat Ramp Fishing spot",
+    "formatted_address": "810, Broken Bow, OK 74728, USA",
+    "latitude": 34.17676429999999,
+    "longitude": -94.72887329999999,
+    "city": "Broken Bow",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_496144571",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1736035,
+    "longitude": -94.7236963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJUY75V5KmSoYR84VrOulA9sg",
+    "name": "Little River Park",
+    "formatted_address": "E Main St, Ringold, OK 74754, USA",
+    "latitude": 34.1703113,
+    "longitude": -95.1247468,
+    "city": "Ringold",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 40,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJzZ43zKo5NYYRZEcB8P-sgcA",
+    "name": "Deer Drive Boat Ramp",
+    "formatted_address": "E1965, Broken Bow, OK 74728, USA",
+    "latitude": 34.166901,
+    "longitude": -94.7120206,
+    "city": "Broken Bow",
+    "county": "",
+    "rating": 4.9,
+    "total_ratings": 15,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJtS3S0qQ4NYYRqqzr2bRru58",
+    "name": "Coyote Drive Camping",
+    "formatted_address": "578J+74, Broken Bow, OK 74728, USA",
+    "latitude": 34.1663564,
+    "longitude": -94.7172451,
+    "city": "Broken Bow",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 306,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1395044628",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1406127,
+    "longitude": -95.4203272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351840567",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1356599,
+    "longitude": -95.4264551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJ8bXSMVqNYYRxLYyU4Mi0bg",
+    "name": "Beavers Bend State Park and Nature Center",
+    "formatted_address": "4350 OK-259A, Broken Bow, OK 74728, USA",
+    "latitude": 34.1326751,
+    "longitude": -94.68030519999999,
+    "city": "Broken Bow",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 5088,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ-UD6legnTYYRj_Z3VHfjcLE",
+    "name": "North Boat Ramp",
+    "formatted_address": "Unnamed Road, Ardmore, OK 73401, USA",
+    "latitude": 34.113182,
+    "longitude": -97.10889429999999,
+    "city": "Ardmore",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 26,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12507170902",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1083956,
+    "longitude": -95.4506285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12507146044",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.1071286,
+    "longitude": -95.4566055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCW-ntF6hSoYR1hAc_wwbLzI",
+    "name": "Pine Creek Cove recreation area",
+    "formatted_address": "Tommy Taylor Trail, Valliant, OK 74764, USA",
+    "latitude": 34.10694,
+    "longitude": -95.08749999999999,
+    "city": "Valliant",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 25,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10299445233",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0990747,
+    "longitude": -96.5337178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJaR_V3VQnTYYRiPaq04Wz6UU",
+    "name": "Elephant Rock Campground site # 64",
+    "formatted_address": "Ardmore, OK 73401, USA",
+    "latitude": 34.0918551,
+    "longitude": -97.1009388,
+    "city": "Ardmore",
+    "county": "",
+    "rating": 4.7,
+    "total_ratings": 168,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJaYJunVXYTIYRAyoF8Py7L_k",
+    "name": "Martin's Landing, Lake Murray",
+    "formatted_address": "OK-77S, Ardmore, OK 73401, USA",
+    "latitude": 34.0861383,
+    "longitude": -97.050525,
+    "city": "Ardmore",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 255,
+    "types": [
+      "campground",
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12082925878",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0803442,
+    "longitude": -96.3931598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJIVohAuYnTYYRb-kTtHPQ_Ik",
+    "name": "Tipps boat launch",
+    "formatted_address": "Tipps Point Rd, Ardmore, OK 73401, USA",
+    "latitude": 34.07895570000001,
+    "longitude": -97.0936442,
+    "city": "Ardmore",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJZeW70I3YTIYRVlbE_48xtqM",
+    "name": "Lake Murray State Park",
+    "formatted_address": "3323 Lodge Rd, Ardmore, OK 73401, USA",
+    "latitude": 34.0715564,
+    "longitude": -97.082099,
+    "city": "Ardmore",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 2679,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJn5PfZpwnTYYRf5BrSBP4F3M",
+    "name": "Lake Murray Marina",
+    "formatted_address": "1136 Boat Dock Rd, Ardmore, OK 73401, USA",
+    "latitude": 34.0537708,
+    "longitude": -97.0873065,
+    "city": "Ardmore",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 288,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12070325064",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0519345,
+    "longitude": -96.5830678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJY6X4LvO_SoYRa4DCcwd4zOQ",
+    "name": "Virgil Point Campground",
+    "formatted_address": "Hugo Lake Virgil Point Rd, Hugo, OK 74743, USA",
+    "latitude": 34.0500778,
+    "longitude": -95.38114379999999,
+    "city": "Hugo",
+    "county": "",
+    "rating": 4.1,
+    "total_ratings": 16,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1395536326",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.043255,
+    "longitude": -95.380353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13625815394",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0410765,
+    "longitude": -94.6217628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1952113731",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0350466,
+    "longitude": -95.4277658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJK5Krd9jeTIYRg2Ocab2M5SY",
+    "name": "Marietta Landing Campground",
+    "formatted_address": "Marietta Landing Campground, Ardmore, OK 73401, USA",
+    "latitude": 34.0263489,
+    "longitude": -97.04807830000001,
+    "city": "Ardmore",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 145,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12507134248",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0259518,
+    "longitude": -95.4498537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6aOsPBrrSoYRWeMSiCUJTx0",
+    "name": "Armadillo Boat Ramp",
+    "formatted_address": "2JF2+86, Hugo, OK 74743, USA",
+    "latitude": 34.023297,
+    "longitude": -95.3994336,
+    "city": "Hugo",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1952111307",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0209671,
+    "longitude": -95.4154196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJn8YZ4iu8TIYRzkCZN0dt2NA",
+    "name": "Little Glasses Resort & Marina",
+    "formatted_address": "13443 Parrot Head Ln, Madill, OK 73446, USA",
+    "latitude": 34.0196656,
+    "longitude": -96.6550755,
+    "city": "Madill",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 156,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_351944790",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 34.0091447,
+    "longitude": -95.3808588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12070074496",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.99993,
+    "longitude": -96.5728603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJ6eXu9fWWTIYR_wn9y8ZnsxQ",
+    "name": "Lake Texoma State Park",
+    "formatted_address": "11500 Park Office Rd, Kingston, OK 73439, USA",
+    "latitude": 33.9915884,
+    "longitude": -96.6254225,
+    "city": "Kingston",
+    "county": "",
+    "rating": 4.5,
+    "total_ratings": 446,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12070089674",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.9904333,
+    "longitude": -96.6353024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJu12x-Zy9TIYR6hXzUdogm9s",
+    "name": "Catfish Bay Boat Ramp",
+    "formatted_address": "Kingston, OK 73439, USA",
+    "latitude": 33.9887867,
+    "longitude": -96.6242908,
+    "city": "Kingston",
+    "county": "",
+    "rating": 4.2,
+    "total_ratings": 43,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9136106887",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.9871407,
+    "longitude": -98.760554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJc7JRrK-iTIYRNReBxwSeDEg",
+    "name": "Willow Springs Marina & Resort",
+    "formatted_address": "1401 N3620 Rd Dock # 6, Mead, OK 73449, USA",
+    "latitude": 33.9805796,
+    "longitude": -96.5700967,
+    "city": "Mead",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 314,
+    "types": [
+      "campground",
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11828605400",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.9741384,
+    "longitude": -98.7086263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_144947908",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.974026,
+    "longitude": -96.5720677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJfXK6khobNYYR3DHitEQZzR4",
+    "name": "Forked Lake Boat Ramp",
+    "formatted_address": "XF92+43, Eagletown, OK 74734, USA",
+    "latitude": 33.9677623,
+    "longitude": -94.5497943,
+    "city": "Eagletown",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJYWyUlJmiTIYRqg3zA9GqIAU",
+    "name": "Lakeside Recreation Area",
+    "formatted_address": "3991 Streetman Rd, Mead, OK 73449, USA",
+    "latitude": 33.9394764,
+    "longitude": -96.5513483,
+    "city": "Mead",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 209,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12070048144",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.9344016,
+    "longitude": -96.552761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11049400963",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.9337134,
+    "longitude": -96.6506872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_144892470",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.9244305,
+    "longitude": -96.545834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJucxWB3KXTIYRo4iKnYawvvo",
+    "name": "Washita Point",
+    "formatted_address": "Washita Point, Oklahoma 73439, USA",
+    "latitude": 33.9212112,
+    "longitude": -96.5947176,
+    "city": "Oklahoma 73439",
+    "county": "",
+    "rating": 4.3,
+    "total_ratings": 7,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJCSjqsKCZTIYRzHam096wgog",
+    "name": "Willafa Woods Boat Ramp",
+    "formatted_address": "Cartwright, OK 74731, USA",
+    "latitude": 33.8966154,
+    "longitude": -96.57312979999999,
+    "city": "Cartwright",
+    "county": "",
+    "rating": 5,
+    "total_ratings": 6,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_631102527",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8921568,
+    "longitude": -96.6534938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJj4fCqOPqTIYRpRCSMmgsJI8",
+    "name": "Buncombe Creek Resort Marina",
+    "formatted_address": "14584 Arrowhead Point Rd, Kingston, OK 73439, USA",
+    "latitude": 33.8833131,
+    "longitude": -96.7872129,
+    "city": "Kingston",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 516,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458912512",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8825229,
+    "longitude": -96.899092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11891411323",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8787809,
+    "longitude": -97.6574594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJc8rWRfbvSoYRk7CeQRuDFY4",
+    "name": "Boat Ramp",
+    "formatted_address": "US-271, Grant, OK 74738, USA",
+    "latitude": 33.8775711,
+    "longitude": -95.50164029999999,
+    "city": "Grant",
+    "county": "",
+    "rating": 3,
+    "total_ratings": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224699428",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8715411,
+    "longitude": -96.6474864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJuzE5oJnsTIYRnQUlzGR5cWE",
+    "name": "Cardinal Cove",
+    "formatted_address": "Kingston, OK 73439, USA",
+    "latitude": 33.86965989999999,
+    "longitude": -96.77475969999999,
+    "city": "Kingston",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 29,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458919136",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8683063,
+    "longitude": -96.8913217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12069975565",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8655628,
+    "longitude": -96.5857362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224697193",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8618653,
+    "longitude": -96.8350342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458919133",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8613552,
+    "longitude": -96.8295476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8325316796",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8607392,
+    "longitude": -96.6607442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224673386",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8591291,
+    "longitude": -96.8946354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458919122",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8580723,
+    "longitude": -96.6447005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJJckmNJyTTIYRD5flY97ghkY",
+    "name": "Sandy Beach Recreational Area",
+    "formatted_address": "11001 Leverich Rd, Kingston, OK 73439, USA",
+    "latitude": 33.8578019,
+    "longitude": -96.7261079,
+    "city": "Kingston",
+    "county": "",
+    "rating": 4.8,
+    "total_ratings": 11,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224740214",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8550346,
+    "longitude": -96.662599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458919134",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8521471,
+    "longitude": -96.667628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458912510",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8497149,
+    "longitude": -96.6404143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8819041430",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8469349,
+    "longitude": -96.5822657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJSy0Pb4SQTIYRjPBF5vj-6Rc",
+    "name": "Burns Run",
+    "formatted_address": "Cartwright, OK 74731, USA",
+    "latitude": 33.8469254,
+    "longitude": -96.5910625,
+    "city": "Oklahoma 74731",
+    "county": "",
+    "rating": 4.6,
+    "total_ratings": 60,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "ChIJmzegPWyRTIYRrQed6_keiJQ",
+    "name": "Burns Run West Boat Ramp",
+    "formatted_address": "Cartwright, OK 74731, USA",
+    "latitude": 33.8469254,
+    "longitude": -96.5910625,
+    "city": "Cartwright",
+    "county": "",
+    "rating": 4.4,
+    "total_ratings": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224645356",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.846097,
+    "longitude": -96.8069414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224800601",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8421302,
+    "longitude": -96.6672472,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273395966",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8408978,
+    "longitude": -98.5313965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7618450427",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8385675,
+    "longitude": -98.5636099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224642797",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8293757,
+    "longitude": -96.8114986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273409395",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8276355,
+    "longitude": -95.6285342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2138432700",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8262668,
+    "longitude": -96.705058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458919143",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8242006,
+    "longitude": -96.6681215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360537482",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8207771,
+    "longitude": -96.5634849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2138431477",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8201628,
+    "longitude": -96.7710345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458912498",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8199817,
+    "longitude": -96.6077423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273410765",
+    "name": "Clay Bluff",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8169987,
+    "longitude": -95.6507984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2138444404",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8168316,
+    "longitude": -96.8176885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5748512245",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8166375,
+    "longitude": -96.5765239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5120245902",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8159736,
+    "longitude": -97.0694658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2138426300",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.8140104,
+    "longitude": -96.6079238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224651802",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7865705,
+    "longitude": -96.8061482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224656860",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7773502,
+    "longitude": -96.7881253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_606548664",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7549194,
+    "longitude": -96.4115755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278531095",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7548101,
+    "longitude": -98.3875531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4753880792",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7463777,
+    "longitude": -96.5703086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278531094",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7450182,
+    "longitude": -98.3656368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360287633",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7445489,
+    "longitude": -96.4011749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278535109",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7415909,
+    "longitude": -98.3391495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_224085973",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7359793,
+    "longitude": -95.9730137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360287636",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7342647,
+    "longitude": -96.3902698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1278535112",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7298755,
+    "longitude": -98.3193895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2129021079",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.7014614,
+    "longitude": -95.6504468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13666291493",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.6943406,
+    "longitude": -96.0061812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9915995863",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.6697983,
+    "longitude": -95.9740305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5441782916",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.6622262,
+    "longitude": -97.4059385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9916015169",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.6433634,
+    "longitude": -96.0569953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9916057293",
+    "name": "Boat Ramp",
+    "formatted_address": "Oklahoma, USA",
+    "latitude": 33.6430149,
+    "longitude": -96.0508302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]
