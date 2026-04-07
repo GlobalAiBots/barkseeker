@@ -1746,5 +1746,499 @@
       "leisure": "dog_park",
       "name": "Tyler Dog Park"
     }
+  },
+  {
+    "place_id": "manual_sa_hardberger_park_dog_park_east",
+    "name": "Hardberger Park Dog Park East",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.559,
+    "longitude": -98.525,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hardberger Park Dog Park East"
+    }
+  },
+  {
+    "place_id": "manual_sa_coyote_dog_park",
+    "name": "Coyote Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.581,
+    "longitude": -98.635,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Coyote Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_nani_falcone_community_dog_park",
+    "name": "Nani Falcone Community Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.542,
+    "longitude": -98.436,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Nani Falcone Community Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_hardberger_park_dog_park_west",
+    "name": "Hardberger Park Dog Park West",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.554,
+    "longitude": -98.531,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hardberger Park Dog Park West"
+    }
+  },
+  {
+    "place_id": "manual_sa_pups_and_pals_bar_and_grill_dog_park",
+    "name": "Pups and Pals Bar and Grill Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.533,
+    "longitude": -98.464,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pups and Pals Bar and Grill Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_panther_springs_dog_park",
+    "name": "Panther Springs Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.587,
+    "longitude": -98.471,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Panther Springs Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_oscar_perez_memorial_dog_park",
+    "name": "Oscar Perez Memorial Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.514,
+    "longitude": -98.453,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Oscar Perez Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_fox_dog_park",
+    "name": "Fox Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.462,
+    "longitude": -98.518,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fox Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_paw_park_at_the_greenline",
+    "name": "Paw Park at The Greenline",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.384,
+    "longitude": -98.605,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paw Park at The Greenline"
+    }
+  },
+  {
+    "place_id": "manual_sa_alamo_heights_bark_park",
+    "name": "Alamo Heights Bark Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.482,
+    "longitude": -98.463,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Alamo Heights Bark Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_woodlawn_lake_dog_park",
+    "name": "Woodlawn Lake Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.467,
+    "longitude": -98.522,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woodlawn Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_lady_bird_johnson_dog_park",
+    "name": "Lady Bird Johnson Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.389,
+    "longitude": -98.505,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lady Bird Johnson Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_new_territories_park_dog_park",
+    "name": "New Territories Park Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.51,
+    "longitude": -98.582,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "New Territories Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_kallison_ranch_dog_park",
+    "name": "Kallison Ranch Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.471,
+    "longitude": -98.671,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kallison Ranch Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_maverick_dog_park",
+    "name": "Maverick Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.435,
+    "longitude": -98.487,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Maverick Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_southside_lions_dog_park",
+    "name": "Southside Lions Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.393,
+    "longitude": -98.459,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southside Lions Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_caracol_creek_dog_park",
+    "name": "Caracol Creek Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.364,
+    "longitude": -98.632,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Caracol Creek Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_madison_square_dog_park",
+    "name": "Madison Square Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.434,
+    "longitude": -98.48,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Madison Square Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_amhurst_community_dog_park",
+    "name": "Amhurst Community Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.553,
+    "longitude": -98.583,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Amhurst Community Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_monterrey_village_dog_park",
+    "name": "Monterrey Village Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.499,
+    "longitude": -98.453,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Monterrey Village Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_wheeler_park_dog_park",
+    "name": "Wheeler Park Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.487,
+    "longitude": -98.654,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wheeler Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_olmos_park_dog_park",
+    "name": "Olmos Park Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.484,
+    "longitude": -98.495,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Olmos Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_rainbow_hills_dog_park",
+    "name": "Rainbow Hills Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.381,
+    "longitude": -98.568,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rainbow Hills Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_kingsborough_dog_park",
+    "name": "Kingsborough Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.428,
+    "longitude": -98.554,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kingsborough Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_mwd_nemo_memorial_dog_park",
+    "name": "MWD Nemo Memorial Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.566,
+    "longitude": -98.476,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "MWD Nemo Memorial Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_sa_westcreek_dog_park",
+    "name": "Westcreek Dog Park",
+    "formatted_address": "San Antonio, Texas, USA",
+    "latitude": 29.455,
+    "longitude": -98.689,
+    "city": "San Antonio",
+    "county": "Bexar",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Westcreek Dog Park"
+    }
   }
 ]
