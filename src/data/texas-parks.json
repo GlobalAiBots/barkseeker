@@ -55,5 +55,670 @@
       "leisure": "dog_park",
       "name": "Campgrounds Dog Park #1"
     }
+  },
+  {
+    "place_id": "osm_TX001",
+    "name": "Millie Bush Bark Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7399,
+    "longitude": -95.6368,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Millie Bush Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_TX002",
+    "name": "Bill Archer Bark Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.8465,
+    "longitude": -95.6576,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bill Archer Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_TX003",
+    "name": "Danny Jackson Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7582,
+    "longitude": -95.37,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Danny Jackson Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX004",
+    "name": "TC Jester Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.8128,
+    "longitude": -95.4156,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "TC Jester Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX005",
+    "name": "Ervan Chew Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.742,
+    "longitude": -95.3972,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ervan Chew Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX006",
+    "name": "Millie Bush Dog Park Annex",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7388,
+    "longitude": -95.6345,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Millie Bush Dog Park Annex"
+    }
+  },
+  {
+    "place_id": "osm_TX007",
+    "name": "Congressman Bill Archer Bark Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.847,
+    "longitude": -95.658,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Congressman Bill Archer Bark Park"
+    }
+  },
+  {
+    "place_id": "osm_TX008",
+    "name": "NorthBark Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.9173,
+    "longitude": -96.8001,
+    "city": "Dallas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "NorthBark Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX009",
+    "name": "Wagging Tail Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.9468,
+    "longitude": -96.7288,
+    "city": "Dallas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wagging Tail Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX010",
+    "name": "White Rock Lake Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.8254,
+    "longitude": -96.7295,
+    "city": "Dallas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "White Rock Lake Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX011",
+    "name": "Fair Park Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.7753,
+    "longitude": -96.7598,
+    "city": "Dallas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fair Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX012",
+    "name": "Bark Park Central",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.7848,
+    "longitude": -96.783,
+    "city": "Dallas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Park Central"
+    }
+  },
+  {
+    "place_id": "osm_TX013",
+    "name": "Zilker Park Off-Leash Area",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.2672,
+    "longitude": -97.7726,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Zilker Park Off-Leash Area"
+    }
+  },
+  {
+    "place_id": "osm_TX014",
+    "name": "Red Bud Isle",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.2943,
+    "longitude": -97.7837,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Red Bud Isle"
+    }
+  },
+  {
+    "place_id": "osm_TX015",
+    "name": "Norwood Estate Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.2582,
+    "longitude": -97.7559,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Norwood Estate Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX016",
+    "name": "Auditorium Shores Off-Leash",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.2615,
+    "longitude": -97.753,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Auditorium Shores Off-Leash"
+    }
+  },
+  {
+    "place_id": "osm_TX017",
+    "name": "Shoal Creek Greenbelt Dog Area",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.3061,
+    "longitude": -97.7498,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shoal Creek Greenbelt Dog Area"
+    }
+  },
+  {
+    "place_id": "osm_TX018",
+    "name": "Bull Creek District Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.3691,
+    "longitude": -97.7611,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bull Creek District Park"
+    }
+  },
+  {
+    "place_id": "osm_TX019",
+    "name": "Yard Bar",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.3158,
+    "longitude": -97.7205,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Yard Bar"
+    }
+  },
+  {
+    "place_id": "osm_TX020",
+    "name": "Phil Hardberger Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.5337,
+    "longitude": -98.5298,
+    "city": "San Antonio",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Phil Hardberger Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX021",
+    "name": "McAllister Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.4662,
+    "longitude": -98.4688,
+    "city": "San Antonio",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "McAllister Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX022",
+    "name": "Pearsall Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.3951,
+    "longitude": -98.5789,
+    "city": "San Antonio",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pearsall Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX023",
+    "name": "Tom Slick Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.437,
+    "longitude": -98.5172,
+    "city": "San Antonio",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tom Slick Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX024",
+    "name": "Fort Woof Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.7272,
+    "longitude": -97.3436,
+    "city": "Fort Worth",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Woof Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX025",
+    "name": "Gateway Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.6873,
+    "longitude": -97.3198,
+    "city": "Fort Worth",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gateway Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX026",
+    "name": "ZBonz Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.7593,
+    "longitude": -97.3528,
+    "city": "Fort Worth",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "ZBonz Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX027",
+    "name": "Pebble Hills Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 31.7625,
+    "longitude": -106.3571,
+    "city": "El Paso",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pebble Hills Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX028",
+    "name": "Eastside Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 31.78,
+    "longitude": -106.39,
+    "city": "El Paso",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eastside Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX029",
+    "name": "Corpus Christi Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 27.7504,
+    "longitude": -97.3978,
+    "city": "Corpus Christi",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Corpus Christi Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX030",
+    "name": "Lubbock Mackenzie Park Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 33.5746,
+    "longitude": -101.8237,
+    "city": "Lubbock",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lubbock Mackenzie Park Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX031",
+    "name": "Amarillo John Stiff Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 35.1742,
+    "longitude": -101.8912,
+    "city": "Amarillo",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Amarillo John Stiff Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX032",
+    "name": "Plano Jack Carter Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 33.0627,
+    "longitude": -96.7352,
+    "city": "Plano",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Plano Jack Carter Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX033",
+    "name": "Frisco Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 33.1439,
+    "longitude": -96.8102,
+    "city": "Frisco",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Frisco Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX034",
+    "name": "Denton Wiggly Field Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 33.2148,
+    "longitude": -97.1267,
+    "city": "Denton",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Denton Wiggly Field Dog Park"
+    }
+  },
+  {
+    "place_id": "osm_TX035",
+    "name": "Round Rock Dog Depot",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.5083,
+    "longitude": -97.6789,
+    "city": "Round Rock",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Round Rock Dog Depot"
+    }
   }
 ]

@@ -25,7 +25,7 @@ export default function AboutPage() {
           We started BarkSeeker because finding a good dog park shouldn&apos;t require guessing. No more driving to a &quot;park&quot; that turns out to be a tiny patch of grass with no fence. No more wondering if dogs are allowed off-leash. Just real data, real locations, real amenities.
         </p>
         <p>
-          Part of a family of outdoor directories: <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">RampSeeker</a> (boat ramps) and <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">PierSeeker</a> (fishing piers).
+          Part of a family of outdoor directories: <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">RampSeeker</a> (boat ramps), <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">PierSeeker</a> (fishing piers), and <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">BabyMyDog</a> (dog product reviews). Find the best products for your dog at BabyMyDog.com.
         </p>
 
         <div className="bg-green-50 border border-green-200 rounded-xl p-6 my-8">

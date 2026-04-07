@@ -1,11 +1,16 @@
 "use client";
 
+/* eslint-disable @next/next/no-img-element */
+
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-parks";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
-import EmailCapture from "@/components/EmailCapture";
+
+function pluralize(count: number, singular: string, plural: string) {
+  return count === 1 ? `${count} ${singular}` : `${count.toLocaleString()} ${plural}`;
+}
 
 const stateList: { name: string; slug: string; code: string }[] = [
   { name: "Alabama", slug: "alabama", code: "AL" },
@@ -81,19 +86,20 @@ export default function Home() {
     stateList.filter((s) => s.name.toLowerCase().includes(q)).slice(0, 4).forEach((s) => {
       results.push({ type: "State", label: s.name, href: `/${s.slug}` });
     });
-    // Parks
     unified.filter((r) => r.name.toLowerCase().includes(q)).slice(0, 5).forEach((r) => {
       results.push({ type: "Park", label: `${r.name} (${r.state})`, href: `/parks/${r.id}` });
     });
     return results.slice(0, 8);
   }, [query]);
 
+  const parkCount = unified.length.toLocaleString();
+
   return (
     <div>
       {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "WebSite", name: "BarkSeeker", url: "https://barkseeker.com",
-        description: `Find dog parks across the United States. ${unified.length.toLocaleString()}+ parks with GPS coordinates, amenities, and off-leash info.`,
+        description: `Find dog parks across the United States. ${parkCount}+ parks with GPS coordinates, amenities, and off-leash info.`,
         potentialAction: { "@type": "SearchAction", target: "https://barkseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -101,57 +107,63 @@ export default function Home() {
         description: "The most complete dog park directory in the United States.",
       }) }} />
 
-      {/* HERO */}
-      <section className="relative py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.05) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(232,145,58,0.05) 0%, transparent 50%)" }}>
-        <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Dog Park Directory</p>
-        <h1 className="font-[Cabin] text-4xl md:text-6xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">
-          Every Dog Park in America
-        </h1>
-        <p className="text-gray-500 mt-4 max-w-lg mx-auto">
-          {unified.length.toLocaleString()}+ dog parks across {stateList.length} states. Find the perfect spot for your pup.
-        </p>
+      {/* HERO — Full-bleed */}
+      <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
+        <img src="/images/hero-dogs-playing-park.jpg" alt="Dogs playing together at a park" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(45,59,46,0.85) 0%, rgba(45,59,46,0.4) 50%, transparent 100%)' }} />
 
-        {/* Search */}
-        <div className="max-w-xl mx-auto mt-8 relative">
-          <input type="text" value={query} onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search by state, city, or park name..."
-            className="w-full px-5 py-4 rounded-xl bg-white border border-gray-200 text-charcoal outline-none focus:border-forest focus:ring-2 focus:ring-forest/20 transition shadow-lg text-sm font-['Source_Sans_3']" />
-          <svg className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg>
-          {suggestions.length > 0 && (
-            <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-xl z-20 overflow-hidden">
-              {suggestions.map((s, i) => (
-                <Link key={i} href={s.href} className="flex items-center gap-3 px-4 py-3 hover:bg-forest/5 transition border-b border-gray-100 last:border-0">
-                  <span className="text-[10px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded">{s.type}</span>
-                  <span className="text-sm text-charcoal">{s.label}</span>
-                </Link>
+        <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">
+          <p className="text-white/60 text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Dog Park Directory</p>
+          <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight">
+            Every Dog Park<br />in America
+          </h1>
+          <p className="text-white/80 mt-4 max-w-lg mx-auto text-lg">
+            Find off-leash parks, fenced areas, and dog-friendly trails near you &mdash; free forever.
+          </p>
+
+          {/* Search */}
+          <div className="max-w-xl mx-auto mt-8 relative">
+            <input type="text" value={query} onChange={(e) => setQuery(e.target.value)}
+              placeholder="Search by state, city, or park name..."
+              className="w-full px-5 py-4 rounded-xl bg-white text-charcoal outline-none focus:ring-2 focus:ring-forest/40 transition shadow-2xl text-sm font-['Source_Sans_3']" />
+            <svg className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg>
+            {suggestions.length > 0 && (
+              <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-xl z-20 overflow-hidden">
+                {suggestions.map((s, i) => (
+                  <Link key={i} href={s.href} className="flex items-center gap-3 px-4 py-3 hover:bg-forest/5 transition border-b border-gray-100 last:border-0">
+                    <span className="text-[10px] font-bold text-gray-400 bg-gray-100 px-2 py-0.5 rounded">{s.type}</span>
+                    <span className="text-sm text-charcoal">{s.label}</span>
+                  </Link>
+                ))}
+              </div>
+            )}
+          </div>
+
+          {/* Top states */}
+          <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
+            {statesWithCounts.slice(0, 6).map((s) => (
+              <Link key={s.code} href={`/${s.slug}`} className="bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2 rounded-lg transition text-xs backdrop-blur-sm border border-white/10">{s.name} ({s.count.toLocaleString()})</Link>
+            ))}
+          </div>
+        </div>
+
+        {/* Stats overlay */}
+        <div className="relative z-10 w-full mt-auto">
+          <div className="bg-[#2D3B2E]/80 backdrop-blur-sm border-t border-white/10 py-5">
+            <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
+              {[
+                { value: parkCount, label: "Dog Parks" },
+                { value: String(stateList.length), label: "States" },
+                { value: "Free", label: "& Updated" },
+                { value: "GPS", label: "Verified" },
+              ].map((s) => (
+                <div key={s.label}>
+                  <p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p>
+                  <p className="text-white/50 text-xs mt-0.5">{s.label}</p>
+                </div>
               ))}
             </div>
-          )}
-        </div>
-
-        {/* Top states quick links */}
-        <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
-          {statesWithCounts.slice(0, 6).map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="bg-forest/90 hover:bg-forest text-white font-bold px-4 py-2 rounded-lg transition shadow-sm text-xs">{s.name} ({s.count.toLocaleString()})</Link>
-          ))}
-          <a href="#browse-states" className="text-forest font-semibold px-4 py-2 text-xs hover:text-forest-light transition">Browse all {stateList.length} states &darr;</a>
-        </div>
-      </section>
-
-      {/* STATS BAR */}
-      <section className="bg-white border-y border-gray-200 py-6">
-        <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
-          {[
-            { value: unified.length.toLocaleString(), label: "Dog Parks" },
-            { value: String(stateList.length), label: "States" },
-            { value: "Free", label: "& Updated" },
-            { value: "GPS", label: "Verified" },
-          ].map((s) => (
-            <div key={s.label}>
-              <p className="font-[Cabin] text-2xl font-bold text-charcoal">{s.value}</p>
-              <p className="text-gray-400 text-xs mt-0.5">{s.label}</p>
-            </div>
-          ))}
+          </div>
         </div>
       </section>
 
@@ -160,9 +172,9 @@ export default function Home() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
           {statesWithCounts.map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-forest hover:shadow-sm transition">
+            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:bg-[#E8F0E5] hover:border-forest hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-forest">
               <p className="font-bold text-charcoal text-sm group-hover:text-forest transition">{s.name}</p>
-              <p className="text-gray-400 text-xs">{s.count.toLocaleString()} parks</p>
+              <span className="inline-block mt-1 text-xs font-semibold bg-forest/10 text-forest px-2 py-0.5 rounded">{pluralize(s.count, 'park', 'parks')}</span>
             </Link>
           ))}
         </div>
@@ -173,15 +185,18 @@ export default function Home() {
       {/* WHY BARKSEEKER */}
       <section className="max-w-5xl mx-auto px-4 py-10">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-8">Why BarkSeeker</h2>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
           {[
             { icon: "&#128205;", title: "GPS Coordinates", desc: "Exact location for every park. Never end up at the wrong entrance again." },
             { icon: "&#128054;", title: "Off-Leash Info", desc: "Know which parks have off-leash areas, fenced sections, and small dog zones." },
             { icon: "&#127793;", title: "Amenity Details", desc: "Find parks with water stations, shade, agility equipment, and waste bags." },
             { icon: "&#128274;", title: "Free Forever", desc: "No login. No account. No fees. Just find your park and go." },
+            { icon: "&#128241;", title: "Mobile Friendly", desc: "Full GPS and directions on any phone. No app needed." },
           ].map((f) => (
-            <div key={f.title} className="bg-white border border-gray-200 rounded-xl p-5 shadow-sm text-center">
-              <p className="text-2xl mb-2" dangerouslySetInnerHTML={{ __html: f.icon }} />
+            <div key={f.title} className="bg-white rounded-xl p-5 shadow-sm text-center transition-all hover:shadow-md" style={{ borderTop: '3px solid #2D6A4F' }}>
+              <div className="w-14 h-14 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+                <span className="text-2xl" dangerouslySetInnerHTML={{ __html: f.icon }} />
+              </div>
               <h3 className="font-[Cabin] font-bold text-charcoal text-sm mb-1">{f.title}</h3>
               <p className="text-gray-500 text-xs leading-relaxed">{f.desc}</p>
             </div>
@@ -209,7 +224,7 @@ export default function Home() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org", "@type": "FAQPage",
           mainEntity: [
-            { "@type": "Question", name: "How many dog parks does BarkSeeker cover?", acceptedAnswer: { "@type": "Answer", text: `We have data on ${unified.length.toLocaleString()}+ dog parks across ${stateList.length} states.` } },
+            { "@type": "Question", name: "How many dog parks does BarkSeeker cover?", acceptedAnswer: { "@type": "Answer", text: `We have data on ${parkCount}+ dog parks across ${stateList.length} states.` } },
             { "@type": "Question", name: "Is BarkSeeker free?", acceptedAnswer: { "@type": "Answer", text: "Yes, completely free. No login, no account, no fees. Just find your park and go." } },
             { "@type": "Question", name: "How do I find a dog park near me?", acceptedAnswer: { "@type": "Answer", text: `Use the search bar to search by state, city, or park name. We cover ${stateList.length} states with detailed dog park directories.` } },
           ],
@@ -217,7 +232,7 @@ export default function Home() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
           {[
-            { q: "How many dog parks does BarkSeeker cover?", a: `We have data on ${unified.length.toLocaleString()}+ dog parks across ${stateList.length} states with GPS coordinates, amenities, and off-leash info.` },
+            { q: "How many dog parks does BarkSeeker cover?", a: `We have data on ${parkCount}+ dog parks across ${stateList.length} states with GPS coordinates, amenities, and off-leash info.` },
             { q: "Is BarkSeeker free?", a: "Yes, completely free. No login, no account needed. Just find your park and go." },
             { q: "How do I find a dog park near me?", a: `Use the search bar or browse by state. We cover ${stateList.length} states with detailed dog park directories.` },
             { q: "Can I submit a park you're missing?", a: "Yes! Email hello@barkseeker.com with the park name and location. We'll add it to the directory." },
@@ -233,13 +248,24 @@ export default function Home() {
         </div>
       </section>
 
-      <EmailCapture />
+      {/* NEWSLETTER */}
+      <section className="py-16" style={{ background: '#2D3B2E' }}>
+        <div className="max-w-lg mx-auto px-4 text-center">
+          <h2 className="font-[Cabin] text-2xl font-bold text-white mb-2">Get Park Updates &#128054;</h2>
+          <p className="text-white/70 text-sm mb-6">New parks, seasonal tips, and dog-friendly spots delivered to your inbox.</p>
+          <div className="flex flex-col sm:flex-row gap-3">
+            <input type="email" placeholder="your@email.com" className="flex-1 px-5 py-3.5 rounded-xl text-sm outline-none bg-white/10 text-white placeholder-white/40 border border-white/10 focus:border-forest transition" />
+            <button className="bg-bark hover:bg-bark-dark text-white font-bold px-7 py-3.5 rounded-xl transition text-sm whitespace-nowrap">Subscribe Free</button>
+          </div>
+          <p className="text-white/30 text-xs mt-3">No spam, ever. Unsubscribe anytime.</p>
+        </div>
+      </section>
 
       <div className="max-w-5xl mx-auto px-4"><CletusAd /></div>
 
       {/* Submit */}
-      <section id="submit" className="max-w-2xl mx-auto px-4 pb-20">
-        <div className="bg-white border border-gray-200 rounded-2xl p-8 text-center shadow-sm">
+      <section id="submit" className="max-w-2xl mx-auto px-4 pb-20 pt-10">
+        <div className="bg-white border border-gray-200 rounded-2xl p-8 text-center" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.06)' }}>
           <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-2">Know a park we&apos;re missing?</h2>
           <p className="text-gray-500 text-sm mb-6">Help us build the most complete dog park directory in America.</p>
           <a href="mailto:hello@barkseeker.com?subject=New%20Park%20Submission" className="bg-bark hover:bg-bark-dark text-white font-bold py-3 px-8 rounded-lg transition shadow-sm inline-block">Submit a Park</a>
