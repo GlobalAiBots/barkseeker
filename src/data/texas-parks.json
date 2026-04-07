@@ -1368,25 +1368,6 @@
     }
   },
   {
-    "place_id": "man_TX_AL",
-    "name": "Allen Dog Park",
-    "formatted_address": "Allen, Texas, USA",
-    "latitude": 33.11,
-    "longitude": -96.67,
-    "city": "Allen",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Allen Dog Park"
-    }
-  },
-  {
     "place_id": "man_TX_MF",
     "name": "Mansfield Dog Park",
     "formatted_address": "Mansfield, Texas, USA",
@@ -1403,25 +1384,6 @@
     "tags": {
       "leisure": "dog_park",
       "name": "Mansfield Dog Park"
-    }
-  },
-  {
-    "place_id": "man_TX_BW",
-    "name": "Bob Woodruff Dog Park",
-    "formatted_address": "Plano, Texas, USA",
-    "latitude": 33.045,
-    "longitude": -96.692,
-    "city": "Plano",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Bob Woodruff Dog Park"
     }
   },
   {
@@ -1688,25 +1650,6 @@
     "tags": {
       "leisure": "dog_park",
       "name": "Beaumont Dog Park"
-    }
-  },
-  {
-    "place_id": "man_TX_TY",
-    "name": "Tyler Dog Park",
-    "formatted_address": "Tyler, Texas, USA",
-    "latitude": 32.351,
-    "longitude": -95.301,
-    "city": "Tyler",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Tyler Dog Park"
     }
   },
   {
@@ -2847,25 +2790,6 @@
     "tags": {
       "leisure": "dog_park",
       "name": "Partnership Park Dog Park"
-    }
-  },
-  {
-    "place_id": "manual_tx_southdown_dog_park",
-    "name": "Southdown Dog Park",
-    "formatted_address": "Pearland, Texas, USA",
-    "latitude": 29.56,
-    "longitude": -95.29,
-    "city": "Pearland",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Southdown Dog Park"
     }
   },
   {
@@ -5016,25 +4940,6 @@
     }
   },
   {
-    "place_id": "manual_tx_redmore_dog_park",
-    "name": "Redmore Dog Park",
-    "formatted_address": "Brownsville, Texas, USA",
-    "latitude": 25.93,
-    "longitude": -97.48,
-    "city": "Brownsville",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Redmore Dog Park"
-    }
-  },
-  {
     "place_id": "manual_tx_morningside_park",
     "name": "Morningside Park",
     "formatted_address": "Brownsville, Texas, USA",
@@ -6156,44 +6061,6 @@
     }
   },
   {
-    "place_id": "manual_tx_flat_rock_park_dog_run",
-    "name": "Flat Rock Park Dog Run",
-    "formatted_address": "Kerrville, Texas, USA",
-    "latitude": 30.05,
-    "longitude": -99.14,
-    "city": "Kerrville",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Flat Rock Park Dog Run"
-    }
-  },
-  {
-    "place_id": "manual_tx_ruff_park",
-    "name": "Ruff Park",
-    "formatted_address": "Marble Falls, Texas, USA",
-    "latitude": 30.58,
-    "longitude": -98.28,
-    "city": "Marble Falls",
-    "county": "",
-    "rating": null,
-    "total_ratings": 0,
-    "types": [
-      "leisure_dog_park"
-    ],
-    "business_status": "OPERATIONAL",
-    "tags": {
-      "leisure": "dog_park",
-      "name": "Ruff Park"
-    }
-  },
-  {
     "place_id": "manual_tx_granbury_bark_park",
     "name": "Granbury Bark Park",
     "formatted_address": "Granbury, Texas, USA",
@@ -6286,6 +6153,329 @@
     "tags": {
       "leisure": "dog_park",
       "name": "Southeast Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_independence-dog-park",
+    "name": "Independence Dog Park",
+    "formatted_address": "Pearland, Texas, USA",
+    "latitude": 29.56,
+    "longitude": -95.29,
+    "city": "Pearland",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Independence Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_lucky-leash-dog-park",
+    "name": "Lucky Leash Dog Park",
+    "formatted_address": "Webster, Texas, USA",
+    "latitude": 29.54,
+    "longitude": -95.12,
+    "city": "Webster",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lucky Leash Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_prairie-dog-park",
+    "name": "Prairie Dog Park",
+    "formatted_address": "Alvin, Texas, USA",
+    "latitude": 29.42,
+    "longitude": -95.24,
+    "city": "Alvin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Prairie Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_bark-yard-allen",
+    "name": "Bark Yard Allen",
+    "formatted_address": "Allen, Texas, USA",
+    "latitude": 33.11,
+    "longitude": -96.67,
+    "city": "Allen",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bark Yard Allen"
+    }
+  },
+  {
+    "place_id": "manual_the-dog-park-at-bob-woodruff",
+    "name": "The Dog Park at Bob Woodruff",
+    "formatted_address": "Plano, Texas, USA",
+    "latitude": 33.045,
+    "longitude": -96.692,
+    "city": "Plano",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Dog Park at Bob Woodruff"
+    }
+  },
+  {
+    "place_id": "manual_boo-boos-buddies-dog-park",
+    "name": "Boo Boos Buddies Dog Park",
+    "formatted_address": "Southlake, Texas, USA",
+    "latitude": 32.94,
+    "longitude": -97.13,
+    "city": "Southlake",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Boo Boos Buddies Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_herfurth-park-dog-park",
+    "name": "Herfurth Park Dog Park",
+    "formatted_address": "Rowlett, Texas, USA",
+    "latitude": 32.91,
+    "longitude": -96.55,
+    "city": "Rowlett",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Herfurth Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_northtown-dog-park",
+    "name": "Northtown Dog Park",
+    "formatted_address": "Pflugerville, Texas, USA",
+    "latitude": 30.44,
+    "longitude": -97.62,
+    "city": "Pflugerville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Northtown Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_250-charles-austin-dr-dog-park",
+    "name": "250 Charles Austin Dr Dog Park",
+    "formatted_address": "San Marcos, Texas, USA",
+    "latitude": 29.88,
+    "longitude": -97.94,
+    "city": "San Marcos",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "250 Charles Austin Dr Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_morningside-park-dog-park",
+    "name": "Morningside Park Dog Park",
+    "formatted_address": "Brownsville, Texas, USA",
+    "latitude": 25.93,
+    "longitude": -97.48,
+    "city": "Brownsville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Morningside Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_pollard-park-dog-park",
+    "name": "Pollard Park Dog Park",
+    "formatted_address": "Tyler, Texas, USA",
+    "latitude": 32.35,
+    "longitude": -95.3,
+    "city": "Tyler",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pollard Park Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_princeton-dog-park",
+    "name": "Princeton Dog Park",
+    "formatted_address": "Princeton, Texas, USA",
+    "latitude": 33.18,
+    "longitude": -96.5,
+    "city": "Princeton",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Princeton Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_tierra-buena-dog-park",
+    "name": "Tierra Buena Dog Park",
+    "formatted_address": "El Paso, Texas, USA",
+    "latitude": 31.76,
+    "longitude": -106.36,
+    "city": "El Paso",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tierra Buena Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_thompson-dog-park",
+    "name": "Thompson Dog Park",
+    "formatted_address": "Amarillo, Texas, USA",
+    "latitude": 35.17,
+    "longitude": -101.89,
+    "city": "Amarillo",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Thompson Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_lehmann-monroe-dog-park",
+    "name": "Lehmann Monroe Dog Park",
+    "formatted_address": "Kerrville, Texas, USA",
+    "latitude": 30.05,
+    "longitude": -99.14,
+    "city": "Kerrville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lehmann Monroe Dog Park"
+    }
+  },
+  {
+    "place_id": "manual_johnson-park-leash-free-area",
+    "name": "Johnson Park Leash Free Area",
+    "formatted_address": "Marble Falls, Texas, USA",
+    "latitude": 30.58,
+    "longitude": -98.28,
+    "city": "Marble Falls",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Johnson Park Leash Free Area"
+    }
+  },
+  {
+    "place_id": "manual_holly-dog-park",
+    "name": "Holly Dog Park",
+    "formatted_address": "Waco, Texas, USA",
+    "latitude": 31.55,
+    "longitude": -97.15,
+    "city": "Waco",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Holly Dog Park"
     }
   }
 ]

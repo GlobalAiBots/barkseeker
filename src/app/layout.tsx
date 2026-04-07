@@ -7,14 +7,14 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BarkSeeker | Every Dog Park in America — 7,000+ Dog Parks",
+  title: "BarkSeeker | Every Dog Park in America — 7,300+ Dog Parks",
   description:
-    "Find dog parks across the United States. 7,000+ dog parks with GPS coordinates, amenities, off-leash info. Free.",
+    "Find dog parks across the United States. 7,300+ dog parks with GPS coordinates, amenities, off-leash info. Free.",
   keywords:
     "dog park near me, off-leash dog park, dog park directory, dog parks by state, best dog parks America",
   openGraph: {
     title: "BarkSeeker | Every Dog Park in America",
-    description: "7,000+ dog parks across the US. GPS coordinates, amenities, off-leash info.",
+    description: "7,300+ dog parks across the US. GPS coordinates, amenities, off-leash info.",
     url: "https://barkseeker.com",
     siteName: "BarkSeeker",
     type: "website",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "BarkSeeker | Every Dog Park in America",
-    description: "7,000+ dog parks across 46 states. GPS coordinates, amenities, off-leash info.",
+    description: "7,300+ dog parks across 46 states. GPS coordinates, amenities, off-leash info.",
   },
   alternates: { canonical: "https://barkseeker.com" },
   verification: {
@@ -60,7 +60,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
             <p className="font-bold text-white mb-2 font-[Cabin]">&#128021; BarkSeeker</p>
-            <p>The most complete dog park directory in America.</p>
+            <p>The most complete dog park directory in America. 7,300+ parks across 46 states.</p>
           </div>
           <div>
             <p className="font-bold text-white/70 mb-2">Links</p>
