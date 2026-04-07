@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 import { unified, isGenericName } from "@/data/all-parks";
 import CletusAd from "@/components/CletusAd";
 import ParkList from "@/components/ParkList";
@@ -15,6 +15,9 @@ export default function NorthDakotaPage() {
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [stParks]);
 
+  const [selectedCity, setSelectedCity] = useState<string | null>(null);
+  const filteredParks = selectedCity ? stParks.filter(p => p.city?.trim() === selectedCity) : stParks;
+
   return (
     <div>
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
@@ -28,16 +31,16 @@ export default function NorthDakotaPage() {
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cityMap.slice(0, 16).map(([city, count]) => (
-              <div key={city} className="bg-white border border-gray-200 rounded-lg p-3">
+              <button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById("park-list")?.scrollIntoView({ behavior: "smooth" }); }} className={"text-left bg-white border rounded-lg p-3 hover:border-bark hover:bg-[#E8F0E5] transition cursor-pointer " + (selectedCity === city ? "border-bark bg-[#E8F0E5] ring-2 ring-bark" : "border-gray-200")}>
                 <p className="font-bold text-charcoal text-sm">{city}</p>
                 <p className="text-gray-400 text-xs">{count} park{count !== 1 ? "s" : ""}</p>
-              </div>
+              </button>
             ))}
           </div>
         </section>
       )}
 
-      <ParkList parks={stParks} stateName="North Dakota" />
+      <div id="park-list">{selectedCity && <div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-forest hover:underline">&larr; Show all {stParks.length} parks</button></div>}</div><ParkList parks={filteredParks} stateName="North Dakota" />
 
       <section className="max-w-4xl mx-auto px-4 py-10">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">North Dakota Dog Park FAQ</h2>
