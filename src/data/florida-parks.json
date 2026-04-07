@@ -9918,5 +9918,347 @@
       "leisure": "dog_park",
       "type": "multipolygon"
     }
+  },
+  {
+    "place_id": "man_FL001",
+    "name": "Barkingham Park",
+    "formatted_address": "Jacksonville, Florida, USA",
+    "latitude": 30.313,
+    "longitude": -81.656,
+    "city": "Jacksonville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barkingham Park"
+    }
+  },
+  {
+    "place_id": "man_FL002",
+    "name": "Peavy Park",
+    "formatted_address": "Miami, Florida, USA",
+    "latitude": 25.858,
+    "longitude": -80.227,
+    "city": "Miami",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Peavy Park"
+    }
+  },
+  {
+    "place_id": "man_FL003",
+    "name": "Kennedy Dog Park",
+    "formatted_address": "Fort Lauderdale, Florida, USA",
+    "latitude": 26.1224,
+    "longitude": -80.1373,
+    "city": "Fort Lauderdale",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kennedy Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL004",
+    "name": "Snyder Park Dog Park",
+    "formatted_address": "Fort Lauderdale, Florida, USA",
+    "latitude": 26.0864,
+    "longitude": -80.164,
+    "city": "Fort Lauderdale",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Snyder Park Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL005",
+    "name": "Amelia Earhart Dog Park",
+    "formatted_address": "Miami, Florida, USA",
+    "latitude": 25.81,
+    "longitude": -80.284,
+    "city": "Miami",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Amelia Earhart Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL006",
+    "name": "Tropical Park Dog Park",
+    "formatted_address": "Miami, Florida, USA",
+    "latitude": 25.727,
+    "longitude": -80.317,
+    "city": "Miami",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tropical Park Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL007",
+    "name": "Lake Ida Dog Park",
+    "formatted_address": "Delray Beach, Florida, USA",
+    "latitude": 26.468,
+    "longitude": -80.094,
+    "city": "Delray Beach",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lake Ida Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL008",
+    "name": "Dr. Phillips Dog Park",
+    "formatted_address": "Orlando, Florida, USA",
+    "latitude": 28.451,
+    "longitude": -81.497,
+    "city": "Orlando",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dr. Phillips Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL009",
+    "name": "Paws Park",
+    "formatted_address": "Sanford, Florida, USA",
+    "latitude": 28.758,
+    "longitude": -81.258,
+    "city": "Sanford",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Paws Park"
+    }
+  },
+  {
+    "place_id": "man_FL010",
+    "name": "Fleet Peeples Dog Area",
+    "formatted_address": "Winter Park, Florida, USA",
+    "latitude": 28.599,
+    "longitude": -81.343,
+    "city": "Winter Park",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fleet Peeples Dog Area"
+    }
+  },
+  {
+    "place_id": "man_FL011",
+    "name": "Fort De Soto Dog Beach",
+    "formatted_address": "St Petersburg, Florida, USA",
+    "latitude": 27.627,
+    "longitude": -82.737,
+    "city": "St Petersburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort De Soto Dog Beach"
+    }
+  },
+  {
+    "place_id": "man_FL012",
+    "name": "Davis Island Dog Beach",
+    "formatted_address": "Tampa, Florida, USA",
+    "latitude": 27.929,
+    "longitude": -82.456,
+    "city": "Tampa",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Davis Island Dog Beach"
+    }
+  },
+  {
+    "place_id": "man_FL014",
+    "name": "Al Lopez Dog Park",
+    "formatted_address": "Tampa, Florida, USA",
+    "latitude": 27.964,
+    "longitude": -82.506,
+    "city": "Tampa",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Al Lopez Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL015",
+    "name": "Rivercrest Dog Park",
+    "formatted_address": "Tampa, Florida, USA",
+    "latitude": 27.975,
+    "longitude": -82.489,
+    "city": "Tampa",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rivercrest Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL016",
+    "name": "Venice Dog Beach",
+    "formatted_address": "Venice, Florida, USA",
+    "latitude": 27.079,
+    "longitude": -82.428,
+    "city": "Venice",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Venice Dog Beach"
+    }
+  },
+  {
+    "place_id": "man_FL017",
+    "name": "Bonita Dog Park",
+    "formatted_address": "Bonita Springs, Florida, USA",
+    "latitude": 26.339,
+    "longitude": -81.778,
+    "city": "Bonita Springs",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bonita Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL018",
+    "name": "Estero Dog Park",
+    "formatted_address": "Estero, Florida, USA",
+    "latitude": 26.438,
+    "longitude": -81.787,
+    "city": "Estero",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Estero Dog Park"
+    }
+  },
+  {
+    "place_id": "man_FL019",
+    "name": "Markham Park Dog Park",
+    "formatted_address": "Sunrise, Florida, USA",
+    "latitude": 26.128,
+    "longitude": -80.354,
+    "city": "Sunrise",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Markham Park Dog Park"
+    }
   }
 ]

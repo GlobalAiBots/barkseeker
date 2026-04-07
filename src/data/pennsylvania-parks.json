@@ -2295,5 +2295,252 @@
     "tags": {
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "man_PA001",
+    "name": "Schuylkill River Dog Park",
+    "formatted_address": "Philadelphia, Pennsylvania, USA",
+    "latitude": 39.962,
+    "longitude": -75.181,
+    "city": "Philadelphia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Schuylkill River Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA002",
+    "name": "Seger Dog Park",
+    "formatted_address": "Philadelphia, Pennsylvania, USA",
+    "latitude": 39.938,
+    "longitude": -75.161,
+    "city": "Philadelphia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Seger Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA003",
+    "name": "Pretzel Park Dog Run",
+    "formatted_address": "Philadelphia, Pennsylvania, USA",
+    "latitude": 40.029,
+    "longitude": -75.231,
+    "city": "Philadelphia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pretzel Park Dog Run"
+    }
+  },
+  {
+    "place_id": "man_PA004",
+    "name": "Orianna Hill Dog Park",
+    "formatted_address": "Philadelphia, Pennsylvania, USA",
+    "latitude": 39.967,
+    "longitude": -75.139,
+    "city": "Philadelphia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Orianna Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA005",
+    "name": "Curtis Dog Park",
+    "formatted_address": "Philadelphia, Pennsylvania, USA",
+    "latitude": 39.954,
+    "longitude": -75.172,
+    "city": "Philadelphia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Curtis Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA006",
+    "name": "Dickinson Square Dog Park",
+    "formatted_address": "Philadelphia, Pennsylvania, USA",
+    "latitude": 39.93,
+    "longitude": -75.152,
+    "city": "Philadelphia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dickinson Square Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA007",
+    "name": "Horsham Dog Park",
+    "formatted_address": "Horsham, Pennsylvania, USA",
+    "latitude": 40.185,
+    "longitude": -75.123,
+    "city": "Horsham",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Horsham Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA008",
+    "name": "Upper Dublin Dog Park",
+    "formatted_address": "Ambler, Pennsylvania, USA",
+    "latitude": 40.169,
+    "longitude": -75.176,
+    "city": "Ambler",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Upper Dublin Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA009",
+    "name": "Community Park Dog Park",
+    "formatted_address": "State College, Pennsylvania, USA",
+    "latitude": 40.783,
+    "longitude": -77.863,
+    "city": "State College",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Community Park Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA010",
+    "name": "South Park Dog Park",
+    "formatted_address": "Pittsburgh, Pennsylvania, USA",
+    "latitude": 40.326,
+    "longitude": -79.984,
+    "city": "Pittsburgh",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "South Park Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA012",
+    "name": "North Park Dog Park",
+    "formatted_address": "Pittsburgh, Pennsylvania, USA",
+    "latitude": 40.57,
+    "longitude": -80.014,
+    "city": "Pittsburgh",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "North Park Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA013",
+    "name": "Riverview Dog Park",
+    "formatted_address": "Pittsburgh, Pennsylvania, USA",
+    "latitude": 40.489,
+    "longitude": -79.954,
+    "city": "Pittsburgh",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Riverview Dog Park"
+    }
+  },
+  {
+    "place_id": "man_PA014",
+    "name": "Settlers Cabin Dog Park",
+    "formatted_address": "Pittsburgh, Pennsylvania, USA",
+    "latitude": 40.437,
+    "longitude": -80.134,
+    "city": "Pittsburgh",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Settlers Cabin Dog Park"
+    }
   }
 ]

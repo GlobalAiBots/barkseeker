@@ -1350,5 +1350,157 @@
       "leisure": "dog_park",
       "type": "multipolygon"
     }
+  },
+  {
+    "place_id": "man_KY001",
+    "name": "Cherokee Dog Run",
+    "formatted_address": "Louisville, Kentucky, USA",
+    "latitude": 38.243,
+    "longitude": -85.686,
+    "city": "Louisville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cherokee Dog Run"
+    }
+  },
+  {
+    "place_id": "man_KY002",
+    "name": "Sawyer Dog Park",
+    "formatted_address": "Louisville, Kentucky, USA",
+    "latitude": 38.208,
+    "longitude": -85.758,
+    "city": "Louisville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sawyer Dog Park"
+    }
+  },
+  {
+    "place_id": "man_KY003",
+    "name": "Eva Bandman Dog Park",
+    "formatted_address": "Louisville, Kentucky, USA",
+    "latitude": 38.273,
+    "longitude": -85.725,
+    "city": "Louisville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Eva Bandman Dog Park"
+    }
+  },
+  {
+    "place_id": "man_KY004",
+    "name": "Champions Dog Park",
+    "formatted_address": "Louisville, Kentucky, USA",
+    "latitude": 38.244,
+    "longitude": -85.617,
+    "city": "Louisville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Champions Dog Park"
+    }
+  },
+  {
+    "place_id": "man_KY005",
+    "name": "Jacobson Dog Park",
+    "formatted_address": "Lexington, Kentucky, USA",
+    "latitude": 38.027,
+    "longitude": -84.518,
+    "city": "Lexington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jacobson Dog Park"
+    }
+  },
+  {
+    "place_id": "man_KY006",
+    "name": "Masterson Station Dog Park",
+    "formatted_address": "Lexington, Kentucky, USA",
+    "latitude": 38.086,
+    "longitude": -84.564,
+    "city": "Lexington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Masterson Station Dog Park"
+    }
+  },
+  {
+    "place_id": "man_KY007",
+    "name": "Wellington Dog Park",
+    "formatted_address": "Lexington, Kentucky, USA",
+    "latitude": 38.056,
+    "longitude": -84.462,
+    "city": "Lexington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wellington Dog Park"
+    }
+  },
+  {
+    "place_id": "man_KY008",
+    "name": "Devou Dog Park",
+    "formatted_address": "Covington, Kentucky, USA",
+    "latitude": 39.075,
+    "longitude": -84.526,
+    "city": "Covington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Devou Dog Park"
+    }
   }
 ]

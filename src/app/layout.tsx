@@ -7,9 +7,9 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BarkSeeker | Every Dog Park in America — 7,000+ Parks",
+  title: "BarkSeeker | Every Dog Park in America — 7,000+ Dog Parks",
   description:
-    "Find dog parks across the United States. 7,000+ parks with GPS coordinates, amenities, off-leash info. Free.",
+    "Find dog parks across the United States. 7,000+ dog parks with GPS coordinates, amenities, off-leash info. Free.",
   keywords:
     "dog park near me, off-leash dog park, dog park directory, dog parks by state, best dog parks America",
   openGraph: {

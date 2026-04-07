@@ -2463,5 +2463,195 @@
     "tags": {
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "man_TN001",
+    "name": "Shelby Farms Dog Park",
+    "formatted_address": "Memphis, Tennessee, USA",
+    "latitude": 35.137,
+    "longitude": -89.835,
+    "city": "Memphis",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shelby Farms Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN002",
+    "name": "Overton Dog Park",
+    "formatted_address": "Memphis, Tennessee, USA",
+    "latitude": 35.129,
+    "longitude": -89.925,
+    "city": "Memphis",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Overton Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN003",
+    "name": "Centennial Dog Park",
+    "formatted_address": "Nashville, Tennessee, USA",
+    "latitude": 36.151,
+    "longitude": -86.812,
+    "city": "Nashville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Centennial Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN004",
+    "name": "Warner Dog Park",
+    "formatted_address": "Nashville, Tennessee, USA",
+    "latitude": 36.106,
+    "longitude": -86.75,
+    "city": "Nashville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Warner Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN005",
+    "name": "Two Rivers Dog Park",
+    "formatted_address": "Nashville, Tennessee, USA",
+    "latitude": 36.211,
+    "longitude": -86.668,
+    "city": "Nashville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Two Rivers Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN006",
+    "name": "Edwin Warner Dog Park",
+    "formatted_address": "Nashville, Tennessee, USA",
+    "latitude": 36.066,
+    "longitude": -86.872,
+    "city": "Nashville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Edwin Warner Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN007",
+    "name": "PetSafe Village Dog Park",
+    "formatted_address": "Knoxville, Tennessee, USA",
+    "latitude": 35.984,
+    "longitude": -83.895,
+    "city": "Knoxville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PetSafe Village Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN008",
+    "name": "Concord Dog Park",
+    "formatted_address": "Knoxville, Tennessee, USA",
+    "latitude": 35.887,
+    "longitude": -84.078,
+    "city": "Knoxville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Concord Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN009",
+    "name": "Chattanooga Dog Park",
+    "formatted_address": "Chattanooga, Tennessee, USA",
+    "latitude": 35.028,
+    "longitude": -85.274,
+    "city": "Chattanooga",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chattanooga Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TN010",
+    "name": "Coolidge Dog Park",
+    "formatted_address": "Chattanooga, Tennessee, USA",
+    "latitude": 35.065,
+    "longitude": -85.261,
+    "city": "Chattanooga",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Coolidge Dog Park"
+    }
   }
 ]
