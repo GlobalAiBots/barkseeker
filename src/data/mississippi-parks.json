@@ -211,5 +211,290 @@
       "brand:wikidata": "Q1872496",
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "man_MS001",
+    "name": "Jackson Dog Park at Belhaven",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 32.3326,
+    "longitude": -90.1729,
+    "city": "Jackson",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jackson Dog Park at Belhaven"
+    }
+  },
+  {
+    "place_id": "man_MS002",
+    "name": "Byram Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 32.218,
+    "longitude": -90.246,
+    "city": "Byram",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Byram Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS003",
+    "name": "Gulfport Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 30.3674,
+    "longitude": -89.0928,
+    "city": "Gulfport",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Gulfport Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS004",
+    "name": "Biloxi Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 30.396,
+    "longitude": -88.8853,
+    "city": "Biloxi",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Biloxi Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS005",
+    "name": "Hattiesburg Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 31.3271,
+    "longitude": -89.2903,
+    "city": "Hattiesburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hattiesburg Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS006",
+    "name": "Tupelo Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.2576,
+    "longitude": -88.7034,
+    "city": "Tupelo",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tupelo Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS007",
+    "name": "Southaven Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.9517,
+    "longitude": -89.9787,
+    "city": "Southaven",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southaven Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS008",
+    "name": "Madison Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 32.4635,
+    "longitude": -90.1153,
+    "city": "Madison",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Madison Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS009",
+    "name": "Ridgeland Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 32.4284,
+    "longitude": -90.1323,
+    "city": "Ridgeland",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ridgeland Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS010",
+    "name": "Ocean Springs Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 30.4113,
+    "longitude": -88.8278,
+    "city": "Ocean Springs",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ocean Springs Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS011",
+    "name": "Olive Branch Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.9618,
+    "longitude": -89.8296,
+    "city": "Olive Branch",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Olive Branch Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS012",
+    "name": "Meridian Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 32.3643,
+    "longitude": -88.7037,
+    "city": "Meridian",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Meridian Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS013",
+    "name": "Vicksburg Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 32.3526,
+    "longitude": -90.8779,
+    "city": "Vicksburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Vicksburg Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS014",
+    "name": "Starkville Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 33.4504,
+    "longitude": -88.8184,
+    "city": "Starkville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Starkville Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MS015",
+    "name": "Oxford Dog Park",
+    "formatted_address": ", Mississippi, USA",
+    "latitude": 34.3664,
+    "longitude": -89.5193,
+    "city": "Oxford",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Oxford Dog Park"
+    }
   }
 ]

@@ -197,5 +197,385 @@
       "brand:wikidata": "Q1872496",
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "man_LA001",
+    "name": "BREC Burbank Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4263,
+    "longitude": -91.1553,
+    "city": "Baton Rouge",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "BREC Burbank Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA002",
+    "name": "BREC Forest Community Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.409,
+    "longitude": -91.119,
+    "city": "Baton Rouge",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "BREC Forest Community Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA003",
+    "name": "BREC Raising Cane Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.452,
+    "longitude": -91.187,
+    "city": "Baton Rouge",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "BREC Raising Cane Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA004",
+    "name": "Lakeview Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.394,
+    "longitude": -91.092,
+    "city": "Baton Rouge",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lakeview Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA005",
+    "name": "Lafreniere Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0063,
+    "longitude": -90.1612,
+    "city": "Metairie",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lafreniere Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA006",
+    "name": "NORDC Dog Park at Pontchartrain",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.04,
+    "longitude": -90.07,
+    "city": "New Orleans",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "NORDC Dog Park at Pontchartrain"
+    }
+  },
+  {
+    "place_id": "man_LA007",
+    "name": "City Bark New Orleans",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9525,
+    "longitude": -90.085,
+    "city": "New Orleans",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "City Bark New Orleans"
+    }
+  },
+  {
+    "place_id": "man_LA008",
+    "name": "Crescent Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.961,
+    "longitude": -90.068,
+    "city": "New Orleans",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Crescent Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA009",
+    "name": "Shreveport Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5252,
+    "longitude": -93.7502,
+    "city": "Shreveport",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shreveport Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA010",
+    "name": "Ike Hamilton Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.51,
+    "longitude": -93.78,
+    "city": "Shreveport",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ike Hamilton Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA011",
+    "name": "Lafayette Moncus Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2042,
+    "longitude": -92.0198,
+    "city": "Lafayette",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lafayette Moncus Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA012",
+    "name": "Southside Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.185,
+    "longitude": -92.035,
+    "city": "Lafayette",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Southside Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA013",
+    "name": "Lake Charles Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2266,
+    "longitude": -93.2174,
+    "city": "Lake Charles",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lake Charles Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA014",
+    "name": "Monroe Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5093,
+    "longitude": -92.1193,
+    "city": "Monroe",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Monroe Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA015",
+    "name": "Alexandria Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.3113,
+    "longitude": -92.4451,
+    "city": "Alexandria",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Alexandria Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA016",
+    "name": "Slidell Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2752,
+    "longitude": -89.7811,
+    "city": "Slidell",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Slidell Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA017",
+    "name": "Covington Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4848,
+    "longitude": -90.1001,
+    "city": "Covington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Covington Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA018",
+    "name": "Mandeville Bark Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3585,
+    "longitude": -90.0685,
+    "city": "Mandeville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mandeville Bark Park"
+    }
+  },
+  {
+    "place_id": "man_LA019",
+    "name": "Houma Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5958,
+    "longitude": -90.7195,
+    "city": "Houma",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Houma Dog Park"
+    }
+  },
+  {
+    "place_id": "man_LA020",
+    "name": "Kenner Dog Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0244,
+    "longitude": -90.2417,
+    "city": "Kenner",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kenner Dog Park"
+    }
   }
 ]

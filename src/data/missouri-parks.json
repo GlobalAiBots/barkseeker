@@ -1248,5 +1248,290 @@
       "type": "multipolygon",
       "website": "https://kcparks.org/places/swope-park-off-leash-park/"
     }
+  },
+  {
+    "place_id": "man_MO001",
+    "name": "Tower Grove Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.607,
+    "longitude": -90.255,
+    "city": "St. Louis",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tower Grove Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO002",
+    "name": "Francis Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.634,
+    "longitude": -90.212,
+    "city": "St. Louis",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Francis Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO003",
+    "name": "Tilles Park Dog Area",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.598,
+    "longitude": -90.31,
+    "city": "St. Louis",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tilles Park Dog Area"
+    }
+  },
+  {
+    "place_id": "man_MO004",
+    "name": "Penn Valley Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.082,
+    "longitude": -94.587,
+    "city": "Kansas City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Penn Valley Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO005",
+    "name": "Swope Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.027,
+    "longitude": -94.535,
+    "city": "Kansas City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Swope Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO006",
+    "name": "Wayside Waifs Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.008,
+    "longitude": -94.552,
+    "city": "Kansas City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wayside Waifs Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO007",
+    "name": "Bar K Dog Park KC",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.114,
+    "longitude": -94.55,
+    "city": "Kansas City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bar K Dog Park KC"
+    }
+  },
+  {
+    "place_id": "man_MO008",
+    "name": "Springfield Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.209,
+    "longitude": -93.2923,
+    "city": "Springfield",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Springfield Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO009",
+    "name": "Columbia Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9517,
+    "longitude": -92.3341,
+    "city": "Columbia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Columbia Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO010",
+    "name": "Cosmo Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.972,
+    "longitude": -92.348,
+    "city": "Columbia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cosmo Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO011",
+    "name": "Independence Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 39.0911,
+    "longitude": -94.4155,
+    "city": "Independence",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Independence Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO012",
+    "name": "Lee's Summit Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.9108,
+    "longitude": -94.3822,
+    "city": "Lee's Summit",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lee's Summit Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO013",
+    "name": "O'Fallon Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.8106,
+    "longitude": -90.6998,
+    "city": "O'Fallon",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "O'Fallon Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO014",
+    "name": "Joplin Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 37.0842,
+    "longitude": -94.5133,
+    "city": "Joplin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Joplin Dog Park"
+    }
+  },
+  {
+    "place_id": "man_MO015",
+    "name": "St. Charles Dog Park",
+    "formatted_address": ", Missouri, USA",
+    "latitude": 38.7881,
+    "longitude": -90.4974,
+    "city": "St. Charles",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "St. Charles Dog Park"
+    }
   }
 ]

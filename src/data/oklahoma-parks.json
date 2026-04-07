@@ -500,5 +500,290 @@
       "brand:wikidata": "Q1872496",
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "man_OK001",
+    "name": "Barkham Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4909,
+    "longitude": -97.4988,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barkham Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK002",
+    "name": "PAW Dog Park OKC",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.472,
+    "longitude": -97.522,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "PAW Dog Park OKC"
+    }
+  },
+  {
+    "place_id": "man_OK003",
+    "name": "Wiggles & Wags Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.506,
+    "longitude": -97.54,
+    "city": "Oklahoma City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wiggles & Wags Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK004",
+    "name": "Tulsa Dog Park at Hunter",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.135,
+    "longitude": -95.975,
+    "city": "Tulsa",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tulsa Dog Park at Hunter"
+    }
+  },
+  {
+    "place_id": "man_OK005",
+    "name": "Biscuit Acres Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.053,
+    "longitude": -95.892,
+    "city": "Tulsa",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Biscuit Acres Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK006",
+    "name": "Joe Station Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.09,
+    "longitude": -95.95,
+    "city": "Tulsa",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Joe Station Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK007",
+    "name": "Norman Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.2226,
+    "longitude": -97.4395,
+    "city": "Norman",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Norman Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK008",
+    "name": "Edmond Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.6528,
+    "longitude": -97.4781,
+    "city": "Edmond",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Edmond Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK009",
+    "name": "Broken Arrow Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.0525,
+    "longitude": -95.7908,
+    "city": "Broken Arrow",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Broken Arrow Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK010",
+    "name": "Stillwater Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.1156,
+    "longitude": -97.0584,
+    "city": "Stillwater",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Stillwater Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK011",
+    "name": "Moore Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.3395,
+    "longitude": -97.4867,
+    "city": "Moore",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Moore Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK012",
+    "name": "Yukon Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.5067,
+    "longitude": -97.7625,
+    "city": "Yukon",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Yukon Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK013",
+    "name": "Lawton Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 34.6036,
+    "longitude": -98.3959,
+    "city": "Lawton",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lawton Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK014",
+    "name": "Midwest City Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 35.4495,
+    "longitude": -97.3967,
+    "city": "Midwest City",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Midwest City Dog Park"
+    }
+  },
+  {
+    "place_id": "man_OK015",
+    "name": "Owasso Dog Park",
+    "formatted_address": ", Oklahoma, USA",
+    "latitude": 36.2696,
+    "longitude": -95.8547,
+    "city": "Owasso",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Owasso Dog Park"
+    }
   }
 ]

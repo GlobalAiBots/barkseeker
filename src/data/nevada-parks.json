@@ -3,15 +3,20 @@
     "place_id": "osm_NV001",
     "name": "Barkin Basin Dog Park",
     "formatted_address": ", Nevada, USA",
-    "latitude": 36.1900,
-    "longitude": -115.2600,
+    "latitude": 36.19,
+    "longitude": -115.26,
     "city": "Las Vegas",
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Barkin Basin Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Barkin Basin Dog Park"
+    }
   },
   {
     "place_id": "osm_NV002",
@@ -23,9 +28,14 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Desert Breeze Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Desert Breeze Dog Park"
+    }
   },
   {
     "place_id": "osm_NV003",
@@ -37,9 +47,14 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Dog Fancier's Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Dog Fancier's Park"
+    }
   },
   {
     "place_id": "osm_NV004",
@@ -51,23 +66,33 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Charlie Kellogg & Joe Zaher Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Charlie Kellogg & Joe Zaher Dog Park"
+    }
   },
   {
     "place_id": "osm_NV005",
     "name": "Centennial Hills Dog Park",
     "formatted_address": ", Nevada, USA",
-    "latitude": 36.2710,
+    "latitude": 36.271,
     "longitude": -115.2487,
     "city": "Las Vegas",
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Centennial Hills Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Centennial Hills Dog Park"
+    }
   },
   {
     "place_id": "osm_NV006",
@@ -79,23 +104,33 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Woofter Family Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Woofter Family Park"
+    }
   },
   {
     "place_id": "osm_NV007",
     "name": "Shadow Rock Dog Park",
     "formatted_address": ", Nevada, USA",
-    "latitude": 36.0610,
+    "latitude": 36.061,
     "longitude": -115.2965,
     "city": "Las Vegas",
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Shadow Rock Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shadow Rock Dog Park"
+    }
   },
   {
     "place_id": "osm_NV008",
@@ -107,9 +142,14 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "All American Park Dog Run" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "All American Park Dog Run"
+    }
   },
   {
     "place_id": "osm_NV009",
@@ -121,23 +161,33 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Craig Ranch Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Craig Ranch Dog Park"
+    }
   },
   {
     "place_id": "osm_NV010",
     "name": "Idlewild Dog Park",
     "formatted_address": ", Nevada, USA",
-    "latitude": 39.5260,
-    "longitude": -119.8290,
+    "latitude": 39.526,
+    "longitude": -119.829,
     "city": "Reno",
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Idlewild Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Idlewild Dog Park"
+    }
   },
   {
     "place_id": "osm_NV011",
@@ -149,9 +199,14 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Whitaker Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Whitaker Dog Park"
+    }
   },
   {
     "place_id": "osm_NV012",
@@ -163,8 +218,70 @@
     "county": "",
     "rating": null,
     "total_ratings": 0,
-    "types": ["leisure_dog_park"],
+    "types": [
+      "leisure_dog_park"
+    ],
     "business_status": "OPERATIONAL",
-    "tags": { "leisure": "dog_park", "name": "Sparks Marina Dog Park" }
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sparks Marina Dog Park"
+    }
+  },
+  {
+    "place_id": "man_NV013",
+    "name": "Sunset Dog Park",
+    "formatted_address": ", Nevada, USA",
+    "latitude": 36.015,
+    "longitude": -115.064,
+    "city": "Henderson",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sunset Dog Park"
+    }
+  },
+  {
+    "place_id": "man_NV014",
+    "name": "Mountain Crest Dog Park",
+    "formatted_address": ", Nevada, USA",
+    "latitude": 36.005,
+    "longitude": -115.018,
+    "city": "Henderson",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mountain Crest Dog Park"
+    }
+  },
+  {
+    "place_id": "man_NV015",
+    "name": "Acacia Dog Park",
+    "formatted_address": ", Nevada, USA",
+    "latitude": 36.21,
+    "longitude": -115.28,
+    "city": "Las Vegas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Acacia Dog Park"
+    }
   }
 ]

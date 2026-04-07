@@ -1644,5 +1644,385 @@
       "leisure": "dog_park",
       "website": "https://parks.cityofsouthcharleston.com/joplin/"
     }
+  },
+  {
+    "place_id": "man_VA001",
+    "name": "Shirlington Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.8423,
+    "longitude": -77.0856,
+    "city": "Arlington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Shirlington Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA002",
+    "name": "Benjamin Banneker Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.8631,
+    "longitude": -77.0741,
+    "city": "Arlington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Benjamin Banneker Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA003",
+    "name": "Fort Barnard Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.852,
+    "longitude": -77.073,
+    "city": "Arlington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Barnard Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA004",
+    "name": "Towers Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.872,
+    "longitude": -77.115,
+    "city": "Arlington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Towers Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA005",
+    "name": "Glencarlyn Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.858,
+    "longitude": -77.1245,
+    "city": "Arlington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Glencarlyn Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA006",
+    "name": "Richmond Barker Field",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.5551,
+    "longitude": -77.46,
+    "city": "Richmond",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Richmond Barker Field"
+    }
+  },
+  {
+    "place_id": "man_VA007",
+    "name": "Phideaux Field Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.542,
+    "longitude": -77.438,
+    "city": "Richmond",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Phideaux Field Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA008",
+    "name": "Church Hill Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.531,
+    "longitude": -77.413,
+    "city": "Richmond",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Church Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA009",
+    "name": "Norfolk Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.8465,
+    "longitude": -76.285,
+    "city": "Norfolk",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Norfolk Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA010",
+    "name": "Virginia Beach Red Wing Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.83,
+    "longitude": -76.06,
+    "city": "Virginia Beach",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Virginia Beach Red Wing Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA011",
+    "name": "Chesapeake Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 36.7685,
+    "longitude": -76.2874,
+    "city": "Chesapeake",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Chesapeake Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA012",
+    "name": "Roanoke Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.271,
+    "longitude": -79.9414,
+    "city": "Roanoke",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Roanoke Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA013",
+    "name": "Charlottesville Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.0293,
+    "longitude": -78.4767,
+    "city": "Charlottesville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Charlottesville Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA014",
+    "name": "Fairfax Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.8462,
+    "longitude": -77.3064,
+    "city": "Fairfax",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fairfax Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA015",
+    "name": "Alexandria Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.8048,
+    "longitude": -77.0469,
+    "city": "Alexandria",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Alexandria Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA016",
+    "name": "Loudoun Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 39.0437,
+    "longitude": -77.4875,
+    "city": "Leesburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Loudoun Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA017",
+    "name": "Lynchburg Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.4138,
+    "longitude": -79.1422,
+    "city": "Lynchburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Lynchburg Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA018",
+    "name": "Fredericksburg Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 38.3032,
+    "longitude": -77.4606,
+    "city": "Fredericksburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fredericksburg Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA019",
+    "name": "Hampton Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.0299,
+    "longitude": -76.3452,
+    "city": "Hampton",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hampton Dog Park"
+    }
+  },
+  {
+    "place_id": "man_VA020",
+    "name": "Newport News Dog Park",
+    "formatted_address": ", Virginia, USA",
+    "latitude": 37.0871,
+    "longitude": -76.473,
+    "city": "Newport News",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Newport News Dog Park"
+    }
   }
 ]

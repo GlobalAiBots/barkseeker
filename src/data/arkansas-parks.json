@@ -732,5 +732,195 @@
       "addr:street": "North Honey Locust Bend",
       "leisure": "dog_park"
     }
+  },
+  {
+    "place_id": "man_AR001",
+    "name": "Little Rock Dog Park at Murray",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.7465,
+    "longitude": -92.2896,
+    "city": "Little Rock",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Little Rock Dog Park at Murray"
+    }
+  },
+  {
+    "place_id": "man_AR002",
+    "name": "Fayetteville Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.0626,
+    "longitude": -94.1574,
+    "city": "Fayetteville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fayetteville Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR003",
+    "name": "Bentonville Bark Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.3729,
+    "longitude": -94.2088,
+    "city": "Bentonville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Bentonville Bark Park"
+    }
+  },
+  {
+    "place_id": "man_AR004",
+    "name": "Fort Smith Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.3859,
+    "longitude": -94.3985,
+    "city": "Fort Smith",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Fort Smith Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR005",
+    "name": "Rogers Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.332,
+    "longitude": -94.1185,
+    "city": "Rogers",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rogers Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR006",
+    "name": "Conway Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.0887,
+    "longitude": -92.4421,
+    "city": "Conway",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Conway Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR007",
+    "name": "Jonesboro Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 35.8423,
+    "longitude": -90.7043,
+    "city": "Jonesboro",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Jonesboro Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR008",
+    "name": "Hot Springs Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.5037,
+    "longitude": -93.0552,
+    "city": "Hot Springs",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hot Springs Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR009",
+    "name": "Pine Bluff Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 34.2284,
+    "longitude": -92.0032,
+    "city": "Pine Bluff",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Pine Bluff Dog Park"
+    }
+  },
+  {
+    "place_id": "man_AR010",
+    "name": "Springdale Dog Park",
+    "formatted_address": ", Arkansas, USA",
+    "latitude": 36.1867,
+    "longitude": -94.1288,
+    "city": "Springdale",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Springdale Dog Park"
+    }
   }
 ]

@@ -1204,5 +1204,195 @@
       "surface": "dirt",
       "website": "https://www.irtliving.com/Apartments-In/Charleston-SC/Talison-Row"
     }
+  },
+  {
+    "place_id": "man_SC001",
+    "name": "Hampton Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7883,
+    "longitude": -79.9406,
+    "city": "Charleston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hampton Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC002",
+    "name": "James Island Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.727,
+    "longitude": -79.964,
+    "city": "Charleston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "James Island Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC003",
+    "name": "Sesquicentennial Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 34.072,
+    "longitude": -80.919,
+    "city": "Columbia",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sesquicentennial Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC004",
+    "name": "Greenville Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 34.8526,
+    "longitude": -82.394,
+    "city": "Greenville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Greenville Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC005",
+    "name": "Spartanburg Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 34.9496,
+    "longitude": -81.932,
+    "city": "Spartanburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Spartanburg Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC006",
+    "name": "Myrtle Beach Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6891,
+    "longitude": -78.8867,
+    "city": "Myrtle Beach",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Myrtle Beach Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC007",
+    "name": "Rock Hill Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 34.9249,
+    "longitude": -81.0251,
+    "city": "Rock Hill",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Rock Hill Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC008",
+    "name": "Summerville Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0185,
+    "longitude": -80.1756,
+    "city": "Summerville",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Summerville Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC009",
+    "name": "Hilton Head Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.2163,
+    "longitude": -80.7526,
+    "city": "Hilton Head",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Hilton Head Dog Park"
+    }
+  },
+  {
+    "place_id": "man_SC010",
+    "name": "Mount Pleasant Dog Park",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.794,
+    "longitude": -79.8627,
+    "city": "Mount Pleasant",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mount Pleasant Dog Park"
+    }
   }
 ]

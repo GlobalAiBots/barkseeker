@@ -18,5 +18,195 @@
       "name": "Bark Park",
       "operator": "Domain at Town Center"
     }
+  },
+  {
+    "place_id": "man_WV001",
+    "name": "Kanawha State Forest Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 38.317,
+    "longitude": -81.679,
+    "city": "Charleston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Kanawha State Forest Dog Park"
+    }
+  },
+  {
+    "place_id": "man_WV002",
+    "name": "Coonskin Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 38.382,
+    "longitude": -81.638,
+    "city": "Charleston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Coonskin Dog Park"
+    }
+  },
+  {
+    "place_id": "man_WV003",
+    "name": "Capitol Street Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 38.351,
+    "longitude": -81.632,
+    "city": "Charleston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Capitol Street Dog Park"
+    }
+  },
+  {
+    "place_id": "man_WV004",
+    "name": "Huntington Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 38.4192,
+    "longitude": -82.4452,
+    "city": "Huntington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Huntington Dog Park"
+    }
+  },
+  {
+    "place_id": "man_WV005",
+    "name": "Ritter Park Dog Area",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 38.4098,
+    "longitude": -82.4278,
+    "city": "Huntington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Ritter Park Dog Area"
+    }
+  },
+  {
+    "place_id": "man_WV006",
+    "name": "Morgantown Rail Trail Dog Area",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.6295,
+    "longitude": -79.9559,
+    "city": "Morgantown",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Morgantown Rail Trail Dog Area"
+    }
+  },
+  {
+    "place_id": "man_WV007",
+    "name": "White Park Dog Area",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.638,
+    "longitude": -79.9495,
+    "city": "Morgantown",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "White Park Dog Area"
+    }
+  },
+  {
+    "place_id": "man_WV008",
+    "name": "Wheeling Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 40.064,
+    "longitude": -80.7209,
+    "city": "Wheeling",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Wheeling Dog Park"
+    }
+  },
+  {
+    "place_id": "man_WV009",
+    "name": "Parkersburg Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.2667,
+    "longitude": -81.5615,
+    "city": "Parkersburg",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Parkersburg Dog Park"
+    }
+  },
+  {
+    "place_id": "man_WV010",
+    "name": "Beckley Dog Park",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 37.7782,
+    "longitude": -81.1882,
+    "city": "Beckley",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Beckley Dog Park"
+    }
   }
 ]

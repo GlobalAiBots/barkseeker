@@ -720,5 +720,328 @@
       "leisure": "dog_park",
       "name": "Round Rock Dog Depot"
     }
+  },
+  {
+    "place_id": "man_TX006",
+    "name": "Johnny Steele Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7623,
+    "longitude": -95.3635,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Johnny Steele Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX007",
+    "name": "Levy Park Dog Run",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7366,
+    "longitude": -95.4151,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Levy Park Dog Run"
+    }
+  },
+  {
+    "place_id": "man_TX009",
+    "name": "Boneyard Drinkery Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.768,
+    "longitude": -95.354,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Boneyard Drinkery Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX010",
+    "name": "Tanglewood Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7517,
+    "longitude": -95.4625,
+    "city": "Houston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Tanglewood Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX015",
+    "name": "Mutts Canine Cantina Uptown",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.8013,
+    "longitude": -96.8105,
+    "city": "Dallas",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Mutts Canine Cantina Uptown"
+    }
+  },
+  {
+    "place_id": "man_TX023",
+    "name": "West Austin Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.2953,
+    "longitude": -97.7693,
+    "city": "Austin",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "West Austin Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX029",
+    "name": "Brackenridge Park Off-Leash",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.4594,
+    "longitude": -98.4722,
+    "city": "San Antonio",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Brackenridge Park Off-Leash"
+    }
+  },
+  {
+    "place_id": "man_TX035",
+    "name": "Westside Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 31.81,
+    "longitude": -106.53,
+    "city": "El Paso",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Westside Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX040",
+    "name": "McKinney Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 33.2148,
+    "longitude": -96.6398,
+    "city": "McKinney",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "McKinney Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX041",
+    "name": "Round Rock Dog Depot",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.5253,
+    "longitude": -97.6567,
+    "city": "Round Rock",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Round Rock Dog Depot"
+    }
+  },
+  {
+    "place_id": "man_TX042",
+    "name": "Cedar Park Bark Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.515,
+    "longitude": -97.82,
+    "city": "Cedar Park",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Cedar Park Bark Park"
+    }
+  },
+  {
+    "place_id": "man_TX043",
+    "name": "The Woodlands Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 30.1658,
+    "longitude": -95.4613,
+    "city": "The Woodlands",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "The Woodlands Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX044",
+    "name": "Sugar Land Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.5936,
+    "longitude": -95.6196,
+    "city": "Sugar Land",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Sugar Land Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX045",
+    "name": "Katy Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 29.7858,
+    "longitude": -95.8245,
+    "city": "Katy",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Katy Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX047",
+    "name": "Arlington Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.7357,
+    "longitude": -97.1081,
+    "city": "Arlington",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Arlington Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX048",
+    "name": "Irving Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.814,
+    "longitude": -96.9489,
+    "city": "Irving",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Irving Dog Park"
+    }
+  },
+  {
+    "place_id": "man_TX049",
+    "name": "Garland Dog Park",
+    "formatted_address": ", Texas, USA",
+    "latitude": 32.9126,
+    "longitude": -96.6389,
+    "city": "Garland",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_dog_park"
+    ],
+    "business_status": "OPERATIONAL",
+    "tags": {
+      "leisure": "dog_park",
+      "name": "Garland Dog Park"
+    }
   }
 ]
