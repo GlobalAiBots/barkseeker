@@ -1,8 +1,11 @@
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
 import { unified, getUnifiedParkById, amenityLabels } from "@/data/all-parks";
 import CletusAd from "@/components/CletusAd";
 import type { Metadata } from "next";
+
+const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 
 export const dynamicParams = true;
 export function generateStaticParams() { return []; }
@@ -29,7 +32,7 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
   const stSlug = stateSlugs[park.state] || park.state.toLowerCase();
   const stName = stateNames[park.state] || park.state;
   const nearby = unified.filter((p) => p.id !== park.id && p.state === park.state && Math.abs(p.latitude - park.latitude) < 0.15 && Math.abs(p.longitude - park.longitude) < 0.15).slice(0, 6);
-  const embedUrl = `https://www.google.com/maps?q=${park.latitude},${park.longitude}&z=15&output=embed`;
+  const mapParks = [{ id: park.id, name: park.name, latitude: park.latitude, longitude: park.longitude, city: park.city }];
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
@@ -45,9 +48,7 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">{park.name}</h1>
       <p className="text-gray-500 mb-6">{park.city ? `${park.city}, ` : ""}{stName} &middot; GPS: {park.latitude.toFixed(4)}, {park.longitude.toFixed(4)}</p>
 
-      <div className="rounded-xl overflow-hidden border border-gray-200 shadow-sm mb-8" style={{ height: 350 }}>
-        <iframe src={embedUrl} width="100%" height="100%" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade" title={`${park.name} map`} allowFullScreen />
-      </div>
+      <ParkMap parks={mapParks} center={[park.latitude, park.longitude]} zoom={15} height="400px" className="mb-8" />
 
       <div className="flex flex-wrap gap-3 mb-8">
         <a href={`https://www.google.com/maps/dir/?api=1&destination=${park.latitude},${park.longitude}`} target="_blank" rel="noopener noreferrer" className="bg-bark hover:bg-bark-dark text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Get Directions</a>
