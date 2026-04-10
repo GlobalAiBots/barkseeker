@@ -31,7 +31,20 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
   if (!park) notFound();
   const stSlug = stateSlugs[park.state] || park.state.toLowerCase();
   const stName = stateNames[park.state] || park.state;
-  const nearby = unified.filter((p) => p.id !== park.id && p.state === park.state && Math.abs(p.latitude - park.latitude) < 0.15 && Math.abs(p.longitude - park.longitude) < 0.15).slice(0, 6);
+  // Precomputed nearby parks
+  const nearbyData = (() => {
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const data = require("@/data/nearby.json");
+      return (data[park.id] || []).slice(0, 5);
+    } catch { return []; }
+  })();
+  const nearby = nearbyData.length > 0
+    ? nearbyData.map((n: { id: string; name: string; distance: number; city: string; state: string }) => {
+        const found = unified.find((p) => p.id === n.id);
+        return found ? { ...found, distanceMiles: n.distance } : null;
+      }).filter(Boolean)
+    : unified.filter((p) => p.id !== park.id && p.state === park.state).slice(0, 5);
   const mapParks = [{ id: park.id, name: park.name, latitude: park.latitude, longitude: park.longitude, city: park.city }];
 
   return (
@@ -75,10 +88,10 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
         <>
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4 mt-8">Nearby Dog Parks</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-            {nearby.map((p) => (
+            {nearby.map((p: { id: string; name: string; city: string; state: string; distanceMiles?: number }) => (
               <Link key={p.id} href={`/parks/${p.id}`} className="group bg-white border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-forest">
                 <p className="font-bold text-charcoal group-hover:text-forest transition text-sm">{p.name}</p>
-                <p className="text-gray-500 text-xs">{p.city || stName}</p>
+                <p className="text-gray-500 text-xs">{p.city || stName}{p.distanceMiles ? ` \u00b7 ${p.distanceMiles} mi` : ""}</p>
               </Link>
             ))}
           </div>
