@@ -46,6 +46,14 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: `How many dog parks are in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName}. Browse them all on BarkSeeker with maps and directions.` } },
+          { "@type": "Question", name: `Where is the closest dog park in ${cityInfo.city}?`, acceptedAnswer: { "@type": "Answer", text: `BarkSeeker lists all ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName} with exact locations. Click any listing to get directions.` } },
+          { "@type": "Question", name: `Are there off-leash dog parks in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `Many dog parks in ${cityInfo.city} have off-leash areas. Check individual listings on BarkSeeker for off-leash and fencing details.` } },
+        ],
+      }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-forest transition">Home</Link><span>/</span>
         <Link href={`/${cityInfo.stateSlug}`} className="hover:text-forest transition">{cityInfo.stateName}</Link><span>/</span>

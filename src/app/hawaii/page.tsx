@@ -20,6 +20,16 @@ export default function HawaiiPage() {
 
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "How many dog parks are in Hawaii?", acceptedAnswer: { "@type": "Answer", text: `There are ${stParks.length} dog parks in Hawaii. BarkSeeker has mapped every off-leash area and fenced park across the state.` } },
+          { "@type": "Question", name: "Are dog parks in Hawaii free?", acceptedAnswer: { "@type": "Answer", text: "Most dog parks in Hawaii are free and open to the public. Some may require a city or county registration tag for your dog." } },
+          { "@type": "Question", name: "Are there fenced dog parks in Hawaii?", acceptedAnswer: { "@type": "Answer", text: "Yes, many dog parks in Hawaii have fully fenced areas. Browse BarkSeeker listings to find fenced off-leash parks near you." } },
+          { "@type": "Question", name: "Do dog parks in Hawaii have small dog areas?", acceptedAnswer: { "@type": "Answer", text: "Many larger dog parks in Hawaii have separate areas for small dogs. Check individual park listings on BarkSeeker for amenity details." } },
+          { "@type": "Question", name: "How do I find dog parks near me in Hawaii?", acceptedAnswer: { "@type": "Answer", text: `Use BarkSeeker to browse all ${stParks.length} dog parks in Hawaii by city. Each listing includes a map and directions.` } },
+        ],
+      }) }} />
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
         <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Hawaii Dog Park Directory</p>
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Dog Park in Hawaii</h1>
