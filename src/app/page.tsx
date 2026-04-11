@@ -7,6 +7,7 @@ import Link from "next/link";
 import { unified } from "@/data/all-parks";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
+import NearMeButton from "@/components/NearMeButton";
 
 function pluralize(count: number, singular: string, plural: string) {
   return count === 1 ? `${count} ${singular}` : `${count.toLocaleString()} ${plural}`;
@@ -139,8 +140,12 @@ export default function Home() {
             )}
           </div>
 
+          <div className="flex justify-center mt-4">
+            <NearMeButton label="Find Parks Near Me" color="#2D6A4F" />
+          </div>
+
           {/* Top states */}
-          <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
+          <div className="flex gap-2 justify-center mt-4 flex-wrap max-w-2xl mx-auto">
             {statesWithCounts.slice(0, 6).map((s) => (
               <Link key={s.code} href={`/${s.slug}`} className="bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2 rounded-lg transition text-xs backdrop-blur-sm border border-white/10">{s.name} ({s.count.toLocaleString()})</Link>
             ))}
