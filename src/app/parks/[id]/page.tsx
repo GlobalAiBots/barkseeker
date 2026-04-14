@@ -18,10 +18,13 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const { id } = await params;
   const park = getUnifiedParkById(id);
   if (!park) return { title: "Park Not Found" };
+  const isGeneric = /^(dog\s*park|off.?leash|bark\s*park)$/i.test(park.name.trim());
+  const loc = park.city ? `${park.city}, ${stateNames[park.state] || park.state}` : (stateNames[park.state] || park.state);
+  const displayTitle = isGeneric ? `Dog Park in ${loc}` : park.name;
   return {
-    title: `${park.name} — Dog Park Details | BarkSeeker`,
-    description: `${park.name} dog park in ${park.city || stateNames[park.state] || park.state}. GPS coordinates, amenities, directions.`,
-    openGraph: { title: `${park.name} — BarkSeeker`, url: `https://barkseeker.com/parks/${park.id}` },
+    title: `${displayTitle} — Off-Leash Dog Park | BarkSeeker`,
+    description: `${displayTitle} dog park${park.city ? ` in ${park.city}` : ""}, ${stateNames[park.state] || park.state}. GPS coordinates, amenities, off-leash info, and directions.`,
+    openGraph: { title: `${displayTitle} — BarkSeeker`, url: `https://barkseeker.com/parks/${park.id}` },
     alternates: { canonical: `https://barkseeker.com/parks/${park.id}` },
   };
 }
@@ -172,6 +175,36 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
           </div>
         </>
       )}
+
+      {/* Nearby Cities */}
+      {park.city && (() => {
+        const otherCities = unified.filter(p => p.state === park.state && p.city && p.city !== park.city);
+        const uniqueCities = Array.from(new Set(otherCities.map(p => p.city))).slice(0, 6);
+        if (uniqueCities.length === 0) return null;
+        return (
+          <div className="mt-8">
+            <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Nearby Cities with Dog Parks</h3>
+            <div className="flex flex-wrap gap-2">
+              {uniqueCities.map(city => (
+                <Link key={city} href={`/cities/${stSlug}-${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-forest hover:border-forest transition">
+                  {city}, {park.state}
+                </Link>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
+
+      {/* People Also Search For */}
+      <div className="mt-8 bg-gray-50 border border-gray-200 rounded-xl p-5">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-3 text-sm">People Also Search For</h3>
+        <div className="flex flex-wrap gap-2">
+          {park.city && <Link href={`/cities/${stSlug}-${park.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-forest hover:border-forest transition">Dog parks near {park.city}</Link>}
+          <Link href={`/${stSlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-forest hover:border-forest transition">Dog parks in {stName}</Link>
+          {park.city && <Link href={`/cities/${stSlug}-${park.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-forest hover:border-forest transition">Off-leash dog parks in {park.city}</Link>}
+          <Link href="/blog/dog-park-etiquette" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-forest hover:border-forest transition">Dog park etiquette tips</Link>
+        </div>
+      </div>
     </div>
   );
 }
