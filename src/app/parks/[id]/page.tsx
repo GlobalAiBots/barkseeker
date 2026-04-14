@@ -77,9 +77,81 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
         </div>
       )}
 
-      <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-8 shadow-sm">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About This Park</h2>
-        <p className="text-gray-600 leading-relaxed">{park.description}</p>
+      {park.description && (
+        <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-6 shadow-sm">
+          <p className="text-gray-600 leading-relaxed">{park.description}</p>
+        </div>
+      )}
+
+      {/* About This Park — unique content */}
+      <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-6 shadow-sm">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About {park.name}</h2>
+        <p className="text-gray-600 leading-relaxed text-sm">
+          {park.name} is a dog park located in {park.city ? `${park.city}, ` : ""}{stName}. {park.amenities && park.amenities.length > 0 ? `This park offers ${park.amenities.length} amenities including ${park.amenities.slice(0, 3).map(a => (amenityLabels[a]?.label || a).toLowerCase()).join(", ")}.` : "Visit this park for off-leash play and socialization."} GPS coordinates: {park.latitude.toFixed(4)}, {park.longitude.toFixed(4)}.
+        </p>
+      </div>
+
+      {/* What to Know */}
+      <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
+        <h3 className="font-[Cabin] font-bold text-forest mb-3">What to Know Before You Visit</h3>
+        <ul className="space-y-2 text-sm text-gray-700">
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Always supervise your dog at the park &mdash; watch for signs of stress or aggression.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Bring water and waste bags. Most parks have dispensers, but don&apos;t count on it.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Make sure your dog is up to date on vaccinations before visiting any public dog park.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Read our <Link href="/blog/dog-park-etiquette" className="text-forest hover:underline">dog park etiquette guide</Link> for a better experience.</li>
+        </ul>
+      </div>
+
+      {/* Dog Parks in State */}
+      {(() => {
+        const stateCount = unified.filter(p => p.state === park.state).length;
+        return (
+          <div className="bg-white border border-gray-200 rounded-xl p-6 mb-6 shadow-sm">
+            <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Dog Parks in {stName}</h3>
+            <p className="text-gray-600 leading-relaxed text-sm">
+              {stName} is home to {stateCount.toLocaleString()} dog parks listed on BarkSeeker. Whether you&apos;re looking for off-leash areas, fenced parks, or dog-friendly trails, {stName} has options for every pup. <Link href={`/${stSlug}`} className="text-forest hover:underline">Browse all {stateCount.toLocaleString()} dog parks in {stName}</Link>.
+            </p>
+          </div>
+        );
+      })()}
+
+      {/* FAQ - visible */}
+      <div className="mb-6">
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [
+          { "@type": "Question", name: `Where is ${park.name} located?`, acceptedAnswer: { "@type": "Answer", text: `${park.name} is located in ${park.city ? park.city + ", " : ""}${stName}. GPS: ${park.latitude.toFixed(4)}, ${park.longitude.toFixed(4)}.` } },
+          { "@type": "Question", name: `Is ${park.name} free?`, acceptedAnswer: { "@type": "Answer", text: "Most public dog parks are free to use. Some may have membership or seasonal fees." } },
+          { "@type": "Question", name: `Does ${park.name} have off-leash areas?`, acceptedAnswer: { "@type": "Answer", text: "Check the amenities section above. Many dog parks on BarkSeeker include fenced off-leash areas." } },
+        ] }) }} />
+        <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h3>
+        <div className="space-y-2">
+          {[
+            { q: `Where is ${park.name} located?`, a: `${park.name} is located in ${park.city ? park.city + ", " : ""}${stName}. GPS: ${park.latitude.toFixed(4)}, ${park.longitude.toFixed(4)}.` },
+            { q: `Is ${park.name} free?`, a: "Most public dog parks are free to use. Some may have membership or seasonal fees." },
+            { q: `Does ${park.name} have off-leash areas?`, a: "Check the amenities section above. Many dog parks on BarkSeeker include fenced off-leash areas." },
+          ].map((f, i) => (
+            <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
+              <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-forest transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
+              <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
+            </details>
+          ))}
+        </div>
+      </div>
+
+      {/* Related Guides */}
+      <div className="mb-6">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Related Guides</h3>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          {[
+            { href: "/blog/dog-park-etiquette", title: "Dog Park Etiquette", desc: "10 rules every dog owner should follow" },
+            { href: "/blog/dog-park-safety", title: "Dog Park Safety", desc: "Keep your pup safe and happy" },
+            { href: "/blog/what-to-bring-to-a-dog-park", title: "What to Bring", desc: "Essential checklist for dog park visits" },
+          ].map((g) => (
+            <Link key={g.href} href={g.href} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
+              <p className="font-bold text-charcoal group-hover:text-forest transition text-sm">{g.title}</p>
+              <p className="text-gray-400 text-xs mt-1">{g.desc}</p>
+            </Link>
+          ))}
+        </div>
       </div>
 
       <CletusAd />
