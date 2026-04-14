@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useState, useMemo } from "react";
 import { unified, isGenericName } from "@/data/all-parks";
 import CletusAd from "@/components/CletusAd";
@@ -37,16 +39,33 @@ export default function NewYorkPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{stParks.length}+ dog parks across New York. Off-leash areas, fenced parks, and more. {namedCount} named parks with details.</p>
       </section>
 
+      {/* State intro + tips */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Dog Parks in New York</h2>
+          <p className="text-gray-600 leading-relaxed text-sm">New York has {stParks.length.toLocaleString()} dog parks listed on BarkSeeker, with off-leash areas, fenced parks, and dog-friendly trails across the state. Popular areas include New York City, Buffalo, and Rochester. Whether your pup needs room to run or a safe space to socialize, you&apos;ll find a park nearby.</p>
+        </div>
+        <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-forest mb-3">Tips for Visiting Dog Parks in New York</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Always supervise your dog &mdash; don&apos;t leave them unattended at any dog park.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Make sure your dog is current on all vaccinations before visiting a public park.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Bring water and waste bags. Most parks provide dispensers, but don&apos;t count on it.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Keep your dog leashed in parking areas and on trails unless in a designated off-leash zone.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Read our <a href="/blog/dog-park-etiquette" className="text-forest hover:underline">dog park etiquette guide</a> for a better experience.</li>
+          </ul>
+        </div>
+      </section>
+
       {cityMap.length > 0 && (
         <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cityMap.slice(0, 16).map(([city, count]) => (
-              <button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById("park-list")?.scrollIntoView({ behavior: "smooth" }); }} className={"text-left bg-white border rounded-lg p-3 hover:border-bark hover:bg-[#E8F0E5] transition cursor-pointer " + (selectedCity === city ? "border-bark bg-[#E8F0E5] ring-2 ring-bark" : "border-gray-200")}>
+              <Link key={city} href={`/cities/${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-forest hover:shadow-sm transition">
                 <p className="font-bold text-charcoal text-sm">{city}</p>
                 <p className="text-gray-400 text-xs">{count} park{count !== 1 ? "s" : ""}</p>
-              </button>
-            ))}
+              </Link>))}
           </div>
         </section>
       )}
@@ -57,8 +76,11 @@ export default function NewYorkPage() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">New York Dog Park FAQ</h2>
         <div className="space-y-2">
           {[
-            { q: "How many dog parks are in New York?", a: `BarkSeeker lists ${stParks.length}+ dog parks across New York.` },
-            { q: "Is BarkSeeker free?", a: "Yes, completely free. No login, no account, no fees." },
+            { q: "How many dog parks are in New York?", a: `BarkSeeker lists ${stParks.length}+ dog parks across New York, including off-leash areas, fenced parks, and dog-friendly trails.` },
+            { q: "Are dog parks in New York free?", a: "Most dog parks in New York are free and open to the public. Some may require a city registration tag for your dog." },
+            { q: "Do I need to keep my dog on a leash at New York dog parks?", a: "In designated off-leash dog parks, your dog can play freely within the fenced area. Outside of designated off-leash zones, New York generally requires dogs to be leashed." },
+            { q: "What should I bring to a dog park in New York?", a: "Bring water, waste bags, a leash (even at off-leash parks), and treats. Leave food and retractable leashes at home." },
+            { q: "Is BarkSeeker free?", a: "Yes, completely free. No login, no account, no fees. Just find your park and go." },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-forest transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
