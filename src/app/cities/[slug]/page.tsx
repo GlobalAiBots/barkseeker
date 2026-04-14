@@ -4,6 +4,7 @@ import { use, useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-parks";
 import cityPages from "@/data/city-pages.json";
+import FeaturedArticle from "@/components/FeaturedArticle";
 
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
 const allCityPages = cityPages as CityPage[];
@@ -75,6 +76,46 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
             <span className="text-sm font-semibold text-bark mt-2 inline-block">View Details &rarr;</span>
           </Link>
         ))}
+      </div>
+
+      {/* Intro */}
+      <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Dog Parks in {cityInfo.city}, {cityInfo.stateName}</h2>
+        <p className="text-gray-600 leading-relaxed text-sm">{cityInfo.city}, {cityInfo.stateName} has {parks.length} dog park{parks.length !== 1 ? "s" : ""} listed on BarkSeeker. Browse all parks above with maps, amenities, and directions to find the perfect spot for your pup.</p>
+      </div>
+
+      {/* Tips */}
+      <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
+        <h3 className="font-[Cabin] font-bold text-forest mb-3">Tips for Dog Parks in {cityInfo.city}</h3>
+        <ul className="space-y-2 text-sm text-gray-700">
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Always supervise your dog and watch for signs of stress or aggression.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Bring water and waste bags &mdash; don&apos;t rely on park dispensers.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Make sure your dog is current on vaccinations before visiting any public park.</li>
+        </ul>
+      </div>
+
+      {/* Visible FAQ */}
+      <div className="mb-8">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
+        <div className="space-y-2">
+          {[
+            { q: `How many dog parks are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName} listed on BarkSeeker with maps and directions.` },
+            { q: `Are dog parks in ${cityInfo.city} free?`, a: `Most dog parks in ${cityInfo.city} are free and open to the public. Some may require registration.` },
+            { q: `Are there off-leash dog parks in ${cityInfo.city}?`, a: `Many dog parks in ${cityInfo.city} have off-leash areas. Check individual listings for details.` },
+          ].map((f, i) => (
+            <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
+              <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-forest transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
+              <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
+            </details>
+          ))}
+        </div>
+      </div>
+
+      <FeaturedArticle listingSlug={`city-${slug}`} />
+
+      {/* Back to state */}
+      <div className="text-center py-4">
+        <Link href={`/${cityInfo.stateSlug}`} className="text-forest hover:underline font-semibold text-sm">Browse all {cityInfo.stateName} dog parks &rarr;</Link>
       </div>
 
       {nearbyCities.length > 0 && (
