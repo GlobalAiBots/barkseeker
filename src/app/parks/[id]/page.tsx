@@ -3,6 +3,7 @@ import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
 import { unified, getUnifiedParkById, amenityLabels } from "@/data/all-parks";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import type { Metadata } from "next";
 
 const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
@@ -153,6 +154,8 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
           ))}
         </div>
       </div>
+
+      <FeaturedArticle listingSlug={park.id} />
 
       <CletusAd />
 
