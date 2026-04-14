@@ -8,6 +8,7 @@ import { unified } from "@/data/all-parks";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
+import { blogPosts } from "@/data/blog-posts";
 
 function pluralize(count: number, singular: string, plural: string) {
   return count === 1 ? `${count} ${singular}` : `${count.toLocaleString()} ${plural}`;
@@ -218,6 +219,28 @@ export default function Home() {
             <div key={cat} className="opacity-60 bg-white border border-gray-200 rounded-xl p-4 shadow-sm text-center">
               <p className="font-[Cabin] font-bold text-charcoal text-sm">{cat}</p>
             </div>
+          ))}
+        </div>
+      </section>
+
+      {/* BLOG */}
+      <section className="max-w-5xl mx-auto px-4 py-10">
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Dog Owner Tips &amp; Guides</h2>
+          <Link href="/blog" className="text-sm font-semibold text-bark hover:text-bark-dark transition">All posts &rarr;</Link>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {blogPosts.slice(0, 3).map((p) => (
+            <Link key={p.slug} href={`/blog/${p.slug}`} className="group bg-white rounded-xl overflow-hidden hover:shadow-lg hover:-translate-y-0.5 transition-all" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.06)' }}>
+              <div className="aspect-[16/9] flex items-center justify-center" style={{ background: p.gradient }}>
+                <span className="text-white/30 text-4xl font-bold font-[Cabin]">{p.category}</span>
+              </div>
+              <div className="p-4">
+                <p className="text-gray-400 text-xs mb-1">{p.date} &middot; {p.readTime}</p>
+                <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-forest transition text-sm">{p.title}</h3>
+                <p className="text-gray-500 text-xs mt-2 leading-relaxed">{(p.description || "").substring(0, 120)}...</p>
+              </div>
+            </Link>
           ))}
         </div>
       </section>
