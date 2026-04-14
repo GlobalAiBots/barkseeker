@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import { unified, isGenericName } from "@/data/all-parks";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import ParkList from "@/components/ParkList";
 
 export default function KansasPage() {
@@ -66,7 +67,8 @@ export default function KansasPage() {
           ))}
         </div>
       </section>
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-kansas"} />
+      <CletusAd /></div>
     </div>
   );
 }
