@@ -210,6 +210,28 @@ export default function Home() {
         </div>
       </section>
 
+      {/* BABYMYDOG PROMO */}
+      <section className="max-w-5xl mx-auto px-4 py-6">
+        <div className="rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #C4704B 0%, #D4885B 60%, #5B7B5E 100%)" }}>
+          <div className="px-6 py-8 md:py-10 flex flex-col md:flex-row items-start md:items-center gap-6">
+            <div className="flex-1">
+              <h3 className="font-[Cabin] text-xl md:text-2xl font-bold text-white mb-2">Gear Up for the Park &#128054;</h3>
+              <p className="text-white/80 text-sm max-w-md">Expert-picked leashes, harnesses, treats, and toys. Everything your pup needs for a great day out.</p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              {[
+                { href: "https://babymydog.com/best/dog-leashes", label: "Leashes" },
+                { href: "https://babymydog.com/best/dog-toys", label: "Toys" },
+                { href: "https://babymydog.com/best/dog-treats", label: "Treats" },
+              ].map((p) => (
+                <a key={p.href} href={p.href} target="_blank" rel="noopener noreferrer" className="bg-white/15 hover:bg-white/25 text-white font-bold text-xs px-4 py-2 rounded-lg transition">{p.label}</a>
+              ))}
+              <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="bg-white text-[#C4704B] font-bold text-xs px-4 py-2 rounded-lg hover:shadow-lg transition">Shop All &rarr;</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* COMING SOON */}
       <section className="max-w-5xl mx-auto px-4 py-10">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">Coming Soon</h2>

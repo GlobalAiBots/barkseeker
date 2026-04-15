@@ -163,6 +163,29 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
 
       <FeaturedArticle listingSlug={park.id} />
 
+      {/* BabyMyDog Promo */}
+      <div className="my-8 rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #C4704B 0%, #D4885B 60%, #5B7B5E 100%)" }}>
+        <div className="px-6 py-8 md:py-10">
+          <h3 className="font-[Cabin] text-xl md:text-2xl font-bold text-white mb-2">Gear Up for the Park &#128054;</h3>
+          <p className="text-white/80 text-sm mb-6 max-w-md">Leashes, water bottles, treat pouches, and more &mdash; everything your pup needs for a great day out.</p>
+          <div className="grid grid-cols-3 gap-3 mb-6">
+            {[
+              { href: "https://babymydog.com/best/dog-leashes", label: "Leashes & Harnesses", icon: "\uD83E\uDDBA" },
+              { href: "https://babymydog.com/best/dog-treats", label: "Treats & Snacks", icon: "\uD83C\uDF56" },
+              { href: "https://babymydog.com/best/dog-toys", label: "Toys & Fetch Gear", icon: "\uD83E\uDD8E" },
+            ].map((p) => (
+              <a key={p.href} href={p.href} target="_blank" rel="noopener noreferrer" className="bg-white/15 hover:bg-white/25 rounded-xl p-3 text-center transition">
+                <span className="text-2xl block mb-1">{p.icon}</span>
+                <span className="text-white text-xs font-semibold">{p.label}</span>
+              </a>
+            ))}
+          </div>
+          <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-[#C4704B] font-bold text-sm px-6 py-2.5 rounded-lg hover:shadow-lg transition">
+            Shop All Dog Products at BabyMyDog &rarr;
+          </a>
+        </div>
+      </div>
+
       <CletusAd />
 
       {nearby.length > 0 && (
