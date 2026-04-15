@@ -41,12 +41,7 @@ export default function GeorgiaPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{stParks.length}+ dog parks across Georgia. Off-leash areas, fenced parks, and more. {namedCount} named parks with details.</p>
       </section>
 
-      {/* Map */}
-      {(() => {
-        const mapParks = stParks.map(p => ({ id: p.id, name: p.name, latitude: p.latitude, longitude: p.longitude, city: p.city }));
-        const center: [number, number] = stParks.length > 0 ? [stParks.reduce((s, p) => s + p.latitude, 0) / stParks.length, stParks.reduce((s, p) => s + p.longitude, 0) / stParks.length] : [39.8, -98.5];
-        return <div className="max-w-6xl mx-auto px-4 pt-8"><ParkMap parks={mapParks} center={center} zoom={7} height="350px" className="mb-4" /></div>;
-      })()}
+      
 
       {/* State intro + tips */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
@@ -65,6 +60,13 @@ export default function GeorgiaPage() {
           </ul>
         </div>
       </section>
+
+      {/* Map */}
+      {(() => {
+        const mapParks = stParks.map(p => ({ id: p.id, name: p.name, latitude: p.latitude, longitude: p.longitude, city: p.city }));
+        const center: [number, number] = stParks.length > 0 ? [stParks.reduce((s, p) => s + p.latitude, 0) / stParks.length, stParks.reduce((s, p) => s + p.longitude, 0) / stParks.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><ParkMap parks={mapParks} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {cityMap.length > 0 && (
         <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
