@@ -7,14 +7,14 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BarkSeeker | Dog Parks, Groomers & Vets — Your Complete Dog Care Hub",
+  title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
   description:
-    "Find dog parks, groomers, and veterinarians across the United States. 7,300+ parks, 14,900+ groomers, 17,800+ vets with ratings, reviews, and directions. Free.",
+    "Find dog parks, professional groomers, and trusted veterinarians near you. 40,000+ listings across all 50 states. Free forever.",
   keywords:
     "dog park near me, dog groomer near me, vet near me, off-leash dog park, dog park directory, dog groomer directory, veterinarian directory",
   openGraph: {
-    title: "BarkSeeker | Every Dog Park in America",
-    description: "7,300+ dog parks across the US. GPS coordinates, amenities, off-leash info.",
+    title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
+    description: "Find dog parks, professional groomers, and trusted veterinarians near you. 40,000+ listings across all 50 states.",
     url: "https://barkseeker.com",
     siteName: "BarkSeeker",
     type: "website",
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    title: "BarkSeeker | Every Dog Park in America",
-    description: "7,300+ dog parks across 46 states. GPS coordinates, amenities, off-leash info.",
+    title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
+    description: "Find dog parks, professional groomers, and trusted veterinarians near you. 40,000+ listings across all 50 states.",
   },
   alternates: { canonical: "https://barkseeker.com" },
   verification: {
@@ -61,7 +61,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
             <p className="font-bold text-white mb-2 font-[Cabin]">&#128021; BarkSeeker</p>
-            <p>The most complete dog park directory in America. 7,300+ parks across 46 states.</p>
+            <p>The most complete pet services directory in America. 40,000+ parks, groomers, and vets across 50 states.</p>
           </div>
           <div>
             <p className="font-bold text-white/70 mb-2">Links</p>

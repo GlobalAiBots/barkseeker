@@ -99,12 +99,12 @@ export default function Home() {
       {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "WebSite", name: "BarkSeeker", url: "https://barkseeker.com",
-        description: `Find dog parks across the United States. ${parkCount}+ parks with GPS coordinates, amenities, and off-leash info.`,
+        description: `Find dog parks, groomers, and vets near you. 40,000+ listings across all 50 states. Free forever.`,
         potentialAction: { "@type": "SearchAction", target: "https://barkseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "Organization", name: "BarkSeeker", url: "https://barkseeker.com",
-        description: "The most complete dog park directory in the United States.",
+        description: "The most complete pet services directory in America. Dog parks, groomers, and vets across all 50 states.",
       }) }} />
 
       {/* HERO — Full-bleed */}
@@ -113,12 +113,12 @@ export default function Home() {
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(45,59,46,0.85) 0%, rgba(45,59,46,0.4) 50%, transparent 100%)' }} />
 
         <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">
-          <p className="text-white/60 text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Dog Park Directory</p>
+          <p className="text-white/60 text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Your Complete Dog Care Hub</p>
           <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight">
-            Every Dog Park<br />in America
+            Everything Your<br />Dog Needs
           </h1>
           <p className="text-white/80 mt-4 max-w-lg mx-auto text-lg">
-            Find off-leash parks, fenced areas, and dog-friendly trails near you &mdash; free forever.
+            Dog parks, groomers, and vets &mdash; find the best care for your pup across all 50 states.
           </p>
 
           {/* Search */}
@@ -171,9 +171,51 @@ export default function Home() {
         </div>
       </section>
 
-      {/* BROWSE BY STATE */}
+      {/* YOUR COMPLETE DOG CARE HUB */}
+      <section className="max-w-5xl mx-auto px-4 py-10">
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">Your Complete Dog Care Hub</h2>
+        <p className="text-gray-500 text-center mb-8 max-w-lg mx-auto">Everything your dog needs — parks, grooming, and veterinary care — all in one place.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+          <Link href="/" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+              <span className="text-3xl">&#127795;</span>
+            </div>
+            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Parks</h3>
+            <p className="text-forest font-bold text-sm mb-2">{parkCount}+ parks</p>
+            <p className="text-gray-500 text-xs">Off-leash areas, fenced parks, and amenities across all 50 states.</p>
+            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          </Link>
+          <Link href="/groomers" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+              <span className="text-3xl">&#9986;&#65039;</span>
+            </div>
+            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Groomers</h3>
+            <p className="text-forest font-bold text-sm mb-2">{allGroomers.length.toLocaleString()}+ groomers</p>
+            <p className="text-gray-500 text-xs">Professional groomers with ratings, reviews, and contact info.</p>
+            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          </Link>
+          <Link href="/vets" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+              <span className="text-3xl">&#128137;</span>
+            </div>
+            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Veterinarians</h3>
+            <p className="text-forest font-bold text-sm mb-2">{allVets.length.toLocaleString()}+ vets</p>
+            <p className="text-gray-500 text-xs">Trusted veterinarians with locations, ratings, and contact details.</p>
+            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          </Link>
+        </div>
+        <div className="text-center">
+          <Link href="/pet-insurance" className="inline-flex items-center gap-2 bg-cream border-2 border-bark rounded-xl px-6 py-3 hover:shadow-md transition">
+            <span className="text-xl">&#128737;&#65039;</span>
+            <span className="font-[Cabin] font-bold text-charcoal text-sm">Compare Pet Insurance Plans</span>
+            <span className="text-bark font-bold text-sm">&rarr;</span>
+          </Link>
+        </div>
+      </section>
+
+      {/* BROWSE DOG PARKS BY STATE */}
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse Dog Parks by State</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
           {statesWithCounts.map((s) => (
             <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:bg-[#E8F0E5] hover:border-forest hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-forest">
@@ -227,48 +269,6 @@ export default function Home() {
               <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="bg-white text-[#C4704B] font-bold text-xs px-4 py-2 rounded-lg hover:shadow-lg transition">Shop All &rarr;</a>
             </div>
           </div>
-        </div>
-      </section>
-
-      {/* YOUR COMPLETE DOG CARE HUB */}
-      <section className="max-w-5xl mx-auto px-4 py-10">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">Your Complete Dog Care Hub</h2>
-        <p className="text-gray-500 text-center mb-8 max-w-lg mx-auto">Everything your dog needs — parks, grooming, and veterinary care — all in one place.</p>
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
-          <Link href="/" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
-            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
-              <span className="text-3xl">&#127795;</span>
-            </div>
-            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Parks</h3>
-            <p className="text-forest font-bold text-sm mb-2">{parkCount}+ parks</p>
-            <p className="text-gray-500 text-xs">Off-leash areas, fenced parks, and amenities across all 50 states.</p>
-            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
-          </Link>
-          <Link href="/groomers" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
-            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
-              <span className="text-3xl">&#9986;&#65039;</span>
-            </div>
-            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Groomers</h3>
-            <p className="text-forest font-bold text-sm mb-2">{allGroomers.length.toLocaleString()}+ groomers</p>
-            <p className="text-gray-500 text-xs">Professional groomers with ratings, reviews, and contact info.</p>
-            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
-          </Link>
-          <Link href="/vets" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
-            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
-              <span className="text-3xl">&#128137;</span>
-            </div>
-            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Veterinarians</h3>
-            <p className="text-forest font-bold text-sm mb-2">{allVets.length.toLocaleString()}+ vets</p>
-            <p className="text-gray-500 text-xs">Trusted veterinarians with locations, ratings, and contact details.</p>
-            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
-          </Link>
-        </div>
-        <div className="text-center">
-          <Link href="/pet-insurance" className="inline-flex items-center gap-2 bg-cream border-2 border-bark rounded-xl px-6 py-3 hover:shadow-md transition">
-            <span className="text-xl">&#128737;&#65039;</span>
-            <span className="font-[Cabin] font-bold text-charcoal text-sm">Compare Pet Insurance Plans</span>
-            <span className="text-bark font-bold text-sm">&rarr;</span>
-          </Link>
         </div>
       </section>
 
