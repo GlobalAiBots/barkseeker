@@ -110,14 +110,14 @@ export default function Home() {
       {/* HERO — Full-bleed */}
       <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
         <img src="/images/hero-dogs-playing-park.jpg" alt="Dogs playing together at a park" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
-        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(45,59,46,0.85) 0%, rgba(45,59,46,0.4) 50%, transparent 100%)' }} />
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(26,58,42,0.88) 0%, rgba(26,58,42,0.4) 50%, transparent 100%)' }} />
 
         <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">
           <p className="text-white/60 text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Your Complete Dog Care Hub</p>
-          <h1 className="font-[Cabin] text-5xl md:text-7xl font-bold text-white leading-tight">
+          <h1 className="font-[Cabin] text-4xl md:text-[56px] font-black text-white leading-[1.1]" style={{ textShadow: '0 2px 4px rgba(0,0,0,0.15)' }}>
             Everything Your<br />Dog Needs
           </h1>
-          <p className="text-white/80 mt-4 max-w-lg mx-auto text-lg">
+          <p className="text-white/85 mt-4 max-w-lg mx-auto text-lg" style={{ textShadow: '0 1px 2px rgba(0,0,0,0.1)' }}>
             Dog parks, groomers, and vets &mdash; find the best care for your pup across all 50 states.
           </p>
 
@@ -153,7 +153,7 @@ export default function Home() {
 
         {/* Stats overlay */}
         <div className="relative z-10 w-full mt-auto">
-          <div className="bg-[#2D3B2E]/80 backdrop-blur-sm border-t border-white/10 py-5">
+          <div className="bg-[#1A3A2A]/85 backdrop-blur-sm border-t border-white/10 py-6">
             <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
               {[
                 { value: parkCount, label: "Dog Parks" },
@@ -162,8 +162,8 @@ export default function Home() {
                 { value: "GPS", label: "Verified" },
               ].map((s) => (
                 <div key={s.label}>
-                  <p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p>
-                  <p className="text-white/50 text-xs mt-0.5">{s.label}</p>
+                  <p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p>
+                  <p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p>
                 </div>
               ))}
             </div>
@@ -172,55 +172,49 @@ export default function Home() {
       </section>
 
       {/* YOUR COMPLETE DOG CARE HUB */}
-      <section className="max-w-5xl mx-auto px-4 py-10">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">Your Complete Dog Care Hub</h2>
-        <p className="text-gray-500 text-center mb-8 max-w-lg mx-auto">Everything your dog needs — parks, grooming, and veterinary care — all in one place.</p>
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
-          <Link href="/" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
-            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
-              <span className="text-3xl">&#127795;</span>
-            </div>
-            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Parks</h3>
-            <p className="text-forest font-bold text-sm mb-2">{parkCount}+ parks</p>
-            <p className="text-gray-500 text-xs">Off-leash areas, fenced parks, and amenities across all 50 states.</p>
-            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+      <section className="max-w-5xl mx-auto px-4 py-12">
+        <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal text-center mb-3">Your Complete Dog Care Hub</h2>
+        <p className="text-muted text-center mb-10 max-w-lg mx-auto">Everything your dog needs — parks, grooming, and veterinary care — all in one place.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 mb-10">
+          <Link href="/" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #F0FFF4, #C6F6D5)', border: '2px solid rgba(45,138,78,0.2)' }}>
+            <span className="text-5xl block mb-3">&#127795;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Dog Parks</h3>
+            <p className="font-extrabold text-[28px] text-forest mb-2">{parkCount}+</p>
+            <p className="text-muted text-xs">Off-leash areas, fenced parks, and amenities across all 50 states.</p>
+            <span className="inline-block mt-4 text-white font-bold text-sm px-5 py-2 rounded-xl group-hover:-translate-y-0.5 transition-all" style={{ background: 'linear-gradient(135deg, #48BB78, #2D8A4E)', boxShadow: '0 4px 12px rgba(45,138,78,0.25)' }}>Browse Parks &rarr;</span>
           </Link>
-          <Link href="/groomers" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
-            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
-              <span className="text-3xl">&#9986;&#65039;</span>
-            </div>
-            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Groomers</h3>
-            <p className="text-forest font-bold text-sm mb-2">{allGroomers.length.toLocaleString()}+ groomers</p>
-            <p className="text-gray-500 text-xs">Professional groomers with ratings, reviews, and contact info.</p>
-            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          <Link href="/groomers" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #FFFBEB, #FDE68A)', border: '2px solid rgba(232,145,58,0.2)' }}>
+            <span className="text-5xl block mb-3">&#9986;&#65039;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Dog Groomers</h3>
+            <p className="font-extrabold text-[28px] text-bark mb-2">{allGroomers.length.toLocaleString()}+</p>
+            <p className="text-muted text-xs">Professional groomers with ratings, reviews, and contact info.</p>
+            <span className="inline-block mt-4 text-white font-bold text-sm px-5 py-2 rounded-xl group-hover:-translate-y-0.5 transition-all" style={{ background: 'linear-gradient(135deg, #F59E0B, #D97706)', boxShadow: '0 4px 12px rgba(217,119,6,0.25)' }}>Browse Groomers &rarr;</span>
           </Link>
-          <Link href="/vets" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
-            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
-              <span className="text-3xl">&#128137;</span>
-            </div>
-            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Veterinarians</h3>
-            <p className="text-forest font-bold text-sm mb-2">{allVets.length.toLocaleString()}+ vets</p>
-            <p className="text-gray-500 text-xs">Trusted veterinarians with locations, ratings, and contact details.</p>
-            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          <Link href="/vets" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #EFF6FF, #BFDBFE)', border: '2px solid rgba(59,130,246,0.2)' }}>
+            <span className="text-5xl block mb-3">&#128137;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Veterinarians</h3>
+            <p className="font-extrabold text-[28px] text-blue-600 mb-2">{allVets.length.toLocaleString()}+</p>
+            <p className="text-muted text-xs">Trusted veterinarians with locations, ratings, and contact details.</p>
+            <span className="inline-block mt-4 text-white font-bold text-sm px-5 py-2 rounded-xl group-hover:-translate-y-0.5 transition-all" style={{ background: 'linear-gradient(135deg, #60A5FA, #3B82F6)', boxShadow: '0 4px 12px rgba(59,130,246,0.25)' }}>Browse Vets &rarr;</span>
           </Link>
         </div>
         <div className="text-center">
-          <Link href="/pet-insurance" className="inline-flex items-center gap-2 bg-cream border-2 border-bark rounded-xl px-6 py-3 hover:shadow-md transition">
-            <span className="text-xl">&#128737;&#65039;</span>
-            <span className="font-[Cabin] font-bold text-charcoal text-sm">Compare Pet Insurance Plans</span>
-            <span className="text-bark font-bold text-sm">&rarr;</span>
+          <Link href="/pet-insurance" className="inline-flex items-center gap-2 bg-white border-2 border-bark rounded-xl px-8 py-4 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300">
+            <span className="text-2xl">&#128737;&#65039;</span>
+            <span className="font-[Cabin] font-bold text-charcoal text-base">Compare Pet Insurance Plans</span>
+            <span className="text-bark font-bold text-base">&rarr;</span>
           </Link>
         </div>
       </section>
 
       {/* BROWSE DOG PARKS BY STATE */}
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse Dog Parks by State</h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+        <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal mb-6">Browse Dog Parks by State</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
           {statesWithCounts.map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:bg-[#E8F0E5] hover:border-forest hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-forest">
-              <p className="font-bold text-charcoal text-sm group-hover:text-forest transition">{s.name}</p>
-              <span className="inline-block mt-1 text-xs font-semibold bg-forest/10 text-forest px-2 py-0.5 rounded">{pluralize(s.count, 'park', 'parks')}</span>
+            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-xl p-4 hover:border-forest hover:shadow-lg hover:-translate-y-1 transition-all duration-300 border-l-4 border-l-forest">
+              <p className="font-bold text-charcoal text-base group-hover:text-forest transition">{s.name}</p>
+              <span className="inline-block mt-1 text-xs font-bold bg-forest/10 text-forest px-2.5 py-0.5 rounded-full">{pluralize(s.count, 'park', 'parks')}</span>
             </Link>
           ))}
         </div>
@@ -230,7 +224,7 @@ export default function Home() {
 
       {/* WHY BARKSEEKER */}
       <section className="max-w-5xl mx-auto px-4 py-10">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-8">Why BarkSeeker</h2>
+        <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal text-center mb-8">Why BarkSeeker</h2>
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
           {[
             { icon: "&#128205;", title: "GPS Coordinates", desc: "Exact location for every park. Never end up at the wrong entrance again." },
@@ -275,7 +269,7 @@ export default function Home() {
       {/* BLOG */}
       <section className="max-w-5xl mx-auto px-4 py-10">
         <div className="flex items-center justify-between mb-4">
-          <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Dog Owner Tips &amp; Guides</h2>
+          <h2 className="font-[Cabin] text-[22px] md:text-[28px] font-extrabold text-charcoal">Dog Owner Tips &amp; Guides</h2>
           <Link href="/blog" className="text-sm font-semibold text-bark hover:text-bark-dark transition">All posts &rarr;</Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -306,7 +300,7 @@ export default function Home() {
             { "@type": "Question", name: "How do I find a dog park near me?", acceptedAnswer: { "@type": "Answer", text: `Use the search bar to search by state, city, or park name. We cover ${stateList.length} states with detailed dog park directories.` } },
           ],
         }) }} />
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
+        <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
           {[
             { q: "How many dog parks does BarkSeeker cover?", a: `We have data on ${parkCount}+ dog parks across ${stateList.length} states with GPS coordinates, amenities, and off-leash info.` },

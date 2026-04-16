@@ -52,8 +52,8 @@ export default function StatesDropdown() {
 
   return (
     <div className="flex items-center gap-4">
-      <Link href="/groomers" className={`text-sm font-medium transition ${pathname.startsWith("/groomers") ? "text-forest" : "text-gray-500 hover:text-forest"}`}>Groomers</Link>
-      <Link href="/vets" className={`text-sm font-medium transition ${pathname.startsWith("/vets") ? "text-forest" : "text-gray-500 hover:text-forest"}`}>Vets</Link>
+      <Link href="/groomers" className={`text-sm font-bold px-3 py-1 rounded-full transition-all duration-200 ${pathname.startsWith("/groomers") ? "bg-bark text-white" : "bg-bark/10 text-bark hover:bg-bark/20"}`}>Groomers</Link>
+      <Link href="/vets" className={`text-sm font-bold px-3 py-1 rounded-full transition-all duration-200 ${pathname.startsWith("/vets") ? "bg-forest text-white" : "bg-forest/10 text-forest hover:bg-forest/20"}`}>Vets</Link>
       <div ref={ref} className="relative">
         <button onClick={() => setOpen(!open)} className="text-gray-500 hover:text-forest transition flex items-center gap-1 text-sm font-medium">
           {ctx.label}
