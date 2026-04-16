@@ -1,0 +1,152 @@
+Loaded 1013 existing groomers
+
+Missing states (34): AK, AZ, CA, CT, DE, FL, IL, KS, KY, MA, MS, MT, NE, NV, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY
+
+  1/34 Alaska (AK)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 429); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1013)
+  2/34 Arizona (AZ)...       mirror overpass-api.de failed (Request failed with status code 429); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1013)
+  3/34 California (CA) [subdivided]...     quadrant 32.5,-124.4,37.25,-119.25... 37
+    quadrant 32.5,-119.25,37.25,-114.1...       mirror overpass-api.de failed (Request failed with status code 429); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+    quadrant 37.25,-124.4,42,-119.25...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 429); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+    quadrant 37.25,-119.25,42,-114.1... 4
+41 raw, +41 new (total 1054)
+  4/34 Connecticut (CT)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1054)
+  5/34 Delaware (DE)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+5 raw, +0 new (total 1054)
+  6/34 Florida (FL) [subdivided]...     quadrant 24.5,-87.6,27.75,-83.8... 0
+    quadrant 24.5,-83.8,27.75,-80... 56
+    quadrant 27.75,-87.6,31,-83.8...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+13
+    quadrant 27.75,-83.8,31,-80...       mirror overpass-api.de failed (Request failed with status code 429); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+69 raw, +59 new (total 1113)
+  7/34 Illinois (IL)... 108 raw, +11 new (total 1124)
+  8/34 Kansas (KS)...       mirror overpass-api.de failed (Request failed with status code 429); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1124)
+  9/34 Kentucky (KY)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1124)
+  10/34 Massachusetts (MA)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1124)
+  11/34 Mississippi (MS)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+9 raw, +0 new (total 1124)
+  12/34 Montana (MT)... 24 raw, +9 new (total 1133)
+  13/34 Nebraska (NE)... 13 raw, +7 new (total 1140)
+  14/34 Nevada (NV)...       mirror overpass-api.de failed (Request failed with status code 429); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+54 raw, +37 new (total 1177)
+  15/34 New Mexico (NM)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1177)
+  16/34 New York (NY) [subdivided]...     quadrant 40.5,-79.8,42.75,-75.85...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+    quadrant 40.5,-75.85,42.75,-71.9...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+    quadrant 42.75,-79.8,45,-75.85...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+    quadrant 42.75,-75.85,45,-71.9... 17
+17 raw, +14 new (total 1191)
+  17/34 North Carolina (NC)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+140 raw, +96 new (total 1287)
+  18/34 North Dakota (ND)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1287)
+  19/34 Ohio (OH)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+140 raw, +116 new (total 1403)
+  20/34 Oklahoma (OK)... 50 raw, +41 new (total 1444)
+  21/34 Oregon (OR)...       mirror overpass-api.de failed (Request failed with status code 429); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+83 raw, +73 new (total 1517)
+  22/34 Pennsylvania (PA)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1517)
+  23/34 Rhode Island (RI)... 12 raw, +12 new (total 1529)
+  24/34 South Carolina (SC)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5
+      mirror overpass-api.de failed (Request failed with status code 504); attempt 4/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 5/5
+    FAILED after all retries
+0 raw, +0 new (total 1529)
+  25/34 South Dakota (SD)... 6 raw, +3 new (total 1532)
+  26/34 Tennessee (TN)...       mirror overpass-api.de failed (Request failed with status code 504); attempt 1/5
+      mirror overpass.kumi.systems failed (Request failed with status code 429); attempt 2/5
+      mirror overpass.private.coffee failed (Request failed with status code 429); attempt 3/5

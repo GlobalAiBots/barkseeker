@@ -5,6 +5,8 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-parks";
+import { allGroomers } from "@/data/all-groomers";
+import { allVets } from "@/data/all-vets";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
@@ -64,8 +66,8 @@ const stateList: { name: string; slug: string; code: string }[] = [
 ];
 
 const comingSoonCategories = [
-  "Dog Groomers", "Veterinarians", "Dog Boarding", "Dog Training",
-  "Pet Spas", "Pet Stores", "Dog Beaches", "Dog-Friendly Restaurants",
+  "Dog Boarding", "Dog Training", "Pet Spas", "Pet Stores",
+  "Dog Beaches", "Dog-Friendly Restaurants",
 ];
 
 export default function Home() {
@@ -232,17 +234,51 @@ export default function Home() {
         </div>
       </section>
 
-      {/* COMING SOON */}
+      {/* YOUR COMPLETE DOG CARE HUB */}
       <section className="max-w-5xl mx-auto px-4 py-10">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">Coming Soon</h2>
-        <p className="text-gray-500 text-center mb-8 max-w-lg mx-auto">We&apos;re expanding beyond dog parks. These directories are in the works.</p>
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-          {comingSoonCategories.map((cat) => (
-            <div key={cat} className="opacity-60 bg-white border border-gray-200 rounded-xl p-4 shadow-sm text-center">
-              <p className="font-[Cabin] font-bold text-charcoal text-sm">{cat}</p>
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">Your Complete Dog Care Hub</h2>
+        <p className="text-gray-500 text-center mb-8 max-w-lg mx-auto">Everything your dog needs — parks, grooming, and veterinary care — all in one place.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+          <Link href="/" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+              <span className="text-3xl">&#127795;</span>
             </div>
-          ))}
+            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Parks</h3>
+            <p className="text-forest font-bold text-sm mb-2">{parkCount}+ parks</p>
+            <p className="text-gray-500 text-xs">Off-leash areas, fenced parks, and amenities across all 50 states.</p>
+            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          </Link>
+          <Link href="/groomers" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+              <span className="text-3xl">&#9986;&#65039;</span>
+            </div>
+            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Dog Groomers</h3>
+            <p className="text-forest font-bold text-sm mb-2">{allGroomers.length.toLocaleString()}+ groomers</p>
+            <p className="text-gray-500 text-xs">Professional groomers with ratings, reviews, and contact info.</p>
+            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          </Link>
+          <Link href="/vets" className="group bg-white border-2 border-forest rounded-2xl p-6 shadow-sm text-center hover:shadow-lg hover:-translate-y-0.5 transition-all">
+            <div className="w-16 h-16 rounded-full bg-forest/10 flex items-center justify-center mx-auto mb-3">
+              <span className="text-3xl">&#128137;</span>
+            </div>
+            <h3 className="font-[Cabin] font-bold text-charcoal text-lg mb-1">Veterinarians</h3>
+            <p className="text-forest font-bold text-sm mb-2">{allVets.length.toLocaleString()}+ vets</p>
+            <p className="text-gray-500 text-xs">Trusted veterinarians with locations, ratings, and contact details.</p>
+            <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
+          </Link>
         </div>
+        {comingSoonCategories.length > 0 && (
+          <div>
+            <p className="text-gray-400 text-center text-xs mb-3 uppercase tracking-wider font-bold">Coming Soon</p>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 max-w-xl mx-auto">
+              {comingSoonCategories.map((cat) => (
+                <div key={cat} className="opacity-50 bg-white border border-gray-200 rounded-lg p-3 text-center">
+                  <p className="font-[Cabin] font-bold text-charcoal text-xs">{cat}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </section>
 
       {/* BLOG */}
