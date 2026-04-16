@@ -44,6 +44,11 @@ export default function PetInsurancePage() {
         <span className="text-charcoal font-medium">Pet Insurance</span>
       </nav>
 
+      <div className="inline-flex items-center gap-2 bg-forest/5 border border-forest/15 rounded-full px-4 py-2 mb-6">
+        <span className="text-forest text-sm">&#11088;</span>
+        <span className="text-charcoal text-xs font-bold">Compare Plans Trusted by Thousands of Pet Owners</span>
+      </div>
+
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-3">Best Pet Insurance for Dogs (2026)</h1>
       <p className="text-gray-500 mb-8 max-w-2xl">Compare top pet insurance providers. Find the right plan to protect your dog and your wallet from unexpected vet bills.</p>
 

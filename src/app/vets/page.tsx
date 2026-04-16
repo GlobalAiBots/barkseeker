@@ -54,6 +54,11 @@ export default function VetsDirectoryPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{allVets.length.toLocaleString()} veterinarians across the United States. Ratings, reviews, and contact info.</p>
       </section>
 
+      {/* Trust Signal */}
+      <section className="py-3 text-center" style={{ background: '#F0FFF4' }}>
+        <p className="text-forest font-bold text-sm tracking-wide font-[Cabin]">&#11088; {allVets.length.toLocaleString()} Veterinarians Across {statesWithData.length} States &mdash; Free Forever</p>
+      </section>
+
       {/* Intro + Tips */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
         <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
