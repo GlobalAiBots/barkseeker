@@ -2,8 +2,12 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { allGroomers, stateNames, stateSlugs } from "@/data/all-groomers";
 import AdSlot from "@/components/AdSlot";
+import CletusAd from "@/components/CletusAd";
+
+const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 
 const stateList = Object.entries(stateSlugs)
   .map(([abbr, slug]) => ({ abbr, slug, name: stateNames[abbr] || abbr }))
@@ -18,9 +22,16 @@ export default function GroomersDirectory() {
     return map;
   }, []);
 
+  const statesWithData = useMemo(() => stateList.filter((s) => (stateCounts[s.abbr] || 0) > 0), [stateCounts]);
+
   const filtered = search.length >= 2
-    ? stateList.filter((s) => s.name.toLowerCase().includes(search.toLowerCase()))
-    : stateList;
+    ? statesWithData.filter((s) => s.name.toLowerCase().includes(search.toLowerCase()))
+    : statesWithData;
+
+  const mapParks = useMemo(() => {
+    const sampled = allGroomers.filter((_, i) => i % 3 === 0);
+    return sampled.filter(g => g.latitude && g.longitude).map(g => ({ id: g.slug, name: g.name, latitude: g.latitude, longitude: g.longitude, city: g.city }));
+  }, []);
 
   return (
     <div>
@@ -41,9 +52,33 @@ export default function GroomersDirectory() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{allGroomers.length.toLocaleString()} dog groomers across the United States. Find top-rated groomers with reviews, contact info, and directions.</p>
       </section>
 
-      <section className="max-w-5xl mx-auto px-4 py-10">
+      {/* Intro + Tips */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Find a Trusted Dog Groomer</h2>
+          <p className="text-gray-600 leading-relaxed text-sm">Finding a trusted dog groomer is essential for your pup&apos;s health and happiness. Regular grooming keeps your dog&apos;s coat clean, skin healthy, nails trimmed, and ears free of infection. BarkSeeker&apos;s directory includes {allGroomers.length.toLocaleString()} groomers across {statesWithData.length} states with ratings, reviews, phone numbers, and directions to help you find the perfect groomer nearby.</p>
+        </div>
+        <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-forest mb-3">5 Tips for Choosing a Dog Groomer</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> <strong>Check reviews and ratings</strong> &mdash; look for consistently positive feedback from other dog owners in your area.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> <strong>Ask about certifications</strong> &mdash; NDGAA or IPG certification shows professional training and commitment.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> <strong>Visit the facility first</strong> &mdash; check for cleanliness, proper ventilation, and calm handling of animals.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> <strong>Discuss your dog&apos;s needs</strong> &mdash; share breed-specific requirements, allergies, or anxiety issues upfront.</li>
+            <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> <strong>Read our complete guide</strong> &mdash; <Link href="/blog/how-to-find-good-dog-groomer" className="text-forest hover:underline">How to Find a Good Dog Groomer</Link> covers red flags, green flags, and questions to ask.</li>
+          </ul>
+        </div>
+      </section>
+
+      {/* Map */}
+      <div className="max-w-6xl mx-auto px-4 pt-4 pb-8">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Dog Groomers Across the US</h2>
+        <ParkMap parks={mapParks} center={[39.8, -98.5]} zoom={4} height="400px" className="mb-4" />
+      </div>
+
+      <section className="max-w-5xl mx-auto px-4 py-6">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse Groomers by State</h2>
-        {stateList.length > 10 && (
+        {statesWithData.length > 10 && (
           <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search states..." className="w-full max-w-md px-4 py-2.5 rounded-lg border border-gray-200 text-sm outline-none focus:border-forest transition mb-6" />
         )}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 mb-12">
@@ -57,26 +92,35 @@ export default function GroomersDirectory() {
 
         <AdSlot position="groomers-mid" />
 
-        {/* BabyMyDog Grooming Products */}
+        {/* Featured Articles */}
+        <div className="mb-10">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Grooming Guides</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <Link href="/blog/how-much-does-dog-grooming-cost" className="group bg-white border border-gray-200 rounded-xl p-5 shadow-sm hover:shadow-md transition">
+              <p className="font-bold text-charcoal group-hover:text-forest transition text-sm mb-1">How Much Does Dog Grooming Cost?</p>
+              <p className="text-gray-400 text-xs">Complete pricing guide &mdash; $30-$150+ by breed and service type.</p>
+            </Link>
+            <Link href="/blog/how-often-should-you-groom-your-dog" className="group bg-white border border-gray-200 rounded-xl p-5 shadow-sm hover:shadow-md transition">
+              <p className="font-bold text-charcoal group-hover:text-forest transition text-sm mb-1">How Often Should You Groom Your Dog?</p>
+              <p className="text-gray-400 text-xs">Grooming frequency guide by coat type and breed.</p>
+            </Link>
+            <Link href="/blog/do-you-tip-dog-groomer" className="group bg-white border border-gray-200 rounded-xl p-5 shadow-sm hover:shadow-md transition">
+              <p className="font-bold text-charcoal group-hover:text-forest transition text-sm mb-1">Do You Tip a Dog Groomer?</p>
+              <p className="text-gray-400 text-xs">Tipping etiquette &mdash; how much, when, and why.</p>
+            </Link>
+            <Link href="/blog/dog-grooming-for-anxious-dogs" className="group bg-white border border-gray-200 rounded-xl p-5 shadow-sm hover:shadow-md transition">
+              <p className="font-bold text-charcoal group-hover:text-forest transition text-sm mb-1">Grooming for Anxious Dogs</p>
+              <p className="text-gray-400 text-xs">Calming tips and how to find a fear-free groomer.</p>
+            </Link>
+          </div>
+        </div>
+
+        {/* BabyMyDog Promo */}
         <div className="my-8 rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #C4704B 0%, #D4885B 60%, #5B7B5E 100%)" }}>
           <div className="px-6 py-8 md:py-10">
             <h3 className="font-[Cabin] text-xl md:text-2xl font-bold text-white mb-2">Groom Your Dog at Home with BabyMyDog</h3>
-            <p className="text-white/80 text-sm mb-6 max-w-md">Premium dog grooming products &mdash; shampoos, brushes, nail clippers, and more to keep your pup looking great between professional grooming sessions.</p>
-            <div className="grid grid-cols-3 gap-3 mb-6">
-              {[
-                { href: "https://babymydog.com/best/dog-shampoo", label: "Shampoos", icon: "\uD83E\uDDF4" },
-                { href: "https://babymydog.com/best/dog-brushes", label: "Brushes & Combs", icon: "\uD83E\uDEA5" },
-                { href: "https://babymydog.com/best/dog-nail-clippers", label: "Nail Clippers", icon: "\u2702\uFE0F" },
-              ].map((p) => (
-                <a key={p.href} href={p.href} target="_blank" rel="noopener noreferrer" className="bg-white/15 hover:bg-white/25 rounded-xl p-3 text-center transition">
-                  <span className="text-2xl block mb-1">{p.icon}</span>
-                  <span className="text-white text-xs font-semibold">{p.label}</span>
-                </a>
-              ))}
-            </div>
-            <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-[#C4704B] font-bold text-sm px-6 py-2.5 rounded-lg hover:shadow-lg transition">
-              Shop Grooming Products at BabyMyDog &rarr;
-            </a>
+            <p className="text-white/80 text-sm mb-6 max-w-md">Premium dog grooming products &mdash; shampoos, brushes, nail clippers, and more.</p>
+            <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-[#C4704B] font-bold text-sm px-6 py-2.5 rounded-lg hover:shadow-lg transition">Shop BabyMyDog &rarr;</a>
           </div>
         </div>
 
@@ -85,11 +129,11 @@ export default function GroomersDirectory() {
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
           <div className="space-y-2">
             {[
-              { q: "How do I find a good dog groomer near me?", a: `BarkSeeker lists ${allGroomers.length.toLocaleString()} dog groomers across all 50 states. Browse by state or city to find top-rated groomers with reviews, phone numbers, and directions.` },
-              { q: "How much does dog grooming cost?", a: "Dog grooming typically costs $30-$90 depending on your dog's size, breed, coat type, and the services requested. Full grooming packages with bath, haircut, nail trim, and ear cleaning tend to be on the higher end." },
-              { q: "How often should I get my dog groomed?", a: "Most dogs should be professionally groomed every 4-8 weeks. Dogs with longer or thicker coats may need grooming every 4-6 weeks, while short-haired breeds can go 8-12 weeks between sessions." },
-              { q: "What should I look for in a dog groomer?", a: "Look for groomers with positive reviews, proper certifications, a clean facility, and experience with your dog's breed. Ask about their handling techniques and whether they use cage-free drying." },
-              { q: "Do dog groomers need to be licensed?", a: "Licensing requirements vary by state. While not all states require groomer licenses, many professional groomers hold certifications from organizations like the National Dog Groomers Association of America (NDGAA)." },
+              { q: "How do I find a good dog groomer near me?", a: `BarkSeeker lists ${allGroomers.length.toLocaleString()} dog groomers across all 50 states. Browse by state or city to find top-rated groomers.` },
+              { q: "How much does dog grooming cost?", a: "Dog grooming typically costs $30-$90. Full packages with bath, haircut, nail trim, and ear cleaning run $60-$150+." },
+              { q: "How often should I get my dog groomed?", a: "Most dogs need professional grooming every 4-8 weeks. Long-coated breeds may need it every 4-6 weeks." },
+              { q: "What should I look for in a groomer?", a: "Positive reviews, certifications (NDGAA/IPG), clean facilities, and experience with your breed." },
+              { q: "Do groomers need to be licensed?", a: "Requirements vary by state. Many professional groomers hold NDGAA or IPG certifications." },
             ].map((f, i) => (
               <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
                 <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-forest transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
@@ -111,6 +155,8 @@ export default function GroomersDirectory() {
           </Link>
         </div>
       </section>
+
+      <div className="max-w-5xl mx-auto px-4"><CletusAd /></div>
     </div>
   );
 }

@@ -65,10 +65,6 @@ const stateList: { name: string; slug: string; code: string }[] = [
   { name: "Wyoming", slug: "wyoming", code: "WY" },
 ];
 
-const comingSoonCategories = [
-  "Dog Boarding", "Dog Training", "Pet Spas", "Pet Stores",
-  "Dog Beaches", "Dog-Friendly Restaurants",
-];
 
 export default function Home() {
   const [query, setQuery] = useState("");
@@ -267,18 +263,13 @@ export default function Home() {
             <span className="inline-block mt-3 text-bark font-bold text-sm group-hover:translate-x-1 transition-transform">Browse &rarr;</span>
           </Link>
         </div>
-        {comingSoonCategories.length > 0 && (
-          <div>
-            <p className="text-gray-400 text-center text-xs mb-3 uppercase tracking-wider font-bold">Coming Soon</p>
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 max-w-xl mx-auto">
-              {comingSoonCategories.map((cat) => (
-                <div key={cat} className="opacity-50 bg-white border border-gray-200 rounded-lg p-3 text-center">
-                  <p className="font-[Cabin] font-bold text-charcoal text-xs">{cat}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
+        <div className="text-center">
+          <Link href="/pet-insurance" className="inline-flex items-center gap-2 bg-cream border-2 border-bark rounded-xl px-6 py-3 hover:shadow-md transition">
+            <span className="text-xl">&#128737;&#65039;</span>
+            <span className="font-[Cabin] font-bold text-charcoal text-sm">Compare Pet Insurance Plans</span>
+            <span className="text-bark font-bold text-sm">&rarr;</span>
+          </Link>
+        </div>
       </section>
 
       {/* BLOG */}
