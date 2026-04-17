@@ -64,6 +64,8 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
     { q: `How much does dog grooming cost in ${name}?`, a: `Basic grooming in ${name} typically costs $30-90. Full-service grooming runs $60-150+ depending on breed size and coat type.` },
     { q: `How often should I groom my dog?`, a: `Most dogs need professional grooming every 4-8 weeks, depending on breed and coat type. Long-haired breeds may need more frequent visits.` },
     { q: `What should I look for in a dog groomer?`, a: `Look for certifications, clean facilities, positive reviews, and willingness to answer questions. Read our guide on finding a good groomer.` },
+    { q: `Do you tip a dog groomer?`, a: `Yes, tipping 15-20% is standard for dog grooming. If your groomer did an exceptional job or handled a difficult dog, consider tipping more. For salon groomers, tip the individual groomer directly.` },
+    { q: `What happens during a dog grooming appointment?`, a: `A typical grooming appointment includes a bath, blow dry, haircut or trim, nail clipping, ear cleaning, and sometimes anal gland expression. Full-service appointments take 1-3 hours depending on breed size and coat condition.` },
   ];
 
   return (

@@ -65,6 +65,9 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
     { q: `How much does a vet visit cost in ${name}?`, a: `Routine vet visits in ${name} typically cost $50-250. Emergency visits can range from $500-5,000+.` },
     { q: `How often should I take my dog to the vet?`, a: `Adult dogs should visit the vet at least once a year for a wellness exam. Puppies and senior dogs may need more frequent visits.` },
     { q: `Does pet insurance work with any vet in ${name}?`, a: `Yes, most pet insurance plans let you visit any licensed veterinarian. You pay the vet and submit a claim for reimbursement.` },
+    { q: `When should I take my dog to the vet?`, a: `Take your dog to the vet immediately if you notice vomiting, lethargy, difficulty breathing, seizures, or bleeding. For non-emergencies like limping or appetite changes, schedule a visit within a few days.` },
+    { q: `Do I need pet insurance?`, a: `Pet insurance is worth considering, especially for puppies and breeds prone to health issues. A single emergency can cost $3,000-$10,000+. Insurance typically covers 70-90% after deductible. Enroll early before pre-existing conditions develop.` },
+    { q: `What vaccines does my dog need?`, a: `Core vaccines include rabies, distemper, parvovirus, and adenovirus. Non-core vaccines like Bordetella, Lyme, and canine influenza depend on your dog's lifestyle and location. Your vet will recommend a schedule.` },
   ];
 
   return (
