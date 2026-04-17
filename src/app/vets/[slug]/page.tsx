@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const count = allVets.filter(v => v.stateAbbr === abbr).length;
     return {
       title: `Veterinarians in ${name} (${count}+) | BarkSeeker`,
-      description: `Find the best veterinarians in ${name}. Browse ${count}+ vets with ratings, reviews, and contact info.`,
+      description: `Browse ${count}+ veterinarians in ${name}. Compare ratings, read reviews, and find vets near you with phone numbers, addresses, and directions. Free.`,
       alternates: { canonical: `https://barkseeker.com/vets/${slug}` },
     };
   }
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const sn = stateNames[vet.stateAbbr] || vet.stateAbbr;
   return {
     title: `${vet.name} — Veterinarian in ${vet.city}, ${sn} | BarkSeeker`,
-    description: `${vet.name} in ${vet.city}, ${sn}. Ratings, phone, address, and directions.`,
+    description: `${vet.name} is a veterinarian in ${vet.city}, ${sn}.${vet.rating > 0 ? ` Rated ${vet.rating.toFixed(1)} stars.` : ""} Phone, address, directions, and reviews. Find vets near you on BarkSeeker.`,
     alternates: { canonical: `https://barkseeker.com/vets/${slug}` },
   };
 }

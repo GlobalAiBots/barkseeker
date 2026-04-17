@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const count = allGroomers.filter(g => g.stateAbbr === abbr).length;
     return {
       title: `Dog Groomers in ${name} (${count}+) | BarkSeeker`,
-      description: `Find the best dog groomers in ${name}. Browse ${count}+ groomers with ratings, reviews, and contact info.`,
+      description: `Browse ${count}+ dog groomers in ${name}. Compare ratings, read reviews, and find grooming services near you with phone numbers, addresses, and directions. Free.`,
       alternates: { canonical: `https://barkseeker.com/groomers/${slug}` },
     };
   }
@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const sn = stateNames[groomer.stateAbbr] || groomer.state;
   return {
     title: `${groomer.name} — Dog Groomer in ${groomer.city}, ${sn} | BarkSeeker`,
-    description: `${groomer.name} in ${groomer.city}, ${sn}. Ratings, phone, address, and directions.`,
+    description: `${groomer.name} is a professional dog groomer in ${groomer.city}, ${sn}.${groomer.rating > 0 ? ` Rated ${groomer.rating.toFixed(1)} stars.` : ""} Phone, address, directions, and reviews. Find dog groomers near you on BarkSeeker.`,
     alternates: { canonical: `https://barkseeker.com/groomers/${slug}` },
   };
 }
