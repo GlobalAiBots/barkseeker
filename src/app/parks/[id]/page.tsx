@@ -56,7 +56,7 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Place", name: park.name, geo: { "@type": "GeoCoordinates", latitude: park.latitude, longitude: park.longitude }, address: { "@type": "PostalAddress", addressRegion: stName } }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Place", name: park.name, geo: { "@type": "GeoCoordinates", latitude: park.latitude, longitude: park.longitude }, address: { "@type": "PostalAddress", addressLocality: park.city, addressRegion: stName, addressCountry: "US" }, publicAccess: true, url: `https://barkseeker.com/parks/${park.id}` }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: stName, item: `https://barkseeker.com/${stSlug}` }, { "@type": "ListItem", position: 3, name: park.name, item: `https://barkseeker.com/parks/${park.id}` }] }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
