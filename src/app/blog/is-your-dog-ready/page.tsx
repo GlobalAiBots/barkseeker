@@ -21,7 +21,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Is Your Dog Ready for the Dog Park? Signs to Look For</h1>
       <p className="text-gray-400 text-sm mb-8">March 28, 2026 &middot; 6 min read</p>
 
-      <img src="/images/blog/puppy-first-park.jpg" alt="Puppy outdoors for the first time" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/puppy-first-park.jpg" alt="Puppy at their first dog park visit — signs your dog is ready for off-leash play" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Dog parks can be incredible places for your pet — full of exercise, socialization, and pure joy. But not every dog is ready for the off-leash dog park experience, and rushing into it can cause problems for your dog, other dogs, and the park community as a whole. Before you load up the car and head to your nearest off-leash area, take a moment to honestly assess whether your dog is truly prepared.

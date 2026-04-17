@@ -21,7 +21,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Dog Park Safety: Keeping Your Pup Safe and Happy</h1>
       <p className="text-gray-400 text-sm mb-8">March 25, 2026 &middot; 5 min read</p>
 
-      <img src="/images/blog/dog-park-safety.jpg" alt="Fenced dog park area" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/dog-park-safety.jpg" alt="Fenced dog park with separate areas for small and large dogs — safety tips for dog parks" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Dog parks are wonderful places for exercise, socialization, and bonding with your furry best friend. But like any public space where animals interact freely, they come with risks. From minor scrapes to heat exhaustion to dog fights, things can go wrong quickly if you&apos;re not prepared. The good news is that most dog park incidents are entirely preventable with a little awareness and preparation.

@@ -21,7 +21,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Dog Park Etiquette: 10 Rules Every Dog Owner Should Follow</h1>
       <p className="text-gray-400 text-sm mb-8">April 3, 2026 &middot; 7 min read</p>
 
-      <img src="/images/blog/dog-park-etiquette.jpg" alt="Dog socializing at the park" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/dog-park-etiquette.jpg" alt="Dogs socializing at a dog park — proper etiquette keeps everyone safe and happy" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Dog parks are wonderful places where our furry companions can run, play, and socialize off-leash. But a great dog park experience depends on every owner doing their part. Unfortunately, not everyone knows the unwritten rules of dog park etiquette — and that can lead to conflicts, injuries, and a bad time for everyone involved.

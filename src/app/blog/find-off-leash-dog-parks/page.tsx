@@ -21,7 +21,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How to Find Off-Leash Dog Parks Near You</h1>
       <p className="text-gray-400 text-sm mb-8">April 1, 2026 &middot; 5 min read</p>
 
-      <img src="/images/blog/off-leash-dog.jpg" alt="Dog running off-leash in a field" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/off-leash-dog.jpg" alt="Happy dog running off-leash at a dog park — how to find off-leash parks near you" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Every dog deserves a chance to run free. Off-leash dog parks give your pup the freedom to sprint, wrestle, sniff, and socialize in a safe, enclosed environment. But finding these parks isn&apos;t always straightforward — especially if you&apos;re new to an area, traveling, or just haven&apos;t explored your local options yet.

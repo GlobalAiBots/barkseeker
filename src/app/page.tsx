@@ -109,7 +109,7 @@ export default function Home() {
 
       {/* HERO — Full-bleed */}
       <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
-        <img src="/images/hero-dogs-playing-park.jpg" alt="Dogs playing together at a park" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <img src="/images/hero-dogs-playing-park.jpg" alt="Dogs playing together at an off-leash dog park — find dog parks, groomers, and vets near you on BarkSeeker" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(26,58,42,0.88) 0%, rgba(26,58,42,0.4) 50%, transparent 100%)' }} />
 
         <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">

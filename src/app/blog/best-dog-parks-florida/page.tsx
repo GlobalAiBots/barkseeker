@@ -21,7 +21,7 @@ export default function PostPage() {
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Best Dog Parks in Florida: Off-Leash Paradise for Your Pup</h1>
       <p className="text-gray-400 text-sm mb-8">April 5, 2026 &middot; 6 min read</p>
 
-      <img src="/images/blog/florida-dog-park.jpg" alt="Dogs playing together at a park" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
+      <img src="/images/blog/florida-dog-park.jpg" alt="Best off-leash dog parks in Florida with water features and fenced areas" className="w-full rounded-xl mb-8 max-h-[400px] object-cover" />
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Florida is one of the best states in the country for dog owners. With year-round warm weather, sprawling green spaces, and a culture that genuinely loves dogs, the Sunshine State is packed with incredible off-leash dog parks. Whether you&apos;re a full-time Floridian or just visiting with your four-legged travel buddy, you&apos;ll find no shortage of places where your pup can run free, splash in the water, and make new friends.
