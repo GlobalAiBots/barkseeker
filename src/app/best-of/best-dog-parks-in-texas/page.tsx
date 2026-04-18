@@ -17,7 +17,7 @@ export default function BestDogParksTexas() {
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com/" },
           { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in Texas" }
+          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in Texas", "item": "https://barkseeker.com/best-of/best-dog-parks-in-texas" }
         ]
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
