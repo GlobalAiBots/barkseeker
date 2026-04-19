@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const name = stateNames[abbr];
     const count = allGroomers.filter(g => g.stateAbbr === abbr).length;
     return {
-      title: `Dog Groomers in ${name} (${count}+) | BarkSeeker`,
+      title: `Dog Groomers in ${name} | BarkSeeker`,
       description: `Browse ${count}+ dog groomers in ${name}. Compare ratings, read reviews, and find grooming services near you with phone numbers, addresses, and directions. Free.`,
       alternates: { canonical: `https://barkseeker.com/groomers/${slug}` },
     };

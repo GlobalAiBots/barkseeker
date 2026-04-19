@@ -139,8 +139,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', 'G-FB34CXVRQE');
           `}
         </Script>
-        <a href="/blog" className="block w-full bg-[#5B7B5E] text-white text-center py-2 text-xs sm:text-sm font-medium hover:bg-[#3D5A40] transition">
-          &#128021; New: Find off-leash dog parks near you &mdash; Browse all 46 states &rarr;
+        <a href="/groomers" className="block w-full bg-[#5B7B5E] text-white text-center py-2 text-xs sm:text-sm font-medium hover:bg-[#3D5A40] transition">
+          &#128021; Find parks, groomers, and vets near you &mdash; 40,000+ listings &rarr;
         </a>
         <Nav />
         <main className="flex-1">{children}</main>

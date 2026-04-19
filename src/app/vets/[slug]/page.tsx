@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const name = stateNames[abbr];
     const count = allVets.filter(v => v.stateAbbr === abbr).length;
     return {
-      title: `Veterinarians in ${name} (${count}+) | BarkSeeker`,
+      title: `Veterinarians in ${name} | BarkSeeker`,
       description: `Browse ${count}+ veterinarians in ${name}. Compare ratings, read reviews, and find vets near you with phone numbers, addresses, and directions. Free.`,
       alternates: { canonical: `https://barkseeker.com/vets/${slug}` },
     };

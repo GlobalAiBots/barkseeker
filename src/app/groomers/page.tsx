@@ -90,7 +90,7 @@ export default function GroomersDirectory() {
           {filtered.map((s) => (
             <Link key={s.abbr} href={`/groomers/${s.slug}`} className="group bg-white border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
               <p className="font-bold text-charcoal group-hover:text-forest transition text-sm">{s.name}</p>
-              <p className="text-gray-400 text-xs mt-1">{(stateCounts[s.abbr] || 0).toLocaleString()} groomers</p>
+              <p className="text-gray-400 text-xs mt-1">{(() => { const c = stateCounts[s.abbr] || 0; return c === 1 ? "1 groomer" : `${c.toLocaleString()} groomers`; })()}</p>
             </Link>
           ))}
         </div>
