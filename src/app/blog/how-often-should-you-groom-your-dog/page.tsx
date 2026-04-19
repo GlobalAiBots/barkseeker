@@ -33,7 +33,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Short-Coated Breeds: Every 6 to 8 Weeks</h2>
         <p>
-          Dogs with short, smooth coats are the lowest maintenance when it comes to grooming. Breeds like Beagles, Boxers, Dobermans, Dalmatians, and Pit Bulls have coats that naturally stay relatively clean and rarely mat. These dogs benefit from a professional bath and grooming session every six to eight weeks. At home, a weekly brushing with a rubber curry brush or bristle brush will remove loose hair, distribute natural oils, and keep the coat shiny. Nail trims should happen every two to three weeks, as short-coated breeds often have fast-growing nails.
+          Dogs with short, smooth coats are the lowest maintenance when it comes to grooming. Breeds like Beagles, Boxers, Dobermans, Dalmatians, and Pit Bulls have coats that naturally stay relatively clean and rarely mat. These dogs benefit from a professional bath and grooming session every six to eight weeks. At home, a weekly brushing with a rubber curry brush or bristle brush (<a href="https://www.amazon.com/s?k=rubber+curry+brush+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) will remove loose hair, distribute natural oils, and keep the coat shiny. Nail trims should happen every two to three weeks, as short-coated breeds often have fast-growing nails.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Double-Coated Breeds: Every 6 to 8 Weeks (with Frequent Brushing)</h2>
@@ -43,12 +43,12 @@ export default function PostPage() {
 
         <div className="bg-amber-50 border-l-4 border-bark p-4 rounded-r-lg">
           <p className="font-semibold text-charcoal mb-1">Never Shave a Double-Coated Dog</p>
-          <p className="text-sm text-gray-600">Shaving a double-coated breed does not keep them cooler in summer. It actually removes their natural insulation and sun protection, and the coat may never grow back properly. Always use de-shedding tools and professional grooming instead.</p>
+          <p className="text-sm text-gray-600">Shaving a double-coated breed does not keep them cooler in summer. It actually removes their natural insulation and sun protection, and the coat may never grow back properly. Always use de-shedding tools (<a href="https://www.amazon.com/s?k=dog+deshedding+tool&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and professional grooming instead.</p>
         </div>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Long-Coated Breeds: Every 4 to 6 Weeks</h2>
         <p>
-          Breeds with long, flowing coats — Shih Tzus, Maltese, Yorkshire Terriers, Afghan Hounds, and Lhasa Apsos — need more frequent professional grooming, typically every four to six weeks. Their hair grows continuously and tangles easily, especially behind the ears, under the legs, and around the collar area. Between grooming appointments, these dogs need brushing at least every other day, if not daily. A slicker brush and a metal comb are essential tools. If you skip brushing for even a few days, small tangles can quickly turn into painful mats that require professional removal.
+          Breeds with long, flowing coats — Shih Tzus, Maltese, Yorkshire Terriers, Afghan Hounds, and Lhasa Apsos — need more frequent professional grooming, typically every four to six weeks. Their hair grows continuously and tangles easily, especially behind the ears, under the legs, and around the collar area. Between grooming appointments, these dogs need brushing at least every other day, if not daily. A slicker brush (<a href="https://www.amazon.com/s?k=slicker+brush+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and a metal comb are essential tools. If you skip brushing for even a few days, small tangles can quickly turn into painful mats that require professional removal.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Curly and Wire-Coated Breeds: Every 4 to 6 Weeks</h2>

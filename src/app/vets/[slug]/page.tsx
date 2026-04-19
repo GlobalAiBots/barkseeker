@@ -224,6 +224,23 @@ function ListingPage({ slug }: { slug: string }) {
         </ul>
       </div>
 
+      <div className="mb-8 bg-cream border border-gray-200 rounded-xl p-5">
+        <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Pet wellness essentials:</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          {[
+            { name: "Pet First Aid Kit", hook: "For cuts, hot spots, and road trips", q: "pet first aid kit dog" },
+            { name: "Pill Pockets", hook: "Easiest way to give medication", q: "greenies pill pockets dog" },
+            { name: "Dental Chews", hook: "Vet-recommended between cleanings", q: "vohc dental chews dog" },
+          ].map((p) => (
+            <a key={p.name} href={`https://www.amazon.com/s?k=${encodeURIComponent(p.q)}&tag=babymydog03-20`} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block bg-white border border-gray-200 rounded-lg px-4 py-3 hover:border-forest hover:shadow-sm transition">
+              <p className="font-bold text-charcoal text-sm">{p.name}</p>
+              <p className="text-gray-500 text-xs mt-0.5">{p.hook}</p>
+              <p className="text-forest text-xs font-semibold mt-1">&#9733; Our Pick &mdash; Shop on Amazon</p>
+            </a>
+          ))}
+        </div>
+      </div>
+
       <div className="mb-6">
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h3>
         <div className="space-y-2">

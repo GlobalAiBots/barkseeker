@@ -10,6 +10,7 @@ import { allVets } from "@/data/all-vets";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
+import SeasonalPicks from "@/components/SeasonalPicks";
 import { blogPosts } from "@/data/blog-posts";
 
 function pluralize(count: number, singular: string, plural: string) {
@@ -249,6 +250,11 @@ export default function Home() {
             </div>
           ))}
         </div>
+      </section>
+
+      {/* SEASONAL PICKS (rotates by month) */}
+      <section className="max-w-5xl mx-auto px-4 py-2">
+        <SeasonalPicks />
       </section>
 
       {/* BABYMYDOG PROMO */}

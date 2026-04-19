@@ -58,7 +58,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">5. Do Not Skip Dental Care</h2>
         <p>
-          Dental disease affects over 80 percent of dogs by age three, and it is one of the most overlooked areas of dog health. Left untreated, dental disease leads to painful infections, tooth loss, and bacteria entering the bloodstream that can damage the heart, kidneys, and liver. Brush your dog&apos;s teeth at home regularly — daily is ideal. A $5 dog toothbrush and a $10 tube of enzymatic toothpaste can prevent thousands of dollars in dental surgery down the road.
+          Dental disease affects over 80 percent of dogs by age three, and it is one of the most overlooked areas of dog health. Left untreated, dental disease leads to painful infections, tooth loss, and bacteria entering the bloodstream that can damage the heart, kidneys, and liver. Brush your dog&apos;s teeth at home regularly — daily is ideal. A $5 dog toothbrush (<a href="https://www.amazon.com/s?k=dog+toothbrush&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and a $10 tube of enzymatic toothpaste (<a href="https://www.amazon.com/s?k=dog+enzymatic+toothpaste&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can prevent thousands of dollars in dental surgery down the road.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">6. Shop Around for Medications</h2>

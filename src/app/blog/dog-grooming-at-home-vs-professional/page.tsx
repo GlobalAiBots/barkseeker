@@ -33,7 +33,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">The Case for At-Home Grooming</h2>
         <p>
-          At-home grooming has some clear advantages. The most obvious is cost savings. After an initial investment of $100 to $300 in quality tools — clippers, brushes, nail trimmers, shampoo, and a grooming table — each grooming session costs just pennies for shampoo and electricity. If you are currently spending $80 every six weeks at a professional groomer, that adds up to roughly $690 per year. Home grooming pays for itself within a few months.
+          At-home grooming has some clear advantages. The most obvious is cost savings. After an initial investment of $100 to $300 in quality tools — clippers (<a href="https://www.amazon.com/s?k=dog+grooming+clippers&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>), brushes, nail trimmers, shampoo, and a grooming table (<a href="https://www.amazon.com/s?k=dog+grooming+table&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) — each grooming session costs just pennies for shampoo and electricity. If you are currently spending $80 every six weeks at a professional groomer, that adds up to roughly $690 per year. Home grooming pays for itself within a few months.
         </p>
         <p>
           Convenience is another major benefit. You groom on your schedule, not the groomer&apos;s. No driving across town, no drop-off and pick-up logistics, no waiting for appointment availability. For dogs that are anxious about car rides or unfamiliar environments, grooming at home eliminates those stressors entirely. Your dog stays in a familiar, comfortable setting where they feel safe.
@@ -62,8 +62,8 @@ export default function PostPage() {
         <ul className="list-disc pl-6 space-y-2">
           <li><strong>Brushing:</strong> Regular brushing at home is essential regardless of whether you use a professional groomer. Learn the right brush for your coat type and brush two to four times per week.</li>
           <li><strong>Bathing:</strong> Baths with quality dog shampoo are manageable at home. Use lukewarm water, avoid getting water in the ears, and dry thoroughly.</li>
-          <li><strong>Nail trimming:</strong> With a good pair of clippers or a Dremel and some patience, most owners can learn to trim nails safely. Ask your vet or groomer to show you the proper technique and where the quick is.</li>
-          <li><strong>Ear cleaning:</strong> Weekly ear cleaning with a vet-recommended ear cleaner is simple and important, especially for floppy-eared breeds.</li>
+          <li><strong>Nail trimming:</strong> With a good pair of clippers or a Dremel (<a href="https://www.amazon.com/s?k=dog+nail+grinder&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and some patience, most owners can learn to trim nails safely. Ask your vet or groomer to show you the proper technique and where the quick is.</li>
+          <li><strong>Ear cleaning:</strong> Weekly ear cleaning with a vet-recommended ear cleaner (<a href="https://www.amazon.com/s?k=dog+ear+cleaner&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) is simple and important, especially for floppy-eared breeds.</li>
           <li><strong>Teeth brushing:</strong> This should be done at home regardless — daily is ideal, three times per week at minimum.</li>
         </ul>
 

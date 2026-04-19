@@ -49,7 +49,7 @@ export default function PostPage() {
           You can dramatically improve your puppy&apos;s first grooming experience by doing some gentle preparation at home in the weeks leading up to the appointment. Start by handling your puppy&apos;s paws daily — touch each toe, press gently on the pads, and separate the toes as a groomer would when trimming nails. Handle your puppy&apos;s ears by gently lifting the flaps and touching around the ear canal. Touch and lift your puppy&apos;s lips to look at their teeth. Run your hands along their body, legs, tail, and belly so they become comfortable with being touched everywhere.
         </p>
         <p>
-          Introduce a soft brush at home and practice gentle, short brushing sessions of just a few minutes. Reward your puppy with treats throughout to build a positive connection. You can also play recordings of clipper and dryer sounds at low volume during treat time to familiarize your puppy with these noises before encountering them at the salon.
+          Introduce a soft brush (<a href="https://www.amazon.com/s?k=soft+brush+for+puppies&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) at home and practice gentle, short brushing sessions of just a few minutes. Reward your puppy with treats throughout to build a positive connection. You can also play recordings of clipper and dryer sounds at low volume during treat time to familiarize your puppy with these noises before encountering them at the salon.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">What to Expect at the First Appointment</h2>
@@ -57,7 +57,7 @@ export default function PostPage() {
           A good groomer understands that a puppy&apos;s first visit is about introduction, not perfection. The session will typically be shorter than an adult grooming appointment — usually 30 to 60 minutes rather than 90 minutes or more. Here is what a standard puppy introduction groom includes:
         </p>
         <ul className="list-disc pl-6 space-y-2">
-          <li><strong>Gentle bath:</strong> A warm, gentle bath with puppy-safe shampoo to introduce your puppy to the tub and water.</li>
+          <li><strong>Gentle bath:</strong> A warm, gentle bath with puppy-safe shampoo (<a href="https://www.amazon.com/s?k=puppy+shampoo&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) to introduce your puppy to the tub and water.</li>
           <li><strong>Light brushing:</strong> Brief brushing to get your puppy accustomed to the sensation and tools.</li>
           <li><strong>Blow dry introduction:</strong> Many groomers use a low-speed, low-heat dryer to slowly introduce your puppy to the noise and air flow.</li>
           <li><strong>Nail trim:</strong> A careful nail trim with lots of positive reinforcement.</li>

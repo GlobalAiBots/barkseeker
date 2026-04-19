@@ -68,9 +68,9 @@ export default function PostPage() {
           Several calming products can take the edge off grooming anxiety when used alongside desensitization training:
         </p>
         <ul className="list-disc pl-6 space-y-2">
-          <li><strong>Calming treats and supplements:</strong> Products containing L-theanine, chamomile, valerian root, or CBD can help reduce mild to moderate anxiety. Give these 30 to 60 minutes before grooming.</li>
-          <li><strong>Calming sprays and diffusers:</strong> Adaptil (DAP) is a synthetic pheromone that mimics the calming pheromone mother dogs produce. It comes as a spray, collar, or plug-in diffuser.</li>
-          <li><strong>Thundershirt or anxiety wrap:</strong> The gentle, constant pressure can help some dogs feel more secure during grooming.</li>
+          <li><strong>Calming treats and supplements:</strong> Products containing L-theanine, chamomile, valerian root, or CBD (<a href="https://www.amazon.com/s?k=calming+treats+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can help reduce mild to moderate anxiety. Give these 30 to 60 minutes before grooming.</li>
+          <li><strong>Calming sprays and diffusers:</strong> Adaptil (DAP) is a synthetic pheromone that mimics the calming pheromone mother dogs produce. It comes as a spray, collar, or plug-in diffuser (<a href="https://www.amazon.com/s?k=adaptil+diffuser+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>).</li>
+          <li><strong>Thundershirt or anxiety wrap:</strong> The gentle, constant pressure (<a href="https://www.amazon.com/s?k=thundershirt+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can help some dogs feel more secure during grooming.</li>
           <li><strong>Calming music:</strong> Studies show that classical music and specific frequency patterns can reduce stress in dogs.</li>
         </ul>
 

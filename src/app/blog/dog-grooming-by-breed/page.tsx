@@ -49,7 +49,7 @@ export default function PostPage() {
 
         <p><strong>7. Golden Retriever:</strong> Goldens have a beautiful double coat with feathering on the legs, chest, and tail. Professional grooming every six to eight weeks for a bath, de-shed, and light trimming of feathering. Brush three to four times weekly. Never shave a Golden — their double coat protects against heat and cold.</p>
 
-        <p><strong>8. German Shepherd:</strong> Another double-coated breed that sheds heavily, especially during seasonal coat blows. Professional de-shedding treatments every six to eight weeks make a noticeable difference. Regular brushing three to four times weekly with an undercoat rake and slicker brush.</p>
+        <p><strong>8. German Shepherd:</strong> Another double-coated breed that sheds heavily, especially during seasonal coat blows. Professional de-shedding treatments every six to eight weeks make a noticeable difference. Regular brushing three to four times weekly with an undercoat rake (<a href="https://www.amazon.com/s?k=undercoat+rake+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and slicker brush (<a href="https://www.amazon.com/s?k=slicker+brush+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>).</p>
 
         <p><strong>9. Australian Shepherd:</strong> Medium-length double coat that requires brushing three to four times per week and professional grooming every six to eight weeks. Pay special attention to the pants (rear leg feathering) and the mane area, which are prone to matting.</p>
 
@@ -70,7 +70,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Low-Maintenance Breeds (Professional Grooming Every 8-12 Weeks)</h2>
 
-        <p><strong>14. Labrador Retriever:</strong> The Lab&apos;s short, dense double coat is relatively low maintenance. A professional bath and de-shed every eight to twelve weeks keeps them clean and reduces shedding. Weekly brushing at home with a rubber curry brush or furminator. Labs love water, so baths are usually easy.</p>
+        <p><strong>14. Labrador Retriever:</strong> The Lab&apos;s short, dense double coat is relatively low maintenance. A professional bath and de-shed every eight to twelve weeks keeps them clean and reduces shedding. Weekly brushing at home with a rubber curry brush or furminator (<a href="https://www.amazon.com/s?k=furminator+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>). Labs love water, so baths are usually easy.</p>
 
         <p><strong>15. Beagle:</strong> Short, dense coat that is one of the easiest to maintain. Professional baths every eight to twelve weeks and weekly brushing at home. Their floppy ears need regular cleaning. Beagles can have a distinct hound odor, so some owners bathe more frequently.</p>
 

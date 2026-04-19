@@ -36,7 +36,7 @@ export default function GearRecommendation() {
               rel="noopener noreferrer"
               className="inline-block mt-2 text-xs font-semibold text-bark hover:text-bark-dark transition"
             >
-              View on Amazon &rarr;
+              &#9733; Our Pick &mdash; View on Amazon
             </a>
           </div>
         ))}
