@@ -4,17 +4,20 @@ import Script from "next/script";
 import CletusWidget from "@/components/CletusWidget";
 import CookieConsent from "@/components/CookieConsent";
 import StatesDropdown from "@/components/StatesDropdown";
+import { SITE_STATS } from "@/lib/site-stats";
 import "./globals.css";
+
+const totalListings = SITE_STATS.total.toLocaleString();
 
 export const metadata: Metadata = {
   title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
   description:
-    "Find dog parks, professional groomers, and trusted veterinarians near you. 37,000+ listings across all 50 states. Free forever.",
+    `Find dog parks, professional groomers, and trusted veterinarians near you. ${totalListings}+ listings across all 50 states. Free forever.`,
   keywords:
     "dog park near me, dog groomer near me, vet near me, off-leash dog park, dog park directory, dog groomer directory, veterinarian directory",
   openGraph: {
     title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
-    description: "Find dog parks, professional groomers, and trusted veterinarians near you. 37,000+ listings across all 50 states.",
+    description: `Find dog parks, professional groomers, and trusted veterinarians near you. ${totalListings}+ listings across all 50 states.`,
     url: "https://www.barkseeker.com",
     siteName: "BarkSeeker",
     type: "website",
@@ -23,7 +26,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
-    description: "Find dog parks, professional groomers, and trusted veterinarians near you. 37,000+ listings across all 50 states.",
+    description: `Find dog parks, professional groomers, and trusted veterinarians near you. ${totalListings}+ listings across all 50 states.`,
   },
   alternates: { canonical: "https://www.barkseeker.com" },
   verification: {
@@ -63,7 +66,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
             <p className="font-bold text-white mb-2 font-[Cabin]">&#128021; BarkSeeker</p>
-            <p>The most complete pet services directory in America. 37,000+ parks, groomers, and vets across 50 states.</p>
+            <p>The most complete pet services directory in America. {totalListings}+ parks, groomers, and vets across 50 states.</p>
           </div>
           <div>
             <p className="font-bold text-white/70 mb-2">Links</p>
@@ -140,7 +143,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           `}
         </Script>
         <a href="/groomers" className="block w-full bg-[#5B7B5E] text-white text-center py-2 text-xs sm:text-sm font-medium hover:bg-[#3D5A40] transition">
-          &#128021; Find parks, groomers, and vets near you &mdash; 37,000+ listings &rarr;
+          &#128021; Find parks, groomers, and vets near you &mdash; {totalListings}+ listings &rarr;
         </a>
         <Nav />
         <main className="flex-1">{children}</main>

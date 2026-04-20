@@ -2,12 +2,9 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
-import dynamic from "next/dynamic";
 import { allVets, stateNames, stateSlugs } from "@/data/all-vets";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
-
-const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 
 const stateList = Object.entries(stateSlugs)
   .map(([abbr, slug]) => ({ abbr, slug, name: stateNames[abbr] || abbr }))
@@ -27,11 +24,6 @@ export default function VetsDirectoryPage() {
   const filtered = search.length >= 2
     ? statesWithData.filter((s) => s.name.toLowerCase().includes(search.toLowerCase()))
     : statesWithData;
-
-  const mapParks = useMemo(() => {
-    const sampled = allVets.filter((_, i) => i % 3 === 0);
-    return sampled.filter(v => v.latitude && v.longitude).map(v => ({ id: v.slug, name: v.name, latitude: v.latitude, longitude: v.longitude, city: v.city }));
-  }, []);
 
   const faqItems = [
     { q: "How do I find the best veterinarian near me?", a: "Use BarkSeeker's vet directory to browse veterinarians by state and city. Check ratings, read reviews, and compare clinics to find the best fit for your pet." },
@@ -90,13 +82,7 @@ export default function VetsDirectoryPage() {
         </div>
       </section>
 
-      {/* Map */}
-      <div className="max-w-6xl mx-auto px-4 pt-8 pb-4">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Veterinarians Across the US</h2>
-        <ParkMap parks={mapParks} center={[39.8, -98.5]} zoom={4} height="400px" className="mb-4" />
-      </div>
-
-      <section className="max-w-5xl mx-auto px-4 py-6">
+<section className="max-w-5xl mx-auto px-4 py-6">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse Veterinarians by State</h2>
         {statesWithData.length > 10 && (
           <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search states..." className="w-full max-w-md px-4 py-2.5 rounded-lg border border-gray-200 text-sm outline-none focus:border-forest transition mb-6" />

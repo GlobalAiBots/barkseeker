@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
+import { SITE_STATS } from "@/lib/site-stats";
+
+const totalListings = SITE_STATS.total.toLocaleString();
 
 export const metadata: Metadata = {
   title: "About BarkSeeker — Dog Parks, Groomers & Vets Directory",
-  description: "BarkSeeker is the most complete pet services directory in America. 37,000+ listings across all 50 states — dog parks, professional groomers, and trusted veterinarians with GPS, ratings, and amenities.",
+  description: `BarkSeeker is the most complete pet services directory in America. ${totalListings}+ listings across all 50 states — dog parks, professional groomers, and trusted veterinarians with GPS, ratings, and amenities.`,
   openGraph: {
     title: "About BarkSeeker",
-    description: "The most complete pet services directory in America. 37,000+ listings across all 50 states.",
+    description: `The most complete pet services directory in America. ${totalListings}+ listings across all 50 states.`,
     url: "https://www.barkseeker.com/about",
   },
   twitter: { card: "summary", title: "About BarkSeeker" },
@@ -19,7 +22,7 @@ export default function AboutPage() {
 
       <div className="space-y-6 text-gray-600 leading-relaxed">
         <p>
-          <strong className="text-charcoal">BarkSeeker is the most complete pet services directory in America.</strong> We cover all 50 states with 37,000+ listings &mdash; 7,300+ dog parks, 11,900+ groomers, and 17,800+ vets &mdash; all with GPS coordinates, contact info, ratings, and amenities.
+          <strong className="text-charcoal">BarkSeeker is the most complete pet services directory in America.</strong> We cover all 50 states with {totalListings}+ listings &mdash; {SITE_STATS.parks.toLocaleString()}+ dog parks, {SITE_STATS.groomers.toLocaleString()}+ groomers, and {SITE_STATS.vets.toLocaleString()}+ vets &mdash; all with GPS coordinates, contact info, ratings, and amenities.
         </p>
         <p>
           We started BarkSeeker because finding good pet services shouldn&apos;t require guessing. No more driving to a &quot;park&quot; that turns out to be a tiny patch of grass with no fence. No more calling ten groomers to ask who takes a doodle. Just real data, real locations, and recent ratings from the people who&apos;ve actually been there.

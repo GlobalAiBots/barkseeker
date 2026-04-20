@@ -1,9 +1,12 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { SITE_STATS } from "@/lib/site-stats";
+
+const totalListings = SITE_STATS.total.toLocaleString();
 
 export const metadata: Metadata = {
-  title: "Advertise With BarkSeeker — Reach 37,000+ Dog Parks, Groomers & Vets",
-  description: "Advertise on BarkSeeker. Reach dog owners actively researching parks, groomers, vets, and dog products. Featured listings, sponsored posts, and banner ads across 37,000+ pages.",
+  title: `Advertise With BarkSeeker — Reach ${totalListings}+ Dog Parks, Groomers & Vets`,
+  description: `Advertise on BarkSeeker. Reach dog owners actively researching parks, groomers, vets, and dog products. Featured listings, sponsored posts, and banner ads across ${totalListings}+ pages.`,
   alternates: { canonical: "https://www.barkseeker.com/advertise" },
   openGraph: {
     title: "Advertise With BarkSeeker",
@@ -39,14 +42,14 @@ export default function AdvertisePage() {
           <p className="text-bark text-xs font-bold tracking-widest uppercase mb-3">Partnerships</p>
           <h1 className="font-[Cabin] text-3xl md:text-5xl font-bold text-charcoal mb-4 leading-tight">Advertise With BarkSeeker</h1>
           <p className="text-gray-600 text-lg leading-relaxed max-w-2xl mb-6">
-            Reach dog owners actively researching parks, groomers, vets, and dog products. BarkSeeker spans 37,000+ listings across dog parks, grooming services, and veterinary clinics.
+            Reach dog owners actively researching parks, groomers, vets, and dog products. BarkSeeker spans {totalListings}+ listings across dog parks, grooming services, and veterinary clinics.
           </p>
           <a href={mailto} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">Start a Conversation</a>
         </section>
 
         <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
           {[
-            { stat: "37,000+", label: "Listings" },
+            { stat: `${totalListings}+`, label: "Listings" },
             { stat: "50", label: "States Covered" },
             { stat: "Parks + Groomers + Vets", label: "Category Coverage" },
             { stat: "Growing", label: "Editorial Library" },

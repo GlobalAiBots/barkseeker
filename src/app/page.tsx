@@ -7,6 +7,7 @@ import Link from "next/link";
 import { unified } from "@/data/all-parks";
 import { allGroomers } from "@/data/all-groomers";
 import { allVets } from "@/data/all-vets";
+import { SITE_STATS } from "@/lib/site-stats";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
@@ -103,7 +104,7 @@ export default function Home() {
       {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "WebSite", name: "BarkSeeker", url: "https://www.barkseeker.com",
-        description: `Find dog parks, groomers, and vets near you. 37,000+ listings across all 50 states. Free forever.`,
+        description: `Find dog parks, groomers, and vets near you. ${SITE_STATS.total.toLocaleString()}+ listings across all 50 states. Free forever.`,
         potentialAction: { "@type": "SearchAction", target: "https://www.barkseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -158,7 +159,7 @@ export default function Home() {
         {/* Stats overlay */}
         <div className="relative z-10 w-full mt-auto">
           <div className="bg-[#1A3A2A]/85 backdrop-blur-sm border-t border-white/10 py-3">
-            <p className="text-center text-white/70 font-bold text-sm tracking-wide font-[Cabin]">&#11088; 37,000+ Listings Trusted by Dog Owners Across 50 States</p>
+            <p className="text-center text-white/70 font-bold text-sm tracking-wide font-[Cabin]">&#11088; {SITE_STATS.total.toLocaleString()}+ Listings Trusted by Dog Owners Across 50 States</p>
           </div>
         </div>
       </section>
