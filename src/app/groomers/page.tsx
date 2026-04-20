@@ -46,10 +46,14 @@ export default function GroomersDirectory() {
         ],
       }) }} />
 
-      <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
-        <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Dog Groomer Directory</p>
-        <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Find Dog Groomers Near You</h1>
-        <p className="text-gray-500 mt-4 max-w-lg mx-auto">{allGroomers.length.toLocaleString()} dog groomers across the United States. Find top-rated groomers with reviews, contact info, and directions.</p>
+      <section className="relative min-h-[45vh] md:min-h-[55vh] flex flex-col items-center justify-center overflow-hidden">
+        <img src="/images/poodle-professional-grooming-salon.jpg" alt="Professional dog groomer styling a poodle in a grooming salon" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(26,58,42,0.88) 0%, rgba(26,58,42,0.45) 50%, rgba(26,58,42,0.15) 100%)' }} />
+        <div className="relative z-10 text-center px-4 max-w-3xl mx-auto py-16">
+          <p className="text-white/70 text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Dog Groomer Directory</p>
+          <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-white leading-tight max-w-3xl mx-auto" style={{ textShadow: '0 2px 4px rgba(0,0,0,0.2)' }}>Find Dog Groomers Near You</h1>
+          <p className="text-white/85 mt-4 max-w-lg mx-auto" style={{ textShadow: '0 1px 2px rgba(0,0,0,0.15)' }}>{allGroomers.length.toLocaleString()} dog groomers across the United States. Find top-rated groomers with reviews, contact info, and directions.</p>
+        </div>
       </section>
 
       {/* Trust Signal */}
