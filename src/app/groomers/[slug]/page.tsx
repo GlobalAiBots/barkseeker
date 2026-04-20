@@ -253,6 +253,12 @@ function ListingPage({ slug }: { slug: string }) {
         </div>
       </div>
 
+      <section className="bg-cream border border-forest/30 rounded-2xl p-6 mb-8">
+        <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Own this business?</h3>
+        <p className="text-gray-600 text-sm mb-4 max-w-lg">Claim your free listing to add hours, photos, and contact info. Respond to customers and keep your details up to date.</p>
+        <a href={`mailto:hello@barkseeker.com?subject=${encodeURIComponent(`Claim Listing: ${groomer.name}`)}&body=${encodeURIComponent(`I'd like to claim the listing for ${groomer.name} at ${groomer.address || `${groomer.city}, ${sn}`}.\n\nListing URL: https://barkseeker.com/groomers/${slug}\n\nPlease contact me to verify ownership.`)}`} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Claim This Listing &mdash; It&apos;s Free</a>
+      </section>
+
       <FeaturedArticle listingSlug={groomer.slug} />
 
       <div className="my-8 rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #C4704B 0%, #D4885B 60%, #5B7B5E 100%)" }}>

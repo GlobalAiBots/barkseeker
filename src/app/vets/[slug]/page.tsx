@@ -277,6 +277,12 @@ function ListingPage({ slug }: { slug: string }) {
         </div>
       </div>
 
+      <section className="bg-cream border border-forest/30 rounded-2xl p-6 mb-8">
+        <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Own this clinic?</h3>
+        <p className="text-gray-600 text-sm mb-4 max-w-lg">Claim your free listing to add hours, photos, and contact info. Respond to pet owners and keep your details up to date.</p>
+        <a href={`mailto:hello@barkseeker.com?subject=${encodeURIComponent(`Claim Listing: ${vet.name}`)}&body=${encodeURIComponent(`I'd like to claim the listing for ${vet.name} at ${vet.address || `${vet.city}, ${sn}`}.\n\nListing URL: https://barkseeker.com/vets/${slug}\n\nPlease contact me to verify ownership.`)}`} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Claim This Listing &mdash; It&apos;s Free</a>
+      </section>
+
       <div className="bg-cream border-2 border-bark rounded-2xl p-6 mb-8">
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-2">Could Pet Insurance Save You Money?</h3>
         <p className="text-gray-600 text-sm mb-4 max-w-lg">Unexpected vet bills add up fast. Pet insurance covers emergencies, surgeries, and medications.</p>
