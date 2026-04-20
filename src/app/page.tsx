@@ -102,12 +102,12 @@ export default function Home() {
     <div>
       {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "WebSite", name: "BarkSeeker", url: "https://barkseeker.com",
+        "@context": "https://schema.org", "@type": "WebSite", name: "BarkSeeker", url: "https://www.barkseeker.com",
         description: `Find dog parks, groomers, and vets near you. 37,000+ listings across all 50 states. Free forever.`,
-        potentialAction: { "@type": "SearchAction", target: "https://barkseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
+        potentialAction: { "@type": "SearchAction", target: "https://www.barkseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "Organization", name: "BarkSeeker", url: "https://barkseeker.com",
+        "@context": "https://schema.org", "@type": "Organization", name: "BarkSeeker", url: "https://www.barkseeker.com",
         description: "The most complete pet services directory in America. Dog parks, groomers, and vets across all 50 states.",
       }) }} />
 

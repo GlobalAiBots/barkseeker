@@ -6,15 +6,15 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Dog Grooming by Breed: Top 20 Breeds and Their Grooming Needs | BarkSeeker",
   description: "Breed-specific grooming guide for the 20 most popular dog breeds. Learn exactly what grooming each breed needs and how often.",
-  openGraph: { title: "Dog Grooming by Breed: Top 20 Breeds and Their Grooming Needs", url: "https://barkseeker.com/blog/dog-grooming-by-breed", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/dog-grooming-by-breed" },
+  openGraph: { title: "Dog Grooming by Breed: Top 20 Breeds and Their Grooming Needs", url: "https://www.barkseeker.com/blog/dog-grooming-by-breed", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/dog-grooming-by-breed" },
 };
 
 export default function PostPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Dog Grooming by Breed: Top 20 Breeds and Their Grooming Needs", datePublished: "2026-04-15", author: { "@type": "Organization", name: "BarkSeeker" } }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" }, { "@type": "ListItem", position: 2, name: "Blog", item: "https://barkseeker.com/blog" }, { "@type": "ListItem", position: 3, name: "Dog Grooming by Breed", item: "https://barkseeker.com/blog/dog-grooming-by-breed" }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" }, { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.barkseeker.com/blog" }, { "@type": "ListItem", position: 3, name: "Dog Grooming by Breed", item: "https://www.barkseeker.com/blog/dog-grooming-by-breed" }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [{ "@type": "Question", name: "Which dog breeds require the most grooming?", acceptedAnswer: { "@type": "Answer", text: "Poodles, Bichon Frises, Afghan Hounds, Shih Tzus, and Yorkshire Terriers are among the highest-maintenance breeds, requiring professional grooming every 4-6 weeks and daily brushing." } }, { "@type": "Question", name: "Which dog breeds are the easiest to groom?", acceptedAnswer: { "@type": "Answer", text: "Beagles, Boxers, Pit Bulls, Dobermans, and Chihuahuas have short coats that require minimal grooming — just occasional baths and weekly brushing." } }, { "@type": "Question", name: "Do Goldendoodles need professional grooming?", acceptedAnswer: { "@type": "Answer", text: "Yes. Goldendoodles have curly to wavy coats that mat easily and grow continuously. They need professional grooming every 4-6 weeks and daily brushing at home." } }] }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-forest transition">Home</Link><span>/</span>

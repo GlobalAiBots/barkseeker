@@ -39,7 +39,7 @@ console.log(`Groomer city pages: ${cities.length} cities (min 2 groomers)`);
 console.log(`Top: ${cities.slice(0, 10).map(c => `${c.city},${c.state}(${c.count})`).join(" ")}`);
 
 // Sitemap
-const urls = cities.map(c => `  <url><loc>https://barkseeker.com/groomers/cities/${c.stateSlug}-${c.citySlug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
+const urls = cities.map(c => `  <url><loc>https://www.barkseeker.com/groomers/cities/${c.stateSlug}-${c.citySlug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>`;
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-groomer-cities.xml"), sitemap);
 console.log(`Wrote sitemap-groomer-cities.xml (${urls.length} URLs)`);

@@ -6,15 +6,15 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Do You Tip a Dog Groomer? How Much and When | BarkSeeker",
   description: "Dog groomer tipping etiquette explained — how much to tip (15-20%), when to tip more, and how tipping works for salon vs. mobile groomers.",
-  openGraph: { title: "Do You Tip a Dog Groomer? How Much and When", url: "https://barkseeker.com/blog/do-you-tip-dog-groomer", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/do-you-tip-dog-groomer" },
+  openGraph: { title: "Do You Tip a Dog Groomer? How Much and When", url: "https://www.barkseeker.com/blog/do-you-tip-dog-groomer", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/do-you-tip-dog-groomer" },
 };
 
 export default function PostPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Do You Tip a Dog Groomer? How Much and When", datePublished: "2026-04-15", author: { "@type": "Organization", name: "BarkSeeker" } }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" }, { "@type": "ListItem", position: 2, name: "Blog", item: "https://barkseeker.com/blog" }, { "@type": "ListItem", position: 3, name: "Do You Tip a Dog Groomer?", item: "https://barkseeker.com/blog/do-you-tip-dog-groomer" }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" }, { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.barkseeker.com/blog" }, { "@type": "ListItem", position: 3, name: "Do You Tip a Dog Groomer?", item: "https://www.barkseeker.com/blog/do-you-tip-dog-groomer" }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [{ "@type": "Question", name: "How much should you tip a dog groomer?", acceptedAnswer: { "@type": "Answer", text: "The standard tip for a dog groomer is 15-20% of the total grooming bill. For a $80 grooming session, that means a $12-16 tip." } }, { "@type": "Question", name: "Do you tip a dog groomer who owns the business?", acceptedAnswer: { "@type": "Answer", text: "Tipping an owner-operator is less expected than tipping an employee, but it is still appreciated. If the owner does excellent work, a 10-15% tip is a kind gesture." } }, { "@type": "Question", name: "Should you tip a mobile dog groomer?", acceptedAnswer: { "@type": "Answer", text: "Yes, tipping mobile groomers follows the same 15-20% guideline. Some owners tip mobile groomers slightly more to acknowledge the convenience and travel involved." } }, { "@type": "Question", name: "When should you tip more than 20%?", acceptedAnswer: { "@type": "Answer", text: "Consider tipping above 20% for exceptional work, handling a difficult or anxious dog with patience, last-minute appointments, holiday grooming, or extra services beyond the norm." } }] }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-forest transition">Home</Link><span>/</span>

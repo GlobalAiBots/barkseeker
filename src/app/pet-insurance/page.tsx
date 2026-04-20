@@ -6,7 +6,7 @@ import CletusAd from "@/components/CletusAd";
 export const metadata: Metadata = {
   title: "Best Pet Insurance for Dogs (2026) — Compare Plans | BarkSeeker",
   description: "Compare the best pet insurance plans for dogs. Coverage options, costs, and what to look for. Save on vet bills with the right plan.",
-  alternates: { canonical: "https://barkseeker.com/pet-insurance" },
+  alternates: { canonical: "https://www.barkseeker.com/pet-insurance" },
 };
 
 const providers = [
@@ -24,8 +24,8 @@ export default function PetInsurancePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Pet Insurance", item: "https://barkseeker.com/pet-insurance" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Pet Insurance", item: "https://www.barkseeker.com/pet-insurance" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

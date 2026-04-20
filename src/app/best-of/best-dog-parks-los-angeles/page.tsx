@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in Los Angeles — Top 7 Picks | BarkSeeker",
   description: "The best off-leash dog parks in Los Angeles — from Silver Lake's hillside favorite to Whitnall Highway in the Valley. Hours, amenities, and what to expect.",
-  openGraph: { title: "Best Dog Parks in Los Angeles — Top 7", url: "https://barkseeker.com/best-of/best-dog-parks-los-angeles", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-parks-los-angeles" },
+  openGraph: { title: "Best Dog Parks in Los Angeles — Top 7", url: "https://www.barkseeker.com/best-of/best-dog-parks-los-angeles", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-parks-los-angeles" },
 };
 
 export default function BestDogParksLosAngeles() {
@@ -15,9 +15,9 @@ export default function BestDogParksLosAngeles() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Dog Parks in Los Angeles", item: "https://barkseeker.com/best-of/best-dog-parks-los-angeles" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Dog Parks in Los Angeles", item: "https://www.barkseeker.com/best-of/best-dog-parks-los-angeles" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

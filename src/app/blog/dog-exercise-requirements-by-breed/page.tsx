@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "How Much Exercise Does Your Dog Need? A Guide by Breed | BarkSeeker",
   description: "Find out exactly how much daily exercise your dog needs based on their breed. Covers high-energy, moderate, and low-energy breeds with specific time recommendations.",
-  openGraph: { title: "How Much Exercise Does Your Dog Need? A Guide by Breed", url: "https://barkseeker.com/blog/dog-exercise-requirements-by-breed", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/dog-exercise-requirements-by-breed" },
+  openGraph: { title: "How Much Exercise Does Your Dog Need? A Guide by Breed", url: "https://www.barkseeker.com/blog/dog-exercise-requirements-by-breed", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/dog-exercise-requirements-by-breed" },
 };
 
 export default function PostPage() {
@@ -16,9 +16,9 @@ export default function PostPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://barkseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Exercise by Breed", "item": "https://barkseeker.com/blog/dog-exercise-requirements-by-breed" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.barkseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Exercise by Breed", "item": "https://www.barkseeker.com/blog/dog-exercise-requirements-by-breed" },
         ],
       }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

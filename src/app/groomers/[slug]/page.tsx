@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return {
       title: `Dog Groomers in ${name} | BarkSeeker`,
       description: `Browse ${count}+ dog groomers in ${name}. Compare ratings, read reviews, and find grooming services near you with phone numbers, addresses, and directions. Free.`,
-      alternates: { canonical: `https://barkseeker.com/groomers/${slug}` },
+      alternates: { canonical: `https://www.barkseeker.com/groomers/${slug}` },
     };
   }
   const groomer = getGroomerBySlug(slug);
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${groomer.name} — Dog Groomer in ${groomer.city}, ${sn} | BarkSeeker`,
     description: `${groomer.name} is a professional dog groomer in ${groomer.city}, ${sn}.${groomer.rating > 0 ? ` Rated ${groomer.rating.toFixed(1)} stars.` : ""} Phone, address, directions, and reviews. Find dog groomers near you on BarkSeeker.`,
-    alternates: { canonical: `https://barkseeker.com/groomers/${slug}` },
+    alternates: { canonical: `https://www.barkseeker.com/groomers/${slug}` },
   };
 }
 
@@ -70,7 +70,7 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
 
   return (
     <div>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Groomers", item: "https://barkseeker.com/groomers" }, { "@type": "ListItem", position: 3, name: name, item: `https://barkseeker.com/groomers/${stateSlug}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Groomers", item: "https://www.barkseeker.com/groomers" }, { "@type": "ListItem", position: 3, name: name, item: `https://www.barkseeker.com/groomers/${stateSlug}` }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
 
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
@@ -172,7 +172,7 @@ function ListingPage({ slug }: { slug: string }) {
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "LocalBusiness", name: groomer.name, address: { "@type": "PostalAddress", streetAddress: groomer.address, addressLocality: groomer.city, addressRegion: sn }, geo: { "@type": "GeoCoordinates", latitude: groomer.latitude, longitude: groomer.longitude }, telephone: groomer.phone || undefined, url: groomer.website || undefined, aggregateRating: groomer.rating > 0 ? { "@type": "AggregateRating", ratingValue: groomer.rating, reviewCount: groomer.reviewCount } : undefined }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Groomers", item: "https://barkseeker.com/groomers" }, { "@type": "ListItem", position: 3, name: sn, item: `https://barkseeker.com/groomers/${ss}` }, { "@type": "ListItem", position: 4, name: groomer.name, item: `https://barkseeker.com/groomers/${slug}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Groomers", item: "https://www.barkseeker.com/groomers" }, { "@type": "ListItem", position: 3, name: sn, item: `https://www.barkseeker.com/groomers/${ss}` }, { "@type": "ListItem", position: 4, name: groomer.name, item: `https://www.barkseeker.com/groomers/${slug}` }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
@@ -256,7 +256,7 @@ function ListingPage({ slug }: { slug: string }) {
       <section className="bg-cream border border-forest/30 rounded-2xl p-6 mb-8">
         <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Own this business?</h3>
         <p className="text-gray-600 text-sm mb-4 max-w-lg">Claim your free listing to add hours, photos, and contact info. Respond to customers and keep your details up to date.</p>
-        <a href={`mailto:hello@barkseeker.com?subject=${encodeURIComponent(`Claim Listing: ${groomer.name}`)}&body=${encodeURIComponent(`I'd like to claim the listing for ${groomer.name} at ${groomer.address || `${groomer.city}, ${sn}`}.\n\nListing URL: https://barkseeker.com/groomers/${slug}\n\nPlease contact me to verify ownership.`)}`} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Claim This Listing &mdash; It&apos;s Free</a>
+        <a href={`mailto:hello@barkseeker.com?subject=${encodeURIComponent(`Claim Listing: ${groomer.name}`)}&body=${encodeURIComponent(`I'd like to claim the listing for ${groomer.name} at ${groomer.address || `${groomer.city}, ${sn}`}.\n\nListing URL: https://www.barkseeker.com/groomers/${slug}\n\nPlease contact me to verify ownership.`)}`} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Claim This Listing &mdash; It&apos;s Free</a>
       </section>
 
       <FeaturedArticle listingSlug={groomer.slug} />

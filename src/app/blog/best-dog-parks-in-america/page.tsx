@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in America: Top 25 Picks | BarkSeeker",
   description: "Discover the 25 best dog parks across the United States, from Fort Funston in San Francisco to Piedmont Park in Atlanta. Find your next favorite off-leash adventure.",
-  openGraph: { title: "Best Dog Parks in America: Top 25 Picks", url: "https://barkseeker.com/blog/best-dog-parks-in-america", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/best-dog-parks-in-america" },
+  openGraph: { title: "Best Dog Parks in America: Top 25 Picks", url: "https://www.barkseeker.com/blog/best-dog-parks-in-america", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/best-dog-parks-in-america" },
 };
 
 export default function PostPage() {
@@ -16,9 +16,9 @@ export default function PostPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://barkseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks", "item": "https://barkseeker.com/blog/best-dog-parks-in-america" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.barkseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks", "item": "https://www.barkseeker.com/blog/best-dog-parks-in-america" },
         ],
       }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

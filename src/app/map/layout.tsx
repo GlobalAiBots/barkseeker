@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "US Dog Park Map — BarkSeeker",
     description: "4,700+ dog parks across 35 states. Find your park.",
-    url: "https://barkseeker.com/map",
+    url: "https://www.barkseeker.com/map",
     siteName: "BarkSeeker",
   },
   twitter: { card: "summary", title: "US Dog Park Map | BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/map" },
+  alternates: { canonical: "https://www.barkseeker.com/map" },
 };
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {

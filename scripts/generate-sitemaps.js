@@ -17,8 +17,8 @@ function writeSitemap(filename, urls) {
 
 // Groomer sitemaps
 const groomerStates = [...new Set(groomers.map(g => g.stateAbbr))];
-const groomerStateUrls = groomerStates.map(s => `  <url><loc>https://barkseeker.com/groomers/${STATE_SLUGS[s] || s.toLowerCase()}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
-const groomerUrls = groomers.filter(g => g.slug).map(g => `  <url><loc>https://barkseeker.com/groomers/${g.slug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
+const groomerStateUrls = groomerStates.map(s => `  <url><loc>https://www.barkseeker.com/groomers/${STATE_SLUGS[s] || s.toLowerCase()}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
+const groomerUrls = groomers.filter(g => g.slug).map(g => `  <url><loc>https://www.barkseeker.com/groomers/${g.slug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
 
 // Split if > 45K (leave room)
 if (groomerUrls.length > 45000) {
@@ -27,7 +27,7 @@ if (groomerUrls.length > 45000) {
   writeSitemap("sitemap-groomers-2.xml", groomerUrls.slice(half));
 } else {
   writeSitemap("sitemap-groomers.xml", [
-    `  <url><loc>https://barkseeker.com/groomers</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`,
+    `  <url><loc>https://www.barkseeker.com/groomers</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`,
     ...groomerStateUrls,
     ...groomerUrls,
   ]);
@@ -35,8 +35,8 @@ if (groomerUrls.length > 45000) {
 
 // Vet sitemaps
 const vetStates = [...new Set(vets.map(v => v.stateAbbr))];
-const vetStateUrls = vetStates.map(s => `  <url><loc>https://barkseeker.com/vets/${STATE_SLUGS[s] || s.toLowerCase()}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
-const vetUrls = vets.filter(v => v.slug).map(v => `  <url><loc>https://barkseeker.com/vets/${v.slug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
+const vetStateUrls = vetStates.map(s => `  <url><loc>https://www.barkseeker.com/vets/${STATE_SLUGS[s] || s.toLowerCase()}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
+const vetUrls = vets.filter(v => v.slug).map(v => `  <url><loc>https://www.barkseeker.com/vets/${v.slug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
 
 if (vetUrls.length > 45000) {
   const half = Math.ceil(vetUrls.length / 2);
@@ -44,7 +44,7 @@ if (vetUrls.length > 45000) {
   writeSitemap("sitemap-vets-2.xml", vetUrls.slice(half));
 } else {
   writeSitemap("sitemap-vets.xml", [
-    `  <url><loc>https://barkseeker.com/vets</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`,
+    `  <url><loc>https://www.barkseeker.com/vets</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`,
     ...vetStateUrls,
     ...vetUrls,
   ]);
@@ -52,7 +52,7 @@ if (vetUrls.length > 45000) {
 
 // Pet insurance + blog sitemaps entries for main sitemap
 writeSitemap("sitemap-pet-insurance.xml", [
-  `  <url><loc>https://barkseeker.com/pet-insurance</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>`,
+  `  <url><loc>https://www.barkseeker.com/pet-insurance</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>`,
 ]);
 
 // Update sitemap index
@@ -65,7 +65,7 @@ const newSitemaps = [
 
 let updated = existing;
 for (const sm of newSitemaps) {
-  const entry = `  <sitemap><loc>https://barkseeker.com/${sm}</loc></sitemap>`;
+  const entry = `  <sitemap><loc>https://www.barkseeker.com/${sm}</loc></sitemap>`;
   if (!updated.includes(sm)) {
     updated = updated.replace("</sitemapindex>", `${entry}\n</sitemapindex>`);
   }

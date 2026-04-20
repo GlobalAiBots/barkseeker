@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "What to Bring to the Dog Park: Essential Checklist | BarkSeeker",
   description: "The complete checklist of what to bring to a dog park, what's nice to have, and what to leave at home. Be prepared for a safe, fun visit every time.",
-  openGraph: { title: "What to Bring to the Dog Park: Essential Checklist", url: "https://barkseeker.com/blog/what-to-bring-to-a-dog-park", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/what-to-bring-to-a-dog-park" },
+  openGraph: { title: "What to Bring to the Dog Park: Essential Checklist", url: "https://www.barkseeker.com/blog/what-to-bring-to-a-dog-park", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/what-to-bring-to-a-dog-park" },
 };
 
 export default function PostPage() {
@@ -16,9 +16,9 @@ export default function PostPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://barkseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "What to Bring", "item": "https://barkseeker.com/blog/what-to-bring-to-a-dog-park" },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.barkseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "What to Bring", "item": "https://www.barkseeker.com/blog/what-to-bring-to-a-dog-park" },
         ],
       }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">

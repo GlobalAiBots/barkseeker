@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Terms of Service — BarkSeeker",
   description: "BarkSeeker terms of service. Rules and guidelines for using our dog park directory.",
-  openGraph: { title: "Terms of Service — BarkSeeker", url: "https://barkseeker.com/terms", siteName: "BarkSeeker" },
+  openGraph: { title: "Terms of Service — BarkSeeker", url: "https://www.barkseeker.com/terms", siteName: "BarkSeeker" },
   twitter: { card: "summary", title: "Terms of Service — BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/terms" },
+  alternates: { canonical: "https://www.barkseeker.com/terms" },
 };
 
 export default function TermsPage() {

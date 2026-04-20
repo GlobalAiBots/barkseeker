@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Vets in Chicago — Top 8 Clinics | BarkSeeker",
   description: "Top-rated vet clinics in Chicago, including urgent care, in-home veterinary, hospice, and neighborhood animal hospitals. Hours, services, and what to expect.",
-  openGraph: { title: "Best Vets in Chicago — Top 8 Clinics", url: "https://barkseeker.com/best-of/best-vets-chicago", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-vets-chicago" },
+  openGraph: { title: "Best Vets in Chicago — Top 8 Clinics", url: "https://www.barkseeker.com/best-of/best-vets-chicago", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-vets-chicago" },
 };
 
 export default function BestVetsChicago() {
@@ -15,9 +15,9 @@ export default function BestVetsChicago() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Vets in Chicago", item: "https://barkseeker.com/best-of/best-vets-chicago" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Vets in Chicago", item: "https://www.barkseeker.com/best-of/best-vets-chicago" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

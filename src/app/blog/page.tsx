@@ -5,9 +5,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "BarkSeeker Blog — Dog Park Tips, Guides & Off-Leash Areas",
   description: "Dog park guides, off-leash area tips, etiquette advice, and park recommendations for dog owners across America.",
-  openGraph: { title: "BarkSeeker Blog", url: "https://barkseeker.com/blog", siteName: "BarkSeeker" },
+  openGraph: { title: "BarkSeeker Blog", url: "https://www.barkseeker.com/blog", siteName: "BarkSeeker" },
   twitter: { card: "summary", title: "BarkSeeker Blog" },
-  alternates: { canonical: "https://barkseeker.com/blog" },
+  alternates: { canonical: "https://www.barkseeker.com/blog" },
 };
 
 export default function BlogIndex() {

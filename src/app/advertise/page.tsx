@@ -4,11 +4,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Advertise With BarkSeeker — Reach 37,000+ Dog Parks, Groomers & Vets",
   description: "Advertise on BarkSeeker. Reach dog owners actively researching parks, groomers, vets, and dog products. Featured listings, sponsored posts, and banner ads across 37,000+ pages.",
-  alternates: { canonical: "https://barkseeker.com/advertise" },
+  alternates: { canonical: "https://www.barkseeker.com/advertise" },
   openGraph: {
     title: "Advertise With BarkSeeker",
     description: "Reach dog owners actively researching parks, groomers, vets, and products.",
-    url: "https://barkseeker.com/advertise",
+    url: "https://www.barkseeker.com/advertise",
     siteName: "BarkSeeker",
   },
 };
@@ -18,8 +18,8 @@ export default function AdvertisePage() {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Advertise", item: "https://barkseeker.com/advertise" },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Advertise", item: "https://www.barkseeker.com/advertise" },
     ],
   };
 

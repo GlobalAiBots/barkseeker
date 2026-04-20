@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Groomers in Dallas — Top 10 Picks | BarkSeeker",
   description: "Top-rated Dallas dog groomers: White Rock Pet Grooming, Paw Lofts, Furry Tails, CityVet, Dallas Dog Palace. Ratings, addresses, hours, and what to expect.",
-  openGraph: { title: "Best Dog Groomers in Dallas — Top 10", url: "https://barkseeker.com/best-of/best-dog-groomers-dallas", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-groomers-dallas" },
+  openGraph: { title: "Best Dog Groomers in Dallas — Top 10", url: "https://www.barkseeker.com/best-of/best-dog-groomers-dallas", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-groomers-dallas" },
 };
 
 export default function BestDogGroomersDallas() {
@@ -15,9 +15,9 @@ export default function BestDogGroomersDallas() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Dog Groomers in Dallas", item: "https://barkseeker.com/best-of/best-dog-groomers-dallas" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Dog Groomers in Dallas", item: "https://www.barkseeker.com/best-of/best-dog-groomers-dallas" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

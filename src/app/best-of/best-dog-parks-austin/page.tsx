@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in Austin — Top 7 Off-Leash Picks | BarkSeeker",
   description: "The best off-leash dog parks in Austin — from Red Bud Isle to Zilker and Auditorium Shores. Hours, amenities, swim access, and what to expect.",
-  openGraph: { title: "Best Dog Parks in Austin — Top 7", url: "https://barkseeker.com/best-of/best-dog-parks-austin", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-parks-austin" },
+  openGraph: { title: "Best Dog Parks in Austin — Top 7", url: "https://www.barkseeker.com/best-of/best-dog-parks-austin", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-parks-austin" },
 };
 
 export default function BestDogParksAustin() {
@@ -15,9 +15,9 @@ export default function BestDogParksAustin() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Dog Parks in Austin", item: "https://barkseeker.com/best-of/best-dog-parks-austin" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Dog Parks in Austin", item: "https://www.barkseeker.com/best-of/best-dog-parks-austin" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

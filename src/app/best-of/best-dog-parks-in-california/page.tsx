@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in California — Top 10 Picks | BarkSeeker",
   description: "Explore the 10 best dog parks in California, from San Diego's Dusty Rhodes to Los Angeles gems and hidden NorCal favorites. Your pup deserves the Golden State's finest.",
-  openGraph: { title: "Best Dog Parks in California — Top 10 Picks", url: "https://barkseeker.com/best-of/best-dog-parks-in-california", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-parks-in-california" },
+  openGraph: { title: "Best Dog Parks in California — Top 10 Picks", url: "https://www.barkseeker.com/best-of/best-dog-parks-in-california", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-parks-in-california" },
 };
 
 export default function BestDogParksCalifornia() {
@@ -15,9 +15,9 @@ export default function BestDogParksCalifornia() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in California", "item": "https://barkseeker.com/best-of/best-dog-parks-in-california" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in California", "item": "https://www.barkseeker.com/best-of/best-dog-parks-in-california" }
         ]
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

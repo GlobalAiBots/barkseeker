@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in New York — Top 10 Picks | BarkSeeker",
   description: "Discover the 10 best dog parks in New York state, from Buffalo's Ellicott Island Bark Park to charming upstate gems in Woodstock, Troy, and beyond.",
-  openGraph: { title: "Best Dog Parks in New York — Top 10 Picks", url: "https://barkseeker.com/best-of/best-dog-parks-in-new-york", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-parks-in-new-york" },
+  openGraph: { title: "Best Dog Parks in New York — Top 10 Picks", url: "https://www.barkseeker.com/best-of/best-dog-parks-in-new-york", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-parks-in-new-york" },
 };
 
 export default function BestDogParksNewYork() {
@@ -15,9 +15,9 @@ export default function BestDogParksNewYork() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in New York", "item": "https://barkseeker.com/best-of/best-dog-parks-in-new-york" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in New York", "item": "https://www.barkseeker.com/best-of/best-dog-parks-in-new-york" }
         ]
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

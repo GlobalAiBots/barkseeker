@@ -38,7 +38,7 @@ fs.writeFileSync(path.join(dataDir, "vet-city-pages.json"), JSON.stringify(citie
 console.log(`Vet city pages: ${cities.length} cities (min 2 vets)`);
 console.log(`Top: ${cities.slice(0, 10).map(c => `${c.city},${c.state}(${c.count})`).join(" ")}`);
 
-const urls = cities.map(c => `  <url><loc>https://barkseeker.com/vets/cities/${c.stateSlug}-${c.citySlug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
+const urls = cities.map(c => `  <url><loc>https://www.barkseeker.com/vets/cities/${c.stateSlug}-${c.citySlug}</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>`);
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>`;
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-vet-cities.xml"), sitemap);
 console.log(`Wrote sitemap-vet-cities.xml (${urls.length} URLs)`);

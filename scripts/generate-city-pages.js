@@ -40,7 +40,7 @@ const cities = Object.values(cityGroups).filter(c => c.count >= 2).map(c => ({
 
 fs.writeFileSync(path.join(dataDir, "city-pages.json"), JSON.stringify(cities, null, 2));
 
-const sitemapLines = cities.map(c => `  <url><loc>https://barkseeker.com/cities/${c.stateSlug}-${c.citySlug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
+const sitemapLines = cities.map(c => `  <url><loc>https://www.barkseeker.com/cities/${c.stateSlug}-${c.citySlug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-cities.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapLines.join("\n")}\n</urlset>`);
 
 console.log(`Total city pages: ${cities.length}`);

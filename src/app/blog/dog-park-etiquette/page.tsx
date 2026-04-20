@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Dog Park Etiquette: 10 Rules Every Dog Owner Should Follow | BarkSeeker",
   description: "Essential dog park etiquette rules for a safe and fun experience. Learn the unwritten rules that every responsible dog owner should know.",
-  openGraph: { title: "Dog Park Etiquette: 10 Rules Every Dog Owner Should Follow", url: "https://barkseeker.com/blog/dog-park-etiquette", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/dog-park-etiquette" },
+  openGraph: { title: "Dog Park Etiquette: 10 Rules Every Dog Owner Should Follow", url: "https://www.barkseeker.com/blog/dog-park-etiquette", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/dog-park-etiquette" },
 };
 
 export default function PostPage() {

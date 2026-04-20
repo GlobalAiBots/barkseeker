@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "How to Find Off-Leash Dog Parks Near You | BarkSeeker",
   description: "Discover the best ways to find off-leash dog parks in your area using BarkSeeker, city resources, social media, and local dog owner communities.",
-  openGraph: { title: "How to Find Off-Leash Dog Parks Near You", url: "https://barkseeker.com/blog/find-off-leash-dog-parks", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/find-off-leash-dog-parks" },
+  openGraph: { title: "How to Find Off-Leash Dog Parks Near You", url: "https://www.barkseeker.com/blog/find-off-leash-dog-parks", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/find-off-leash-dog-parks" },
 };
 
 export default function PostPage() {

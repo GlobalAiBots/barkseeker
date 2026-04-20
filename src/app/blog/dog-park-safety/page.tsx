@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Dog Park Safety: Keeping Your Pup Safe and Happy | BarkSeeker",
   description: "Essential dog park safety tips including checking the park first, watching body language, bringing water, avoiding peak heat, and knowing when to leave.",
-  openGraph: { title: "Dog Park Safety: Keeping Your Pup Safe and Happy", url: "https://barkseeker.com/blog/dog-park-safety", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/dog-park-safety" },
+  openGraph: { title: "Dog Park Safety: Keeping Your Pup Safe and Happy", url: "https://www.barkseeker.com/blog/dog-park-safety", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/dog-park-safety" },
 };
 
 export default function PostPage() {

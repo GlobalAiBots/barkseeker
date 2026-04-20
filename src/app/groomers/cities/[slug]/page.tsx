@@ -24,8 +24,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} (${cityInfo.count} Listed) | BarkSeeker`,
     description: `Find the best dog groomers in ${cityInfo.city}, ${cityInfo.stateName}. Browse ${cityInfo.count} groomers with ratings, reviews, phone numbers, and directions.`,
-    openGraph: { title: `Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`, url: `https://barkseeker.com/groomers/cities/${slug}` },
-    alternates: { canonical: `https://barkseeker.com/groomers/cities/${slug}` },
+    openGraph: { title: `Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`, url: `https://www.barkseeker.com/groomers/cities/${slug}` },
+    alternates: { canonical: `https://www.barkseeker.com/groomers/cities/${slug}` },
   };
 }
 
@@ -55,7 +55,7 @@ export default async function GroomerCityPage({ params }: { params: Promise<{ sl
   return (
     <div>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqItems.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Groomers", item: "https://barkseeker.com/groomers" }, { "@type": "ListItem", position: 3, name: cityInfo.stateName, item: `https://barkseeker.com/groomers/${cityInfo.stateSlug}` }, { "@type": "ListItem", position: 4, name: cityInfo.city, item: `https://barkseeker.com/groomers/cities/${slug}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Groomers", item: "https://www.barkseeker.com/groomers" }, { "@type": "ListItem", position: 3, name: cityInfo.stateName, item: `https://www.barkseeker.com/groomers/${cityInfo.stateSlug}` }, { "@type": "ListItem", position: 4, name: cityInfo.city, item: `https://www.barkseeker.com/groomers/cities/${slug}` }] }) }} />
 
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
         <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">{cityInfo.city} Dog Groomer Directory</p>

@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return {
       title: `Veterinarians in ${name} | BarkSeeker`,
       description: `Browse ${count}+ veterinarians in ${name}. Compare ratings, read reviews, and find vets near you with phone numbers, addresses, and directions. Free.`,
-      alternates: { canonical: `https://barkseeker.com/vets/${slug}` },
+      alternates: { canonical: `https://www.barkseeker.com/vets/${slug}` },
     };
   }
   const vet = getVetBySlug(slug);
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${vet.name} — Veterinarian in ${vet.city}, ${sn} | BarkSeeker`,
     description: `${vet.name} is a veterinarian in ${vet.city}, ${sn}.${vet.rating > 0 ? ` Rated ${vet.rating.toFixed(1)} stars.` : ""} Phone, address, directions, and reviews. Find vets near you on BarkSeeker.`,
-    alternates: { canonical: `https://barkseeker.com/vets/${slug}` },
+    alternates: { canonical: `https://www.barkseeker.com/vets/${slug}` },
   };
 }
 
@@ -72,7 +72,7 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
 
   return (
     <div>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Vets", item: "https://barkseeker.com/vets" }, { "@type": "ListItem", position: 3, name: name, item: `https://barkseeker.com/vets/${stateSlug}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Vets", item: "https://www.barkseeker.com/vets" }, { "@type": "ListItem", position: 3, name: name, item: `https://www.barkseeker.com/vets/${stateSlug}` }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
 
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
@@ -178,7 +178,7 @@ function ListingPage({ slug }: { slug: string }) {
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "LocalBusiness", name: vet.name, address: { "@type": "PostalAddress", streetAddress: vet.address, addressLocality: vet.city, addressRegion: sn }, geo: { "@type": "GeoCoordinates", latitude: vet.latitude, longitude: vet.longitude }, telephone: vet.phone || undefined, url: vet.website || undefined, aggregateRating: vet.rating > 0 ? { "@type": "AggregateRating", ratingValue: vet.rating, reviewCount: vet.reviewCount } : undefined }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Vets", item: "https://barkseeker.com/vets" }, { "@type": "ListItem", position: 3, name: sn, item: `https://barkseeker.com/vets/${ss}` }, { "@type": "ListItem", position: 4, name: vet.name, item: `https://barkseeker.com/vets/${slug}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" }, { "@type": "ListItem", position: 2, name: "Vets", item: "https://www.barkseeker.com/vets" }, { "@type": "ListItem", position: 3, name: sn, item: `https://www.barkseeker.com/vets/${ss}` }, { "@type": "ListItem", position: 4, name: vet.name, item: `https://www.barkseeker.com/vets/${slug}` }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
@@ -280,7 +280,7 @@ function ListingPage({ slug }: { slug: string }) {
       <section className="bg-cream border border-forest/30 rounded-2xl p-6 mb-8">
         <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Own this clinic?</h3>
         <p className="text-gray-600 text-sm mb-4 max-w-lg">Claim your free listing to add hours, photos, and contact info. Respond to pet owners and keep your details up to date.</p>
-        <a href={`mailto:hello@barkseeker.com?subject=${encodeURIComponent(`Claim Listing: ${vet.name}`)}&body=${encodeURIComponent(`I'd like to claim the listing for ${vet.name} at ${vet.address || `${vet.city}, ${sn}`}.\n\nListing URL: https://barkseeker.com/vets/${slug}\n\nPlease contact me to verify ownership.`)}`} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Claim This Listing &mdash; It&apos;s Free</a>
+        <a href={`mailto:hello@barkseeker.com?subject=${encodeURIComponent(`Claim Listing: ${vet.name}`)}&body=${encodeURIComponent(`I'd like to claim the listing for ${vet.name} at ${vet.address || `${vet.city}, ${sn}`}.\n\nListing URL: https://www.barkseeker.com/vets/${slug}\n\nPlease contact me to verify ownership.`)}`} className="inline-block bg-forest hover:bg-forest-light text-white font-bold px-6 py-3 rounded-lg transition shadow-sm text-sm">Claim This Listing &mdash; It&apos;s Free</a>
       </section>
 
       <div className="bg-cream border-2 border-bark rounded-2xl p-6 mb-8">

@@ -17,7 +17,7 @@ function pascal(slug) { return slug.replace(/(^|-)([a-z])/g, (_, __, c) => c.toU
 const stateEntries = Object.entries(byState).sort((a, b) => b[1].parks.length - a[1].parks.length);
 const sitemapMainUrls = [];
 const sitemapParkUrls = [];
-['', 'map', 'blog', 'about', 'for-businesses', 'privacy', 'terms'].forEach(p => sitemapMainUrls.push(`https://barkseeker.com/${p}`));
+['', 'map', 'blog', 'about', 'for-businesses', 'privacy', 'terms'].forEach(p => sitemapMainUrls.push(`https://www.barkseeker.com/${p}`));
 
 // --- Create data pipeline ---
 const stateMapEntries = stateEntries.map(([slug, d]) => `  "${slug}": { code: "${d.abbr}", prefix: "${d.abbr.toLowerCase()}" }`).join(',\n');
@@ -241,9 +241,9 @@ for (const [stateSlug, stateData] of stateEntries) {
 export const metadata: Metadata = {
   title: "Every Dog Park in ${stateName} — ${parks.length}+ Parks | BarkSeeker",
   description: "The most complete dog park directory for ${stateName}. ${parks.length}+ parks with GPS coordinates, amenities, and off-leash info.",
-  openGraph: { title: "${stateName} Dog Parks — BarkSeeker", url: "https://barkseeker.com/${stateSlug}", siteName: "BarkSeeker" },
+  openGraph: { title: "${stateName} Dog Parks — BarkSeeker", url: "https://www.barkseeker.com/${stateSlug}", siteName: "BarkSeeker" },
   twitter: { card: "summary", title: "${stateName} Dog Parks | BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/${stateSlug}" },
+  alternates: { canonical: "https://www.barkseeker.com/${stateSlug}" },
 };
 
 export default function ${pascal(stateSlug)}Layout({ children }: { children: React.ReactNode }) {
@@ -314,7 +314,7 @@ export default function ${pascal(stateSlug)}Page() {
 }
 `);
 
-  sitemapMainUrls.push(`https://barkseeker.com/${stateSlug}`);
+  sitemapMainUrls.push(`https://www.barkseeker.com/${stateSlug}`);
 
   // Generate park slugs for sitemap
   const seenSlugs = new Set();
@@ -325,7 +325,7 @@ export default function ${pascal(stateSlug)}Page() {
     if (seenSlugs.has(slug)) slug = `${slug}-${String(p.id).substring(0, 8)}`;
     if (seenSlugs.has(slug)) continue;
     seenSlugs.add(slug);
-    sitemapParkUrls.push(`https://barkseeker.com/parks/${slug}`);
+    sitemapParkUrls.push(`https://www.barkseeker.com/parks/${slug}`);
     totalParkSlugs++;
   }
 
@@ -356,8 +356,8 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   return {
     title: \`\${park.name} — Dog Park Details | BarkSeeker\`,
     description: \`\${park.name} dog park in \${park.city || stateNames[park.state] || park.state}. GPS coordinates, amenities, directions.\`,
-    openGraph: { title: \`\${park.name} — BarkSeeker\`, url: \`https://barkseeker.com/parks/\${park.id}\` },
-    alternates: { canonical: \`https://barkseeker.com/parks/\${park.id}\` },
+    openGraph: { title: \`\${park.name} — BarkSeeker\`, url: \`https://www.barkseeker.com/parks/\${park.id}\` },
+    alternates: { canonical: \`https://www.barkseeker.com/parks/\${park.id}\` },
   };
 }
 
@@ -373,7 +373,7 @@ export default async function ParkPage({ params }: { params: Promise<{ id: strin
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Place", name: park.name, geo: { "@type": "GeoCoordinates", latitude: park.latitude, longitude: park.longitude }, address: { "@type": "PostalAddress", addressRegion: stName } }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" }, { "@type": "ListItem", position: 2, name: stName, item: \`https://barkseeker.com/\${stSlug}\` }, { "@type": "ListItem", position: 3, name: park.name, item: \`https://barkseeker.com/parks/\${park.id}\` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" }, { "@type": "ListItem", position: 2, name: stName, item: \`https://www.barkseeker.com/\${stSlug}\` }, { "@type": "ListItem", position: 3, name: park.name, item: \`https://www.barkseeker.com/parks/\${park.id}\` }] }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-forest transition">Home</Link><span>/</span>
@@ -432,10 +432,10 @@ console.log('Created park detail page');
 // --- Sitemaps ---
 const d = '2026-04-05';
 let mainXml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
-for (const url of sitemapMainUrls) mainXml += `  <url><loc>${url}</loc><lastmod>${d}</lastmod><changefreq>weekly</changefreq><priority>${url.endsWith('/')|| url === 'https://barkseeker.com/' ? '1.0' : '0.9'}</priority></url>\n`;
+for (const url of sitemapMainUrls) mainXml += `  <url><loc>${url}</loc><lastmod>${d}</lastmod><changefreq>weekly</changefreq><priority>${url.endsWith('/')|| url === 'https://www.barkseeker.com/' ? '1.0' : '0.9'}</priority></url>\n`;
 // Add blog posts
 ['best-dog-parks-florida','dog-park-etiquette','find-off-leash-dog-parks','is-your-dog-ready','dog-park-safety'].forEach(s => {
-  mainXml += `  <url><loc>https://barkseeker.com/blog/${s}</loc><lastmod>${d}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>\n`;
+  mainXml += `  <url><loc>https://www.barkseeker.com/blog/${s}</loc><lastmod>${d}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>\n`;
 });
 mainXml += '</urlset>\n';
 fs.writeFileSync(path.join(__dirname, '..', 'public', 'sitemap-main.xml'), mainXml);
@@ -448,8 +448,8 @@ fs.writeFileSync(path.join(__dirname, '..', 'public', 'sitemap-parks.xml'), park
 fs.writeFileSync(path.join(__dirname, '..', 'public', 'sitemap.xml'),
 `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap><loc>https://barkseeker.com/sitemap-main.xml</loc><lastmod>${d}</lastmod></sitemap>
-  <sitemap><loc>https://barkseeker.com/sitemap-parks.xml</loc><lastmod>${d}</lastmod></sitemap>
+  <sitemap><loc>https://www.barkseeker.com/sitemap-main.xml</loc><lastmod>${d}</lastmod></sitemap>
+  <sitemap><loc>https://www.barkseeker.com/sitemap-parks.xml</loc><lastmod>${d}</lastmod></sitemap>
 </sitemapindex>
 `);
 

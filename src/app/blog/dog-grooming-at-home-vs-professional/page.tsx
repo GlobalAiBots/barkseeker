@@ -6,15 +6,15 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Dog Grooming at Home vs. Professional: Which Is Right for You? | BarkSeeker",
   description: "Compare at-home dog grooming vs. professional grooming — pros, cons, costs, and when each option makes the most sense for your dog.",
-  openGraph: { title: "Dog Grooming at Home vs. Professional: Which Is Right for You?", url: "https://barkseeker.com/blog/dog-grooming-at-home-vs-professional", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/dog-grooming-at-home-vs-professional" },
+  openGraph: { title: "Dog Grooming at Home vs. Professional: Which Is Right for You?", url: "https://www.barkseeker.com/blog/dog-grooming-at-home-vs-professional", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/dog-grooming-at-home-vs-professional" },
 };
 
 export default function PostPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: "Dog Grooming at Home vs. Professional: Which Is Right for You?", datePublished: "2026-04-15", author: { "@type": "Organization", name: "BarkSeeker" } }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" }, { "@type": "ListItem", position: 2, name: "Blog", item: "https://barkseeker.com/blog" }, { "@type": "ListItem", position: 3, name: "Dog Grooming at Home vs. Professional", item: "https://barkseeker.com/blog/dog-grooming-at-home-vs-professional" }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" }, { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.barkseeker.com/blog" }, { "@type": "ListItem", position: 3, name: "Dog Grooming at Home vs. Professional", item: "https://www.barkseeker.com/blog/dog-grooming-at-home-vs-professional" }] }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [{ "@type": "Question", name: "Is it cheaper to groom your dog at home?", acceptedAnswer: { "@type": "Answer", text: "Yes, after the initial investment in tools ($100-300), at-home grooming costs significantly less per session. However, you'll need to invest time in learning proper techniques." } }, { "@type": "Question", name: "What tools do I need to groom my dog at home?", acceptedAnswer: { "@type": "Answer", text: "Essential tools include a quality brush or comb for your coat type, nail clippers or a Dremel, dog shampoo, ear cleaner, towels, and optionally a grooming table and force dryer." } }, { "@type": "Question", name: "Can I give my dog a haircut at home?", acceptedAnswer: { "@type": "Answer", text: "Simple trims are manageable at home with practice, but breed-specific haircuts and styling are best left to professionals. Improper clipper use can cause burns, nicks, and uneven results." } }] }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-forest transition">Home</Link><span>/</span>

@@ -15,17 +15,17 @@ export const metadata: Metadata = {
   openGraph: {
     title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
     description: "Find dog parks, professional groomers, and trusted veterinarians near you. 37,000+ listings across all 50 states.",
-    url: "https://barkseeker.com",
+    url: "https://www.barkseeker.com",
     siteName: "BarkSeeker",
     type: "website",
-    images: [{ url: "https://barkseeker.com/og-image.png", width: 1200, height: 630, alt: "BarkSeeker — Every Dog Park in America" }],
+    images: [{ url: "https://www.barkseeker.com/og-image.png", width: 1200, height: 630, alt: "BarkSeeker — Every Dog Park in America" }],
   },
   twitter: {
     card: "summary",
     title: "BarkSeeker | Dog Parks, Groomers & Vets Near You",
     description: "Find dog parks, professional groomers, and trusted veterinarians near you. 37,000+ listings across all 50 states.",
   },
-  alternates: { canonical: "https://barkseeker.com" },
+  alternates: { canonical: "https://www.barkseeker.com" },
   verification: {
     google: "JWsw31t4naK4EN6UbytAGjUR7PuyS4e3i1lgEcjM-R4",
   },
@@ -86,7 +86,7 @@ function Footer() {
             <div className="flex flex-col gap-1">
               <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">RampSeeker</a>
               <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">PierSeeker</a>
-              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BarkSeeker</a>
+              <a href="https://www.barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BarkSeeker</a>
               <a href="https://marinaseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">MarinaSeeker</a>
               <a href="https://mechanicseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">MechanicSeeker</a>
               <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BabyMyDog</a>

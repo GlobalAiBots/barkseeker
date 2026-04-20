@@ -4,9 +4,9 @@ export const metadata: Metadata = {
   title: "CLETUS AI — 24/7 AI Chat & Voice Agent for Any Business | BarkSeeker",
   description: "CLETUS answers your customers' questions 24/7 on your website and phone. Works for any business — pet groomers, vet clinics, doggy daycares, pet stores, and more. Less than $1/day.",
   keywords: "AI chatbot for small business, AI customer service, 24/7 chatbot for website, AI phone answering service, chatbot for pet businesses, AI for veterinarians",
-  openGraph: { title: "CLETUS AI — 24/7 Chat & Voice Agent for Any Business", url: "https://barkseeker.com/for-businesses", siteName: "BarkSeeker" },
+  openGraph: { title: "CLETUS AI — 24/7 Chat & Voice Agent for Any Business", url: "https://www.barkseeker.com/for-businesses", siteName: "BarkSeeker" },
   twitter: { card: "summary", title: "CLETUS AI for Your Business | BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/for-businesses" },
+  alternates: { canonical: "https://www.barkseeker.com/for-businesses" },
 };
 
 const businesses = [

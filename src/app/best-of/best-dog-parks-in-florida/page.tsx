@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in Florida — Top 10 Picks | BarkSeeker",
   description: "Find the 10 best dog parks in Florida, featuring dog beaches, off-leash areas, and shaded play spaces from Pinellas County to Palm Beach and beyond.",
-  openGraph: { title: "Best Dog Parks in Florida — Top 10 Picks", url: "https://barkseeker.com/best-of/best-dog-parks-in-florida", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-parks-in-florida" },
+  openGraph: { title: "Best Dog Parks in Florida — Top 10 Picks", url: "https://www.barkseeker.com/best-of/best-dog-parks-in-florida", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-parks-in-florida" },
 };
 
 export default function BestDogParksFlorida() {
@@ -15,9 +15,9 @@ export default function BestDogParksFlorida() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in Florida", "item": "https://barkseeker.com/best-of/best-dog-parks-in-florida" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", "position": 3, "name": "Best Dog Parks in Florida", "item": "https://www.barkseeker.com/best-of/best-dog-parks-in-florida" }
         ]
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy — BarkSeeker",
   description: "BarkSeeker privacy policy. How we collect, use, and protect your information, including our use of Google AdSense and cookies.",
-  openGraph: { title: "Privacy Policy — BarkSeeker", url: "https://barkseeker.com/privacy", siteName: "BarkSeeker" },
+  openGraph: { title: "Privacy Policy — BarkSeeker", url: "https://www.barkseeker.com/privacy", siteName: "BarkSeeker" },
   twitter: { card: "summary", title: "Privacy Policy — BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/privacy" },
+  alternates: { canonical: "https://www.barkseeker.com/privacy" },
 };
 
 export default function PrivacyPage() {

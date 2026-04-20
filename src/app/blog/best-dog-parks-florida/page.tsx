@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Parks in Florida: Off-Leash Paradise for Your Pup | BarkSeeker",
   description: "Discover the top dog parks in Florida with off-leash areas, water features, shaded trails, and agility courses. Find your pup's perfect play spot.",
-  openGraph: { title: "Best Dog Parks in Florida: Off-Leash Paradise for Your Pup", url: "https://barkseeker.com/blog/best-dog-parks-florida", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/best-dog-parks-florida" },
+  openGraph: { title: "Best Dog Parks in Florida: Off-Leash Paradise for Your Pup", url: "https://www.barkseeker.com/blog/best-dog-parks-florida", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/best-dog-parks-florida" },
 };
 
 export default function PostPage() {

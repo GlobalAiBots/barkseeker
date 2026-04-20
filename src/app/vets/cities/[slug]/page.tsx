@@ -29,8 +29,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${vets.length} Veterinarians in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`,
     description: `Find ${vets.length} veterinarians in ${cityInfo.city}, ${cityInfo.stateName}. Compare ratings, read reviews, and get directions on BarkSeeker.`,
-    openGraph: { title: `Vets in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`, url: `https://barkseeker.com/vets/cities/${slug}` },
-    alternates: { canonical: `https://barkseeker.com/vets/cities/${slug}` },
+    openGraph: { title: `Vets in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`, url: `https://www.barkseeker.com/vets/cities/${slug}` },
+    alternates: { canonical: `https://www.barkseeker.com/vets/cities/${slug}` },
   };
 }
 
@@ -73,10 +73,10 @@ export default async function VetCityPage({ params }: { params: Promise<{ slug: 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Vets", item: "https://barkseeker.com/vets" },
-          { "@type": "ListItem", position: 3, name: stName, item: `https://barkseeker.com/vets/${stSlug}` },
-          { "@type": "ListItem", position: 4, name: cityInfo.city, item: `https://barkseeker.com/vets/cities/${slug}` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Vets", item: "https://www.barkseeker.com/vets" },
+          { "@type": "ListItem", position: 3, name: stName, item: `https://www.barkseeker.com/vets/${stSlug}` },
+          { "@type": "ListItem", position: 4, name: cityInfo.city, item: `https://www.barkseeker.com/vets/cities/${slug}` },
         ],
       }) }} />
       {/* Schema: FAQPage */}

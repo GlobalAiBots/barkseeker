@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Is Your Dog Ready for the Dog Park? Signs to Look For | BarkSeeker",
   description: "How to know if your dog is ready for off-leash play at the dog park. Learn about socialization, recall training, vaccinations, and temperament signs.",
-  openGraph: { title: "Is Your Dog Ready for the Dog Park? Signs to Look For", url: "https://barkseeker.com/blog/is-your-dog-ready", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/blog/is-your-dog-ready" },
+  openGraph: { title: "Is Your Dog Ready for the Dog Park? Signs to Look For", url: "https://www.barkseeker.com/blog/is-your-dog-ready", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/blog/is-your-dog-ready" },
 };
 
 export default function PostPage() {

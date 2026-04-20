@@ -100,7 +100,7 @@ for (const cat of categories) {
 fs.writeFileSync(path.join(dataDir, "categories.json"), JSON.stringify(results, null, 2));
 
 // Sitemap
-const sitemapLines = results.map(c => `  <url><loc>https://barkseeker.com/category/${c.slug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
+const sitemapLines = results.map(c => `  <url><loc>https://www.barkseeker.com/category/${c.slug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`);
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-categories.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapLines.join("\n")}\n</urlset>`);
 
 console.log(`\nTotal categories: ${results.length}`);

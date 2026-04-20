@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Off-Leash Dog Parks in America — Top 10 | BarkSeeker",
   description: "Discover the 10 best off-leash dog parks across America, from dedicated dog beaches in Florida to sprawling leash-free zones in Texas, California, and New York.",
-  openGraph: { title: "Best Off-Leash Dog Parks in America — Top 10", url: "https://barkseeker.com/best-of/best-off-leash-dog-parks", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-off-leash-dog-parks" },
+  openGraph: { title: "Best Off-Leash Dog Parks in America — Top 10", url: "https://www.barkseeker.com/best-of/best-off-leash-dog-parks", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-off-leash-dog-parks" },
 };
 
 export default function BestOffLeashDogParks() {
@@ -15,9 +15,9 @@ export default function BestOffLeashDogParks() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://barkseeker.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", "position": 3, "name": "Best Off-Leash Dog Parks in America", "item": "https://barkseeker.com/best-of/best-off-leash-dog-parks" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.barkseeker.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Best Of", "item": "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", "position": 3, "name": "Best Off-Leash Dog Parks in America", "item": "https://www.barkseeker.com/best-of/best-off-leash-dog-parks" }
         ]
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

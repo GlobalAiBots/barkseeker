@@ -6,10 +6,10 @@ export const metadata: Metadata = {
   openGraph: {
     title: "About BarkSeeker",
     description: "The most complete pet services directory in America. 37,000+ listings across all 50 states.",
-    url: "https://barkseeker.com/about",
+    url: "https://www.barkseeker.com/about",
   },
   twitter: { card: "summary", title: "About BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/about" },
+  alternates: { canonical: "https://www.barkseeker.com/about" },
 };
 
 export default function AboutPage() {

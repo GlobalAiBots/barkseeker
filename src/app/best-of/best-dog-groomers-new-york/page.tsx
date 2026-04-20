@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Dog Groomers in New York City — Top 10 Picks | BarkSeeker",
   description: "Top-rated NYC dog groomers: Parker's Doghouse, Good Dog!, Le Pet Spa, Happy Dogs, Walter's Pet Styles. Ratings, addresses, hours, and what to expect.",
-  openGraph: { title: "Best Dog Groomers in NYC — Top 10", url: "https://barkseeker.com/best-of/best-dog-groomers-new-york", siteName: "BarkSeeker" },
-  alternates: { canonical: "https://barkseeker.com/best-of/best-dog-groomers-new-york" },
+  openGraph: { title: "Best Dog Groomers in NYC — Top 10", url: "https://www.barkseeker.com/best-of/best-dog-groomers-new-york", siteName: "BarkSeeker" },
+  alternates: { canonical: "https://www.barkseeker.com/best-of/best-dog-groomers-new-york" },
 };
 
 export default function BestDogGroomersNewYork() {
@@ -15,9 +15,9 @@ export default function BestDogGroomersNewYork() {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://barkseeker.com/" },
-          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://barkseeker.com/best-of" },
-          { "@type": "ListItem", position: 3, name: "Best Dog Groomers in New York City", item: "https://barkseeker.com/best-of/best-dog-groomers-new-york" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.barkseeker.com/" },
+          { "@type": "ListItem", position: 2, name: "Best Of", item: "https://www.barkseeker.com/best-of" },
+          { "@type": "ListItem", position: 3, name: "Best Dog Groomers in New York City", item: "https://www.barkseeker.com/best-of/best-dog-groomers-new-york" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
