@@ -6,14 +6,11 @@ import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import AdSlot from "@/components/AdSlot";
 import nearbyVetsData from "@/data/nearby-vets.json";
-import vetCityPagesData from "@/data/vet-city-pages.json";
 import type { Metadata } from "next";
 
 const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 interface NearbyVet { slug: string; name: string; distance: number; city: string; stateAbbr: string; }
 const nearbyMap = nearbyVetsData as Record<string, NearbyVet[]>;
-interface VetCityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
-const allCityPages = vetCityPagesData as VetCityPage[];
 
 export const dynamicParams = true;
 export function generateStaticParams() { return []; }
@@ -53,7 +50,19 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
   const abbr = slugToAbbr[stateSlug]!;
   const name = stateNames[abbr]!;
   const vets = getVetsByState(abbr).sort((a, b) => b.rating - a.rating || a.name.localeCompare(b.name));
-  const cities = allCityPages.filter(c => c.state === abbr).sort((a, b) => b.count - a.count);
+  // Derive city tiles directly from vets so sparse states (e.g. Wyoming with 20
+  // vets across 1 pre-aggregated city) show every city, not just the few that
+  // happen to have dedicated entries in vet-city-pages.json.
+  const citiesAgg: Record<string, { city: string; citySlug: string; count: number }> = {};
+  for (const v of vets) {
+    const rawCity = v.city?.trim();
+    if (!rawCity) continue;
+    const citySlug = slugify(rawCity);
+    if (!citySlug) continue;
+    if (!citiesAgg[citySlug]) citiesAgg[citySlug] = { city: rawCity, citySlug, count: 0 };
+    citiesAgg[citySlug].count++;
+  }
+  const cities = Object.values(citiesAgg).sort((a, b) => b.count - a.count);
   const mapParks = vets.filter(v => v.latitude && v.longitude).map(v => ({ id: v.slug, name: v.name, latitude: v.latitude, longitude: v.longitude, city: v.city }));
   const center: [number, number] = vets.length > 0
     ? [vets.reduce((s, v) => s + v.latitude, 0) / vets.length, vets.reduce((s, v) => s + v.longitude, 0) / vets.length]
@@ -105,7 +114,7 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cities.slice(0, 16).map(c => (
-              <Link key={`${c.stateSlug}-${c.citySlug}`} href={`/vets/cities/${c.stateSlug}-${c.citySlug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-forest hover:shadow-sm transition">
+              <Link key={`${stateSlug}-${c.citySlug}`} href={`/vets/cities/${stateSlug}-${c.citySlug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-forest hover:shadow-sm transition">
                 <p className="font-bold text-charcoal text-sm">{c.city}</p>
                 <p className="text-gray-400 text-xs">{c.count} vet{c.count !== 1 ? "s" : ""}</p>
               </Link>

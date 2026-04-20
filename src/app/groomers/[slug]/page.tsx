@@ -6,13 +6,10 @@ import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import AdSlot from "@/components/AdSlot";
 import nearbyData from "@/data/nearby-groomers.json";
-import groomerCityPages from "@/data/groomer-city-pages.json";
 import type { Metadata } from "next";
 
 const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 const nearbyMap = nearbyData as Record<string, { slug: string; name: string; distance: number; city: string; stateAbbr: string }[]>;
-interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
-const allCityPages = groomerCityPages as CityPage[];
 
 export const dynamicParams = true;
 export function generateStaticParams() { return []; }
@@ -52,7 +49,19 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
   const abbr = slugToAbbr[stateSlug]!;
   const name = stateNames[abbr]!;
   const groomers = getGroomersByState(abbr).sort((a, b) => b.rating - a.rating || a.name.localeCompare(b.name));
-  const cities = allCityPages.filter(c => c.state === abbr).sort((a, b) => b.count - a.count);
+  // Derive city tiles directly from groomers so sparse states (like Maine, with 17
+  // groomers across 10 cities) show every city, not just the 2-3 that happen to
+  // have dedicated entries in groomer-city-pages.json.
+  const citiesAgg: Record<string, { city: string; citySlug: string; count: number }> = {};
+  for (const g of groomers) {
+    const rawCity = g.city?.trim();
+    if (!rawCity) continue;
+    const citySlug = slugify(rawCity);
+    if (!citySlug) continue;
+    if (!citiesAgg[citySlug]) citiesAgg[citySlug] = { city: rawCity, citySlug, count: 0 };
+    citiesAgg[citySlug].count++;
+  }
+  const cities = Object.values(citiesAgg).sort((a, b) => b.count - a.count);
   const mapParks = groomers.filter(g => g.latitude && g.longitude).map(g => ({ id: g.slug, name: g.name, latitude: g.latitude, longitude: g.longitude, city: g.city }));
   const center: [number, number] = groomers.length > 0
     ? [groomers.reduce((s, g) => s + g.latitude, 0) / groomers.length, groomers.reduce((s, g) => s + g.longitude, 0) / groomers.length]
@@ -105,7 +114,7 @@ function StatePage({ stateSlug }: { stateSlug: string }) {
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cities.slice(0, 16).map(c => (
-              <Link key={`${c.stateSlug}-${c.citySlug}`} href={`/groomers/cities/${c.stateSlug}-${c.citySlug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-forest hover:shadow-sm transition">
+              <Link key={`${stateSlug}-${c.citySlug}`} href={`/groomers/cities/${stateSlug}-${c.citySlug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-forest hover:shadow-sm transition">
                 <p className="font-bold text-charcoal text-sm">{c.city}</p>
                 <p className="text-gray-400 text-xs">{c.count} groomer{c.count !== 1 ? "s" : ""}</p>
               </Link>

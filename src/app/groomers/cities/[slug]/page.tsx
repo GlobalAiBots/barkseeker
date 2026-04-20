@@ -1,6 +1,6 @@
 import Link from "next/link";
 import dynamic from "next/dynamic";
-import { getGroomersByCity } from "@/data/all-groomers";
+import { allGroomers, getGroomersByCity, stateNames, stateSlugs, slugToAbbr, slugify } from "@/data/all-groomers";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import groomerCityPages from "@/data/groomer-city-pages.json";
 import type { Metadata } from "next";
@@ -10,11 +10,39 @@ const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, load
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
 const allCityPages = groomerCityPages as CityPage[];
 
+// State slugs sorted longest-first so "new-york-albany" matches "new-york" before "new".
+const stateSlugsByLength = Object.values(stateSlugs).sort((a, b) => b.length - a.length);
+
 export const dynamicParams = true;
 export function generateStaticParams() { return []; }
 
 function parseCitySlug(slug: string): CityPage | undefined {
-  return allCityPages.find((c) => `${c.stateSlug}-${c.citySlug}` === slug);
+  // Fast path: city has a pre-aggregated entry (with coordinates for the empty-state map fallback).
+  const preAgg = allCityPages.find((c) => `${c.stateSlug}-${c.citySlug}` === slug);
+  if (preAgg) return preAgg;
+
+  // Fallback: derive from raw groomer data so sparse cities (not in the aggregated file)
+  // don't 404. Split slug on longest matching state prefix.
+  const stateSlug = stateSlugsByLength.find((s) => slug === s || slug.startsWith(s + "-"));
+  if (!stateSlug) return undefined;
+  const abbr = slugToAbbr[stateSlug];
+  if (!abbr) return undefined;
+  const citySlug = slug.slice(stateSlug.length + 1);
+  if (!citySlug) return undefined;
+
+  const matches = allGroomers.filter((g) => g.stateAbbr === abbr && slugify(g.city) === citySlug);
+  if (matches.length === 0) return undefined;
+  const cityName = matches[0].city;
+  return {
+    state: abbr,
+    stateName: stateNames[abbr] || abbr,
+    stateSlug,
+    city: cityName,
+    citySlug,
+    count: matches.length,
+    lat: matches[0].latitude,
+    lng: matches[0].longitude,
+  };
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
