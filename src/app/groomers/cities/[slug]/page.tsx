@@ -22,9 +22,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const cityInfo = parseCitySlug(slug);
   if (!cityInfo) return { title: "City Not Found" };
   return {
-    title: `Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} (${cityInfo.count} Listed) | BarkSeeker`,
-    description: `Find the best dog groomers in ${cityInfo.city}, ${cityInfo.stateName}. Browse ${cityInfo.count} groomers with ratings, reviews, phone numbers, and directions.`,
-    openGraph: { title: `Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`, url: `https://www.barkseeker.com/groomers/cities/${slug}` },
+    title: `Best Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} — Ratings & Reviews (2026)`,
+    description: `Find the best dog groomers in ${cityInfo.city}, ${cityInfo.stateName}. Browse ${cityInfo.count} groomers with ratings, reviews, phone numbers, and directions. Updated 2026.`,
+    openGraph: { title: `Best Dog Groomers in ${cityInfo.city}, ${cityInfo.stateName} (2026) | BarkSeeker`, url: `https://www.barkseeker.com/groomers/cities/${slug}` },
     alternates: { canonical: `https://www.barkseeker.com/groomers/cities/${slug}` },
   };
 }
@@ -48,8 +48,10 @@ export default async function GroomerCityPage({ params }: { params: Promise<{ sl
 
   const faqItems = [
     { q: `How many dog groomers are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${groomers.length} dog groomers in ${cityInfo.city}, ${cityInfo.stateName} listed on BarkSeeker. Browse all listings with ratings and contact info.` },
-    { q: `How do I find the best dog groomer in ${cityInfo.city}?`, a: `BarkSeeker ranks dog groomers in ${cityInfo.city} by customer rating. Check reviews, compare services, and find the best fit for your dog.` },
-    { q: `How much does dog grooming cost in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `Dog grooming in ${cityInfo.city} typically costs $30-$90 depending on your dog's size, breed, and the services requested. Contact individual groomers for exact pricing.` },
+    { q: `What is the best rated dog groomer in ${cityInfo.city}?`, a: groomers.length > 0 && groomers[0].rating > 0 ? `${groomers[0].name} is the highest-rated groomer in ${cityInfo.city} with a ${groomers[0].rating.toFixed(1)}-star rating${groomers[0].reviewCount ? ` across ${groomers[0].reviewCount} reviews` : ""}. Browse all ${cityInfo.city} groomers sorted by rating above.` : `Groomers in ${cityInfo.city} are sorted by rating above. Check the top entries in the list for the highest-rated options.` },
+    { q: `How much does dog grooming cost in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `Dog grooming in ${cityInfo.city} typically costs $30-$90 for small and medium dogs, $60-$150+ for large breeds or hand-scissoring. Mobile groomers add a $30-$80 travel fee. Contact individual groomers for exact pricing.` },
+    { q: `Are there dog groomers open on Sunday in ${cityInfo.city}?`, a: `Sunday hours vary by groomer. Most ${cityInfo.city} groomers are closed Sunday and Monday, with peak hours Tuesday through Saturday. Call ahead to confirm — listings above include phone numbers.` },
+    { q: `How often should I get my dog groomed?`, a: `Most dogs need professional grooming every 4-8 weeks depending on coat type. Long-coat breeds (doodles, poodles) need 4-6 weeks to prevent matting. Short-coat breeds can stretch to 8-12 weeks.` },
   ];
 
   return (

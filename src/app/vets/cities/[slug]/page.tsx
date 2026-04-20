@@ -27,9 +27,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const abbr = slugToAbbr[cityInfo.stateSlug];
   const vets = abbr ? getVetsByCity(cityInfo.city, abbr) : [];
   return {
-    title: `${vets.length} Veterinarians in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`,
-    description: `Find ${vets.length} veterinarians in ${cityInfo.city}, ${cityInfo.stateName}. Compare ratings, read reviews, and get directions on BarkSeeker.`,
-    openGraph: { title: `Vets in ${cityInfo.city}, ${cityInfo.stateName} | BarkSeeker`, url: `https://www.barkseeker.com/vets/cities/${slug}` },
+    title: `Best Veterinarians in ${cityInfo.city}, ${cityInfo.stateName} — Ratings & Reviews (2026)`,
+    description: `Find ${vets.length} top-rated veterinarians in ${cityInfo.city}, ${cityInfo.stateName}. Compare ratings, read reviews, and get directions on BarkSeeker. Updated 2026.`,
+    openGraph: { title: `Best Veterinarians in ${cityInfo.city}, ${cityInfo.stateName} (2026) | BarkSeeker`, url: `https://www.barkseeker.com/vets/cities/${slug}` },
     alternates: { canonical: `https://www.barkseeker.com/vets/cities/${slug}` },
   };
 }
@@ -63,8 +63,10 @@ export default async function VetCityPage({ params }: { params: Promise<{ slug: 
 
   const faqItems = [
     { q: `How many vets are in ${cityInfo.city}, ${stName}?`, a: `There are ${vets.length} veterinarians in ${cityInfo.city}, ${stName} listed on BarkSeeker with ratings and contact information.` },
-    { q: `How do I choose a vet in ${cityInfo.city}?`, a: `Compare vet ratings on BarkSeeker, read reviews, and consider factors like location, services offered, and emergency availability.` },
-    { q: `What is the average cost of a vet visit in ${cityInfo.city}?`, a: `A routine vet visit in ${cityInfo.city} typically costs $50-$250 depending on the clinic and services. Emergency visits may cost more.` },
+    { q: `What is the best rated vet in ${cityInfo.city}?`, a: vets.length > 0 && vets[0].rating > 0 ? `${vets[0].name} is the highest-rated vet in ${cityInfo.city} with a ${vets[0].rating.toFixed(1)}-star rating${vets[0].reviewCount ? ` across ${vets[0].reviewCount} reviews` : ""}. Browse all ${cityInfo.city} vets sorted by rating above.` : `Vets in ${cityInfo.city} are sorted by rating above. Check the top entries in the list for the highest-rated clinics.` },
+    { q: `How do I choose a vet in ${cityInfo.city}?`, a: `Compare vet ratings on BarkSeeker, read recent reviews, and consider factors like location (you want one close to home for emergencies), services offered, and after-hours availability.` },
+    { q: `What is the average cost of a vet visit in ${cityInfo.city}?`, a: `A routine wellness exam in ${cityInfo.city} typically costs $55-$200 depending on the clinic. Urgent care starts at $125-$250, and emergency visits at 24-hour hospitals run $200-$400+ for the exam alone, before diagnostics.` },
+    { q: `Which ${cityInfo.city} vets handle emergencies?`, a: `Most general-practice vets handle urgent cases during office hours but refer to dedicated 24-hour emergency animal hospitals after hours. Save your nearest emergency vet's phone number before you need it.` },
   ];
 
   return (
