@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About BarkSeeker — Dog Park Directory",
-  description: "BarkSeeker is the most complete dog park directory in America. 4,700+ parks across 35 states with GPS coordinates, amenities, and off-leash info.",
+  title: "About BarkSeeker — Dog Parks, Groomers & Vets Directory",
+  description: "BarkSeeker is the most complete pet services directory in America. 37,000+ listings across all 50 states — dog parks, professional groomers, and trusted veterinarians with GPS, ratings, and amenities.",
   openGraph: {
     title: "About BarkSeeker",
-    description: "The most complete dog park directory in America. 4,700+ parks across 35 states.",
+    description: "The most complete pet services directory in America. 37,000+ listings across all 50 states.",
     url: "https://barkseeker.com/about",
   },
   twitter: { card: "summary", title: "About BarkSeeker" },
@@ -19,10 +19,10 @@ export default function AboutPage() {
 
       <div className="space-y-6 text-gray-600 leading-relaxed">
         <p>
-          <strong className="text-charcoal">BarkSeeker is the most complete dog park directory in America.</strong> We cover 35 states with 4,700+ parks — GPS coordinates, amenities, off-leash info, and everything you need to find the perfect spot for your pup.
+          <strong className="text-charcoal">BarkSeeker is the most complete pet services directory in America.</strong> We cover all 50 states with 37,000+ listings &mdash; 7,300+ dog parks, 11,900+ groomers, and 17,800+ vets &mdash; all with GPS coordinates, contact info, ratings, and amenities.
         </p>
         <p>
-          We started BarkSeeker because finding a good dog park shouldn&apos;t require guessing. No more driving to a &quot;park&quot; that turns out to be a tiny patch of grass with no fence. No more wondering if dogs are allowed off-leash. Just real data, real locations, real amenities.
+          We started BarkSeeker because finding good pet services shouldn&apos;t require guessing. No more driving to a &quot;park&quot; that turns out to be a tiny patch of grass with no fence. No more calling ten groomers to ask who takes a doodle. Just real data, real locations, and recent ratings from the people who&apos;ve actually been there.
         </p>
         <p>
           Part of a family of outdoor directories: <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">RampSeeker</a> (boat ramps), <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">PierSeeker</a> (fishing piers), and <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-forest hover:text-forest-light transition font-semibold">BabyMyDog</a> (dog product reviews). Find the best products for your dog at BabyMyDog.com.
@@ -31,7 +31,7 @@ export default function AboutPage() {
         <div className="bg-green-50 border border-green-200 rounded-xl p-6 my-8">
           <h2 className="font-[Cabin] text-xl font-bold text-forest mb-3">What&apos;s Next</h2>
           <p className="text-gray-600">
-            We&apos;re expanding to all 50 states and adding detailed guides with off-leash rules, park reviews, and dog-friendly businesses near every park.
+            We&apos;re continuously enriching listings with fresh ratings, adding city-by-city &ldquo;best of&rdquo; editorial picks, and expanding cross-links between parks, groomers, and vets in each neighborhood.
           </p>
         </div>
 
