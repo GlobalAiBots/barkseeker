@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { allGroomers, getGroomerBySlug, getGroomersByState, stateNames, stateSlugs, slugToAbbr, slugify } from "@/data/all-groomers";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
+import { getRelatedGroomerBlog } from "@/lib/related-blogs";
 import AdSlot from "@/components/AdSlot";
 import nearbyData from "@/data/nearby-groomers.json";
 import type { Metadata } from "next";
@@ -281,6 +282,22 @@ function ListingPage({ slug }: { slug: string }) {
           </div>
         </div>
       </section>
+
+      {(() => {
+        const tease = getRelatedGroomerBlog(groomer);
+        return (
+          <section className="my-8 rounded-lg border border-gray-200 p-6 bg-gray-50">
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">Related Guide</p>
+            <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-2">
+              <Link href={`/blog/${tease.slug}`} className="hover:text-forest transition">{tease.title}</Link>
+            </h3>
+            <p className="text-gray-600 text-sm leading-relaxed mb-3">{tease.excerpt}</p>
+            <Link href={`/blog/${tease.slug}`} className="inline-block text-forest hover:text-forest-light font-semibold text-sm">
+              Read the full guide &rarr;
+            </Link>
+          </section>
+        );
+      })()}
 
       <FeaturedArticle listingSlug={groomer.slug} />
 

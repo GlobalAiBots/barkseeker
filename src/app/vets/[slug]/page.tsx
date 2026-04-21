@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { allVets, getVetBySlug, getVetsByState, stateNames, stateSlugs, slugToAbbr, slugify } from "@/data/all-vets";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
+import { getRelatedVetBlog } from "@/lib/related-blogs";
 import AdSlot from "@/components/AdSlot";
 import nearbyVetsData from "@/data/nearby-vets.json";
 import type { Metadata } from "next";
@@ -311,6 +312,22 @@ function ListingPage({ slug }: { slug: string }) {
         <p className="text-gray-600 text-sm mb-4 max-w-lg">Unexpected vet bills add up fast. Pet insurance covers emergencies, surgeries, and medications.</p>
         <Link href="/pet-insurance" className="inline-block bg-bark hover:bg-bark-dark text-white font-bold text-sm px-6 py-3 rounded-lg transition">Compare Plans &rarr;</Link>
       </div>
+
+      {(() => {
+        const tease = getRelatedVetBlog(vet);
+        return (
+          <section className="my-8 rounded-lg border border-gray-200 p-6 bg-gray-50">
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">Related Guide</p>
+            <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-2">
+              <Link href={`/blog/${tease.slug}`} className="hover:text-forest transition">{tease.title}</Link>
+            </h3>
+            <p className="text-gray-600 text-sm leading-relaxed mb-3">{tease.excerpt}</p>
+            <Link href={`/blog/${tease.slug}`} className="inline-block text-forest hover:text-forest-light font-semibold text-sm">
+              Read the full guide &rarr;
+            </Link>
+          </section>
+        );
+      })()}
 
       <FeaturedArticle listingSlug={vet.slug} />
       <CletusAd />
