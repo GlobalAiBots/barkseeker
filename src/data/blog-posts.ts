@@ -39,3 +39,11 @@ export const blogPosts: BlogPost[] = [
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
   return blogPosts.find((p) => p.slug === slug);
 }
+
+export function getRelatedPosts(currentSlug: string, limit = 2): BlogPost[] {
+  const current = getBlogPostBySlug(currentSlug);
+  if (!current) return blogPosts.filter((p) => p.slug !== currentSlug).slice(0, limit);
+  return blogPosts
+    .filter((p) => p.slug !== currentSlug && p.category === current.category)
+    .slice(0, limit);
+}
