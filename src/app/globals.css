@@ -6,3 +6,9 @@ body {
   color: #1A3A2A;
   background: #F0FFF4;
 }
+
+/* Hide unfilled AdSense slots so the page doesn't reserve empty space when
+   AdSense returns no ad. AdSense sets data-ad-status="unfilled" automatically. */
+ins.adsbygoogle[data-ad-status="unfilled"] {
+  display: none !important;
+}
