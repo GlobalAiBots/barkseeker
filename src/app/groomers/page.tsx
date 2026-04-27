@@ -24,9 +24,21 @@ export default function GroomersDirectory() {
 
   const statesWithData = useMemo(() => stateList.filter((s) => (stateCounts[s.abbr] || 0) > 0), [stateCounts]);
 
-  const filtered = search.length >= 2
-    ? statesWithData.filter((s) => s.name.toLowerCase().includes(search.toLowerCase()))
-    : statesWithData;
+  const [expanded, setExpanded] = useState(false);
+
+  const sortedByCount = useMemo(
+    () => [...statesWithData].sort((a, b) => (stateCounts[b.abbr] || 0) - (stateCounts[a.abbr] || 0)),
+    [statesWithData, stateCounts]
+  );
+
+  const isSearching = search.length >= 2;
+  const searchResults = useMemo(
+    () => statesWithData.filter((s) => s.name.toLowerCase().includes(search.toLowerCase())),
+    [statesWithData, search]
+  );
+
+  const displayStates = isSearching ? searchResults : sortedByCount;
+  const showToggle = !isSearching && sortedByCount.length > 15;
 
   const faqItems = [
     { q: "How do I find a good dog groomer near me?", a: `BarkSeeker lists ${allGroomers.length.toLocaleString()} dog groomers across all 50 states. Browse by state or city to find top-rated groomers.` },
@@ -87,14 +99,24 @@ export default function GroomersDirectory() {
         {statesWithData.length > 10 && (
           <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search states..." className="w-full max-w-md px-4 py-2.5 rounded-lg border border-gray-200 text-sm outline-none focus:border-forest transition mb-6" />
         )}
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 mb-12">
-          {filtered.map((s) => (
-            <Link key={s.abbr} href={`/groomers/${s.slug}`} className="group bg-white border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <p className="font-bold text-charcoal group-hover:text-forest transition text-sm">{s.name}</p>
-              <p className="text-gray-400 text-xs mt-1">{(() => { const c = stateCounts[s.abbr] || 0; return c === 1 ? "1 groomer" : `${c.toLocaleString()} groomers`; })()}</p>
-            </Link>
-          ))}
+        <div className={`grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3 ${showToggle ? "mb-6" : "mb-12"}`}>
+          {displayStates.map((s, index) => {
+            const hideThis = !isSearching && !expanded && index >= 15;
+            return (
+              <Link key={s.abbr} href={`/groomers/${s.slug}`} className={`group bg-white border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all${hideThis ? " hidden" : ""}`}>
+                <p className="font-bold text-charcoal group-hover:text-forest transition text-sm">{s.name}</p>
+                <p className="text-gray-400 text-xs mt-1">{(() => { const c = stateCounts[s.abbr] || 0; return c === 1 ? "1 groomer" : `${c.toLocaleString()} groomers`; })()}</p>
+              </Link>
+            );
+          })}
         </div>
+        {showToggle && (
+          <div className="text-center mb-12">
+            <button onClick={() => setExpanded(!expanded)} className="text-bark hover:text-bark-dark font-semibold text-sm transition">
+              {expanded ? "Show fewer ↑" : `Show all ${sortedByCount.length} states ↓`}
+            </button>
+          </div>
+        )}
 
         <AdSlot position="groomers-mid" />
 
