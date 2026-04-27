@@ -156,29 +156,27 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Stats overlay */}
+        {/* Hero footer: seasonal accent strip + integrated stats bar */}
         <div className="relative z-10 w-full mt-auto">
-          <div className="bg-[#1A3A2A]/85 backdrop-blur-sm border-t border-white/10 py-3">
-            <p className="text-center text-white/70 font-bold text-sm tracking-wide font-[Cabin]">&#11088; {SITE_STATS.total.toLocaleString()}+ Listings Trusted by Dog Owners Across 50 States</p>
+          <div className="bg-bark/90 backdrop-blur-sm py-2.5 text-center">
+            <Link href={(() => { const m = new Date().getMonth(); if (m >= 2 && m <= 4) return "/vets"; if (m >= 5 && m <= 7) return "/groomers"; if (m >= 8 && m <= 10) return "/vets"; return "/groomers"; })()} className="text-white font-bold text-sm hover:underline transition">
+              {(() => { const m = new Date().getMonth(); if (m >= 2 && m <= 4) return "🌷 Spring Allergy Season: Find a Trusted Vet →"; if (m >= 5 && m <= 7) return "☀️ Summer Grooming Season: Find a Groomer →"; if (m >= 8 && m <= 10) return "🍂 Fall Wellness Visits: Schedule Now →"; return "❄️ Winter Coat Care: Find Local Groomers →"; })()}
+            </Link>
           </div>
-        </div>
-      </section>
-
-      {/* TRUST BAR */}
-      <section className="py-8" style={{ background: '#1A3A2A' }}>
-        <div className="max-w-5xl mx-auto px-4">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-            {[
-              { value: parkCount, label: "Dog Parks" },
-              { value: allGroomers.length.toLocaleString(), label: "Groomers" },
-              { value: allVets.length.toLocaleString(), label: "Veterinarians" },
-              { value: "50", label: "States" },
-            ].map((s) => (
-              <div key={s.label}>
-                <p className="font-[Cabin] text-[36px] md:text-[44px] font-extrabold text-accent leading-none">{s.value}</p>
-                <p className="text-white/50 text-[13px] uppercase tracking-widest mt-2 font-semibold">{s.label}</p>
-              </div>
-            ))}
+          <div className="bg-charcoal/85 backdrop-blur-sm border-t border-white/10 py-6">
+            <div className="max-w-5xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
+              {[
+                { value: parkCount, label: "Dog Parks" },
+                { value: allGroomers.length.toLocaleString(), label: "Groomers" },
+                { value: allVets.length.toLocaleString(), label: "Veterinarians" },
+                { value: "50", label: "States" },
+              ].map((s) => (
+                <div key={s.label}>
+                  <p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p>
+                  <p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>
