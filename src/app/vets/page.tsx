@@ -82,15 +82,6 @@ export default function VetsDirectoryPage() {
         </div>
       </section>
 
-      {/* Pet Insurance CTA */}
-      <section className="max-w-5xl mx-auto px-4 py-4">
-        <div className="bg-forest rounded-2xl p-6 md:p-8 text-white">
-          <h2 className="font-[Cabin] text-2xl font-bold mb-2">Save on Vet Bills with Pet Insurance</h2>
-          <p className="text-white/80 text-sm mb-4 max-w-lg">Pet insurance can cover up to 90% of unexpected vet bills. A single emergency surgery can cost $3,000-$10,000+. Compare plans and find the right coverage for your dog.</p>
-          <Link href="/pet-insurance" className="inline-block bg-bark hover:bg-bark-dark text-white font-bold text-sm px-6 py-3 rounded-lg transition shadow-sm">Compare Pet Insurance Plans &rarr;</Link>
-        </div>
-      </section>
-
       <section className="max-w-5xl mx-auto px-4 py-6">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse Veterinarians by State</h2>
         {statesWithData.length > 10 && (
