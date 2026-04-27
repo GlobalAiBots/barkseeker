@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Dog Groomers Near You | 11,900+ Groomers | BarkSeeker",
-  description: "Find dog groomers across the United States. 11,900+ groomers with ratings, reviews, phone numbers, and directions. Browse by state or city.",
-  openGraph: { title: "Dog Groomers Near You | BarkSeeker", url: "https://www.barkseeker.com/groomers" },
+  title: "How to Choose a Dog Groomer | Find Trusted Groomers | BarkSeeker",
+  description: "Complete guide to finding the right groomer for your dog. Compare certifications, environments, breed expertise, and costs. Find trusted groomers near you.",
+  openGraph: { title: "How to Choose a Dog Groomer | BarkSeeker", url: "https://www.barkseeker.com/groomers" },
   alternates: { canonical: "https://www.barkseeker.com/groomers" },
 };
 

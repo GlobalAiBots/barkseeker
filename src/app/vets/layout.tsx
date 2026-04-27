@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Veterinarians Near You | 17,813+ Vets | BarkSeeker",
-  description: "Find veterinarians across the United States. 17,813+ vets with ratings, reviews, phone numbers, and directions. Browse by state or city.",
-  openGraph: { title: "Veterinarians Near You | BarkSeeker", url: "https://www.barkseeker.com/vets" },
+  title: "How to Choose a Vet | Find Trusted Vets Near You | BarkSeeker",
+  description: "Complete guide to choosing the right veterinarian for your dog. Compare credentials, AAHA accreditation, costs, red flags, and find trusted vets in your area.",
+  openGraph: { title: "How to Choose a Vet | BarkSeeker", url: "https://www.barkseeker.com/vets" },
   alternates: { canonical: "https://www.barkseeker.com/vets" },
 };
 
