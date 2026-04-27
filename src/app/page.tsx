@@ -208,13 +208,6 @@ export default function Home() {
             <span className="inline-block mt-4 text-white font-bold text-sm px-5 py-2 rounded-xl group-hover:-translate-y-0.5 transition-all" style={{ background: 'linear-gradient(135deg, #60A5FA, #3B82F6)', boxShadow: '0 4px 12px rgba(59,130,246,0.25)' }}>Browse Vets &rarr;</span>
           </Link>
         </div>
-        <div className="text-center">
-          <Link href="/pet-insurance" className="inline-flex items-center gap-2 bg-white border-2 border-bark rounded-xl px-8 py-4 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300">
-            <span className="text-2xl">&#128737;&#65039;</span>
-            <span className="font-[Cabin] font-bold text-charcoal text-base">Compare Pet Insurance Plans</span>
-            <span className="text-bark font-bold text-base">&rarr;</span>
-          </Link>
-        </div>
       </section>
 
       {/* BROWSE DOG PARKS BY STATE */}
