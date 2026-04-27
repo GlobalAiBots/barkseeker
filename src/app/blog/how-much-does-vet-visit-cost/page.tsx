@@ -5,6 +5,7 @@ import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
 import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
 import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
 import { REVIVAL } from "@/data/affiliates/revival";
+import { BUDGET_PET_CARE } from "@/data/affiliates/budgetpetcare";
 import type { Metadata } from "next";
 
 const POST_SLUG = "how-much-does-vet-visit-cost";
@@ -94,7 +95,7 @@ export default function PostPage() {
           There are practical strategies to keep vet costs manageable without compromising your dog&apos;s care. Preventive care is the most important — keeping up with vaccinations, parasite prevention, and dental care prevents expensive problems down the road. Pet insurance can protect you from catastrophic bills for accidents and major illnesses. Wellness plans offered by many vet clinics spread routine care costs into affordable monthly payments. And do not be afraid to ask your vet for a cost estimate before procedures — a good vet will be transparent about pricing and help you understand your options.
         </p>
         <p>
-          One under-used cost lever: stop paying clinic markup for items you re-order on a predictable cadence. Joint supplements, dental chews, ear cleansers, dewormers, and multivitamins are all cheaper through a vet-supply <AffiliateInlineLink partner={REVIVAL} linkKey="autoShip" postSlug={POST_SLUG}>Revival AutoShip subscription</AffiliateInlineLink> than buying them piecemeal at the clinic counter &mdash; typically 20-40 percent cheaper, plus 5-15 percent recurring discount layered on top. Over a 10-year ownership window the recurring savings frequently run into the thousands.
+          One under-used cost lever: stop paying clinic markup for items you re-order on a predictable cadence. Joint supplements, dental chews, ear cleansers, dewormers, and multivitamins are all cheaper through a vet-supply <AffiliateInlineLink partner={REVIVAL} linkKey="autoShip" postSlug={POST_SLUG}>Revival AutoShip subscription</AffiliateInlineLink> than buying them piecemeal at the clinic counter &mdash; typically 20-40 percent cheaper, plus 5-15 percent recurring discount layered on top. Over a 10-year ownership window the recurring savings frequently run into the thousands. Many vet visits also stem from preventable issues, and brand-name flea, tick, and heartworm prevention through discount retailers like <AffiliateInlineLink partner={BUDGET_PET_CARE} linkKey="evergreen" postSlug={POST_SLUG}>Budget Pet Care</AffiliateInlineLink> runs substantially cheaper than the same products at vet pricing.
         </p>
 
         <div className="bg-green-50 border-l-4 border-forest p-4 rounded-r-lg">

@@ -5,6 +5,7 @@ import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
 import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
 import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
 import { REVIVAL } from "@/data/affiliates/revival";
+import { BUDGET_PET_CARE } from "@/data/affiliates/budgetpetcare";
 import type { Metadata } from "next";
 
 const POST_SLUG = "when-to-take-dog-to-vet";
@@ -79,7 +80,7 @@ export default function PostPage() {
           These symptoms are concerning but typically not emergencies. Schedule a vet appointment within a few days:
         </p>
         <ul className="list-disc pl-6 space-y-2">
-          <li><strong>Persistent scratching or skin irritation:</strong> Excessive scratching, licking, hot spots, or hair loss could indicate allergies, fleas, or skin infections. Rule out fleas first &mdash; <AffiliateInlineLink partner={REVIVAL} linkKey="fleaTickDog" postSlug={POST_SLUG}>Revival&apos;s flea and tick category</AffiliateInlineLink> stocks the topical and oral preventatives breeders rotate through, and a single dose typically resolves flea-driven scratching within days. If scratching persists after parasite control, it&apos;s an allergy or skin condition worth a vet visit.</li>
+          <li><strong>Persistent scratching or skin irritation:</strong> Excessive scratching, licking, hot spots, or hair loss could indicate allergies, fleas, or skin infections. Rule out fleas first &mdash; <AffiliateInlineLink partner={REVIVAL} linkKey="fleaTickDog" postSlug={POST_SLUG}>Revival&apos;s flea and tick category</AffiliateInlineLink> stocks the topical and oral preventatives breeders rotate through, and a single dose typically resolves flea-driven scratching within days. For brand-name discount alternatives like Frontline, K9 Advantix, or Bravecto, <AffiliateInlineLink partner={BUDGET_PET_CARE} linkKey="frontline" postSlug={POST_SLUG}>Budget Pet Care</AffiliateInlineLink> stocks the same brand-name products at value pricing. If scratching persists after parasite control, it&apos;s an allergy or skin condition worth a vet visit.</li>
           <li><strong>Bad breath or dental issues:</strong> Foul breath, red gums, or difficulty eating suggest dental disease that needs professional attention.</li>
           <li><strong>Ear odor or head shaking:</strong> Smelly ears, frequent head shaking, or scratching at ears points to an ear infection.</li>
           <li><strong>Lumps or bumps:</strong> Any new lump or growth should be evaluated by a vet. Most are benign, but early detection of malignant tumors significantly improves outcomes.</li>

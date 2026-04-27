@@ -5,6 +5,7 @@ import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
 import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
 import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
 import { REVIVAL } from "@/data/affiliates/revival";
+import { BUDGET_PET_CARE } from "@/data/affiliates/budgetpetcare";
 import type { Metadata } from "next";
 
 const POST_SLUG = "is-pet-insurance-worth-it";
@@ -242,7 +243,13 @@ export default function PostPage() {
           for the items you re-order anyway (joint supplements, omega-3s, dental water additives)
           locks in savings without any ongoing effort. Over a 12-year dog ownership window,
           $30-$50 a month in supply savings is $4,300-$7,200 &mdash; comparable to what insurance
-          premiums would have cost.
+          premiums would have cost. For brand-name parasiticides specifically &mdash; Frontline,
+          K9 Advantix, Heartgard, Bravecto, Nexgard &mdash; discount retailers like{" "}
+          <AffiliateInlineLink partner={BUDGET_PET_CARE} linkKey="fleaTickGeneral" postSlug={POST_SLUG}>
+            Budget Pet Care
+          </AffiliateInlineLink>{" "}
+          stock the exact same brand-name products at meaningfully lower prices than clinic or
+          retail pet-store sources.
         </p>
         <p>
           Pair preventive care with smart supply purchasing and a dedicated emergency-vet savings

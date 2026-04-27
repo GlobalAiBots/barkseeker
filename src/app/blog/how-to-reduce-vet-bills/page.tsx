@@ -5,6 +5,7 @@ import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
 import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
 import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
 import { REVIVAL } from "@/data/affiliates/revival";
+import { BUDGET_PET_CARE } from "@/data/affiliates/budgetpetcare";
 import type { Metadata } from "next";
 
 const POST_SLUG = "how-to-reduce-vet-bills";
@@ -74,7 +75,7 @@ export default function PostPage() {
           You are not required to buy medications from your vet. Ask your vet for a written prescription and compare prices at online pet pharmacies like Chewy, PetCareRx, or 1-800-PetMeds. For common medications like heartworm prevention, flea and tick products, and chronic condition medications, online pharmacies often offer significant savings — sometimes 30 to 50 percent less than vet clinic pricing. Costco and Walmart pharmacies also fill some pet prescriptions at lower prices.
         </p>
         <p>
-          For non-prescription supplies that you re-order on a predictable cadence &mdash; joint supplements, dental water additives, ear cleansers, dewormers, multivitamins &mdash; setting up a vet-supply <AffiliateInlineLink partner={REVIVAL} linkKey="autoShip" postSlug={POST_SLUG}>Revival AutoShip subscription</AffiliateInlineLink> locks in 5-15 percent recurring discounts and removes the &quot;forgot to order, paid clinic markup&quot; problem entirely. Over a 10-year dog ownership window, the recurring savings on standard supplies typically run into the thousands.
+          For non-prescription supplies that you re-order on a predictable cadence &mdash; joint supplements, dental water additives, ear cleansers, dewormers, multivitamins &mdash; setting up a vet-supply <AffiliateInlineLink partner={REVIVAL} linkKey="autoShip" postSlug={POST_SLUG}>Revival AutoShip subscription</AffiliateInlineLink> locks in 5-15 percent recurring discounts and removes the &quot;forgot to order, paid clinic markup&quot; problem entirely. Over a 10-year dog ownership window, the recurring savings on standard supplies typically run into the thousands. For brand-name parasiticides specifically &mdash; Frontline, Heartgard, K9 Advantix, Bravecto &mdash; <AffiliateInlineLink partner={BUDGET_PET_CARE} linkKey="fleaTickGeneral" postSlug={POST_SLUG}>Budget Pet Care</AffiliateInlineLink> tends to be dramatically cheaper than clinic markups for the exact same brand-name product.
         </p>
 
         <AdSlot position="middle" />

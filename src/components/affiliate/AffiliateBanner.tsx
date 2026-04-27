@@ -17,7 +17,8 @@ interface Props {
 }
 
 export default function AffiliateBanner({ partner, bannerKey, postSlug, className = "" }: Props) {
-  const banner = partner.banners[bannerKey];
+  const banner = partner.banners?.[bannerKey];
+  if (!banner) return null;
   return (
     <div className={`my-8 flex flex-col items-center gap-1 ${className}`}>
       <a
