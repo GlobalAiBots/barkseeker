@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "do-you-tip-dog-groomer";
 
 export const metadata: Metadata = {
   title: "Do You Tip a Dog Groomer? How Much and When | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Do You Tip a Dog Groomer?</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Do You Tip a Dog Groomer? How Much and When</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 6 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 6 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -63,7 +71,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Tipping Mobile Groomers</h2>
         <p>
-          Mobile groomers deserve tips just like salon groomers — arguably more so. They invest in expensive mobile grooming vans, drive to your location, and provide one-on-one attention in a stress-free environment. The standard 15 to 20 percent applies. Some clients tip mobile groomers on the higher end of the range because of the added convenience and personalized service. Cash tips are usually preferred by mobile groomers, but many now accept tips through payment apps or add-to-card options.
+          Mobile groomers deserve tips just like salon groomers — arguably more so. They invest in expensive mobile grooming vans, drive to your location, and provide one-on-one attention in a stress-free environment. The standard 15 to 20 percent applies. Some clients tip mobile groomers on the higher end of the range because of the added convenience and personalized service. Cash tips are usually preferred by mobile groomers, but many now accept tips through payment apps or add-to-card options. (Curious what working groomers actually use behind the scenes? Most pro shampoos, conditioners, and finishing sprays come from vet-supply sources like <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> &mdash; same products at home prices.)
         </p>
 
         <AdSlot position="middle" />
@@ -87,6 +95,16 @@ export default function PostPage() {
         <p>
           Tipping your dog groomer 15 to 20 percent is the right thing to do, and it makes a real difference in their livelihood. Dog grooming is skilled, physical, sometimes risky work, and groomers deserve to be compensated for their expertise and care. If you are looking for a talented groomer who deserves every penny of that tip, browse our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link> to find top-rated professionals near you.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Building a Between-Visits Grooming Kit"
+          body="A kit of pro-grade brushes, ear cleansers, dog shampoo, and nail tools extends professional grooming intervals and saves money long-term. Revival's $10-off-first-order plus free shipping over $149 makes the first stock-up substantially cheaper."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

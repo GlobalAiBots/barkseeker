@@ -26,6 +26,10 @@ const COVERED_SLUGS = new Set([
   "mobile-dog-grooming-pros-cons",
   "puppy-first-grooming-appointment",
   "how-to-find-good-dog-groomer",
+  // Phase 1 fill — 3 missed grooming posts
+  "do-you-tip-dog-groomer",
+  "dog-grooming-at-home-vs-professional",
+  "how-much-does-dog-grooming-cost",
 ]);
 
 export default function DefaultBlogPostAffiliateFooter() {

@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "dog-grooming-at-home-vs-professional";
 
 export const metadata: Metadata = {
   title: "Dog Grooming at Home vs. Professional: Which Is Right for You? | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Dog Grooming at Home vs. Professional</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Dog Grooming at Home vs. Professional: Which Is Right for You?</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -39,7 +47,7 @@ export default function PostPage() {
           Convenience is another major benefit. You groom on your schedule, not the groomer&apos;s. No driving across town, no drop-off and pick-up logistics, no waiting for appointment availability. For dogs that are anxious about car rides or unfamiliar environments, grooming at home eliminates those stressors entirely. Your dog stays in a familiar, comfortable setting where they feel safe.
         </p>
         <p>
-          Home grooming also gives you complete control over products and techniques. You choose exactly which shampoo, conditioner, and ear cleaner to use. Products from <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-forest font-semibold hover:underline">BabyMyDog</a> are specifically designed for at-home use with gentle, dog-safe ingredients. You can also take as much time as your dog needs — no pressure to finish quickly for the next client.
+          Home grooming also gives you complete control over products and techniques. You choose exactly which shampoo, conditioner, and ear cleaner to use. Products from <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-forest font-semibold hover:underline">BabyMyDog</a> are specifically designed for at-home use with gentle, dog-safe ingredients. For pro-grade formats &mdash; the same gallon-size shampoos and clipper blades professional groomers buy &mdash; <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> stocks them at vet-supply prices, meaningfully cheaper per ounce than retail-bottle alternatives. You can also take as much time as your dog needs — no pressure to finish quickly for the next client.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">The Case for Professional Grooming</h2>
@@ -95,6 +103,16 @@ export default function PostPage() {
         <p>
           If you have a short-coated, low-maintenance breed and are comfortable learning basic grooming skills, at-home grooming can work well and save significant money. If your dog has a complex coat that requires breed-specific cuts, or if you simply prefer to leave it to the experts, professional grooming is worth the investment. For most dog owners, a combination of professional grooming and at-home maintenance provides the best results. Find a skilled groomer in your area through our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link>.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Setting Up an At-Home Grooming Kit? Save $10 on Your First Order"
+          body="A starter kit (clippers, blades, shampoo, conditioner, slicker brush, ear cleanser, nail tools) easily clears Revival's $149 free-shipping threshold. The $10-off-first-order coupon stacks on top &mdash; meaningfully cheaper than building the same kit at a retail pet store."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

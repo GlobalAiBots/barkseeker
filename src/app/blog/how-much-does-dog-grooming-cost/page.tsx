@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "how-much-does-dog-grooming-cost";
 
 export const metadata: Metadata = {
   title: "How Much Does Dog Grooming Cost in 2026? Complete Price Guide | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">How Much Does Dog Grooming Cost?</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How Much Does Dog Grooming Cost in 2026? Complete Price Guide</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -97,7 +105,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">How to Save on Dog Grooming</h2>
         <p>
-          There are several smart ways to keep grooming costs manageable. First, maintain your dog&apos;s coat between appointments with regular brushing — this prevents matting, which always costs extra. Second, book recurring appointments rather than waiting until your dog is overdue. Third, ask about multi-pet discounts if you have more than one dog. Fourth, consider grooming schools where supervised students provide services at a reduced rate. Finally, do basic maintenance like nail trims (<a href="https://www.amazon.com/s?k=dog+nail+clippers&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and ear cleaning (<a href="https://www.amazon.com/s?k=dog+ear+cleaner&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) at home and reserve professional visits for baths and haircuts.
+          There are several smart ways to keep grooming costs manageable. First, maintain your dog&apos;s coat between appointments with regular brushing — this prevents matting, which always costs extra. Second, book recurring appointments rather than waiting until your dog is overdue. Third, ask about multi-pet discounts if you have more than one dog. Fourth, consider grooming schools where supervised students provide services at a reduced rate. Finally, do basic maintenance like nail trims (<a href="https://www.amazon.com/s?k=dog+nail+clippers&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and ear cleaning (<a href="https://www.amazon.com/s?k=dog+ear+cleaner&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) at home and reserve professional visits for baths and haircuts. For owners building a serious between-visits grooming kit, professional-grade shampoos and clipper blades from <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> are typically 20-40 percent cheaper than retail bottles for the same formats working salons buy.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Finding the Right Groomer at the Right Price</h2>
@@ -107,6 +115,16 @@ export default function PostPage() {
         <p>
           Ready to find a trusted groomer near you? Browse our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link> to compare local options, read reviews, and book an appointment for your pup.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="freeShipping"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Cut Recurring Grooming Costs With Free Shipping Over $149"
+          body="A 6-month bulk order of pro shampoo, conditioner, ear cleansers, and nail tools clears Revival's $149 free-shipping threshold in a single order &mdash; meaningfully cheaper per ounce than buying retail bottles throughout the year."
+          ctaLabel="Shop Revival Free Shipping"
+        />
       </div>
       <BlogCletusCallout />
     </article>
