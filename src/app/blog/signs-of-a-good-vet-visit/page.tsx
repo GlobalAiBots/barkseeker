@@ -1,5 +1,11 @@
 import Link from "next/link";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "signs-of-a-good-vet-visit";
 
 const TITLE = "7 Signs You've Found a Great Veterinarian (2026)";
 const DESC = "What a good vet looks like in practice: clear explanations, tiered treatment options, transparent pricing, and the red flags that mean it's time to switch clinics.";
@@ -30,7 +36,9 @@ export default function Post() {
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2"><Link href="/" className="hover:text-forest transition">Home</Link><span>/</span><Link href="/blog" className="hover:text-forest transition">Blog</Link><span>/</span><span className="text-charcoal font-medium">Signs of a Good Vet</span></nav>
 
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-3 leading-tight">{TITLE}</h1>
-      <p className="text-gray-400 text-sm mb-8">Updated April 21, 2026 &middot; 7 min read</p>
+      <p className="text-gray-400 text-sm mb-4">Updated April 21, 2026 &middot; 7 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>You&apos;re going to visit this person 10-20 times over your dog&apos;s life. You&apos;ll get pricing news, diagnostic news, and eventually end-of-life news from them. A good vet makes the whole experience less stressful for your dog and less confusing for you; a bad one makes both worse.</p>
@@ -68,6 +76,7 @@ export default function Post() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">7. Has Clear Emergency Protocols</h2>
         <p>Ask your regular vet: &quot;If something happens Saturday night, where should I go?&quot; A good vet answers immediately with a specific 24-hour emergency clinic they refer to, usually with a relationship where that clinic sends records back to them.</p>
         <p>Red flag: shrugging answer, or a vague &quot;call the number when we&apos;re closed.&quot; Means they haven&apos;t thought about after-hours care for their patients.</p>
+        <p>One bonus signal of a good vet: they keep your dog&apos;s vaccine schedule current without upselling unnecessary boosters, and they don&apos;t gatekeep records or push expensive in-house vaccines when alternatives exist. Breeders raising multiple litters often source vaccines directly through <AffiliateInlineLink partner={REVIVAL} linkKey="vaccinesDog" postSlug={POST_SLUG}>Revival Animal Health&apos;s vet-grade vaccine catalog</AffiliateInlineLink> for in-kennel administration; a good general-practice vet recognizes that&apos;s a legitimate option for breeders and works with you on a coordinated schedule rather than insisting on clinic-only sourcing.</p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Red Flags: When to Switch Clinics</h2>
         <ul className="list-disc pl-6 space-y-2">
@@ -106,6 +115,16 @@ export default function Post() {
           <li><Link href="/blog/emergency-vet-vs-regular-vet" className="text-forest hover:underline">Emergency Vet vs Regular Vet</Link></li>
           <li><Link href="/vets" className="text-forest hover:underline">Browse veterinarians by state</Link></li>
         </ul>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="freeShipping"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Stock Vaccine-Adjacent Supplies — Free Shipping at Revival Over $149"
+          body="A good vet partnership covers the diagnostic and treatment side. For the at-home cabinet — vaccine record holders, syringes for breeders, immune-support vitamins, parasite preventatives — Revival ships free on orders over $149, which a typical 6-month preventive bundle clears in a single order."
+          ctaLabel="Shop Revival with Free Shipping"
+        />
       </div>
     </article>
   );

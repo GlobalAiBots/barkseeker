@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "how-often-should-you-groom-your-dog";
 
 export const metadata: Metadata = {
   title: "How Often Should You Groom Your Dog? Frequency Guide by Coat Type | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">How Often Should You Groom Your Dog?</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How Often Should You Groom Your Dog? Frequency Guide by Coat Type</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 7 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 7 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -81,11 +89,21 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Building a Grooming Schedule That Works</h2>
         <p>
-          The best approach is to set up a recurring grooming schedule with a trusted professional groomer. Most groomers will help you determine the ideal frequency based on your dog&apos;s specific breed and coat condition. Between visits, stick to a consistent home brushing routine and address nails, ears, and teeth on a regular basis. Consistency is the key — it&apos;s far easier and less expensive to maintain a well-groomed coat than to repair a neglected one.
+          The best approach is to set up a recurring grooming schedule with a trusted professional groomer. Most groomers will help you determine the ideal frequency based on your dog&apos;s specific breed and coat condition. Between visits, stick to a consistent home brushing routine and address nails, ears, and teeth on a regular basis. Consistency is the key — it&apos;s far easier and less expensive to maintain a well-groomed coat than to repair a neglected one. For at-home shampoos, conditioners, ear cleansers, and dental supplies that working salons actually buy, <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> sells the same gallon-size pro formats at vet-supply prices.
         </p>
         <p>
           Ready to find a groomer who can help you build the perfect grooming schedule? Browse our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link> to find experienced professionals near you.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Building a Home Grooming Kit at Vet-Supply Prices"
+          body="A complete between-visit kit — slicker brush, undercoat rake, ear cleanser, dental wipes, dog-safe shampoo, nail clippers — runs over $100 in retail bottles. Revival's $10-off-first-order plus free shipping over $149 makes the first stock-up substantially cheaper, and the formats are pro grade."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

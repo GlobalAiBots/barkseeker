@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "when-to-take-dog-to-vet";
 
 export const metadata: Metadata = {
   title: "When to Take Your Dog to the Vet: Warning Signs You Shouldn't Ignore | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">When to Take Your Dog to the Vet</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">When to Take Your Dog to the Vet: Warning Signs You Should Not Ignore</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -71,7 +79,7 @@ export default function PostPage() {
           These symptoms are concerning but typically not emergencies. Schedule a vet appointment within a few days:
         </p>
         <ul className="list-disc pl-6 space-y-2">
-          <li><strong>Persistent scratching or skin irritation:</strong> Excessive scratching, licking, hot spots, or hair loss could indicate allergies, fleas, or skin infections.</li>
+          <li><strong>Persistent scratching or skin irritation:</strong> Excessive scratching, licking, hot spots, or hair loss could indicate allergies, fleas, or skin infections. Rule out fleas first &mdash; <AffiliateInlineLink partner={REVIVAL} linkKey="fleaTickDog" postSlug={POST_SLUG}>Revival&apos;s flea and tick category</AffiliateInlineLink> stocks the topical and oral preventatives breeders rotate through, and a single dose typically resolves flea-driven scratching within days. If scratching persists after parasite control, it&apos;s an allergy or skin condition worth a vet visit.</li>
           <li><strong>Bad breath or dental issues:</strong> Foul breath, red gums, or difficulty eating suggest dental disease that needs professional attention.</li>
           <li><strong>Ear odor or head shaking:</strong> Smelly ears, frequent head shaking, or scratching at ears points to an ear infection.</li>
           <li><strong>Lumps or bumps:</strong> Any new lump or growth should be evaluated by a vet. Most are benign, but early detection of malignant tumors significantly improves outcomes.</li>
@@ -81,7 +89,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Routine Vet Visits: The Prevention Schedule</h2>
         <p>
-          Beyond responding to symptoms, every dog needs regular preventive care visits. Healthy adult dogs should see the vet at least once a year for a wellness exam, vaccinations, heartworm test, and parasite check. Puppies under one year need visits every three to four weeks for their vaccination series. Senior dogs over seven years should have checkups every six months, as age-related conditions can develop quickly. These routine visits catch problems early when they are cheaper and easier to treat.
+          Beyond responding to symptoms, every dog needs regular preventive care visits. Healthy adult dogs should see the vet at least once a year for a wellness exam, vaccinations, heartworm test, and parasite check. Puppies under one year need visits every three to four weeks for their vaccination series. Senior dogs over seven years should have checkups every six months, as age-related conditions can develop quickly. These routine visits catch problems early when they are cheaper and easier to treat. Between visits, a daily multivitamin from a vet-supply source like <AffiliateInlineLink partner={REVIVAL} linkKey="vitaminsGeneral" postSlug={POST_SLUG}>Revival Animal Health</AffiliateInlineLink> keeps baseline immune function up &mdash; not a replacement for vet care, but a meaningful complement.
         </p>
 
         <div className="bg-green-50 border-l-4 border-forest p-4 rounded-r-lg">
@@ -97,6 +105,16 @@ export default function PostPage() {
         <Link href="/pet-insurance" className="inline-block mt-4 px-6 py-3 rounded-lg font-semibold text-white transition" style={{ backgroundColor: "#E8913A" }}>
           Explore Pet Insurance Options
         </Link>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Skip the Clinic Markup on Recurring Supplies"
+          body="A lot of warning-sign symptoms (mild scratching, soft stools, dull coat) trace back to inadequate parasite prevention or nutrient gaps that proper supplements address. Revival's $10-off-first-order is a low-friction way to start a preventive routine without paying clinic-counter prices."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

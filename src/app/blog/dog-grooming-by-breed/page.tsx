@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "dog-grooming-by-breed";
 
 export const metadata: Metadata = {
   title: "Dog Grooming by Breed: Top 20 Breeds and Their Grooming Needs | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Dog Grooming by Breed</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Dog Grooming by Breed: Top 20 Breeds and Their Grooming Needs</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 10 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 10 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -91,8 +99,18 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Find a Breed-Experienced Groomer</h2>
         <p>
-          Every breed benefits from a groomer who understands their specific coat type and grooming standards. When choosing a groomer, ask if they have experience with your breed. Browse our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link> to find professionals near you who specialize in your dog&apos;s breed and coat type.
+          Every breed benefits from a groomer who understands their specific coat type and grooming standards. When choosing a groomer, ask if they have experience with your breed. Browse our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link> to find professionals near you who specialize in your dog&apos;s breed and coat type. For owners building out their own home grooming kit, professional-grade clipper blades, shampoos by coat type, and de-shedding tools are available at vet-supply prices through <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> &mdash; the same lineup working salons typically order from.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Building a Breed-Specific Grooming Kit"
+          body="Different breeds need meaningfully different tools — slicker brushes for double coats, dematting combs for doodles, hand-stripping tools for wires. A starter kit for a high-maintenance breed easily clears Revival's $149 free-shipping threshold, and the $10-off-first-order coupon stacks on top."
+          ctaLabel="Claim $10 Off + Free Shipping"
+        />
       </div>
       <BlogCletusCallout />
     </article>

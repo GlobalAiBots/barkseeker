@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "how-to-find-good-veterinarian";
 
 export const metadata: Metadata = {
   title: "How to Find a Good Veterinarian: Questions, Red Flags, and AAHA Accreditation | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">How to Find a Good Veterinarian</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How to Find a Good Veterinarian: Questions, Red Flags, and AAHA Accreditation</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -94,12 +102,22 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Find Your Vet Today</h2>
         <p>
-          Do not wait until your dog is sick to find a great vet. Start your search now and establish care while your dog is healthy. Browse our <Link href="/vets" className="text-forest font-semibold hover:underline">vet directory</Link> to find highly rated veterinarians in your area, and protect your pet&apos;s health with <Link href="/pet-insurance" className="text-forest font-semibold hover:underline">pet insurance</Link> that covers unexpected veterinary expenses.
+          Do not wait until your dog is sick to find a great vet. Start your search now and establish care while your dog is healthy. Browse our <Link href="/vets" className="text-forest font-semibold hover:underline">vet directory</Link> to find highly rated veterinarians in your area, and protect your pet&apos;s health with <Link href="/pet-insurance" className="text-forest font-semibold hover:underline">pet insurance</Link> that covers unexpected veterinary expenses. Between visits, baseline supplements and preventive supplies from a vet-supply source like <AffiliateInlineLink partner={REVIVAL} linkKey="vitaminsGeneral" postSlug={POST_SLUG}>Revival Animal Health</AffiliateInlineLink> are typically meaningfully cheaper than buying the same items at clinic prices.
         </p>
 
         <Link href="/pet-insurance" className="inline-block mt-4 px-6 py-3 rounded-lg font-semibold text-white transition" style={{ backgroundColor: "#E8913A" }}>
           Compare Pet Insurance Plans
         </Link>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Stocking the In-Between-Visits Cabinet"
+          body="A great vet handles the diagnostic and treatment side. Routine supplies — joint care, dental, parasite prevention, multivitamins — are cheaper sourced directly from a vet-supply company than from clinic markups. Revival's $10-off-first-order makes the first stock-up substantially cheaper."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

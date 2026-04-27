@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "emergency-vet-vs-regular-vet";
 
 export const metadata: Metadata = {
   title: "Emergency Vet vs. Regular Vet: When to Go to the ER and What to Expect | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Emergency Vet vs. Regular Vet</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Emergency Vet vs. Regular Vet: When to Go to the ER and What to Expect</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -113,12 +121,22 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">How Pet Insurance Helps with Emergency Costs</h2>
         <p>
-          Emergency vet bills are the number one reason pet owners wish they had insurance. A single emergency surgery can cost more than a decade of pet insurance premiums. Most accident-and-illness pet insurance plans cover emergency vet visits, diagnostics, surgery, hospitalization, and medications with 70 to 90 percent reimbursement after your deductible. If you do not have pet insurance yet, consider enrolling before an emergency strikes — once a condition occurs, it becomes a pre-existing condition that will not be covered.
+          Emergency vet bills are the number one reason pet owners wish they had insurance. A single emergency surgery can cost more than a decade of pet insurance premiums. Most accident-and-illness pet insurance plans cover emergency vet visits, diagnostics, surgery, hospitalization, and medications with 70 to 90 percent reimbursement after your deductible. If you do not have pet insurance yet, consider enrolling before an emergency strikes — once a condition occurs, it becomes a pre-existing condition that will not be covered. On the prevention side, daily multivitamins and immune-support supplements from a vet-supply source like <AffiliateInlineLink partner={REVIVAL} linkKey="vitaminsGeneral" postSlug={POST_SLUG}>Revival Animal Health</AffiliateInlineLink> reduce the conditions that drive a chunk of emergency visits in the first place &mdash; the cheapest emergency is the one that doesn&apos;t happen.
         </p>
 
         <Link href="/pet-insurance" className="inline-block mt-4 px-6 py-3 rounded-lg font-semibold text-white transition" style={{ backgroundColor: "#E8913A" }}>
           Get Pet Insurance Before an Emergency
         </Link>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Save Money Between Emergencies"
+          body="Most pet owners only think about vet costs when something's wrong. The smarter pattern is staying ahead of preventable conditions with vet-grade supplements, parasite prevention, and routine supplies at vet-supply prices. Revival's $10-off-first-order is a low-friction starting point, with free shipping over $149."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

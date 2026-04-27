@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "dog-grooming-for-anxious-dogs";
 
 export const metadata: Metadata = {
   title: "Dog Grooming for Anxious Dogs: Tips to Keep Nervous Pups Calm | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Dog Grooming for Anxious Dogs</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Dog Grooming for Anxious Dogs: Tips to Keep Nervous Pups Calm</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -68,7 +76,7 @@ export default function PostPage() {
           Several calming products can take the edge off grooming anxiety when used alongside desensitization training:
         </p>
         <ul className="list-disc pl-6 space-y-2">
-          <li><strong>Calming treats and supplements:</strong> Products containing L-theanine, chamomile, valerian root, or CBD (<a href="https://www.amazon.com/s?k=calming+treats+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can help reduce mild to moderate anxiety. Give these 30 to 60 minutes before grooming.</li>
+          <li><strong>Calming treats and supplements:</strong> Products containing L-theanine, chamomile, valerian root, or CBD (<a href="https://www.amazon.com/s?k=calming+treats+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can help reduce mild to moderate anxiety. Give these 30 to 60 minutes before grooming. For owners managing chronic anxiety beyond just grooming days, vet-grade calming supplements and B-vitamin behavior-support formulas are available through <AffiliateInlineLink partner={REVIVAL} linkKey="vitaminsGeneral" postSlug={POST_SLUG}>Revival Animal Health</AffiliateInlineLink> at meaningfully lower per-dose cost than retail calming chews.</li>
           <li><strong>Calming sprays and diffusers:</strong> Adaptil (DAP) is a synthetic pheromone that mimics the calming pheromone mother dogs produce. It comes as a spray, collar, or plug-in diffuser (<a href="https://www.amazon.com/s?k=adaptil+diffuser+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>).</li>
           <li><strong>Thundershirt or anxiety wrap:</strong> The gentle, constant pressure (<a href="https://www.amazon.com/s?k=thundershirt+for+dogs&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can help some dogs feel more secure during grooming.</li>
           <li><strong>Calming music:</strong> Studies show that classical music and specific frequency patterns can reduce stress in dogs.</li>
@@ -98,6 +106,16 @@ export default function PostPage() {
         <p>
           If your dog&apos;s grooming anxiety is severe — biting, uncontrollable shaking, screaming, or self-injury — it is time to involve professionals beyond just a groomer. A certified veterinary behaviorist or a certified professional dog trainer specializing in anxiety can develop a customized behavior modification plan. Your <Link href="/vets" className="text-forest font-semibold hover:underline">veterinarian</Link> should be your first call to rule out any pain-related causes and discuss medication options. Meanwhile, find a patient, experienced groomer through our <Link href="/groomers" className="text-forest font-semibold hover:underline">groomer directory</Link> who can work as part of your dog&apos;s care team.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="evergreen"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Browse Vet-Grade Calming and Grooming Supplies"
+          body="Revival Animal Health has supplied breeders, shelters, and behavior-rehab kennels with vet-grade calming supplements and gentle grooming products since 1987. Worth a slow browse if you're building out a low-stress grooming routine and want what working professionals actually use."
+          ctaLabel="Visit Revival"
+        />
       </div>
       <BlogCletusCallout />
     </article>

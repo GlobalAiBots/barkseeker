@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "how-much-does-vet-visit-cost";
 
 export const metadata: Metadata = {
   title: "How Much Does a Vet Visit Cost in 2026? Complete Pricing Guide | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">How Much Does a Vet Visit Cost?</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How Much Does a Vet Visit Cost in 2026? Complete Pricing Guide</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 9 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 9 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -85,6 +93,9 @@ export default function PostPage() {
         <p>
           There are practical strategies to keep vet costs manageable without compromising your dog&apos;s care. Preventive care is the most important — keeping up with vaccinations, parasite prevention, and dental care prevents expensive problems down the road. Pet insurance can protect you from catastrophic bills for accidents and major illnesses. Wellness plans offered by many vet clinics spread routine care costs into affordable monthly payments. And do not be afraid to ask your vet for a cost estimate before procedures — a good vet will be transparent about pricing and help you understand your options.
         </p>
+        <p>
+          One under-used cost lever: stop paying clinic markup for items you re-order on a predictable cadence. Joint supplements, dental chews, ear cleansers, dewormers, and multivitamins are all cheaper through a vet-supply <AffiliateInlineLink partner={REVIVAL} linkKey="autoShip" postSlug={POST_SLUG}>Revival AutoShip subscription</AffiliateInlineLink> than buying them piecemeal at the clinic counter &mdash; typically 20-40 percent cheaper, plus 5-15 percent recurring discount layered on top. Over a 10-year ownership window the recurring savings frequently run into the thousands.
+        </p>
 
         <div className="bg-green-50 border-l-4 border-forest p-4 rounded-r-lg">
           <p className="font-semibold text-charcoal mb-1">Pet Insurance Can Save Thousands</p>
@@ -99,6 +110,16 @@ export default function PostPage() {
         <p>
           Veterinary care is not something you can skip or delay without consequences. Budget for routine wellness visits, build an emergency fund, and seriously consider pet insurance — especially when your dog is young and healthy. Find a trusted veterinarian through our <Link href="/vets" className="text-forest font-semibold hover:underline">vet directory</Link> and establish a relationship before you need urgent care.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="freeShipping"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Cut Annual Costs With Free-Shipping Bulk Orders"
+          body="A typical 6-month preventive bundle (joint supplements, dental, parasite prevention, multivitamins, ear cleanser) clears Revival's $149 free-shipping threshold in a single order — meaningfully cheaper per ounce than buying smaller quantities at clinic prices throughout the year."
+          ctaLabel="Shop Revival Free Shipping"
+        />
       </div>
       <BlogCletusCallout />
     </article>
