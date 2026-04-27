@@ -1,7 +1,12 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "how-to-find-good-dog-groomer";
 
 export const metadata: Metadata = {
   title: "How to Find a Good Dog Groomer: Red Flags and Green Flags | BarkSeeker",
@@ -22,11 +27,13 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">How to Find a Good Dog Groomer</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How to Find a Good Dog Groomer: Red Flags and Green Flags</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
-          Finding the right dog groomer is a big deal. You are trusting someone with your dog&apos;s safety, comfort, and appearance, often for several hours at a time. A great groomer can make grooming a positive experience your dog actually enjoys. A bad one can traumatize your dog and even cause injuries. Here is how to separate the excellent groomers from the ones you should avoid.
+          Finding the right dog groomer is a big deal. You are trusting someone with your dog&apos;s safety, comfort, and appearance, often for several hours at a time. A great groomer can make grooming a positive experience your dog actually enjoys. A bad one can traumatize your dog and even cause injuries. Here is how to separate the excellent groomers from the ones you should avoid &mdash; plus the at-home maintenance tools (slicker brushes, ear cleansers, dog-safe shampoos) that extend your professional grooming intervals, available at vet-supply prices through <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink>.
         </p>
 
         <AdSlot position="top" />

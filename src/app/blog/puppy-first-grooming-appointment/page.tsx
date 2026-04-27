@@ -1,7 +1,12 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "puppy-first-grooming-appointment";
 
 export const metadata: Metadata = {
   title: "Puppy's First Grooming Appointment: When to Start and What to Expect | BarkSeeker",
@@ -22,11 +27,13 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Puppy&apos;s First Grooming Appointment</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Puppy&apos;s First Grooming Appointment: When to Start and What to Expect</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 7 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 7 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
-          Your puppy&apos;s first grooming appointment is a milestone — and getting it right sets the tone for a lifetime of positive grooming experiences. Start too early and your puppy may not be protected by vaccines. Start too late and grooming becomes a stressful, unfamiliar experience. This guide covers exactly when to schedule that first visit, how to prepare at home, and what the appointment will actually involve.
+          Your puppy&apos;s first grooming appointment is a milestone — and getting it right sets the tone for a lifetime of positive grooming experiences. Start too early and your puppy may not be protected by vaccines. Start too late and grooming becomes a stressful, unfamiliar experience. This guide covers exactly when to schedule that first visit, how to prepare at home, and what the appointment will actually involve. For at-home prep supplies — puppy-safe shampoos, soft slicker brushes, gentle ear cleansers — <AffiliateInlineLink partner={REVIVAL} linkKey="puppyNeeds" postSlug={POST_SLUG}>Revival Animal Health&apos;s puppy section</AffiliateInlineLink> stocks the breeder-grade items at vet-supply prices.
         </p>
 
         <AdSlot position="top" />
@@ -46,7 +53,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">How to Prepare Your Puppy at Home</h2>
         <p>
-          You can dramatically improve your puppy&apos;s first grooming experience by doing some gentle preparation at home in the weeks leading up to the appointment. Start by handling your puppy&apos;s paws daily — touch each toe, press gently on the pads, and separate the toes as a groomer would when trimming nails. Handle your puppy&apos;s ears by gently lifting the flaps and touching around the ear canal. Touch and lift your puppy&apos;s lips to look at their teeth. Run your hands along their body, legs, tail, and belly so they become comfortable with being touched everywhere.
+          You can dramatically improve your puppy&apos;s first grooming experience by doing some gentle preparation at home in the weeks leading up to the appointment. Start by handling your puppy&apos;s paws daily — touch each toe, press gently on the pads, and separate the toes as a groomer would when trimming nails. Handle your puppy&apos;s ears by gently lifting the flaps and touching around the ear canal. Touch and lift your puppy&apos;s lips to look at their teeth. Run your hands along their body, legs, tail, and belly so they become comfortable with being touched everywhere. A soft slicker brush and gentle puppy shampoo are useful for desensitization sessions; both are stocked at vet-supply prices in <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival&apos;s grooming category</AffiliateInlineLink>.
         </p>
         <p>
           Introduce a soft brush (<a href="https://www.amazon.com/s?k=soft+brush+for+puppies&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) at home and practice gentle, short brushing sessions of just a few minutes. Reward your puppy with treats throughout to build a positive connection. You can also play recordings of clipper and dryer sounds at low volume during treat time to familiarize your puppy with these noises before encountering them at the salon.

@@ -1,5 +1,10 @@
 import Link from "next/link";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "mobile-dog-grooming-pros-cons";
 
 export const metadata: Metadata = {
   title: "Mobile Dog Grooming: Pros, Cons, and Whether It's Worth the Price | BarkSeeker",
@@ -20,11 +25,13 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Mobile Dog Grooming: Pros, Cons, and Whether It&apos;s Worth the Price</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Mobile Dog Grooming: Pros, Cons, and Whether It&apos;s Worth the Price</h1>
-      <p className="text-gray-400 text-sm mb-8">April 20, 2026 &middot; 7 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 20, 2026 &middot; 7 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
-          Mobile grooming has gone from a niche luxury to something most cities have a dozen options for. If you&apos;ve typed &quot;mobile grooming near me&quot; into your phone lately, you know the price tag can be eye-watering. So is it actually worth the premium, or is it just convenience marketing? Here&apos;s the honest version — what mobile grooming does well, what it doesn&apos;t, and who should actually pay for it.
+          Mobile grooming has gone from a niche luxury to something most cities have a dozen options for. If you&apos;ve typed &quot;mobile grooming near me&quot; into your phone lately, you know the price tag can be eye-watering. So is it actually worth the premium, or is it just convenience marketing? Here&apos;s the honest version — what mobile grooming does well, what it doesn&apos;t, and who should actually pay for it. (For owners going the other direction and grooming at home instead, professional-grade shampoos and clipper blades are available at vet-supply prices through <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink>.)
         </p>
 
         <h2 className="text-2xl font-bold text-charcoal mt-10 mb-4 font-[Cabin]">What Mobile Grooming Actually Is</h2>

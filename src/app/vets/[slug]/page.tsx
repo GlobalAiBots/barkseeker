@@ -6,6 +6,8 @@ import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import { getRelatedVetBlog } from "@/lib/related-blogs";
 import AdSlot from "@/components/AdSlot";
+import CompactSupplierCallout from "@/components/affiliate/CompactSupplierCallout";
+import { REVIVAL } from "@/data/affiliates/revival";
 import nearbyVetsData from "@/data/nearby-vets.json";
 import type { Metadata } from "next";
 
@@ -312,6 +314,15 @@ function ListingPage({ slug }: { slug: string }) {
         <p className="text-gray-600 text-sm mb-4 max-w-lg">Unexpected vet bills add up fast. Pet insurance covers emergencies, surgeries, and medications.</p>
         <Link href="/pet-insurance" className="inline-block bg-bark hover:bg-bark-dark text-white font-bold text-sm px-6 py-3 rounded-lg transition">Compare Plans &rarr;</Link>
       </div>
+
+      <CompactSupplierCallout
+        partner={REVIVAL}
+        linkKey="evergreen"
+        context="vet-listing"
+        heading="Need supplies between visits?"
+        body="Vet-grade vitamins, supplements, dental care, and parasite prevention at wholesale prices."
+        ctaLabel="Browse Revival"
+      />
 
       {(() => {
         const tease = getRelatedVetBlog(vet);

@@ -1,3 +1,5 @@
+import CompactSupplierCallout from "@/components/affiliate/CompactSupplierCallout";
+import { REVIVAL } from "@/data/affiliates/revival";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
@@ -262,6 +264,15 @@ function ListingPage({ slug }: { slug: string }) {
           <Link href={`/groomers/${ss}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-forest hover:border-forest transition">Dog Groomers in {sn}</Link>
         </div>
       </div>
+
+      <CompactSupplierCallout
+        partner={REVIVAL}
+        linkKey="grooming"
+        context="groomer-listing"
+        heading="Pro grooming products at home"
+        body="The same shampoos, clipper blades, and tools professional groomers use, at vet-supply prices."
+        ctaLabel="Browse Revival"
+      />
 
       <section className="my-8 rounded-2xl border-2 border-amber-300 bg-amber-50 p-6">
         <div className="flex items-start gap-4">

@@ -5,6 +5,8 @@ import Link from "next/link";
 import { allVets, stateNames, stateSlugs } from "@/data/all-vets";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
+import PartnerCard from "@/components/affiliate/PartnerCard";
+import { REVIVAL } from "@/data/affiliates/revival";
 
 const stateList = Object.entries(stateSlugs)
   .map(([abbr, slug]) => ({ abbr, slug, name: stateNames[abbr] || abbr }))
@@ -144,6 +146,25 @@ export default function VetsDirectoryPage() {
             <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-forest transition mb-1">Find Dog Parks</h3>
             <p className="text-gray-400 text-sm">Explore off-leash dog parks across the country.</p>
           </Link>
+        </div>
+
+        {/* Recommended Partners */}
+        <div className="mb-10">
+          <div className="mb-4">
+            <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Recommended Partners</h2>
+            <p className="text-gray-500 text-sm mt-1">Trusted suppliers we use ourselves and recommend to fellow dog owners.</p>
+          </div>
+          <PartnerCard
+            partner={REVIVAL}
+            tagline="Vet-Grade Pet Supplies"
+            description="From joint supplements to vaccines and dental care — Revival has the supplies your vet trusts, delivered to you. Free shipping on orders over $149, plus $10 off for first-time customers."
+            primary={{ label: "Browse Vet Supplies", linkKey: "vaccinesDog" }}
+            secondary={{ label: "Get $10 Off First Order", linkKey: "discount10Off" }}
+          />
+          <p className="text-xs text-gray-400 italic mt-2">
+            Affiliate disclosure: links above are sponsored. We may earn a commission at no extra cost to you.{" "}
+            <Link href="/disclosure" className="underline hover:text-bark">Learn more</Link>.
+          </p>
         </div>
       </section>
 

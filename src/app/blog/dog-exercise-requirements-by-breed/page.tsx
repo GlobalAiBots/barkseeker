@@ -1,6 +1,11 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "dog-exercise-requirements-by-breed";
 
 export const metadata: Metadata = {
   title: "How Much Exercise Does Your Dog Need? A Guide by Breed | BarkSeeker",
@@ -27,7 +32,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Exercise by Breed</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How Much Exercise Does Your Dog Need? A Guide by Breed</h1>
-      <p className="text-gray-400 text-sm mb-8">April 11, 2026 &middot; 7 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 11, 2026 &middot; 7 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -39,7 +46,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Why Exercise Matters</h2>
         <p>
-          Regular exercise does far more than keep your dog physically fit. It prevents obesity, reduces the risk of heart disease and joint problems, and strengthens muscles and bones. But the mental benefits are just as important. A well-exercised dog is a calmer, happier dog. Most destructive behaviors &mdash; excessive barking, chewing, digging, and hyperactivity &mdash; are directly linked to pent-up energy. Dogs that get adequate daily exercise are easier to train, sleep better at night, and are generally more pleasant to live with. Before worrying about behavioral issues, make sure your dog is getting enough physical activity. You might be surprised how many problems disappear once they do.
+          Regular exercise does far more than keep your dog physically fit. It prevents obesity, reduces the risk of heart disease and joint problems, and strengthens muscles and bones. But the mental benefits are just as important. A well-exercised dog is a calmer, happier dog. Most destructive behaviors &mdash; excessive barking, chewing, digging, and hyperactivity &mdash; are directly linked to pent-up energy. Dogs that get adequate daily exercise are easier to train, sleep better at night, and are generally more pleasant to live with. Before worrying about behavioral issues, make sure your dog is getting enough physical activity. You might be surprised how many problems disappear once they do. For high-mileage dogs whose joints take a lot of wear, a daily glucosamine and chondroitin supplement from <AffiliateInlineLink partner={REVIVAL} linkKey="jointCare" postSlug={POST_SLUG}>Revival Animal Health&apos;s joint care line</AffiliateInlineLink> is the standard preventive layer most veterinary orthopedic specialists recommend &mdash; cheaper than retail clinic prices and the formulations breeders have used for decades.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">High-Energy Breeds (60&ndash;120+ Minutes Per Day)</h2>
