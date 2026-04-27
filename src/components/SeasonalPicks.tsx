@@ -1,5 +1,15 @@
-type Product = { name: string; desc: string; q: string };
+"use client";
+
+import { REVIVAL, type RevivalLinkKey } from "@/data/affiliates/revival";
+
+type Product = { name: string; desc: string; q: string; revivalKey?: RevivalLinkKey };
 type Season = { label: string; emoji: string; headline: string; items: Product[] };
+
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void;
+  }
+}
 
 const AFFILIATE_TAG = "babymydog03-20";
 const amazonSearch = (q: string) => `https://www.amazon.com/s?k=${encodeURIComponent(q)}&tag=${AFFILIATE_TAG}`;
@@ -11,7 +21,7 @@ const SEASONS: Record<"spring" | "summer" | "fall" | "winter", Season> = {
     headline: "Shedding season + tick and allergy prep",
     items: [
       { name: "Undercoat Deshedding Tool", desc: "Double-coated breeds blow their coat in spring. A Furminator-style tool removes loose undercoat in minutes.", q: "furminator deshedding tool dog" },
-      { name: "Tick Prevention (Topical)", desc: "Tick season starts earlier every year. Monthly topical protection before the first warm weekend.", q: "frontline plus dog flea tick" },
+      { name: "Tick Prevention (Topical)", desc: "Tick season starts earlier every year. Monthly topical protection before the first warm weekend. Revival's AutoShip ensures you never run out.", q: "frontline plus dog flea tick", revivalKey: "autoShip" },
       { name: "Paw Wipes", desc: "Allergies kick in with the pollen. Wipe paws after every walk to cut itching and hotspots.", q: "dog paw wipes natural" },
     ],
   },
@@ -30,7 +40,7 @@ const SEASONS: Record<"spring" | "summer" | "fall" | "winter", Season> = {
     emoji: "\u{1F342}",
     headline: "Joint support and senior-dog comfort",
     items: [
-      { name: "Joint Supplement (Glucosamine)", desc: "Cool, damp weather stiffens older joints. Start glucosamine in fall for a full ramp-up by winter.", q: "dog joint supplement glucosamine" },
+      { name: "Joint Supplement (Glucosamine)", desc: "Cool, damp weather stiffens older joints. Start glucosamine in fall for a full ramp-up by winter. Revival's vet-grade joint formulas on AutoShip take the guesswork out.", q: "dog joint supplement glucosamine", revivalKey: "jointCare" },
       { name: "Orthopedic Dog Bed", desc: "Memory foam supports hips and elbows. Makes a night-and-day difference for seniors.", q: "orthopedic dog bed memory foam large" },
       { name: "Reflective Leash / LED Collar", desc: "Shorter days mean more walks in low light. Reflective gear makes you visible to drivers.", q: "led dog collar rechargeable" },
     ],
@@ -55,6 +65,17 @@ function getSeason(): keyof typeof SEASONS {
   return "winter";
 }
 
+function trackRevivalClick(revivalKey: RevivalLinkKey) {
+  if (typeof window !== "undefined" && window.gtag) {
+    window.gtag("event", "affiliate_click", {
+      partner: REVIVAL.id,
+      link_type: "seasonal_picks_card",
+      post_slug: "homepage_seasonal_picks",
+      destination: revivalKey,
+    });
+  }
+}
+
 export default function SeasonalPicks() {
   const season = SEASONS[getSeason()];
 
@@ -70,14 +91,26 @@ export default function SeasonalPicks() {
           <div key={item.name} className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm flex flex-col">
             <p className="font-bold text-charcoal text-sm">{item.name}</p>
             <p className="text-gray-500 text-xs mt-1 leading-relaxed flex-1">{item.desc}</p>
-            <a
-              href={amazonSearch(item.q)}
-              target="_blank"
-              rel="noopener noreferrer nofollow sponsored"
-              className="inline-block mt-3 text-xs font-semibold text-forest hover:text-forest-dark transition"
-            >
-              &#9733; Our Pick &mdash; View on Amazon
-            </a>
+            {item.revivalKey ? (
+              <a
+                href={REVIVAL.links[item.revivalKey]}
+                target="_blank"
+                rel="sponsored noopener noreferrer"
+                onClick={() => trackRevivalClick(item.revivalKey!)}
+                className="inline-block mt-3 text-xs font-semibold text-bark hover:text-bark-dark transition"
+              >
+                &#9733; Our Pick &mdash; View at Revival &rarr;
+              </a>
+            ) : (
+              <a
+                href={amazonSearch(item.q)}
+                target="_blank"
+                rel="noopener noreferrer nofollow sponsored"
+                className="inline-block mt-3 text-xs font-semibold text-forest hover:text-forest-dark transition"
+              >
+                &#9733; Our Pick &mdash; View on Amazon
+              </a>
+            )}
           </div>
         ))}
       </div>
