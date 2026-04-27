@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "what-vaccines-does-my-dog-need";
 
 export const metadata: Metadata = {
   title: "What Vaccines Does My Dog Need? Core vs. Non-Core Vaccine Guide | BarkSeeker",
@@ -22,12 +28,24 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">What Vaccines Does My Dog Need?</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">What Vaccines Does My Dog Need? Core vs. Non-Core Vaccine Guide</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
           Vaccines are one of the most important tools in protecting your dog from serious, potentially fatal diseases. But the world of dog vaccinations can be confusing — which vaccines are required, which are optional, and how often does your dog need boosters? This guide breaks down everything you need to know about core and non-core vaccines, schedules, costs, and the science behind keeping your dog protected.
         </p>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="vaccinesDog"
+          postSlug={POST_SLUG}
+          variant="hero"
+          heading="Vet-Grade Vaccines & Health Supplies from Revival Animal Health"
+          body="Revival has supplied breeders, shelters, and veterinarians with vet-grade vaccines, syringes, and post-vaccine support products since 1987. Browse their full canine vaccine and immune-support catalog — the same lineup professional kennels rely on."
+          ctaLabel="Shop Vaccines at Revival"
+        />
 
         <AdSlot position="top" />
 
@@ -90,7 +108,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Vaccine Costs</h2>
         <p>
-          Vaccination is one of the most affordable forms of preventive care. Individual vaccines typically cost $20 to $40 per injection. A complete puppy vaccination series across three to four visits costs approximately $150 to $350 total. Adult booster visits, including the exam fee, run $80 to $150. Low-cost vaccination clinics are available in many areas and can reduce costs further, though they do not provide the comprehensive exam that a full vet visit includes.
+          Vaccination is one of the most affordable forms of preventive care. Individual vaccines typically cost $20 to $40 per injection. A complete puppy vaccination series across three to four visits costs approximately $150 to $350 total. Adult booster visits, including the exam fee, run $80 to $150. Low-cost vaccination clinics are available in many areas and can reduce costs further, though they do not provide the comprehensive exam that a full vet visit includes. Beyond the shots themselves, baseline immune support &mdash; balanced multivitamins, omega-3s, and a stable gut &mdash; helps your dog build a strong vaccine response. <AffiliateInlineLink partner={REVIVAL} linkKey="vitaminsGeneral" postSlug={POST_SLUG}>Revival&apos;s general health and vitamin catalog</AffiliateInlineLink> covers the supportive products most vets recommend alongside a regular vaccination schedule.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Keeping Your Dog Protected</h2>
@@ -101,6 +119,16 @@ export default function PostPage() {
         <Link href="/pet-insurance" className="inline-block mt-4 px-6 py-3 rounded-lg font-semibold text-white transition" style={{ backgroundColor: "#E8913A" }}>
           Protect Your Dog with Pet Insurance
         </Link>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="New to Revival? Save $10 on Your First Order"
+          body="If you're stocking vaccine-adjacent supplies (syringes, immune-support vitamins, dewormers) directly rather than paying clinic markups, Revival's $10-off-first-order is a low-friction way to get started, with free shipping over $149."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "puppy-first-vet-visit";
 
 export const metadata: Metadata = {
   title: "Puppy's First Vet Visit: What to Expect, Timeline, and Vaccines | BarkSeeker",
@@ -22,11 +28,13 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">Puppy&apos;s First Vet Visit</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">Puppy&apos;s First Vet Visit: What to Expect, Timeline, and Vaccines</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 8 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 8 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
-          Bringing home a new puppy is one of life&apos;s greatest joys, and one of your first responsibilities as a new puppy parent is scheduling that crucial first vet visit. This appointment establishes your puppy&apos;s health baseline, kicks off their vaccination schedule, and gives you a trusted partner in your puppy&apos;s healthcare for years to come. Here is everything you need to know about your puppy&apos;s first trip to the vet.
+          Bringing home a new puppy is one of life&apos;s greatest joys, and one of your first responsibilities as a new puppy parent is scheduling that crucial first vet visit. This appointment establishes your puppy&apos;s health baseline, kicks off their vaccination schedule, and gives you a trusted partner in your puppy&apos;s healthcare for years to come. Here is everything you need to know about your puppy&apos;s first trip to the vet &mdash; plus the supplies and supplements you&apos;ll want stocked at home before that visit, often available cheaper through <AffiliateInlineLink partner={REVIVAL} linkKey="puppyNeeds" postSlug={POST_SLUG}>Revival Animal Health&apos;s puppy supply category</AffiliateInlineLink> than at your clinic.
         </p>
 
         <AdSlot position="top" />
@@ -66,6 +74,9 @@ export default function PostPage() {
           <li><strong>12 to 16 weeks:</strong> Rabies vaccine (required by law), third DHPP booster, Leptospirosis booster.</li>
           <li><strong>14 to 16 weeks:</strong> Final DHPP booster to complete the puppy series.</li>
         </ul>
+        <p>
+          Most pet owners get vaccines administered at the clinic, which is the right call for first-time puppy owners and anyone without veterinary handling experience. Breeders and shelter operators raising multiple litters often source vaccines directly through <AffiliateInlineLink partner={REVIVAL} linkKey="vaccinesDog" postSlug={POST_SLUG}>Revival&apos;s vaccine catalog</AffiliateInlineLink>, where the per-dose pricing is meaningfully lower than retail clinic markup &mdash; useful context if your breeder mentions doing the early shots themselves before transferring the puppy to you.
+        </p>
 
         <div className="bg-amber-50 border-l-4 border-bark p-4 rounded-r-lg">
           <p className="font-semibold text-charcoal mb-1">Keep Your Puppy Safe Before Full Vaccination</p>
@@ -111,6 +122,16 @@ export default function PostPage() {
         <Link href="/pet-insurance" className="inline-block mt-4 px-6 py-3 rounded-lg font-semibold text-white transition" style={{ backgroundColor: "#E8913A" }}>
           Get Pet Insurance for Your Puppy
         </Link>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="discount10Off"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="First-Time Puppy Owner? $10 Off Your Revival Starter Order"
+          body="The first six months bring a long shopping list: dewormers, parasite prevention, immune-support vitamins, training treats, dental supplies. Revival's $10-off-first-order is a low-friction way to get a starter bundle stocked, with free shipping over $149."
+          ctaLabel="Claim $10 Off"
+        />
       </div>
       <BlogCletusCallout />
     </article>

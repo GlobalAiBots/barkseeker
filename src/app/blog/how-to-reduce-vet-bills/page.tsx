@@ -1,7 +1,13 @@
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
+import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
+import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
+
+const POST_SLUG = "how-to-reduce-vet-bills";
 
 export const metadata: Metadata = {
   title: "How to Reduce Vet Bills: 12 Smart Ways to Save on Dog Healthcare | BarkSeeker",
@@ -22,7 +28,9 @@ export default function PostPage() {
         <span className="text-charcoal font-medium">How to Reduce Vet Bills</span>
       </nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-4 leading-tight">How to Reduce Vet Bills: 12 Smart Ways to Save on Dog Healthcare</h1>
-      <p className="text-gray-400 text-sm mb-8">April 15, 2026 &middot; 9 min read</p>
+      <p className="text-gray-400 text-sm mb-4">April 15, 2026 &middot; 9 min read</p>
+
+      <AffiliateDisclosure />
 
       <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-6">
         <p>
@@ -33,7 +41,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">1. Prioritize Preventive Care</h2>
         <p>
-          This is the single most important strategy for reducing long-term vet costs. Preventive care — annual exams, vaccines, heartworm prevention, flea and tick prevention, and dental care — catches problems early when they are cheap and easy to treat. A $200 annual wellness visit that catches early-stage dental disease prevents a $1,500 dental surgery with extractions. Monthly heartworm prevention at $10 to $15 per month prevents a heartworm treatment that costs $1,000 to $3,000. The math is clear: prevention is always cheaper than treatment.
+          This is the single most important strategy for reducing long-term vet costs. Preventive care — annual exams, vaccines, heartworm prevention, flea and tick prevention, and dental care — catches problems early when they are cheap and easy to treat. A $200 annual wellness visit that catches early-stage dental disease prevents a $1,500 dental surgery with extractions. Monthly heartworm prevention at $10 to $15 per month prevents a heartworm treatment that costs $1,000 to $3,000. The math is clear: prevention is always cheaper than treatment. A baseline daily multivitamin or omega-3 supplement &mdash; available at vet-supply prices through <AffiliateInlineLink partner={REVIVAL} linkKey="vitaminsGeneral" postSlug={POST_SLUG}>Revival Animal Health</AffiliateInlineLink> rather than retail markup &mdash; rounds out the preventive stack and keeps long-term costs down.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">2. Get Pet Insurance</h2>
@@ -61,9 +69,12 @@ export default function PostPage() {
           Dental disease affects over 80 percent of dogs by age three, and it is one of the most overlooked areas of dog health. Left untreated, dental disease leads to painful infections, tooth loss, and bacteria entering the bloodstream that can damage the heart, kidneys, and liver. Brush your dog&apos;s teeth at home regularly — daily is ideal. A $5 dog toothbrush (<a href="https://www.amazon.com/s?k=dog+toothbrush&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and a $10 tube of enzymatic toothpaste (<a href="https://www.amazon.com/s?k=dog+enzymatic+toothpaste&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) can prevent thousands of dollars in dental surgery down the road.
         </p>
 
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">6. Shop Around for Medications</h2>
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">6. Shop Around for Medications and Supplies</h2>
         <p>
           You are not required to buy medications from your vet. Ask your vet for a written prescription and compare prices at online pet pharmacies like Chewy, PetCareRx, or 1-800-PetMeds. For common medications like heartworm prevention, flea and tick products, and chronic condition medications, online pharmacies often offer significant savings — sometimes 30 to 50 percent less than vet clinic pricing. Costco and Walmart pharmacies also fill some pet prescriptions at lower prices.
+        </p>
+        <p>
+          For non-prescription supplies that you re-order on a predictable cadence &mdash; joint supplements, dental water additives, ear cleansers, dewormers, multivitamins &mdash; setting up a vet-supply <AffiliateInlineLink partner={REVIVAL} linkKey="autoShip" postSlug={POST_SLUG}>Revival AutoShip subscription</AffiliateInlineLink> locks in 5-15 percent recurring discounts and removes the &quot;forgot to order, paid clinic markup&quot; problem entirely. Over a 10-year dog ownership window, the recurring savings on standard supplies typically run into the thousands.
         </p>
 
         <AdSlot position="middle" />
@@ -111,6 +122,16 @@ export default function PostPage() {
         <Link href="/pet-insurance" className="inline-block mt-4 px-6 py-3 rounded-lg font-semibold text-white transition" style={{ backgroundColor: "#E8913A" }}>
           Compare Pet Insurance Plans
         </Link>
+
+        <AffiliateCallout
+          partner={REVIVAL}
+          linkKey="freeShipping"
+          postSlug={POST_SLUG}
+          variant="footer"
+          heading="Stock Vet Supplies in Bulk — Free Shipping Over $149"
+          body="One of the easiest ways to cut recurring vet costs is buying preventive supplies in larger quantities at vet-supply prices instead of retail clinic prices. Revival ships free on orders over $149, which a typical 6-month preventive bundle (joint care, dental, omega-3, dewormer, ear cleanser) clears in a single order."
+          ctaLabel="Shop Revival Free Shipping"
+        />
       </div>
       <BlogCletusCallout />
     </article>
