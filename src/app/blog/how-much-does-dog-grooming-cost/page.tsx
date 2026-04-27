@@ -92,6 +92,9 @@ export default function PostPage() {
         <p>
           Salon grooming remains the most cost-effective option for most owners. Many salons also offer self-service dog wash stations where you can bathe your dog yourself for $15 to $25, providing all the shampoo, towels, dryers, and cleanup. This is a great option for dogs that just need a bath between full grooming appointments.
         </p>
+        <p>
+          Owners going further on the DIY route &mdash; building a between-visits kit with the same shampoos, conditioners, and clipper blades working salons stock &mdash; can browse <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> for vet-supply pricing on the larger formats, typically 20-40 percent cheaper than retail bottles.
+        </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Why Prices Vary So Much by Location</h2>
         <p>
@@ -105,7 +108,7 @@ export default function PostPage() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">How to Save on Dog Grooming</h2>
         <p>
-          There are several smart ways to keep grooming costs manageable. First, maintain your dog&apos;s coat between appointments with regular brushing — this prevents matting, which always costs extra. Second, book recurring appointments rather than waiting until your dog is overdue. Third, ask about multi-pet discounts if you have more than one dog. Fourth, consider grooming schools where supervised students provide services at a reduced rate. Finally, do basic maintenance like nail trims (<a href="https://www.amazon.com/s?k=dog+nail+clippers&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and ear cleaning (<a href="https://www.amazon.com/s?k=dog+ear+cleaner&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) at home and reserve professional visits for baths and haircuts. For owners building a serious between-visits grooming kit, professional-grade shampoos and clipper blades from <AffiliateInlineLink partner={REVIVAL} linkKey="grooming" postSlug={POST_SLUG}>Revival Animal Health&apos;s grooming category</AffiliateInlineLink> are typically 20-40 percent cheaper than retail bottles for the same formats working salons buy.
+          There are several smart ways to keep grooming costs manageable. First, maintain your dog&apos;s coat between appointments with regular brushing — this prevents matting, which always costs extra. Second, book recurring appointments rather than waiting until your dog is overdue. Third, ask about multi-pet discounts if you have more than one dog. Fourth, consider grooming schools where supervised students provide services at a reduced rate. Finally, do basic maintenance like nail trims (<a href="https://www.amazon.com/s?k=dog+nail+clippers&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) and ear cleaning (<a href="https://www.amazon.com/s?k=dog+ear+cleaner&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-forest hover:underline font-semibold">Our Pick on Amazon</a>) at home and reserve professional visits for baths and haircuts.
         </p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Finding the Right Groomer at the Right Price</h2>
