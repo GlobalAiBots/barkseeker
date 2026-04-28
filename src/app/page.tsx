@@ -7,12 +7,18 @@ import Link from "next/link";
 import { unified } from "@/data/all-parks";
 import { allGroomers } from "@/data/all-groomers";
 import { allVets } from "@/data/all-vets";
+import cityPages from "@/data/city-pages.json";
 import { SITE_STATS } from "@/lib/site-stats";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
 import SeasonalPicks from "@/components/SeasonalPicks";
-import { blogPosts } from "@/data/blog-posts";
+
+const featuredPosts = [
+  { slug: "best-dog-parks-florida", title: "Best Dog Parks in Florida: Off-Leash Paradise for Your Pup", date: "Apr 5, 2026", readTime: "6 min read", category: "Destinations", img: "/images/blog/florida-dog-park.jpg" },
+  { slug: "dog-park-etiquette", title: "Dog Park Etiquette: 10 Rules Every Dog Owner Should Follow", date: "Apr 3, 2026", readTime: "7 min read", category: "Tips", img: "/images/blog/dog-park-etiquette.jpg" },
+  { slug: "find-off-leash-dog-parks", title: "How to Find Off-Leash Dog Parks Near You", date: "Apr 1, 2026", readTime: "5 min read", category: "Guide", img: "/images/blog/off-leash-dog.jpg" },
+];
 
 function pluralize(count: number, singular: string, plural: string) {
   return count === 1 ? `${count} ${singular}` : `${count.toLocaleString()} ${plural}`;
@@ -83,6 +89,16 @@ export default function Home() {
       .filter((s) => s.count > 0)
       .sort((a, b) => b.count - a.count),
   [stateCounts]);
+
+  const [expanded, setExpanded] = useState(false);
+  const showToggle = statesWithCounts.length > 15;
+
+  const topCities = useMemo(() => {
+    return [...(cityPages as Array<{ city: string; citySlug: string; count: number; stateSlug: string; stateName: string; state: string }>)]
+      .filter(c => c.count >= 3)
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 6);
+  }, []);
 
   const suggestions = useMemo(() => {
     if (query.length < 2) return [];
@@ -213,15 +229,50 @@ export default function Home() {
       {/* BROWSE DOG PARKS BY STATE */}
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal mb-6">Browse Dog Parks by State</h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
-          {statesWithCounts.map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-xl p-4 hover:border-forest hover:shadow-lg hover:-translate-y-1 transition-all duration-300 border-l-4 border-l-forest">
-              <p className="font-bold text-charcoal text-base group-hover:text-forest transition">{s.name}</p>
-              <span className="inline-block mt-1 text-xs font-bold bg-forest/10 text-forest px-2.5 py-0.5 rounded-full">{pluralize(s.count, 'park', 'parks')}</span>
-            </Link>
-          ))}
+        <div className={`grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3 ${showToggle ? "mb-6" : "mb-0"}`}>
+          {statesWithCounts.map((s, index) => {
+            const hideThis = !expanded && index >= 15;
+            return (
+              <Link key={s.code} href={`/${s.slug}`} className={`group bg-white border border-gray-200 rounded-xl p-4 hover:border-forest hover:shadow-lg hover:-translate-y-1 transition-all duration-300 border-l-4 border-l-forest${hideThis ? " hidden" : ""}`}>
+                <p className="font-bold text-charcoal text-base group-hover:text-forest transition">{s.name}</p>
+                <span className="inline-block mt-1 text-xs font-bold bg-forest/10 text-forest px-2.5 py-0.5 rounded-full">{pluralize(s.count, 'park', 'parks')}</span>
+              </Link>
+            );
+          })}
         </div>
+        {showToggle && (
+          <div className="text-center">
+            <button onClick={() => setExpanded(!expanded)} className="text-bark hover:text-bark-dark font-semibold text-sm transition">
+              {expanded ? "Show fewer ↑" : `Show all ${statesWithCounts.length} states ↓`}
+            </button>
+          </div>
+        )}
       </section>
+
+      {/* POPULAR CITIES */}
+      {topCities.length > 0 && (
+        <section className="py-10" style={{ background: 'linear-gradient(135deg, #F0FFF4 0%, #F8FAFB 100%)' }}>
+          <div className="max-w-5xl mx-auto px-4">
+            <div className="flex items-center justify-between mb-4">
+              <div>
+                <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Popular Cities for Dog Parks</h2>
+                <p className="text-gray-400 text-sm">Cities with the most dog parks on BarkSeeker.</p>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+              {topCities.map((c) => (
+                <Link key={`${c.stateSlug}-${c.citySlug}`} href={`/cities/${c.stateSlug}-${c.citySlug}`} className="group bg-white rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-bark" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.06)' }}>
+                  <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-forest transition text-sm">{c.city}</h3>
+                  <div className="flex items-center gap-2 mt-1">
+                    <span className="text-xs font-semibold bg-forest/10 text-forest px-2 py-0.5 rounded">{c.count} parks</span>
+                    <span className="text-gray-400 text-xs">&middot; {c.stateName}</span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <AdSlot position="homepage-mid" />
 
@@ -281,15 +332,14 @@ export default function Home() {
           <Link href="/blog" className="text-sm font-semibold text-bark hover:text-bark-dark transition">All posts &rarr;</Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          {blogPosts.slice(0, 3).map((p) => (
+          {featuredPosts.map((p) => (
             <Link key={p.slug} href={`/blog/${p.slug}`} className="group bg-white rounded-xl overflow-hidden hover:shadow-lg hover:-translate-y-0.5 transition-all" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.06)' }}>
-              <div className="aspect-[16/9] flex items-center justify-center" style={{ background: p.gradient }}>
-                <span className="text-white/30 text-4xl font-bold font-[Cabin]">{p.category}</span>
+              <div className="overflow-hidden">
+                <img src={p.img} alt={p.title} loading="lazy" decoding="async" className="w-full aspect-[16/9] object-cover group-hover:scale-105 transition-transform duration-500" />
               </div>
               <div className="p-4">
                 <p className="text-gray-400 text-xs mb-1">{p.date} &middot; {p.readTime}</p>
                 <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-forest transition text-sm">{p.title}</h3>
-                <p className="text-gray-500 text-xs mt-2 leading-relaxed">{(p.description || "").substring(0, 120)}...</p>
               </div>
             </Link>
           ))}
