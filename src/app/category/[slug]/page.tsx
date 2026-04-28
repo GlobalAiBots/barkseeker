@@ -1,25 +1,31 @@
-"use client";
-
-import { use, useMemo } from "react";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import categoriesData from "@/data/categories.json";
+import type { Metadata } from "next";
 
 interface CategoryState { code: string; name: string; slug: string; count: number; parkIds: string[]; }
 interface Category { slug: string; title: string; description: string; totalCount: number; states: CategoryState[]; }
 const categories = categoriesData as Category[];
 
-export default function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = use(params);
-  const category = useMemo(() => categories.find(c => c.slug === slug), [slug]);
+export function generateStaticParams() {
+  return categories.map((c) => ({ slug: c.slug }));
+}
 
-  if (!category) {
-    return (
-      <div className="max-w-2xl mx-auto px-4 py-20 text-center">
-        <h1 className="font-[Cabin] text-3xl font-bold text-charcoal mb-4">Category Not Found</h1>
-        <Link href="/" className="text-forest hover:underline">Back to Home</Link>
-      </div>
-    );
-  }
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+  if (!category) return { title: "Category Not Found" };
+  return {
+    title: `${category.title} in America | BarkSeeker`,
+    description: category.description,
+    alternates: { canonical: `https://www.barkseeker.com/category/${category.slug}` },
+  };
+}
+
+export default async function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+  if (!category) notFound();
 
   const faqs = [
     { q: `How many ${category.title.toLowerCase()} are there in America?`, a: `BarkSeeker lists ${category.totalCount} ${category.title.toLowerCase()} across ${category.states.length} states.` },
@@ -61,7 +67,6 @@ export default function CategoryPage({ params }: { params: Promise<{ slug: strin
         ))}
       </div>
 
-      {/* FAQ */}
       <section className="mb-8">
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">

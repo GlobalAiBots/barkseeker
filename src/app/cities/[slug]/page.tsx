@@ -1,55 +1,30 @@
-"use client";
-
-import { use, useState, useMemo } from "react";
-import dynamic from "next/dynamic";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import { unified } from "@/data/all-parks";
 import cityPages from "@/data/city-pages.json";
 import FeaturedArticle from "@/components/FeaturedArticle";
-
-const ParkMap = dynamic(() => import("@/components/ParkMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
+import CityClientView from "./CityClientView";
 
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
 const allCityPages = cityPages as CityPage[];
 
-export default function CityPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = use(params);
+export const dynamicParams = true;
+
+export default async function CityPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const cityInfo = allCityPages.find((c) => `${c.stateSlug}-${c.citySlug}` === slug);
+  if (!cityInfo) notFound();
 
-  const parks = useMemo(() => {
-    if (!cityInfo) return [];
-    return unified.filter((p) => p.state === cityInfo.state && p.city?.trim() === cityInfo.city);
-  }, [cityInfo]);
+  const parks = unified.filter((p) => p.state === cityInfo.state && p.city?.trim() === cityInfo.city);
+  const center: [number, number] = parks.length
+    ? [parks.reduce((s, p) => s + p.latitude, 0) / parks.length, parks.reduce((s, p) => s + p.longitude, 0) / parks.length]
+    : [39.8, -98.5];
 
-  const mapParks = useMemo(() => parks.map(p => ({ id: p.id, name: p.name, latitude: p.latitude, longitude: p.longitude, city: p.city })), [parks]);
-  const center = useMemo<[number, number]>(() => parks.length ? [parks.reduce((s, p) => s + p.latitude, 0) / parks.length, parks.reduce((s, p) => s + p.longitude, 0) / parks.length] : [39.8, -98.5], [parks]);
-
-  const [search, setSearch] = useState("");
-  const filtered = search.length >= 2
-    ? parks.filter((p) => p.name.toLowerCase().includes(search.toLowerCase()))
-    : parks;
-
-  // Nearby cities
-  const nearbyCities = useMemo(() => {
-    if (!cityInfo) return [];
-    return allCityPages
-      .filter((c) => c !== cityInfo && c.count >= 2)
-      .map((c) => ({
-        ...c,
-        dist: Math.sqrt(Math.pow(c.lat - cityInfo.lat, 2) + Math.pow(c.lng - cityInfo.lng, 2)),
-      }))
-      .sort((a, b) => a.dist - b.dist)
-      .slice(0, 5);
-  }, [cityInfo]);
-
-  if (!cityInfo) {
-    return (
-      <div className="max-w-2xl mx-auto px-4 py-20 text-center">
-        <h1 className="font-[Cabin] text-3xl font-bold text-charcoal mb-4">City Not Found</h1>
-        <Link href="/" className="text-forest hover:underline">Back to Home</Link>
-      </div>
-    );
-  }
+  const nearbyCities = allCityPages
+    .filter((c) => c !== cityInfo && c.count >= 2)
+    .map((c) => ({ ...c, dist: Math.sqrt(Math.pow(c.lat - cityInfo.lat, 2) + Math.pow(c.lng - cityInfo.lng, 2)) }))
+    .sort((a, b) => a.dist - b.dist)
+    .slice(0, 5);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
@@ -72,21 +47,7 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">Dog Parks in {cityInfo.city}, {cityInfo.stateName}</h1>
       <p className="text-gray-500 mb-6">{parks.length} dog park{parks.length !== 1 ? "s" : ""} in {cityInfo.city}, {cityInfo.stateName}. Off-leash areas, fenced parks, and more.</p>
 
-      {parks.length > 5 && (
-        <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search parks in this city..." className="w-full max-w-md px-4 py-2.5 rounded-lg border border-gray-200 text-sm outline-none focus:border-forest transition mb-6" />
-      )}
-
-      {parks.length > 0 && <ParkMap parks={mapParks} center={center} zoom={12} height="350px" className="mb-8" />}
-
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-12">
-        {filtered.map((p) => (
-          <Link key={p.id} href={`/parks/${p.id}`} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
-            <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-forest transition">{p.name}</h3>
-            <p className="text-gray-500 text-sm mt-1">{p.city}, {p.state}</p>
-            <span className="text-sm font-semibold text-bark mt-2 inline-block">View Details &rarr;</span>
-          </Link>
-        ))}
-      </div>
+      <CityClientView parks={parks.map(p => ({ id: p.id, name: p.name, latitude: p.latitude, longitude: p.longitude, city: p.city, state: p.state }))} center={center} />
 
       {/* Intro */}
       <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">

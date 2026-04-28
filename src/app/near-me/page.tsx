@@ -1,7 +1,12 @@
-"use client";
-import { use, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-parks";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Dog Parks Near Me | BarkSeeker",
+  description: "Find the closest dog parks to your current location. Sorted by distance with addresses and amenity details.",
+  alternates: { canonical: "https://www.barkseeker.com/near-me" },
+};
 
 function haversine(lat1: number, lon1: number, lat2: number, lon2: number): number {
   const R = 3959; const dLat = (lat2 - lat1) * Math.PI / 180; const dLon = (lon2 - lon1) * Math.PI / 180;
@@ -9,15 +14,13 @@ function haversine(lat1: number, lon1: number, lat2: number, lon2: number): numb
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-export default function NearMePage({ searchParams }: { searchParams: Promise<{ lat?: string; lng?: string }> }) {
-  const params = use(searchParams);
+export default async function NearMePage({ searchParams }: { searchParams: Promise<{ lat?: string; lng?: string }> }) {
+  const params = await searchParams;
   const lat = parseFloat(params.lat || "0"), lng = parseFloat(params.lng || "0");
-  const nearby = useMemo(() => {
-    if (!lat || !lng) return [];
-    return unified.map(p => ({ ...p, distance: haversine(lat, lng, p.latitude, p.longitude) })).filter(p => p.distance <= 50).sort((a, b) => a.distance - b.distance).slice(0, 20);
-  }, [lat, lng]);
 
   if (!lat || !lng) return (<div className="max-w-2xl mx-auto px-4 py-20 text-center"><h1 className="font-[Cabin] text-3xl font-bold text-charcoal mb-4">Location Required</h1><p className="text-gray-500 mb-8">Use the &quot;Find Near Me&quot; button on the homepage.</p><Link href="/" className="bg-bark text-white font-bold px-6 py-3 rounded-lg transition inline-block">Go Home</Link></div>);
+
+  const nearby = unified.map(p => ({ ...p, distance: haversine(lat, lng, p.latitude, p.longitude) })).filter(p => p.distance <= 50).sort((a, b) => a.distance - b.distance).slice(0, 20);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
