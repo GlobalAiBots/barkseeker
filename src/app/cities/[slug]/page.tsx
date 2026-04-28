@@ -56,9 +56,11 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "FAQPage",
         mainEntity: [
-          { "@type": "Question", name: `How many dog parks are in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName}. Browse them all on BarkSeeker with maps and directions.` } },
-          { "@type": "Question", name: `Where is the closest dog park in ${cityInfo.city}?`, acceptedAnswer: { "@type": "Answer", text: `BarkSeeker lists all ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName} with exact locations. Click any listing to get directions.` } },
-          { "@type": "Question", name: `Are there off-leash dog parks in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `Many dog parks in ${cityInfo.city} have off-leash areas. Check individual listings on BarkSeeker for off-leash and fencing details.` } },
+          { "@type": "Question", name: `How many dog parks are in ${cityInfo.city}, ${cityInfo.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName} listed on BarkSeeker with maps, amenity details, and directions for each park.` } },
+          { "@type": "Question", name: `Are there off-leash dog parks in ${cityInfo.city}?`, acceptedAnswer: { "@type": "Answer", text: `Many dog parks in ${cityInfo.city} include dedicated off-leash zones. Off-leash hours and fencing vary by park — check the individual listing for posted rules and gate setup.` } },
+          { "@type": "Question", name: `Which ${cityInfo.city} dog parks are fully fenced or have water features?`, acceptedAnswer: { "@type": "Answer", text: `Fencing, splash zones, and water features vary park-by-park near ${cityInfo.city}. BarkSeeker tags each listing with amenities like fenced perimeter, separate small-dog area, and water access so you can pick the right fit for your dog.` } },
+          { "@type": "Question", name: `Are dog parks in ${cityInfo.city} free?`, acceptedAnswer: { "@type": "Answer", text: `Most public dog parks near ${cityInfo.city} are free to use. A few HOA, county, or membership-based parks may require registration or a small annual fee — see each park's detail page for specifics.` } },
+          { "@type": "Question", name: `Is BarkSeeker free to use?`, acceptedAnswer: { "@type": "Answer", text: `Yes. BarkSeeker is 100% free for dog owners. Browse all ${parks.length} parks in ${cityInfo.city}, save addresses, and get directions — no account required.` } },
         ],
       }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
@@ -89,16 +91,20 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
       {/* Intro */}
       <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Dog Parks in {cityInfo.city}, {cityInfo.stateName}</h2>
-        <p className="text-gray-600 leading-relaxed text-sm">{cityInfo.city}, {cityInfo.stateName} has {parks.length} dog park{parks.length !== 1 ? "s" : ""} listed on BarkSeeker. Browse all parks above with maps, amenities, and directions to find the perfect spot for your pup.</p>
+        <p className="text-gray-600 leading-relaxed text-sm">
+          {cityInfo.city}, {cityInfo.stateName} offers {parks.length} dog park{parks.length !== 1 ? "s" : ""} for local dog owners and visitors traveling with pets. {cityInfo.city} provides off-leash space, fenced areas, and walking trails depending on the park &mdash; from quick after-work runs to weekend meetups with the neighborhood pack. Whether you&apos;re socializing a puppy, looking for a separate small-dog zone, or hunting down a park with a splash pad for hot summer days, the {parks.length} park{parks.length !== 1 ? "s" : ""} below serve {cityInfo.city} and the surrounding area with verified addresses, amenity details, and turn-by-turn directions. Most parks are open year-round during daylight hours, though seasonal closures and posted rules can vary &mdash; always check each park&apos;s detail page before you go.
+        </p>
       </div>
 
       {/* Tips */}
       <div className="bg-green-50 border border-green-200 rounded-xl p-5 mb-6">
         <h3 className="font-[Cabin] font-bold text-forest mb-3">Tips for Dog Parks in {cityInfo.city}</h3>
         <ul className="space-y-2 text-sm text-gray-700">
-          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Always supervise your dog and watch for signs of stress or aggression.</li>
-          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Bring water and waste bags &mdash; don&apos;t rely on park dispensers.</li>
-          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Make sure your dog is current on vaccinations before visiting any public park.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Make sure your dog is current on vaccinations and licensed in {cityInfo.stateName} &mdash; <Link href={`/${cityInfo.stateSlug}`} className="text-forest hover:underline">see {cityInfo.stateName} dog park guide</Link>.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Off-leash etiquette matters &mdash; recall your dog if play gets too rough and step in early at signs of stress or guarding.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Bring water and waste bags. Don&apos;t rely on park dispensers being stocked, especially on weekends.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Early morning and after-work hours are usually busiest at {cityInfo.city} parks &mdash; midday tends to be calmer.</li>
+          <li className="flex items-start gap-2"><span className="text-forest mt-0.5">&#10003;</span> Check whether a park is fully fenced before unclipping the leash, especially with a young dog or known runner.</li>
         </ul>
       </div>
 
@@ -107,9 +113,11 @@ export default function CityPage({ params }: { params: Promise<{ slug: string }>
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
           {[
-            { q: `How many dog parks are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName} listed on BarkSeeker with maps and directions.` },
-            { q: `Are dog parks in ${cityInfo.city} free?`, a: `Most dog parks in ${cityInfo.city} are free and open to the public. Some may require registration.` },
-            { q: `Are there off-leash dog parks in ${cityInfo.city}?`, a: `Many dog parks in ${cityInfo.city} have off-leash areas. Check individual listings for details.` },
+            { q: `How many dog parks are in ${cityInfo.city}, ${cityInfo.stateName}?`, a: `There are ${parks.length} dog parks in ${cityInfo.city}, ${cityInfo.stateName} listed on BarkSeeker with maps, amenity details, and directions for each park.` },
+            { q: `Are there off-leash dog parks in ${cityInfo.city}?`, a: `Many dog parks in ${cityInfo.city} include dedicated off-leash zones. Off-leash hours and fencing vary by park — check the individual listing for posted rules and gate setup.` },
+            { q: `Which ${cityInfo.city} dog parks are fully fenced or have water features?`, a: `Fencing, splash zones, and water features vary park-by-park near ${cityInfo.city}. BarkSeeker tags each listing with amenities like fenced perimeter, separate small-dog area, and water access so you can pick the right fit for your dog.` },
+            { q: `Are dog parks in ${cityInfo.city} free?`, a: `Most public dog parks near ${cityInfo.city} are free to use. A few HOA, county, or membership-based parks may require registration or a small annual fee — see each park's detail page for specifics.` },
+            { q: `Is BarkSeeker free to use?`, a: `Yes. BarkSeeker is 100% free for dog owners. Browse all ${parks.length} parks in ${cityInfo.city}, save addresses, and get directions — no account required.` },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-forest transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
