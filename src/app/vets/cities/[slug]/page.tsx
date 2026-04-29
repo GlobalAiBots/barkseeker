@@ -5,6 +5,7 @@ import { allVets, getVetsByCity, stateNames, stateSlugs, slugToAbbr, slugify } f
 import FeaturedArticle from "@/components/FeaturedArticle";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
+import BestVetCareCard from "@/components/BestVetCareCard";
 import vetCityPagesData from "@/data/vet-city-pages.json";
 import type { Metadata } from "next";
 
@@ -153,6 +154,8 @@ export default async function VetCityPage({ params }: { params: Promise<{ slug: 
           </Link>
         ))}
       </div>
+
+      <BestVetCareCard variant="default" placement={`vet-city-${slug}`} />
 
       {/* About */}
       <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">

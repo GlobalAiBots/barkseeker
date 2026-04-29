@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { unified } from "@/data/all-parks";
 import cityPages from "@/data/city-pages.json";
 import FeaturedArticle from "@/components/FeaturedArticle";
+import BestVetCareCard from "@/components/BestVetCareCard";
 import CityClientView from "./CityClientView";
 
 interface CityPage { state: string; stateName: string; stateSlug: string; city: string; citySlug: string; count: number; lat: number; lng: number; }
@@ -89,6 +90,8 @@ export default async function CityPage({ params }: { params: Promise<{ slug: str
       </div>
 
       <FeaturedArticle listingSlug={`city-${slug}`} />
+
+      <BestVetCareCard variant="compact" placement={`park-city-${slug}`} />
 
       {/* Back to state */}
       <div className="text-center py-4">

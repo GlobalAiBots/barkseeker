@@ -4,6 +4,7 @@ import BlogCletusCallout from "@/components/BlogCletusCallout";
 import AffiliateDisclosure from "@/components/affiliate/AffiliateDisclosure";
 import AffiliateCallout from "@/components/affiliate/AffiliateCallout";
 import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import BestVetCareCard from "@/components/BestVetCareCard";
 import { REVIVAL } from "@/data/affiliates/revival";
 import type { Metadata } from "next";
 
@@ -87,6 +88,8 @@ export default function PostPage() {
         <p>
           <strong>Lyme Disease:</strong> Recommended for dogs living in or traveling to tick-endemic areas, particularly the Northeast, upper Midwest, and Pacific Coast. Lyme disease can cause joint pain, kidney damage, and chronic illness.
         </p>
+
+        <BestVetCareCard variant="lyme" placement="blog-what-vaccines" />
 
         <AdSlot position="middle" />
 

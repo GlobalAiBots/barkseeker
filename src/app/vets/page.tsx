@@ -7,6 +7,7 @@ import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import PartnerCard from "@/components/affiliate/PartnerCard";
 import AffiliateInlineLink from "@/components/affiliate/AffiliateInlineLink";
+import BestVetCareCard from "@/components/BestVetCareCard";
 import { REVIVAL } from "@/data/affiliates/revival";
 
 const stateList = Object.entries(stateSlugs)
@@ -140,6 +141,8 @@ export default function VetsDirectoryPage() {
           <p>Beyond the baseline, board certification matters when your dog needs specialty care. The American College of Veterinary Internal Medicine (ACVIM), the American College of Veterinary Surgeons (ACVS), the American College of Veterinary Dermatology, and similar boards require years of additional residency training and rigorous examination. A boarded specialist in cardiology, oncology, neurology, ophthalmology, or dermatology brings depth a general practitioner cannot match &mdash; and the title &quot;DACVIM&quot; or &quot;DACVS&quot; after a name is a meaningful signal.</p>
           <p>Most dogs spend their entire lives with general practitioners and never need a specialist. When a referral happens &mdash; typically for complex chronic disease, surgery beyond routine spays and neuters, or unusual diagnostic puzzles &mdash; your general vet should be willing to refer rather than attempt care beyond their depth. A general practitioner who refuses to refer when warranted is a red flag, not a sign of confidence.</p>
           <p>Years of practice experience are useful but overrated. A vet ten years out of school who has stopped pursuing continuing education is often less effective than a recent graduate from a strong program who attends conferences and stays current. Veterinary medicine moves quickly: new vaccines, new pain management protocols, new diagnostic tools, evolving best practices for everything from anesthesia to nutrition. The vets to seek out are the ones who can name what they&apos;ve learned recently. Practices that prominently mention CE (continuing education) hours, AVMA conference attendance, or specialty memberships signal a culture that values staying sharp. When credentialed care is working well, it shows up in small ways at every visit &mdash; the things <Link href="/blog/signs-of-a-good-vet-visit" className="text-forest hover:underline font-semibold">our guide to signs of a good vet visit</Link> walks through in detail.</p>
+
+          <BestVetCareCard variant="default" placement="vets-hub" />
 
           <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">AAHA Accreditation: What It Means and Why It Matters</h2>
           <p>The American Animal Hospital Association (AAHA) is voluntary, which is the first thing to understand about it. Roughly 12 to 15 percent of veterinary practices in the United States and Canada are AAHA-accredited. The other 85 percent aren&apos;t bad practices &mdash; many are excellent &mdash; they simply haven&apos;t pursued the certification, often because of cost or paperwork burden rather than a substantive quality issue.</p>
