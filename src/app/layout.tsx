@@ -3,7 +3,7 @@ import Link from "next/link";
 import Script from "next/script";
 import CletusWidget from "@/components/CletusWidget";
 import CookieConsent from "@/components/CookieConsent";
-import StatesDropdown from "@/components/StatesDropdown";
+import Nav from "@/components/Nav";
 import { SITE_STATS } from "@/lib/site-stats";
 import "./globals.css";
 
@@ -37,27 +37,6 @@ export const metadata: Metadata = {
     "impact-site-verification": "0ed3bdd5-2684-4b33-aa7a-bf0325c58627",
   },
 };
-
-function Nav() {
-  return (
-    <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-gray-200">
-      <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
-        <Link href="/" className="flex items-center gap-2 font-bold text-lg font-[Cabin]">
-          <span className="text-2xl">🐕</span>
-          <span className="text-charcoal">Bark<span className="text-forest">Seeker</span></span>
-        </Link>
-        <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
-          <StatesDropdown />
-          <Link href="/map" className="text-gray-500 hover:text-forest transition">Map</Link>
-          <Link href="/blog" className="text-gray-500 hover:text-forest transition hidden sm:block">Blog</Link>
-          <Link href="/about" className="text-gray-500 hover:text-forest transition hidden sm:block">About</Link>
-          <Link href="/search" aria-label="Search" className="text-gray-500 hover:text-forest transition"><svg className="w-4 h-4 inline" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg></Link>
-          <Link href="/for-businesses" className="text-bark font-bold hover:text-bark-dark transition hidden sm:block">For Businesses</Link>
-        </div>
-      </div>
-    </nav>
-  );
-}
 
 function Footer() {
   return (
